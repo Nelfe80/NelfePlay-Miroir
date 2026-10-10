@@ -1,0 +1,1083 @@
+<!doctype html>
+<html lang="es"
+      data-nelfe-locale="es"
+      data-nelfe-logged="0"
+      data-nelfe-login="https://nelfeplay.com/es/account"
+      data-nelfe-setup="https://nelfeplay.com/es/setup"
+            data-nelfe-fige="1"            data-nelfe-viewer="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Programación del scoring certificado - Nelfe Play</title>
+    <meta name="description" content="Cada viernes, un nuevo juego se abre al scoring certificado. Vota por el siguiente.">
+    <meta name="robots" content="index,follow">
+            <link rel="preconnect" href="https://www.youtube-nocookie.com" crossorigin>
+    <link rel="dns-prefetch" href="https://www.youtube-nocookie.com">
+    <meta name="theme-color" content="#070a12">
+            <link rel="canonical" href="https://nelfeplay.com/es/programmation">
+        <link rel="alternate" hreflang="en" href="https://nelfeplay.com/en/programmation">
+        <link rel="alternate" hreflang="fr" href="https://nelfeplay.com/fr/programmation">
+        <link rel="alternate" hreflang="ja" href="https://nelfeplay.com/ja/programmation">
+        <link rel="alternate" hreflang="zh" href="https://nelfeplay.com/zh/programmation">
+        <link rel="alternate" hreflang="ko" href="https://nelfeplay.com/ko/programmation">
+        <link rel="alternate" hreflang="es" href="https://nelfeplay.com/es/programmation">
+        <link rel="alternate" hreflang="x-default" href="https://nelfeplay.com/en/">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Nelfe Play">
+        <meta property="og:title" content="Programación del scoring certificado - Nelfe Play">
+        <meta property="og:description" content="Cada viernes, un nuevo juego se abre al scoring certificado. Vota por el siguiente.">
+        <meta property="og:url" content="https://nelfeplay.com/es/programmation">
+        <meta property="og:locale" content="en_US">
+        <meta property="og:locale:alternate" content="fr_FR">
+        <meta property="og:image" content="https://nelfeplay.com/assets/brand/logo-social.png?v=1785163556">
+        <meta property="og:image:width" content="1536">
+        <meta property="og:image:height" content="1024">
+        <meta property="og:image:alt" content="Nelfe Play">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:image:alt" content="Nelfe Play">
+        <link rel="icon" type="image/svg+xml" href="/assets/brand/nelfeplay.svg?v=1787169420">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="/assets/css/app.css?v=1791549881">
+                            <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; connect-src 'self'; font-src 'self'; form-action 'self' https://nelfeplay.com; img-src 'self' data: https://nelfeplay.com; frame-src 'self' https://www.youtube-nocookie.com; media-src 'self'; object-src 'none'; script-src 'self'; style-src 'self';">
+        <script src="/assets/js/nelfe-fige.js?v=1791521730" defer></script>
+        <script src="/assets/js/app.js?v=1789632218" defer></script>
+        <script src="/assets/js/nelfe-runtime.js?v=1791586299" defer></script>
+    </head>
+<body>
+<a class="skip-link" href="#main-content">Skip to content</a>
+
+<div class="site-shell">
+    <header class="site-header" data-site-header>
+        <div class="container header-inner">
+            <a class="brand" href="/es/" aria-label="Nelfe Play">
+                <img src="/assets/brand/nelfeplay.svg?v=1787169420" width="44" height="44" alt="">
+                <span class="brand-name">Nelfe<span>Play</span></span>
+            </a>
+
+            <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation" data-nav-toggle>
+                <span class="sr-only">Abrir el menú</span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </button>
+
+            <nav class="primary-nav" id="primary-navigation" aria-label="Primary navigation" data-navigation>
+                <div class="nav-group">
+                    <button class="is-active" type="button" aria-expanded="false" aria-current="page" data-menu-toggle>
+                        Scoring                        <span class="nav-caret" aria-hidden="true">▾</span>
+                    </button>
+                    <div class="nav-popover">
+                        <a class="" href="/es/rankings">Leaderboards</a>
+                        <a class="" href="https://nelfeplay.com/es/lives">En directo</a>
+                        <a class="" href="/es/contests">Contests</a>
+                        <a class="" href="/es/venues">Lugares</a>
+                                                <hr class="nav-sep">
+                        <a class="is-active" href="/es/programmation" aria-current="page">Votar por el próximo juego</a>
+                    </div>
+                </div>
+
+                                                        <a href="/es/#streamers">Streamers</a>
+                    <a class="" href="/es/creators">Creadores</a>
+                    <div class="nav-group">
+                        <button class="" type="button" aria-expanded="false" data-menu-toggle>
+                            El proyecto                            <span class="nav-caret" aria-hidden="true">▾</span>
+                        </button>
+                        <div class="nav-popover">
+                            <a class="" href="/es/games">La tienda</a>
+                            <a class="" href="/es/mission">Misión</a>
+                            <a class="" href="/es/rights-holders">Titulares de derechos</a>
+                            <a class="" href="/es/professionals">Profesionales</a>
+                            <a class="" href="/es/play">Jugar en un salón</a>
+                        </div>
+                    </div>
+                
+                <a class="mobile-account-link " href="https://nelfeplay.com/es/account">
+                    Iniciar sesión                </a>
+                                    <a class="mobile-launch-link button button-primary" href="https://nelfeplay.com/es/account">
+                        Crear mi perfil                    </a>
+                                <div class="nav-group language-group mobile-language-link">
+                    <button class="language-trigger" type="button" aria-expanded="false" aria-label="Idioma" data-language-toggle>
+                        <span lang="es">ES</span>
+                        <span class="nav-caret" aria-hidden="true">▾</span>
+                    </button>
+                    <div class="nav-popover language-popover" data-language-menu>
+                            <a class="language-choice" href="/en/programmation" lang="en">
+                            English                        </a>
+                                <a class="language-choice" href="/fr/programmation" lang="fr">
+                            Français                        </a>
+                                <span class="language-choice is-current" lang="es" aria-current="true">
+                            Español                        </span>
+                                <a class="language-choice" href="/ja/programmation" lang="ja">
+                            日本語                        </a>
+                                <a class="language-choice" href="/zh/programmation" lang="zh">
+                            中文                        </a>
+                                <a class="language-choice" href="/ko/programmation" lang="ko">
+                            한국어                        </a>
+                        </div>
+                </div>
+            </nav>
+
+            <div class="header-actions">
+                <a class="language-link account-link" href="https://nelfeplay.com/es/account" title="Cuenta">
+                                            Iniciar sesión                                    </a>
+                                <div class="nav-group language-group">
+                    <button class="language-trigger" type="button" aria-expanded="false" aria-label="Idioma" data-language-toggle>
+                        <span lang="es">ES</span>
+                        <span class="nav-caret" aria-hidden="true">▾</span>
+                    </button>
+                    <div class="nav-popover language-popover" data-language-menu>
+                            <a class="language-choice" href="/en/programmation" lang="en">
+                            English                        </a>
+                                <a class="language-choice" href="/fr/programmation" lang="fr">
+                            Français                        </a>
+                                <span class="language-choice is-current" lang="es" aria-current="true">
+                            Español                        </span>
+                                <a class="language-choice" href="/ja/programmation" lang="ja">
+                            日本語                        </a>
+                                <a class="language-choice" href="/zh/programmation" lang="zh">
+                            中文                        </a>
+                                <a class="language-choice" href="/ko/programmation" lang="ko">
+                            한국어                        </a>
+                        </div>
+                </div>
+                                                    <a class="button button-small button-primary" href="https://nelfeplay.com/es/account">
+                        Crear mi perfil                    </a>
+                            </div>
+        </div>
+    </header>
+
+    
+        <main id="main-content" tabindex="-1">
+        <link rel="stylesheet" href="/assets/css/programme.css?v=1791531823">
+
+<section class="prog" data-prog
+         data-msg-error="No se pudo registrar el voto. Recarga la página."
+         data-msg-quota="Tu voto está en el juego del viernes: vuelve a ti cuando salga."
+         data-msg-closed="La votación de este juego está cerrada."
+         data-label-vote="Votar"
+         data-label-unvote="Retirar mi voto"
+         data-label-votes=":count voto(s)"
+         data-label-left=":count voto(s) restante(s)">
+    <div class="container">
+        <header class="prog-head">
+            <div class="prog-top">
+                <div class="prog-heading">
+                    <p class="eyebrow">Programación del scoring certificado</p>
+                    <h1>Elige el próximo juego</h1>
+                </div>
+
+                                <div class="prog-ballot" data-prog-ballot data-allowance="1">
+                    <span class="prog-ballot-label">Tu voto</span>
+                    <span class="prog-tvs">
+                                                    <span class="prog-tv"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                                            </span>
+                                            <a class="prog-ballot-left" href="https://nelfeplay.com/es/account">Inicia sesión para votar</a>
+                                    </div>
+            </div>
+            <p class="prog-intro">Cada viernes a las 17:00 (París), un juego se abre al scoring certificado. En color, los que ya están abiertos; en blanco y negro, los que esperan su turno. Tienes un voto, que puedes cambiar: el juego más apoyado el jueves a las 17:00 sale al día siguiente.</p>
+
+            <div class="prog-bar">
+                                <div class="prog-next">
+                    <span class="prog-next-tag">Next</span>
+                                            <div class="prog-next-screen prog-screen" data-video="https://www.youtube-nocookie.com/embed/oIvr3CUsH-I" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-ratio="1.3333" data-video-title="Shinobi">
+                            <img src="/assets/programme/shinobi.png" width="320" height="224" fetchpriority="high" decoding="async" alt="">                        </div>
+                        <div class="prog-next-text">
+                            <strong translate="no">Shinobi</strong>
+                            <span>
+                                En cabeza para el viernes 16 de octubre de 2026                                                                    · 4 voto(s)                                                            </span>
+                        </div>
+                                    </div>
+
+                <p class="prog-window">
+                    Votación para el viernes 16 de octubre de 2026, cierra el jueves a las 17:00.                                    </p>
+            </div>
+            <p class="prog-status" data-prog-status role="status" aria-live="polite"></p>
+        </header>
+
+        <form id="prog-vote" method="post" action="https://nelfeplay.com/es/programmation/vote">
+            <input type="hidden" name="_token" value="">
+        </form>
+
+                    <ul class="prog-grid">
+                                                        <li class="prog-tile is-candidate" id="jungler">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/U1-bvZnja7Q" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Jungler">
+                            <img src="/assets/programme/jungler.png" width="448" height="576" fetchpriority="high" decoding="async" alt="Jungler">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Jungler</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/jungler|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Jungler">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="aliens">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/ibh-2I3pwrA" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Aliens">
+                            <img src="/assets/programme/aliens.png" width="288" height="224" fetchpriority="high" decoding="async" alt="Aliens">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Aliens</strong>
+                                                            <span translate="no">1990 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/aliens|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Aliens">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="tempest">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/9rVTVO6FdF8" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.9778" data-video-title="Tempest">
+                            <img src="/assets/programme/tempest.png" width="360" height="480" fetchpriority="high" decoding="async" alt="Tempest">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Tempest</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/tempest|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Tempest">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="ms-pac-man">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/IL7zSHFHSNU" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.7778" data-video-title="Ms. Pac-Man">
+                            <img src="/assets/programme/ms-pac-man.png" width="224" height="288" fetchpriority="high" decoding="async" alt="Ms. Pac-Man">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Ms. Pac-Man</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/ms-pac-man"
+                               aria-label="Ver la clasificación : Ms. Pac-Man">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="gunbird">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/GcAa5BabZo4" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Gunbird">
+                            <img src="/assets/programme/gunbird.png" width="224" height="320" fetchpriority="high" decoding="async" alt="Gunbird">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Gunbird</strong>
+                                                            <span translate="no">1994 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/gunbird|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Gunbird">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="joust">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/K9bSxp7i7Ms" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.2167" data-video-title="Joust">
+                            <img src="/assets/programme/joust.png" width="292" height="240" fetchpriority="high" decoding="async" alt="Joust">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Joust</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/joust|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Joust">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="athena">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/zf6nsoeIh1g" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Athena">
+                            <img src="/assets/programme/athena.png" width="288" height="216" fetchpriority="high" decoding="async" alt="Athena">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Athena</strong>
+                                                            <span translate="no">1986 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/athena|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Athena">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="akai-katana">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/LGrMP7OT4nE" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Akai Katana">
+                            <img src="/assets/programme/akai-katana.png" width="320" height="240" fetchpriority="high" decoding="async" alt="Akai Katana">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Akai Katana</strong>
+                                                            <span translate="no">2010 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/akai-katana|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Akai Katana">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="bubble-bobble">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/NxOa9s4Ltxk" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Bubble Bobble">
+                            <img src="/assets/programme/bubble-bobble.png" width="256" height="224" fetchpriority="high" decoding="async" alt="Bubble Bobble">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Bubble Bobble</strong>
+                                                            <span translate="no">1986 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/bubble-bobble"
+                               aria-label="Ver la clasificación : Bubble Bobble">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="metal-slug-3">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/kfWLmDfA2pw" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Metal Slug 3">
+                            <img src="/assets/programme/metal-slug-3.png" width="304" height="224" loading="lazy" decoding="async" alt="Metal Slug 3">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Metal Slug 3</strong>
+                                                            <span translate="no">2001 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/metal-slug-3"
+                               aria-label="Ver la clasificación : Metal Slug 3">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="contra">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/kE7qYj8Z9-M" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Contra">
+                            <img src="/assets/programme/contra.png" width="224" height="280" loading="lazy" decoding="async" alt="Contra">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"><i class="pd pd-1"></i></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Contra</strong>
+                                                            <span translate="no">1987 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>1 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/contra|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Contra">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="spatter-sanrin-san-chan-tricycle-san">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/4g5MjljZ1c0" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Spatter">
+                            <img src="/assets/programme/spatter-sanrin-san-chan-tricycle-san.png" width="240" height="224" loading="lazy" decoding="async" alt="Spatter">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Spatter</strong>
+                                                            <span translate="no">1984 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/spatter-sanrin-san-chan-tricycle-san|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Spatter">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="alcon">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/2bX_EVlxa9c" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Alcon">
+                            <img src="/assets/programme/alcon.png" width="240" height="280" loading="lazy" decoding="async" alt="Alcon">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Alcon</strong>
+                                                            <span translate="no">1986 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/alcon|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Alcon">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="bagman">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/WkwHaU390c4" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.875" data-video-title="Bagman">
+                            <img src="/assets/programme/bagman.png" width="224" height="256" loading="lazy" decoding="async" alt="Bagman">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Bagman</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/bagman|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Bagman">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="pac-attack">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/Cw0rUJ8EVqk" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Pac-Attack">
+                            <img src="/assets/programme/pac-attack.png" width="256" height="224" loading="lazy" decoding="async" alt="Pac-Attack">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Pac-Attack</strong>
+                                                            <span translate="no">1993 · Super Nintendo</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="snes/pac-attack|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Pac-Attack">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="sinistar">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/WurKSx0Di40" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.8219" data-video-title="Sinistar">
+                            <img src="/assets/programme/sinistar.png" width="240" height="292" loading="lazy" decoding="async" alt="Sinistar">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Sinistar</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/sinistar|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Sinistar">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="shinobi">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/oIvr3CUsH-I" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Shinobi">
+                            <img src="/assets/programme/shinobi.png" width="320" height="224" loading="lazy" decoding="async" alt="Shinobi">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"><i class="pd pd-4"></i></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Shinobi</strong>
+                                                            <span translate="no">1987 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>4 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/shinobi|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Shinobi">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="xevious">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/A3IreXqChRQ" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.7778" data-video-title="Xevious">
+                            <img src="/assets/programme/xevious.png" width="224" height="288" loading="lazy" decoding="async" alt="Xevious">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Xevious</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/xevious|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Xevious">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="1942">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/Cvhg4fC2f9Y" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="1942">
+                            <img src="/assets/programme/1942.png" width="224" height="256" loading="lazy" decoding="async" alt="1942">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">1942</strong>
+                                                            <span translate="no">1984 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/1942"
+                               aria-label="Ver la clasificación : 1942">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="galaxian">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/9CCOZ8VcQsI" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Galaxian">
+                            <img src="/assets/programme/galaxian.png" width="224" height="256" loading="lazy" decoding="async" alt="Galaxian">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Galaxian</strong>
+                                                            <span translate="no">1979 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/galaxian|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Galaxian">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="toki">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/TN2zVcKSfgc" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.1429" data-video-title="Toki">
+                            <img src="/assets/programme/toki.png" width="256" height="240" loading="lazy" decoding="async" alt="Toki">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Toki</strong>
+                                                            <span translate="no">1989 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/toki|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Toki">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="alex-kidd-in-miracle-world">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/SSDRpgAWO80" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Alex Kidd in Miracle World">
+                            <img src="/assets/programme/mastersystem-alex-kidd-in-miracle-world.png" width="256" height="192" loading="lazy" decoding="async" alt="Alex Kidd in Miracle World">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Alex Kidd in Miracle World</strong>
+                                                            <span translate="no">1986 · Master System</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/mastersystem/alex-kidd-in-miracle-world"
+                               aria-label="Ver la clasificación : Alex Kidd in Miracle World">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="altered-beast">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/ND1AWpmHHoc" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.4286" data-video-title="Altered Beast">
+                            <img src="/assets/programme/altered-beast.png" width="320" height="224" loading="lazy" decoding="async" alt="Altered Beast">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Altered Beast</strong>
+                                                            <span translate="no">1988 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/altered-beast"
+                               aria-label="Ver la clasificación : Altered Beast">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="double-dragon">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/UM4k0Fsew4s" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.0667" data-video-title="Double Dragon">
+                            <img src="/assets/programme/double-dragon.png" width="240" height="224" loading="lazy" decoding="async" alt="Double Dragon">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Double Dragon</strong>
+                                                            <span translate="no">1987 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/double-dragon"
+                               aria-label="Ver la clasificación : Double Dragon">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="phoenix">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/LskOlGPIs_Y" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Phoenix">
+                            <img src="/assets/programme/phoenix.png" width="224" height="256" loading="lazy" decoding="async" alt="Phoenix">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Phoenix</strong>
+                                                            <span translate="no">1980 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/phoenix|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Phoenix">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="agress-missile-daisenryaku">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/qSlgnv1w9j0" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Agress - Missile Daisenryaku">
+                            <img src="/assets/programme/agress-missile-daisenryaku.png" width="320" height="240" loading="lazy" decoding="async" alt="Agress - Missile Daisenryaku">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Agress - Missile Daisenryaku</strong>
+                                                            <span translate="no">1991 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/agress-missile-daisenryaku|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Agress - Missile Daisenryaku">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="rygar">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/F1aptd2_nzo" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Rygar">
+                            <img src="/assets/programme/rygar.png" width="256" height="224" loading="lazy" decoding="async" alt="Rygar">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Rygar</strong>
+                                                            <span translate="no">1986 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/rygar|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Rygar">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="columns">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/_zae7ZJmSgQ" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Columns">
+                            <img src="/assets/programme/columns.png" width="320" height="224" loading="lazy" decoding="async" alt="Columns">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Columns</strong>
+                                                            <span translate="no">1990 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/columns|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Columns">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="centipede">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/DiHPS2j1xng" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.9375" data-video-title="Centipede">
+                            <img src="/assets/programme/centipede.png" width="240" height="256" loading="lazy" decoding="async" alt="Centipede">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Centipede</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/centipede|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Centipede">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="narc">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/Cctw_z7622c" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="NARC">
+                            <img src="/assets/programme/narc.png" width="512" height="400" loading="lazy" decoding="async" alt="NARC">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"><i class="pd pd-1"></i></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">NARC</strong>
+                                                            <span translate="no">1988 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>1 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/narc|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : NARC">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="cotton-fantastic-night-dreams">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/YEuGe9S3e0g" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Cotton - Fantastic Night Dreams">
+                            <img src="/assets/programme/cotton-fantastic-night-dreams.png" width="320" height="224" loading="lazy" decoding="async" alt="Cotton - Fantastic Night Dreams">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Cotton - Fantastic Night Dreams</strong>
+                                                            <span translate="no">1991 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/cotton-fantastic-night-dreams|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Cotton - Fantastic Night Dreams">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="tetris">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/u6Rs3uPg53Y" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.1125" data-video-title="Tetris">
+                            <img src="/assets/programme/gb-tetris.png" width="160" height="144" loading="lazy" decoding="async" alt="Tetris">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"><i class="pd pd-3"></i></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Tetris</strong>
+                                                            <span translate="no">1989 · Game Boy</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>3 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="gb/tetris|type-a"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Tetris">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="bomb-jack">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/riqV5fEga6E" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Bomb Jack">
+                            <img src="/assets/programme/bomb-jack.png" width="224" height="256" loading="lazy" decoding="async" alt="Bomb Jack">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"><i class="pd pd-3"></i></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Bomb Jack</strong>
+                                                            <span translate="no">1984 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>3 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/bomb-jack|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Bomb Jack">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="axelay">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/4llh-kkMips" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Axelay">
+                            <img src="/assets/programme/axelay.png" width="256" height="224" loading="lazy" decoding="async" alt="Axelay">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Axelay</strong>
+                                                            <span translate="no">1992 · Super Nintendo</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="snes/axelay|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Axelay">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="sengoku-blade-sengoku-ace-episode-ii">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/KtI9L6pUfXk" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Tengai">
+                            <img src="/assets/programme/sengoku-blade-sengoku-ace-episode-ii.png" width="320" height="224" loading="lazy" decoding="async" alt="Tengai">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Tengai</strong>
+                                                            <span translate="no">1996 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/sengoku-blade-sengoku-ace-episode-ii|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Tengai">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="scramble">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/htIHECExMtY" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Scramble">
+                            <img src="/assets/programme/scramble.png" width="224" height="256" loading="lazy" decoding="async" alt="Scramble">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Scramble</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/scramble|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Scramble">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="nibbler">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/jZYeJuLpEGE" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Nibbler">
+                            <img src="/assets/programme/nibbler.png" width="224" height="256" loading="lazy" decoding="async" alt="Nibbler">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Nibbler</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/nibbler|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Nibbler">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="alien-sector">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/z5JP-yKyk9U" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.2857" data-video-title="Alien Sector">
+                            <img src="/assets/programme/alien-sector.png" width="288" height="224" loading="lazy" decoding="async" alt="Alien Sector">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Alien Sector</strong>
+                                                            <span translate="no">1985 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/alien-sector|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Alien Sector">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="19xx-the-war-against-destiny">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/c70y99FrFfM" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="19XX : The War Against Destiny">
+                            <img src="/assets/programme/19xx-the-war-against-destiny.png" width="224" height="384" loading="lazy" decoding="async" alt="19XX : The War Against Destiny">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">19XX : The War Against Destiny</strong>
+                                                            <span translate="no">1996 · Arcade</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/arcade/19xx-the-war-against-destiny"
+                               aria-label="Ver la clasificación : 19XX : The War Against Destiny">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="final-fight-2">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/NodiE6Z_ZIw" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.3333" data-video-title="Final Fight 2">
+                            <img src="/assets/programme/final-fight-2.png" width="256" height="224" loading="lazy" decoding="async" alt="Final Fight 2">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Final Fight 2</strong>
+                                                            <span translate="no">1993 · Super Nintendo</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="snes/final-fight-2|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Final Fight 2">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="amidar">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/o6IJI0tMsdk" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Amidar">
+                            <img src="/assets/programme/amidar.png" width="224" height="256" loading="lazy" decoding="async" alt="Amidar">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Amidar</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/amidar|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Amidar">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="carnival">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/z8ys59Z_q50" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Carnival">
+                            <img src="/assets/programme/carnival.png" width="224" height="256" loading="lazy" decoding="async" alt="Carnival">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Carnival</strong>
+                                                            <span translate="no">1980 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/carnival|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Carnival">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="defender">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/xztIjyEyXYE" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.2167" data-video-title="Defender">
+                            <img src="/assets/programme/defender.png" width="292" height="240" loading="lazy" decoding="async" alt="Defender">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Defender</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/defender|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Defender">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="anteater">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/xTNsoqezqdw" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Anteater">
+                            <img src="/assets/programme/anteater.png" width="224" height="256" loading="lazy" decoding="async" alt="Anteater">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Anteater</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/anteater|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Anteater">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="fire-shark">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/BCaR_RIztjM" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Fire Shark">
+                            <img src="/assets/programme/fire-shark.png" width="240" height="320" loading="lazy" decoding="async" alt="Fire Shark">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Fire Shark</strong>
+                                                            <span translate="no">1989 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/fire-shark|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Fire Shark">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="air-buster-trouble-specialty-raid-unit">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/mc_zDp-8mII" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.1429" data-video-title="Air Buster: Trouble Specialty Raid Unit">
+                            <img src="/assets/programme/air-buster-trouble-specialty-raid-unit.png" width="256" height="224" loading="lazy" decoding="async" alt="Air Buster: Trouble Specialty Raid Unit">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Air Buster: Trouble Specialty Raid Unit</strong>
+                                                            <span translate="no">1990 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/air-buster-trouble-specialty-raid-unit|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Air Buster: Trouble Specialty Raid Unit">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="d-day">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/81HSenz32A4" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.1429" data-video-title="D-day">
+                            <img src="/assets/programme/d-day.png" width="256" height="224" loading="lazy" decoding="async" alt="D-day">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">D-day</strong>
+                                                            <span translate="no">1982 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/d-day|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : D-day">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-candidate" id="black-hole">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/goOnLfhfLUc" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="0.75" data-video-title="Black Hole">
+                            <img src="/assets/programme/black-hole.png" width="224" height="256" loading="lazy" decoding="async" alt="Black Hole">                        </div>
+                                                                            <span class="prog-big" data-prog-big aria-hidden="true"></span>                                                <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Black Hole</strong>
+                                                            <span translate="no">1981 · Arcade</span>
+                                                                                        <span class="prog-state">
+                                                                        <span data-prog-count>0 voto(s)</span>
+                                </span>
+                                                    </div>
+                                                    <button type="submit" form="prog-vote" name="game" value="arcade/black-hole|1cc"
+                                    class="prog-hit" aria-pressed="false"
+                                    aria-label="Votar : Black Hole">
+                                <span class="prog-hit-label">Votar</span>
+                            </button>
+                                            </li>
+                                                        <li class="prog-tile is-open" id="sonic-the-hedgehog">
+                        <div class="prog-screen" data-video="https://www.youtube-nocookie.com/embed/1x5qzeYP8no" data-video-cover data-video-fade data-video-bleed="100" data-video-veil="4300" data-video-overscan="1.03" data-video-zoom="1.5" data-video-ratio="1.4286" data-video-title="Sonic The Hedgehog">
+                            <img src="/assets/programme/sonic-the-hedgehog.png" width="320" height="224" loading="lazy" decoding="async" alt="Sonic The Hedgehog">                        </div>
+                                                                        <span class="prog-mark" aria-hidden="true"><svg class="prog-tv-icon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M8 2.5l4 3.5 4-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><rect x="2" y="6.5" width="20" height="14" rx="3.2" fill="none" stroke="currentColor" stroke-width="1.6"/><rect class="prog-tv-glass" x="4.6" y="9" width="11.4" height="9" rx="2.2"/><circle cx="19" cy="11" r="1.1" fill="currentColor"/><circle cx="19" cy="15" r="1.1" fill="currentColor"/></svg></span>
+                        <div class="prog-info">
+                            <strong translate="no">Sonic The Hedgehog</strong>
+                                                            <span translate="no">1991 · Mega Drive</span>
+                                                                                        <span class="prog-state">Abierto al scoring</span>
+                                                    </div>
+                                                                                <a class="prog-hit prog-go" href="/es/rankings/megadrive/sonic-the-hedgehog"
+                               aria-label="Ver la clasificación : Sonic The Hedgehog">
+                                <span class="prog-hit-label">Ver la clasificación</span>
+                            </a>
+                                            </li>
+                            </ul>
+        
+        <p class="prog-credit">Fichas y capturas: ScreenScraper.</p>
+    </div>
+</section>
+
+<svg class="prog-filters" width="0" height="0" aria-hidden="true" focusable="false">
+    <filter id="prog-bombe" x="0" y="0" width="1" height="1" primitiveUnits="objectBoundingBox" color-interpolation-filters="sRGB">
+        <feImage id="prog-bombe-carte" x="0" y="0" width="1" height="1" preserveAspectRatio="none" result="carte"/>
+        <feDisplacementMap in="SourceGraphic" in2="carte" scale="0.09" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+</svg>
+<script src="/assets/js/programme.js?v=1791531823" defer></script>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-newsletter" id="launch-list">
+            <div>
+                <p class="eyebrow">Estar desde el primer juego</p>
+                <h2>Únete a la lista de lanzamiento</h2>
+                <p>Recibe los anuncios del catálogo fundacional y la fecha de apertura. Sin ruido semanal, sin reventa de datos.</p>
+            </div>
+            <div class="central-only">
+    <p>Estás viendo una copia del sitio: no recibe formularios.</p>
+    <a class="button button-primary" href="https://nelfeplay.com/es/programmation#launch-list">Continuar en nelfeplay.com</a>
+</div>
+        </div>
+
+        <div class="container footer-grid">
+            <div class="footer-brand">
+                <a class="brand" href="/es/">
+                    <img src="/assets/brand/nelfeplay.svg?v=1787169420" width="48" height="48" alt="">
+                    <span class="brand-name">Nelfe<span>Play</span></span>
+                </a>
+                <p>Un hogar cuidado para los juegos retro y neorretro.</p>
+                <span class="privacy-signal"><span aria-hidden="true"></span>Sin rastreadores publicitarios. Ningún script de terceros cargado.</span>
+            </div>
+            <div>
+                <h3>Explorar</h3>
+                <a href="/es/games">La tienda</a>
+                <a href="/es/creators">Distribuir en NelfePlay</a>
+                <a href="/es/mission">Misión</a>
+            </div>
+            <div>
+                <h3>Socios</h3>
+                <a href="/es/rights-holders">Titulares de derechos</a>
+                <a href="/es/professionals">Profesionales</a>
+                <a href="/es/host-a-node">Alojar un nodo</a>
+                <a href="mailto:contact@nelfeplay.com">contact@nelfeplay.com</a>
+            </div>
+            <div>
+                <h3>Legal</h3>
+                <a href="/en/legal/notices">Aviso legal</a>
+                <a href="/en/legal/privacy">Privacidad</a>
+                <a href="/en/legal/cookies">Cookies</a>
+                <a href="/en/legal/terms">Condiciones del sitio</a>
+            </div>
+        </div>
+
+        <div class="container footer-bottom">
+            <span>© 2026 NELFETECH</span>
+            <span>Catálogo fundacional en curso</span>
+        </div>
+
+        <div class="container footer-legal">
+            <p>Los nombres de sistemas, marcas y logotipos aquí mencionados pertenecen a sus respectivos titulares. Solo se emplean para identificar la máquina a la que se destina un juego, sin vínculo ni acuerdo con dichos titulares.</p>
+        </div>
+
+        <div class="container footer-copy">
+            <p>
+                Copia del sitio, actualizada automáticamente. Las cuentas, los formularios y los directos están en nelfeplay.com.                <a href="https://nelfeplay.com/es/programmation">Abrir esta página en nelfeplay.com</a>
+            </p>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

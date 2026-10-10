@@ -1,0 +1,123 @@
+/* Checkout hébergé NelfePlay - carte sombre centrée façon overlay, nos champs,
+   puis redirection vers PayPal. Chargé uniquement sur /{loc}/checkout/{sku}. */
+
+.checkout-page { padding: 44px 16px 64px; }
+
+.co-card {
+    max-width: 460px;
+    margin: 0 auto;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 30px 28px 26px;
+    box-shadow: var(--shadow);
+}
+
+.co-header { text-align: center; margin-bottom: 22px; }
+.co-title { font-size: 1.2rem; font-weight: 800; margin: 0 0 8px; color: var(--text); }
+.co-price { font-size: 2rem; font-weight: 800; color: var(--text); margin: 0; line-height: 1.1; }
+.co-price small { font-size: 0.9rem; font-weight: 500; color: var(--muted); }
+.co-sub { color: var(--muted); font-size: 0.84rem; margin: 8px 0 0; }
+
+.co-field { display: grid; gap: 7px; margin-bottom: 15px; }
+.co-field > label { color: var(--text-soft); font-size: 0.78rem; font-weight: 750; }
+.co-field input[type="email"],
+.co-field input[type="text"],
+.co-field select {
+    width: 100%;
+    min-height: 48px;
+    padding: 12px 14px;
+    border: 1px solid var(--line-strong);
+    border-radius: 10px;
+    background: rgba(4, 7, 13, 0.82);
+    color: var(--text);
+    font: inherit;
+    transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+.co-field select {
+    padding-right: 40px;
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8'><path stroke='%238f9bb0' stroke-width='1.8' fill='none' d='M1 1.5l5 5 5-5'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right 14px center;
+}
+.co-field select option { color: #111; background: #fff; }
+.co-field input:focus,
+.co-field select:focus {
+    border-color: var(--brand);
+    box-shadow: 0 0 0 4px rgba(134, 93, 255, 0.08);
+    outline: 0;
+}
+.co-field input::placeholder { color: #7e899e; }
+.co-help { color: var(--muted); font-size: 0.75rem; }
+
+.co-check {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 2px 0 16px;
+    cursor: pointer;
+}
+.co-check input[type="checkbox"] {
+    width: 18px; height: 18px; min-height: 0;
+    accent-color: var(--brand);
+    flex: 0 0 auto; margin: 0;
+}
+.co-check span { color: var(--text-soft); font-size: 0.9rem; font-weight: 600; }
+.co-consent { align-items: flex-start; }
+.co-consent span { font-size: 0.8rem; font-weight: 500; line-height: 1.4; }
+.co-consent a { color: var(--brand); text-decoration: underline; }
+.co-field.co-business[hidden] { display: none; }
+
+.co-pay {
+    display: block;
+    width: 100%;
+    margin-top: 6px;
+    border: 0;
+    border-radius: 12px;
+    padding: 15px 20px;
+    font-size: 1rem;
+    font-weight: 800;
+    color: #06131b;
+    cursor: pointer;
+    background: linear-gradient(135deg, var(--brand-bright), var(--brand));
+    transition: filter 160ms ease, transform 120ms ease;
+}
+.co-pay:hover { filter: brightness(1.06); }
+.co-pay:active { transform: translateY(1px); }
+.co-pay:disabled { opacity: 0.6; cursor: default; }
+
+.co-secure {
+    display: flex; align-items: center; justify-content: center; gap: 6px;
+    color: var(--muted); font-size: 0.78rem; margin: 14px 0 0;
+}
+.co-note { text-align: center; color: var(--muted); font-size: 0.78rem; margin: 8px 0 0; }
+.co-foot { text-align: center; color: var(--muted); font-size: 0.72rem; margin: 18px 0 0; opacity: 0.75; }
+
+.co-error {
+    display: none;
+    margin: 0 0 14px;
+    padding: 10px 14px;
+    border-radius: 10px;
+    background: rgba(255, 123, 142, 0.12);
+    border: 1px solid rgba(255, 123, 142, 0.4);
+    color: var(--danger);
+    font-size: 0.85rem;
+}
+.co-error.show { display: block; }
+
+.co-thanks { text-align: center; padding: 6px 0; }
+.co-thanks h1 { font-size: 1.4rem; margin: 0 0 12px; color: var(--text); }
+.co-thanks p { color: var(--text-soft); margin: 0 0 18px; }
+
+/* Pas d'appel newsletter sur une page de paiement. */
+.footer-newsletter { display: none; }
+
+/* Mode overlay (iframe) : la carte remplit le modal, sans double cadre. */
+.co-embed { background: var(--surface); }
+.co-embed .checkout-page { padding: 26px 22px; }
+.co-embed .co-card {
+    background: transparent; border: 0; box-shadow: none;
+    max-width: none; padding: 0; margin: 0;
+}

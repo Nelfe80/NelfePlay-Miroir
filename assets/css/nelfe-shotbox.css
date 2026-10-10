@@ -1,0 +1,153 @@
+/* La boite commune : capture d'un record en grand, ou certificat.
+
+   UN FICHIER A ELLE, parce qu'elle sert sur des pages qui ne partagent pas la meme
+   feuille. La fiche d'un jeu, la fiche joueur et l'accueil chargent app.css ; /account
+   est une page autonome qui ne la charge pas. Laissee dans app.css, la boite s'ouvrait
+   sur /account sans fond ni bordure.
+
+   CHAQUE VARIABLE A SON REPLI, egal a la valeur d'app.css : la ou les jetons du site
+   existent, ils decident ; ailleurs, la boite garde le meme aspect. */
+
+/* ── La capture d'un record en grand ─────────────────────────────────────── */
+
+/* La boite se FERME sur toute page, meme celle qui ne charge pas app.css et sa regle
+   `[hidden]` globale (/player n'a que sa feuille et celle-ci) : `.nsb { display: flex }`
+   battait l'attribut, la boite restait affichee avec un cadre deja vide, et rien ne la
+   fermait. Un composant garantit lui-meme qu'on peut le faire disparaitre. */
+.nsb[hidden],
+.nsb [hidden] {
+    display: none !important;
+}
+
+.nsb {
+    position: fixed;
+    inset: 0;
+    z-index: 90;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5vh 4vw;
+    background: rgba(3, 5, 10, .82);
+}
+
+/* La page ne defile plus derriere la boite : sinon la molette fait glisser ce qu'on
+   ne regarde pas. */
+body.nsb-open {
+    overflow: hidden;
+}
+
+.nsb-frame {
+    position: relative;
+    max-width: min(92vw, 780px);
+    padding: 22px;
+    border: 1px solid var(--line-strong, rgba(151, 174, 211, 0.28));
+    border-radius: var(--radius, 18px);
+    background: var(--surface, #0c111d);
+    box-shadow: var(--shadow, 0 28px 90px rgba(0, 0, 0, 0.42));
+    text-align: center;
+}
+
+.nsb-close {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+    padding: 2px 8px;
+    border: 0;
+    background: transparent;
+    color: var(--muted, #8f9bb0);
+    font-size: 1.6rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.nsb-close:hover,
+.nsb-close:focus-visible {
+    color: var(--text, #f5f7fb);
+}
+
+/* Agrandie SANS lissage : fondre les pixels les uns dans les autres montrerait autre
+   chose que ce qui a ete joue. */
+.nsb-img {
+    /* La feuille pose `img { display: block }` : un bloc ne se centre pas avec
+       `text-align`, il lui faut ses marges automatiques. L'image restait a gauche
+       pendant que le titre et les boutons etaient centres. */
+    margin-inline: auto;
+    max-width: 100%;
+    max-height: 62vh;
+    border-radius: 6px;
+    background: #000;
+    image-rendering: pixelated;
+}
+
+.nsb-title {
+    margin: 14px 0 2px;
+    font-size: 1.3rem;
+}
+
+.nsb-sub {
+    margin: 0;
+    color: var(--muted, #8f9bb0);
+    font-variant-numeric: tabular-nums;
+}
+
+/* Le lien de la preuve. Discret : il accompagne la performance, il ne la concurrence pas. */
+/* Le certificat en modale. Le cadre prend la place : c'est une page entiere, pas une
+   vignette. */
+.nsb-cert {
+    display: block;
+    width: min(86vw, 860px);
+    /* Repli seulement : le script mesure le contenu et pose la vraie hauteur. Cette
+       valeur sert le temps du chargement, et si la mesure echoue. */
+    height: min(74vh, 620px);
+    border: 0;
+    border-radius: var(--radius-sm, 10px);
+    background: var(--bg, #060811);
+}
+
+/* En mode certificat, le cadre de la boite se resserre : la page encadree porte deja son
+   propre habillage, et un double cadre se voit. */
+.nsb.is-cert .nsb-frame {
+    max-width: none;
+    padding: 14px;
+}
+
+.nsb.is-cert .nsb-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .45rem;
+    margin: 0 0 10px;
+    font-size: 1rem;
+    color: var(--muted, #8f9bb0);
+}
+
+.nsb-proof {
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
+    margin-top: 14px;
+    color: var(--text-soft, #ccd5e5);
+    font-size: .84rem;
+    text-decoration: underline;
+    text-decoration-color: rgba(151, 174, 211, 0.38);
+    text-underline-offset: .22em;
+}
+
+.nsb-proof:hover,
+.nsb-proof:focus-visible {
+    color: var(--brand-bright, #A98BFF);
+    text-decoration-color: var(--brand, #865DFF);
+}
+
+.nsb-seal {
+    flex: none;
+    display: block;
+}
+
+.nsb-actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 18px 0 0;
+}

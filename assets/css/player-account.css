@@ -1,0 +1,391 @@
+/* `hidden` cache, pour de bon. Cette page ne charge pas app.css, qui pose la meme regle
+   pour le reste du site : sans elle, la moindre regle d'affichage bat l'attribut. */
+[hidden] { display: none !important; }
+
+
+  * { box-sizing:border-box; margin:0; }
+  /* L'ellipse violette est l'identite de cette application. Elle etait cadree
+     tout en haut (at 50% -10%), du temps ou le contenu commencait en haut de
+     page ; les deux vues sont maintenant centrees, et la lumiere tombait a cote
+     de ce qu'on regarde. Elle descend donc et s'elargit - une seule source, sur
+     le fond de PAGE, qui eclaire aussi bien l'ecran de connexion que la carte.
+     Deux halos superposes se lisaient comme deux lampes mal reglees. */
+  body { min-height:100dvh; color:#f1edfa; font-family:'Segoe UI',system-ui,sans-serif;
+         background:radial-gradient(ellipse 100% 58% at 50% 20%,#2f1f59 0%,#0b0714 60%),#0b0714;
+         padding:16px 12px 84px; }
+  .wrap { max-width:430px; margin:0 auto; }
+  h2 { font-size:14px; margin:22px 0 8px; color:#b9b9d0; text-transform:uppercase; letter-spacing:.08em; }
+  .hint { color:#8a8aa5; font-size:13.5px; line-height:1.6; }
+  input,button { font:inherit; border-radius:10px; padding:11px 14px; border:1px solid #31314a; width:100%; }
+  input { background:#1c1c2c; color:#f1edfa; margin-bottom:8px; }
+  button { background:#8b5cf6; color:#fff; border:none; cursor:pointer; font-weight:600; }
+  button.ghost { background:transparent; border:1px solid #31314a; color:#a79fc0; }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  td,th { text-align:left; padding:7px 8px; border-bottom:1px solid #26263a; }
+  td.v { text-align:right; font-variant-numeric:tabular-nums; font-weight:600; }
+  .badge { display:inline-block; background:rgba(52,211,153,.12); border:1px solid rgba(52,211,153,.4);
+           color:#34d399; border-radius:10px; padding:0 8px; font-size:11.5px; }
+  .view { display:none; }
+  .view.on { display:block; }
+  /* La carte occupe l'écran du téléphone : centrée verticalement dans la
+     hauteur disponible (padding + tab bar déduits). */
+  #v-card.on { display:flex; flex-direction:column; justify-content:center;
+               min-height:calc(100dvh - 110px); }
+
+  /* ── identity card ── */
+  @keyframes ring { to { filter:hue-rotate(360deg); } }
+  @keyframes floaty { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-5px); } }
+  .ring { padding:3px; border-radius:26px; box-shadow:0 0 45px rgba(139,92,246,.45);
+          background:conic-gradient(from 180deg,#8b5cf6,#22d3ee,#ff3fa4,#ffb02e,#8b5cf6);
+          animation:ring 8s linear infinite; }
+  .card { border-radius:23px; padding:24px 18px 16px; text-align:center; position:relative; overflow:hidden;
+          background:linear-gradient(165deg,#1b1130 0%,#0e0e1e 60%,#131024 100%); }
+  .card::after { content:''; position:absolute; inset:0; pointer-events:none;
+                 background:repeating-linear-gradient(0deg,rgba(255,255,255,.022) 0 1px,transparent 1px 3px); }
+  .avatarBig { width:126px; height:126px; image-rendering:pixelated; border-radius:19px;
+               animation:floaty 4s ease-in-out infinite;
+               box-shadow:0 0 32px rgba(139,92,246,.62),0 0 84px rgba(34,211,238,.22); }
+  .pseudoBig { margin-top:12px; font-size:28px; font-weight:800; letter-spacing:.4px;
+               background:linear-gradient(90deg,#22d3ee,#8b5cf6,#ff3fa4);
+               -webkit-background-clip:text; background-clip:text; color:transparent; }
+  .honorsBig { margin-top:6px; font-size:18px; letter-spacing:2px; min-height:22px; }
+  .stats { display:flex; justify-content:space-around; margin:14px 0 4px; }
+  .stat b { display:block; font-size:24px; font-variant-numeric:tabular-nums; }
+  .stat span { color:#a79fc0; font-size:10.5px; text-transform:uppercase; letter-spacing:.12em; }
+  .top3 { margin-top:10px; text-align:left; }
+  .top3 .row { display:flex; align-items:center; gap:9px; background:rgba(139,92,246,.08);
+               border:1px solid rgba(139,92,246,.22); border-radius:11px; padding:8px 12px;
+               margin-bottom:6px; font-size:14px; }
+  .top3 .row .g { flex:1; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .top3 .row .s { font-weight:700; font-variant-numeric:tabular-nums; color:#22d3ee; }
+  .cardFoot { margin-top:10px; display:flex; justify-content:space-between; color:#8a84a5; font-size:11px; }
+
+  /* ── tab bar mobile ── */
+  /* Petit rond vert « connecté » qui pulse dans la barre borne. */
+  .condot { display:inline-block; width:9px; height:9px; border-radius:50%; background:#34d399;
+            margin-right:7px; vertical-align:baseline; box-shadow:0 0 0 0 rgba(52,211,153,.6);
+            animation:conpulse 1.8s ease-out infinite; }
+  @keyframes conpulse { 0%{box-shadow:0 0 0 0 rgba(52,211,153,.55);} 70%{box-shadow:0 0 0 6px rgba(52,211,153,0);}
+                        100%{box-shadow:0 0 0 0 rgba(52,211,153,0);} }
+  @media (prefers-reduced-motion:reduce) { .condot { animation:none; } }
+  nav.tabs { position:fixed; left:0; right:0; bottom:0; display:flex; justify-content:space-around;
+             background:rgba(14,12,26,.96); border-top:1px solid #241b3a; padding:8px 4px calc(8px + env(safe-area-inset-bottom));
+             backdrop-filter:blur(8px); z-index:9; }
+  nav.tabs button { background:none; border:none; color:#8a8aa5; width:auto; font-size:11px; padding:2px 8px; }
+  nav.tabs button .i { display:block; font-size:21px; margin-bottom:1px; }
+  nav.tabs button img.i { width:22px; height:22px; image-rendering:pixelated; border-radius:5px; margin:0 auto 2px; }
+  nav.tabs button svg.i { width:22px; height:22px; display:block; margin:0 auto 2px; }
+  /* Rubrique courante : sous l'icône, un damier pixel sombre - angles francs,
+     dégradé violet → cyan, comme un bandeau de borne. */
+  nav.tabs button { position:relative; z-index:0; border-radius:0; transition:color .15s; }
+  nav.tabs button.on { color:#fff; font-weight:700; }
+  nav.tabs button.on::after {
+    content:''; position:absolute; left:0; right:0; bottom:-2px; height:19px; z-index:-1;
+    background:
+      repeating-conic-gradient(rgba(255,255,255,.07) 0 25%, transparent 0 50%) 0 0/4px 4px,
+      linear-gradient(135deg,#4a2d8f 0%,#241a44 55%,#0f3b4d 100%);
+    box-shadow:inset 0 2px 0 #8b5cf6, inset 0 -2px 0 rgba(34,211,238,.55);
+  }
+  /* Carte « Parcourir » (Tinder) */
+  .bcard { background:#161622; border:1px solid #2a2a40; border-radius:20px; overflow:hidden;
+    box-shadow:0 14px 40px rgba(0,0,0,.5); will-change:transform; user-select:none; }
+  .bcard .shot { width:100%; aspect-ratio:4/3; object-fit:cover; background:#0b0b14; display:block; }
+  .bcard .body { padding:14px 16px 16px; }
+  .bcard .gname { font-size:21px; font-weight:800; line-height:1.15 }
+  .bcard .meta { color:#a79fc0; font-size:13px; margin-top:3px }
+  .bcard .desc { color:#c8c4d8; font-size:13.5px; line-height:1.55; margin-top:10px;
+    max-height:8.4em; overflow:auto }
+  .bcard .rec { display:flex; gap:8px; align-items:center; margin-top:10px; font-size:13px; color:#a79fc0;
+    background:rgba(139,92,246,.09); border-radius:10px; padding:8px 10px }
+  .bcard .warn { color:#4da3ff; font-weight:700 }
+  .bstamp { position:absolute; top:22px; font-size:26px; font-weight:900; letter-spacing:2px; padding:6px 14px;
+    border-radius:12px; opacity:0; transition:opacity .1s; pointer-events:none }
+  .bstamp.l { right:24px; color:#e05b4d; border:3px solid #e05b4d; transform:rotate(12deg) }
+  .bstamp.r { left:24px; color:#34d399; border:3px solid #34d399; transform:rotate(-12deg) }
+
+  /* ── styles sortis du balisage ───────────────────────────────────────
+     La politique de cette page ne tolere plus les attributs style=.
+
+     Ce qui se dit en un mot court devient une classe utilitaire : u-mt6
+     pour margin-top:6px, u-row u-gap8 pour une ligne espacee. Une classe
+     par DECLARATION, sinon « margin-top:6px » aurait produit quatorze
+     classes presque identiques.
+
+     Ce qui ne se dit pas en un mot court - degrades, ombres, bordures
+     rgba - reste ecrit en clair, sous l'id de l'element ou sous un nom
+     qui dit ce qu'il est. Des noms derives mecaniquement donnaient
+     « u-background-linear-gradient-135deg-1d1030-12121c », moins lisible
+     que le style d'origine.
+
+     Les ecritures el.style.x = … du script ne sont pas concernees : la
+     politique gouverne le balisage, pas le CSSOM. */
+
+  .btn-dim { background:#12121c; border:1px solid #31314a; color:#a79fc0; font-weight:500; }
+  .btn-live { background:linear-gradient(90deg,#059669,#34d399); }
+  .chip-gold { background:rgba(255,210,74,.12); border-color:rgba(255,210,74,.5); color:#ffd24a; }
+  .eyebrow-dim { font-size:10.5px; letter-spacing:.14em; color:#8a84a5; font-weight:700; }
+  .eyebrow-gold { font-size:11px; letter-spacing:.14em; color:#ffd257; font-weight:700; }
+  .scan-frame { position:relative; border-radius:16px; overflow:hidden; background:#000; aspect-ratio:3/4; border:2px solid rgba(34,211,238,.55); box-shadow:0 0 24px rgba(34,211,238,.18); }
+  .scan-reticle { position:absolute; inset:16%; border:3px solid rgba(34,211,238,.85); border-radius:14px; }
+
+  #cardBadges { text-align:center; font-size:17px; letter-spacing:4px; margin-top:6px; }
+  #challengeCard { background:linear-gradient(135deg,#1d1030,#12121c); border:2px solid #ffd257; border-radius:16px; padding:14px 16px; margin-bottom:12px; text-align:center; box-shadow:0 0 24px rgba(255,210,87,.18); }
+  #followSite { flex:1; background:#1c1c2c; color:#f1edfa; border:1px solid #31314a; border-radius:10px; padding:10px; }
+  #followStreamer { flex:1; background:#1c1c2c; color:#f1edfa; border:1px solid #31314a; border-radius:10px; padding:10px; }
+  #leaveBar { position:sticky; top:0; z-index:8; margin:-16px -12px 12px; padding:10px 14px; background:rgba(139,92,246,.16); border-bottom:1px solid rgba(139,92,246,.4); backdrop-filter:blur(8px); align-items:center; gap:10px; }
+  #myCode { font-size:22px; letter-spacing:2px; font-variant-numeric:tabular-nums; }
+  #playChallenge { margin-top:14px; padding:12px 14px; border-radius:14px; background:linear-gradient(135deg,#1d1030,#12121c); border:2px solid #ffd257; text-align:center; }
+  #streamOffBtn { width:auto; padding:8px 14px; font-size:13px; background:#12121c; border:1px solid #e05b4d; color:#e0a49b; }
+  #streamSelfBtn { width:auto; padding:8px 14px; font-size:13px; background:#12121c; border:1px solid #9146ff; color:#c9b6ff; }
+  #streamVenueBtn { width:auto; padding:8px 14px; font-size:13px; background:#12121c; border:1px solid #31314a; color:#a79fc0; }
+
+  .u-align-items-flex-start     { align-items:flex-start; }
+  .u-bg-14141e                  { background:#14141e; }
+  .u-bg-e05b4d                  { border-color:#e05b4d; }
+  .u-block                      { display:block; }
+  .u-center                     { text-align:center; }
+  .u-click                      { cursor:pointer; }
+  .u-fg-34d399                  { color:#34d399; }
+  .u-fg-8b5cf6                  { color:#8b5cf6; }
+  .u-fg-c8c8d7                  { color:#c8c8d7; }
+  .u-fg-e05b4d                  { color:#e05b4d; }
+  .u-fg-ffd257                  { color:#ffd257; }
+  .u-fs12_5                     { font-size:12.5px; }
+  .u-fs13                       { font-size:13px; }
+  .u-fs14                       { font-size:14px; }
+  .u-fs16                       { font-size:16px; }
+  .u-fs17                       { font-size:17px; }
+  .u-fs18                       { font-size:18px; }
+  .u-fs19                       { font-size:19px; }
+  .u-fs20                       { font-size:20px; }
+  .u-fs22                       { font-size:22px; }
+  .u-fs24                       { font-size:24px; }
+  .u-gap12                      { gap:12px; }
+  .u-gap8                       { gap:8px; }
+  .u-grow                       { flex:1; }
+  .u-hcenter                    { justify-content:center; }
+  .u-height-100                 { height:100%; }
+  .u-hide                       { display:none !important; }
+  .u-margin-10px-0              { margin:10px 0; }
+  .u-margin-14px-0              { margin:14px 0; }
+  .u-mb10                       { margin-bottom:10px; }
+  .u-mb12                       { margin-bottom:12px; }
+  .u-mb16                       { margin-bottom:16px; }
+  .u-mb4                        { margin-bottom:4px; }
+  .u-mb6                        { margin-bottom:6px; }
+  .u-mb8                        { margin-bottom:8px; }
+  .u-mt1                        { margin-top:1px; }
+  .u-mt10                       { margin-top:10px; }
+  .u-mt12                       { margin-top:12px; }
+  .u-mt14                       { margin-top:14px; }
+  .u-mt16                       { margin-top:16px; }
+  .u-mt18                       { margin-top:18px; }
+  .u-mt2                        { margin-top:2px; }
+  .u-mt22                       { margin-top:22px; }
+  .u-mt3                        { margin-top:3px; }
+  .u-mt4                        { margin-top:4px; }
+  .u-mt6                        { margin-top:6px; }
+  .u-mt8                        { margin-top:8px; }
+  .u-object-fit-cover           { object-fit:cover; }
+  .u-padding-10px-14px          { padding:10px 14px; }
+  .u-padding-15px-14px-12px     { padding:15px 14px 12px; }
+  .u-padding-4px-0              { padding:4px 0; }
+  .u-padding-7px-14px           { padding:7px 14px; }
+  .u-padding-7px-16px           { padding:7px 16px; }
+  .u-padding-8px-14px           { padding:8px 14px; }
+  .u-pixel                      { image-rendering:pixelated; }
+  .u-r12                        { border-radius:12px; }
+  .u-r14                        { border-radius:14px; }
+  .u-row                        { display:flex; }
+  .u-shrink                     { min-width:0; }
+  .u-text-align-left            { text-align:left; }
+  .u-w600                       { font-weight:600; }
+  .u-w700                       { font-weight:700; }
+  .u-w800                       { font-weight:800; }
+  .u-wauto                      { width:auto; }
+  .u-wfull                      { width:100%; }
+  .u-wrap                       { flex-wrap:wrap; }
+
+  /* Ces elements se montrent en ligne, pas en bloc. Le script ne pose
+     plus de display : il retire seulement u-hide, donc l'affichage doit
+     venir d'ici. */
+  #tabs, #leaveBar, #followSiteRow { display:flex; }
+
+  /* Styles sortis du HTML que le script fabrique. Meme raison : pose en
+     innerHTML, ce balisage est gouverne comme celui du gabarit. */
+  .banner-green { padding:9px 12px; margin-bottom:12px; border-radius:12px; font-size:14px; background:rgba(52,211,153,.14); border:1px solid rgba(52,211,153,.4); color:#34d399; }
+  .banner-violet { display:flex; align-items:center; gap:10px; padding:11px 13px; margin-bottom:12px; border-radius:12px; font-size:14px; background:rgba(139,92,246,.12); border:1px solid rgba(139,92,246,.4); }
+  .banner-warn { width:100%; margin-bottom:12px; padding:16px 18px; border-radius:12px; font-size:14px; background:#15151f; color:#c9a24a; border:1px solid #3a3320; }
+  .btn-go { width:auto; padding:5px 12px; font-size:13px; background:rgba(52,211,153,.15); border:1px solid rgba(52,211,153,.5); color:#34d399; }
+  .btn-gold { width:auto; padding:7px 13px; font-size:13px; font-weight:700; white-space:nowrap; flex:none; background:#ffd257; color:#1a1420; border:none; box-shadow:0 0 14px rgba(255,210,87,.35); }
+  .btn-hero { width:100%; margin-bottom:12px; padding:22px; font-size:17px; font-weight:800; background:#0b0b12; color:#fff; border:1px solid #31314a; }
+  .btn-off { width:100%; margin-bottom:12px; padding:22px; font-size:15px; font-weight:800; background:#15151f; color:#6a6a80; border:1px solid #26263a; cursor:not-allowed; }
+  .btn-primary { background:linear-gradient(90deg,#8b5cf6,#22d3ee); }
+  .btn-square-go { width:38px; height:38px; padding:0; font-size:16px; flex:none; display:inline-flex; align-items:center; justify-content:center; background:linear-gradient(135deg,#059669,#34d399); color:#08121e; }
+  .btn-stop { width:auto; padding:6px 12px; font-size:13px; white-space:nowrap; flex:none; background:linear-gradient(90deg,#e05b4d,#e0743a); }
+  .card-live { cursor:pointer; border-radius:14px; background:rgba(52,211,153,.10); box-shadow:0 0 0 1px rgba(52,211,153,.35); }
+  .chip-cyan { background:rgba(34,211,238,.15); border-color:rgba(34,211,238,.55); }
+  .chip-red { background:rgba(224,91,77,.14); border-color:rgba(224,91,77,.5); color:#e05b4d; }
+  .ico-inline { vertical-align:-2px; }
+  .label-section { text-transform:uppercase; letter-spacing:.07em; font-weight:700; margin-bottom:4px; }
+  .list-row { display:flex; align-items:center; gap:10px; padding:10px 12px; margin-bottom:8px; background:#1c1c2c; border:1px solid #31314a; border-radius:12px; }
+  .list-row-tight { display:flex; align-items:center; gap:10px; padding:9px 12px; margin-bottom:8px; background:#1c1c2c; border:1px solid #31314a; border-radius:12px; }
+  .panel-gold { padding:16px 14px; border-radius:14px; text-align:center; background:rgba(255,210,87,.12); border:1px solid rgba(255,210,87,.5); color:#ffd257; }
+  .pin-badge { position:absolute; left:-5px; top:-5px; width:18px; height:18px; border-radius:50%; background:#4da3ff; color:#001; font-weight:900; font-size:12px; display:flex; align-items:center; justify-content:center; box-shadow:0 0 0 2px #1c1c2c; }
+  .row-between { display:flex; justify-content:space-between; align-items:center; padding:4px 0; border-bottom:1px solid #26263a; }
+  .row-between-tight { display:flex; justify-content:space-between; padding:3px 0; border-bottom:1px solid #26263a; }
+  .row-sep { padding:9px 0; border-bottom:1px solid #26263a; }
+  .u-bg-8b5cf6                  { background:#8b5cf6; }
+  .u-bg-e05b4d                  { border-color:#e05b4d; }
+  .u-bgnone                     { background:none; }
+  .u-block                      { display:block; }
+  .u-border-2px-dashed-31314a   { border:2px dashed #31314a; }
+  .u-center                     { text-align:center; }
+  .u-click                      { cursor:pointer; }
+  .u-clip                       { overflow:hidden; }
+  .u-fg-22d3ee                  { color:#22d3ee; }
+  .u-fg-4da3ff                  { color:#4da3ff; }
+  .u-fg-5a5a72                  { color:#5a5a72; }
+  .u-fg-8a8aa5                  { color:#8a8aa5; }
+  .u-fg-8b5cf6                  { color:#8b5cf6; }
+  .u-fg-a79fc0                  { color:#a79fc0; }
+  .u-fg-a7cfc0                  { color:#a7cfc0; }
+  .u-fg-e05b4d                  { color:#e05b4d; }
+  .u-fg-ffd257                  { color:#ffd257; }
+  .u-fg-fff                     { color:#fff; }
+  .u-fixed                      { flex:none; }
+  .u-font-variant-numeric-tabular-nums { font-variant-numeric:tabular-nums; }
+  .u-fs11                       { font-size:11px; }
+  .u-fs12_5                     { font-size:12.5px; }
+  .u-fs13                       { font-size:13px; }
+  .u-fs17                       { font-size:17px; }
+  .u-fs19                       { font-size:19px; }
+  .u-fs20                       { font-size:20px; }
+  .u-fs22                       { font-size:22px; }
+  .u-fs24                       { font-size:24px; }
+  .u-gap10                      { gap:10px; }
+  .u-grow                       { flex:1; }
+  .u-hcenter                    { justify-content:center; }
+  .u-height-34px                { height:34px; }
+  .u-height-64px                { height:64px; }
+  .u-inline                     { display:inline-block; }
+  .u-line-height-1              { line-height:1; }
+  .u-max-width-74px             { max-width:74px; }
+  .u-mb4                        { margin-bottom:4px; }
+  .u-middle                     { align-items:center; }
+  .u-mt12                       { margin-top:12px; }
+  .u-mt2                        { margin-top:2px; }
+  .u-mt3                        { margin-top:3px; }
+  .u-nowrap                     { white-space:nowrap; }
+  .u-opacity-7                  { opacity:.7; }
+  .u-opacity-8                  { opacity:.8; }
+  .u-opacity-85                 { opacity:.85; }
+  .u-padding-4px-12px           { padding:4px 12px; }
+  .u-padding-4px-8px            { padding:4px 8px; }
+  .u-padding-5px-12px           { padding:5px 12px; }
+  .u-padding-9px-13px           { padding:9px 13px; }
+  .u-pixel                      { image-rendering:pixelated; }
+  .u-plain                      { text-decoration:none; }
+  .u-r12                        { border-radius:12px; }
+  .u-r14                        { border-radius:14px; }
+  .u-r5                         { border-radius:5px; }
+  .u-r7                         { border-radius:7px; }
+  .u-rel                        { position:relative; }
+  .u-row                        { display:flex; }
+  .u-shrink                     { min-width:0; }
+  .u-text-overflow-ellipsis     { text-overflow:ellipsis; }
+  .u-w700                       { font-weight:700; }
+  .u-wauto                      { width:auto; }
+  .u-white-space-normal         { white-space:normal; }
+  .u-width-26px                 { width:26px; }
+  .u-width-28px                 { width:28px; }
+  .u-width-34px                 { width:34px; }
+  .u-width-46px                 { width:46px; }
+  .u-width-64px                 { width:64px; }
+
+  /* Ce qui interpolait une couleur dans le balisage. Aucun ne calculait
+     vraiment : chacun choisissait dans un ensemble ferme, et un ensemble
+     ferme se dit avec des classes. */
+  .avatar-game { image-rendering:pixelated; border-radius:12px; border:2px solid #31314a; }
+  .avatar-game.is-on { border-color:#ffd257; }
+  .metal-none { color:#a79fc0; }
+  .metal-gold { color:#ffd257; }
+  .metal-silver { color:#c0c6d0; }
+  .metal-bronze { color:#e0743a; }
+  .lien-route, .lien-twitch { text-decoration:none; white-space:nowrap; font-size:14px; }
+  .lien-route { color:#22d3ee; }
+  .lien-twitch { color:#a970ff; }
+  .res { padding:12px 14px; border-radius:14px; text-align:center; border:1px solid; }
+  .res-ko { background:rgba(224,91,77,.12); border-color:rgba(224,91,77,.4); color:#e0a89f; }
+  .res-attente { background:rgba(139,92,246,.10); border-color:rgba(139,92,246,.35); color:#a79fc0; }
+  .res-ok { background:rgba(52,211,153,.14); border-color:rgba(52,211,153,.5); color:#34d399; }
+  .res-info { background:rgba(139,92,246,.12); border-color:rgba(139,92,246,.45); color:#c8c8d7; }
+  .star { color:#4a4a63; }
+  .star.is-fav { color:#ffd257; }
+
+  /* ══ Ecran deconnecte ═══════════════════════════════════════════════════
+     Centre dans la hauteur : cet ecran n'a qu'une chose a faire, et rien ne
+     doit distraire de l'endroit ou l'on tape. La cartouche vient dessous, pour
+     ceux qui se demandent a quoi ils se connectent. */
+
+  #login { min-height:calc(100dvh - 100px); display:flex; align-items:center;
+           justify-content:center; }
+  .signin__inner { width:100%; }
+
+  /* La marque, telle que le site la pose : le sigle a 44 px, puis « Nelfe » en
+     encre et « Play » en violet. On ne redessine pas une identite qui existe. */
+  .signin__brand { display:flex; align-items:center; justify-content:center; gap:11px;
+                   margin:0 0 26px; font-size:1.35rem; font-weight:700;
+                   letter-spacing:-.02em; color:#f5f7fb; }
+  .signin__logo { display:block; flex:none; }
+  .signin__word span { color:#865DFF; }
+
+  .signin__label { display:block; margin-bottom:7px; font-size:13px; font-weight:600;
+                   color:#ccd5e5; }
+
+  /* La cartouche : une surface posee sur le fond, pas un encadre dessine. Elle
+     se distingue par sa matiere - un bleu un ton plus clair, un liseret tres
+     discret - et non par un trait. */
+  .signin__why { margin-top:28px; padding:18px 18px 20px;
+                 background:#0c111d; border:1px solid rgba(151,174,211,.16);
+                 border-radius:18px; }
+  .signin__why h2 { margin:0; font-size:16px; font-weight:700; line-height:1.35;
+                    color:#f5f7fb; text-transform:none; letter-spacing:normal; }
+  .signin__lead { margin:7px 0 0; color:#ccd5e5; font-size:14.5px; line-height:1.55; }
+
+  /* Numerotation par le navigateur : une donnee du document, pas un caractere
+     colle dans le texte. Elle survit a la traduction et se dit correctement a
+     la lecture d'ecran. */
+  .signin__steps { list-style:none; counter-reset:etape; padding:0;
+                   margin:16px 0 0; display:flex; flex-direction:column; gap:8px; }
+  .signin__steps li { counter-increment:etape; position:relative; padding-left:30px;
+                      color:#a79fc0; font-size:14px; line-height:1.5; }
+  .signin__steps li::before {
+    content:counter(etape); position:absolute; left:0; top:0;
+    width:21px; height:21px; border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+    font-size:11.5px; font-weight:700; color:#c9b7ff;
+    background:rgba(134,93,255,.16); border:1px solid rgba(134,93,255,.42);
+  }
+
+  /* Apres l'envoi, les memes trois etapes racontent ou en est la demande :
+     la premiere est faite, la deuxieme est en cours. C'est l'etat qui change,
+     pas le contenu - rien de nouveau a lire, juste a situer. */
+  .signin__steps.is-sent li:first-child { color:#6f6a86; text-decoration:line-through;
+                                          text-decoration-color:rgba(111,106,134,.6); }
+  .signin__steps.is-sent li:first-child::before {
+    content:'¹3'; color:#8f8aa3; background:transparent; border-color:rgba(143,138,163,.35);
+  }
+  .signin__steps.is-sent li:nth-child(2) { color:#f1edfa; font-weight:600; }
+  .signin__steps.is-sent li:nth-child(2)::before {
+    color:#0b0714; background:#865DFF; border-color:#865DFF;
+  }
+
+  /* Le bouton de retour n'est pas une action principale : il attend qu'on en
+     ait besoin, sous la cartouche a laquelle il repond. */
+  #loginBack { margin-top:14px; }
+
+/* Les tetes d'avatars de jeux : dessinees en 32 x 32, montrees a la taille des anciennes icones. */
+canvas[data-nelfe-game-head] { image-rendering: pixelated; }
+.tete-jeu-26 { width: 26px; height: 26px; }
+.tete-jeu-34 { width: 34px; height: 34px; }

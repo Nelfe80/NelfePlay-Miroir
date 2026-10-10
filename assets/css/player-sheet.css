@@ -1,0 +1,438 @@
+/* Fiche publique d'un joueur.
+   Les couleurs viennent des jetons du site : une fiche qui aurait sa propre
+   palette se lirait comme une page d'ailleurs. */
+
+/* L'identite et l'annee cote a cote. L'activite dit QUI est ce joueur au meme titre
+   que son nom ; en bas de page elle se lisait comme une annexe. */
+.ps-head {
+    display: grid;
+    grid-template-columns: minmax(240px, 22rem) minmax(0, 1fr);
+    align-items: start;
+    gap: clamp(1.6rem, 4vw, 3.5rem);
+}
+
+/* Le hero du site pousse ses titres jusqu'a 6rem : un pseudo pose a cote d'un avatar de
+   72 pixels et d'une grille de sept lignes n'a pas besoin de cette taille-la. */
+.ps-hero .ps-identity h1 {
+    margin: 0;
+    font-size: clamp(1.9rem, 3.4vw, 2.9rem);
+}
+
+.ps-identity {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: .6rem;
+}
+
+.ps-avatar {
+    border-radius: 12px;
+    background: var(--surface-raised);
+    /* Un avatar est dessiné en 32x32 : l'agrandir en lissant le rendrait flou,
+       alors qu'il est fait de pixels et doit se voir comme tel. */
+    image-rendering: pixelated;
+}
+
+.ps-identity h1 {
+    margin: 0;
+}
+
+.ps-meta {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    margin: .25rem 0 0;
+    color: var(--muted);
+}
+
+.ps-country {
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    font-size: .82rem;
+}
+
+.ps-twitch {
+    color: var(--brand-bright);
+    font-size: .82rem;
+    text-decoration: underline;
+    text-decoration-color: rgba(134, 93, 255, .45);
+    text-underline-offset: .2em;
+}
+
+/* Le direct. La pastille bat : c'est ce qui distingue une chose qui se passe MAINTENANT
+   d'une ligne de fiche. */
+.ps-live {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .5rem;
+    margin: 1rem 0 0;
+    padding: .5rem .8rem;
+    border: 1px solid rgba(240, 75, 189, .3);
+    border-radius: var(--radius-sm);
+    background: rgba(240, 75, 189, .06);
+    width: max-content;
+    max-width: 100%;
+    font-size: .9rem;
+}
+
+.ps-live-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--magenta);
+    animation: nelfe-live-pulse 1.8s ease-in-out infinite;
+}
+
+.ps-live-join {
+    margin-left: .3rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .ps-live-dot {
+        animation: none;
+    }
+}
+
+.ps-totals {
+    display: flex;
+    gap: 2rem;
+    margin-top: 1.2rem;
+}
+
+.ps-total b {
+    display: block;
+    font-size: 1.8rem;
+    line-height: 1.1;
+    color: var(--text);
+    /* Les chiffres s'alignent en colonne d'une fiche à l'autre. */
+    font-variant-numeric: tabular-nums;
+}
+
+.ps-total span {
+    color: var(--muted);
+    font-size: .85rem;
+}
+
+/* ── Les scores ──────────────────────────────────────────────────────── */
+
+/* Un tableau ne doit jamais faire glisser la page entière : il défile dans son
+   propre cadre. */
+.ps-table-wrap {
+    overflow-x: auto;
+}
+
+.ps-scores {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ps-scores th,
+.ps-scores td {
+    padding: .6rem .8rem;
+    border-bottom: 1px solid var(--line);
+    text-align: left;
+    vertical-align: top;
+}
+
+.ps-scores th {
+    color: var(--muted);
+    font-size: .78rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* Le soulignement des noms cliquables vient de la feuille commune : cette page ne se
+   fabrique pas sa propre facon de dire « ceci mene quelque part ». */
+
+.ps-system {
+    color: var(--muted);
+    font-size: .78rem;
+}
+
+.ps-value {
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+
+/* Le rang tient sur une ligne : sur un ecran etroit, « rang 1 sur 3 » se coupait a chaque mot et
+   donnait a chaque ligne d'un bloc la hauteur de quatre. Le tableau defile dans son cadre. */
+.ps-rank {
+    white-space: nowrap;
+}
+
+.ps-crown {
+    margin-right: .35em;
+}
+
+/* ── Le mur d'activité ───────────────────────────────────────────────── */
+
+.ps-wall {
+    /* Le mur tient dans son cadre, sans defilement : les cinquante-trois colonnes se
+       partagent la largeur, et chaque envahisseur garde sa proportion carree. Sur un ecran
+       etroit ils sont petits, mais l'annee se lit d'un coup d'oeil, ce qui est son role. */
+    padding-bottom: .4rem;
+    /* Les trois envahisseurs classiques, en pixel art : ils servent de MASQUE aux cases. La
+       couleur du palier reste celle du jour, seule la forme change. */
+    --inv-calmar: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%208%208%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M3%200h1v1h-1zM4%200h1v1h-1zM2%201h1v1h-1zM3%201h1v1h-1zM4%201h1v1h-1zM5%201h1v1h-1zM1%202h1v1h-1zM2%202h1v1h-1zM3%202h1v1h-1zM4%202h1v1h-1zM5%202h1v1h-1zM6%202h1v1h-1zM0%203h1v1h-1zM1%203h1v1h-1zM3%203h1v1h-1zM4%203h1v1h-1zM6%203h1v1h-1zM7%203h1v1h-1zM0%204h1v1h-1zM1%204h1v1h-1zM2%204h1v1h-1zM3%204h1v1h-1zM4%204h1v1h-1zM5%204h1v1h-1zM6%204h1v1h-1zM7%204h1v1h-1zM2%205h1v1h-1zM5%205h1v1h-1zM1%206h1v1h-1zM3%206h1v1h-1zM4%206h1v1h-1zM6%206h1v1h-1zM0%207h1v1h-1zM2%207h1v1h-1zM5%207h1v1h-1zM7%207h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    --inv-crabe: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2011%208%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M2%200h1v1h-1zM8%200h1v1h-1zM3%201h1v1h-1zM7%201h1v1h-1zM2%202h1v1h-1zM3%202h1v1h-1zM4%202h1v1h-1zM5%202h1v1h-1zM6%202h1v1h-1zM7%202h1v1h-1zM8%202h1v1h-1zM1%203h1v1h-1zM2%203h1v1h-1zM4%203h1v1h-1zM5%203h1v1h-1zM6%203h1v1h-1zM8%203h1v1h-1zM9%203h1v1h-1zM0%204h1v1h-1zM1%204h1v1h-1zM2%204h1v1h-1zM3%204h1v1h-1zM4%204h1v1h-1zM5%204h1v1h-1zM6%204h1v1h-1zM7%204h1v1h-1zM8%204h1v1h-1zM9%204h1v1h-1zM10%204h1v1h-1zM0%205h1v1h-1zM2%205h1v1h-1zM3%205h1v1h-1zM4%205h1v1h-1zM5%205h1v1h-1zM6%205h1v1h-1zM7%205h1v1h-1zM8%205h1v1h-1zM10%205h1v1h-1zM0%206h1v1h-1zM2%206h1v1h-1zM8%206h1v1h-1zM10%206h1v1h-1zM3%207h1v1h-1zM4%207h1v1h-1zM6%207h1v1h-1zM7%207h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+    --inv-pieuvre: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2012%208%22%20shape-rendering%3D%22crispEdges%22%3E%3Cpath%20d%3D%22M4%200h1v1h-1zM5%200h1v1h-1zM6%200h1v1h-1zM7%200h1v1h-1zM1%201h1v1h-1zM2%201h1v1h-1zM3%201h1v1h-1zM4%201h1v1h-1zM5%201h1v1h-1zM6%201h1v1h-1zM7%201h1v1h-1zM8%201h1v1h-1zM9%201h1v1h-1zM10%201h1v1h-1zM0%202h1v1h-1zM1%202h1v1h-1zM2%202h1v1h-1zM3%202h1v1h-1zM4%202h1v1h-1zM5%202h1v1h-1zM6%202h1v1h-1zM7%202h1v1h-1zM8%202h1v1h-1zM9%202h1v1h-1zM10%202h1v1h-1zM11%202h1v1h-1zM0%203h1v1h-1zM1%203h1v1h-1zM2%203h1v1h-1zM5%203h1v1h-1zM6%203h1v1h-1zM9%203h1v1h-1zM10%203h1v1h-1zM11%203h1v1h-1zM0%204h1v1h-1zM1%204h1v1h-1zM2%204h1v1h-1zM3%204h1v1h-1zM4%204h1v1h-1zM5%204h1v1h-1zM6%204h1v1h-1zM7%204h1v1h-1zM8%204h1v1h-1zM9%204h1v1h-1zM10%204h1v1h-1zM11%204h1v1h-1zM3%205h1v1h-1zM4%205h1v1h-1zM7%205h1v1h-1zM8%205h1v1h-1zM2%206h1v1h-1zM3%206h1v1h-1zM5%206h1v1h-1zM6%206h1v1h-1zM8%206h1v1h-1zM9%206h1v1h-1zM0%207h1v1h-1zM1%207h1v1h-1zM10%207h1v1h-1zM11%207h1v1h-1z%22%2F%3E%3C%2Fsvg%3E");
+}
+
+/* Les jours descendent dans une colonne, les colonnes sont les semaines : le
+   flux passe donc en colonne, avec sept lignes. */
+.ps-wall-grid {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(7, auto);
+    grid-auto-columns: minmax(0, 1fr);
+    gap: 3px;
+    width: 100%;
+}
+
+/* Une case est un envahisseur : la formation classique, calmars en haut, crabes au
+   milieu, pieuvres en bas. Le rang dans la colonne est le jour de la semaine, d'ou les
+   pas de sept. La lumiere du survol se regle par colonne : chaque case porte la sienne
+   (--col, posee par le script), et son delai en decoule. */
+.ps-cell {
+    width: 100%;
+    aspect-ratio: 1;
+    background: var(--surface-raised);
+    -webkit-mask: var(--inv-crabe) center / contain no-repeat;
+    mask: var(--inv-crabe) center / contain no-repeat;
+    transition: filter 260ms ease;
+}
+
+.ps-cell:nth-child(7n + 1),
+.ps-cell:nth-child(7n + 2) {
+    -webkit-mask-image: var(--inv-calmar);
+    mask-image: var(--inv-calmar);
+}
+
+.ps-cell:nth-child(7n + 6),
+.ps-cell:nth-child(7n + 7) {
+    -webkit-mask-image: var(--inv-pieuvre);
+    mask-image: var(--inv-pieuvre);
+}
+
+/* Quatre paliers du violet de la marque. Le nombre exact de parties se lit au
+   survol : la couleur donne la forme de l'année, pas la valeur. */
+.ps-cell.lvl-1 { background: rgba(134, 93, 255, .30); }
+.ps-cell.lvl-2 { background: rgba(134, 93, 255, .52); }
+.ps-cell.lvl-3 { background: rgba(134, 93, 255, .74); }
+.ps-cell.lvl-4 { background: var(--brand); }
+
+/* Les jours à venir de la semaine en cours : présents pour que la grille reste
+   alignée, muets parce qu'ils ne racontent rien. Un masque prend le bord avec lui :
+   pas de pointille, une silhouette a peine visible. */
+.ps-cell.is-future {
+    background: var(--surface-raised);
+    opacity: .35;
+}
+
+/* Le survol de la grille : la flotte s'illumine de gauche a droite, une colonne
+   apres l'autre, comme le reflet qui balaie les boutons. Au depart de la souris, tout
+   s'eteint d'un coup : la vague ne repasse pas a l'envers. */
+.ps-wall-grid:hover .ps-cell {
+    filter: brightness(1.9) saturate(1.2);
+    transition-delay: calc(var(--col, 0) * 14ms);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .ps-cell,
+    .ps-wall-grid:hover .ps-cell {
+        transition: none;
+        transition-delay: 0s;
+    }
+}
+
+@media (max-width: 900px) {
+    .ps-head {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    /* Sur un petit ecran, l'espace entre les cases vaut presque une case : on le reduit. */
+    .ps-wall-grid {
+        gap: 2px;
+    }
+}
+
+@media (max-width: 640px) {
+    .ps-totals {
+        gap: 1.2rem;
+    }
+
+    /* Sur un telephone, la vignette prendrait la moitie de la ligne. */
+    .ps-shot,
+    .ps-shot-vide {
+        display: none;
+    }
+}
+
+/* ── La provenance ────────────────────────────────── */
+
+/* Les trois mondes se distinguent a l'oeil : ils n'offrent pas les memes garanties, et
+   un lecteur qui parcourt la colonne doit voir la difference sans lire. */
+.ps-world {
+    display: inline-block;
+    padding: .16rem .5rem;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    font-size: .74rem;
+    letter-spacing: .04em;
+    white-space: nowrap;
+}
+
+.ps-world.is-station {
+    border-color: rgba(92, 227, 161, .45);
+    color: var(--success);
+}
+
+.ps-world.is-stream {
+    border-color: rgba(240, 75, 189, .45);
+    color: var(--magenta);
+}
+
+.ps-world.is-home {
+    color: var(--muted);
+}
+
+.ps-where {
+    display: inline-block;
+    margin-top: .3rem;
+    color: var(--muted);
+    font-size: .78rem;
+}
+
+/* ── Un jeu, un bloc ──────────────────────────────── */
+
+/* Les scores d'un meme jeu tiennent dans un bloc (un corps de tableau par jeu) : la cellule du jeu
+   court sur toutes ses lignes, une par classement. Entre deux lignes d'un bloc le trait s'estompe ;
+   le trait plein, celui de la cellule du jeu, ferme le bloc. */
+.ps-jeu {
+    min-width: 11rem;
+}
+
+.ps-jeu .ps-system {
+    display: block;
+    margin-top: .45rem;
+}
+
+.ps-bloc tr:not(:last-child) > td:not(.ps-jeu) {
+    border-bottom-color: color-mix(in srgb, var(--line) 40%, transparent);
+}
+
+/* Une ligne : la capture du record quand elle existe, puis le nom du classement. */
+.ps-ligne {
+    display: flex;
+    align-items: flex-start;
+    gap: .7rem;
+}
+
+/* Le nom du classement mene a ce classement sur la fiche du jeu. Un cran sous le nom du jeu : il
+   se repete a chaque ligne, et c'est le jeu qu'on cherche d'abord des yeux. */
+.ps-scores .ps-mode {
+    color: var(--text-soft);
+    font-size: .92rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+/* ── La capture et le replay ───────────────────────── */
+
+/* La place d'une capture absente : sa largeur seule, pour que les noms des classements s'alignent
+   d'une ligne a l'autre sans donner a la ligne la hauteur d'une image qu'elle n'a pas. */
+.ps-shot-vide {
+    flex: none;
+    width: 58px;
+}
+
+/* Un carre, identique pour tous les jeux. Les definitions d'origine vont du vertical
+   d'arcade (224x384) a la Megadrive (320x224) : a leur proportion, la colonne monterait
+   et descendrait a chaque ligne. */
+.ps-shot {
+    flex: none;
+    width: 58px;
+    height: 58px;
+    padding: 0;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: #000;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.ps-shot:hover,
+.ps-shot:focus-visible {
+    border-color: var(--brand);
+}
+
+/* `contain` et non `cover` : un cadrage couperait justement le score, qui est ce que
+   l'image est censee prouver. Et pas de lissage - elle est faite de pixels. */
+.ps-shot img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    image-rendering: pixelated;
+}
+
+.ps-actions {
+    text-align: right;
+    white-space: nowrap;
+}
+
+.ps-replay {
+    padding: .34rem .7rem;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--text-soft);
+    font: inherit;
+    font-size: .8rem;
+    cursor: pointer;
+}
+
+.ps-replay:hover,
+.ps-replay:focus-visible {
+    border-color: var(--brand);
+    color: var(--brand-bright);
+}
+
+/* ── Notes ──────────────────────────────────────── */
+
+.ps-hint {
+    max-width: 46rem;
+    margin: .7rem 0 0;
+    color: var(--muted);
+    font-size: .84rem;
+}
+
+/* ── Les espacements ─────────────────────────────── */
+
+/* Le socle du site pose 160px de hero et 145px de section : deux blocs de DONNEES qui se
+   suivent et se lisent ensemble n'ont pas besoin d'un quart d'ecran vide entre eux. Ces
+   valeurs servent une page vitrine, pas une fiche. */
+.ps-hero {
+    padding: clamp(2.2rem, 4.5vw, 3.6rem) 0 clamp(1.4rem, 3vw, 2.2rem);
+}
+
+.ps-hero + .section {
+    padding: clamp(1.6rem, 3vw, 2.4rem) 0 clamp(2.4rem, 5vw, 3.6rem);
+}
+
+/* « Meilleurs scores » titrait a 6rem avec 55px dessous, pour annoncer un tableau. Le
+   titre reste le plus gros de la page sans avaler l'ecran. */
+.ps-hero + .section > .container > h2 {
+    margin-bottom: .9rem;
+    font-size: clamp(1.5rem, 3vw, 2.1rem);
+}
+
+.ps-activity {
+    margin-top: 0;
+}
+
+.ps-totals {
+    margin-top: .9rem;
+}

@@ -1,0 +1,15 @@
+/* Barre de filtres « Most played games ». Externalisé (le CSP style-src 'self' bloque
+   tout <style> inline). S'appuie sur les variables de app.css (chargé en amont). */
+.insight-filters { display:flex; flex-wrap:wrap; gap:12px; margin:0 0 18px; align-items:stretch; }
+.insight-filters input, .insight-filters select {
+    box-sizing:border-box; min-height:48px; padding:12px 14px; font-size:.98rem;
+    color:var(--text); background:rgba(4,7,13,.82); border:1px solid var(--line-strong);
+    border-radius:10px; transition:border-color 160ms ease, box-shadow 160ms ease;
+    -webkit-appearance:none; -moz-appearance:none; appearance:none; }
+.insight-filters input { flex:2 1 240px; }
+.insight-filters select { flex:1 1 180px; padding-right:34px; cursor:pointer;
+    background-repeat:no-repeat; background-position:right 12px center;
+    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path d='M0 0l5 6 5-6z' fill='%237e899e'/></svg>"); }
+.insight-filters input::placeholder { color:#7e899e; }
+.insight-filters input:focus, .insight-filters select:focus {
+    outline:0; border-color:var(--brand); box-shadow:0 0 0 4px rgba(134, 93, 255,.08); }

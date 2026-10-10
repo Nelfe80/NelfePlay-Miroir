@@ -1,0 +1,68 @@
+/*
+ * Popup officielle « Détection de ta borne » (pages /apiexpose-check et /apiexpose-ok),
+ * ouverte en window.open centré. Charte Nelfe Play : fond sombre, carte centrée, accent
+ * violet, pastille de résultat verte. Feuille EXTERNE (la CSP interdit le style inline).
+ */
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; }
+
+body {
+  font: 500 15px/1.5 "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", sans-serif;
+  color: #f5f7fb;
+  background:
+    radial-gradient(125% 90% at 50% -12%, rgba(134, 93, 255, .30), transparent 60%),
+    radial-gradient(95% 80% at 50% 118%, rgba(240, 75, 189, .16), transparent 55%),
+    #060811;
+  display: flex; align-items: center; justify-content: center;
+  padding: 22px; overflow: hidden;
+}
+
+.nc-card {
+  width: 100%; max-width: 340px; text-align: center;
+  padding: 30px 26px 26px;
+  background: linear-gradient(180deg, rgba(17, 24, 39, .94), rgba(12, 17, 29, .94));
+  border: 1px solid rgba(169, 139, 255, .22);
+  border-radius: 22px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, .5), inset 0 1px 0 rgba(255, 255, 255, .05);
+}
+
+.nc-logo {
+  width: 54px; height: 54px; display: block; margin: 0 auto 12px;
+  filter: drop-shadow(0 6px 18px rgba(134, 93, 255, .55));
+}
+.nc-brand { font-weight: 800; letter-spacing: .2px; font-size: 1.06rem; margin: 0 0 22px; }
+.nc-brand span { color: #A98BFF; }
+
+.nc-status { color: #ccd5e5; margin: 16px 0 0; font-size: .98rem; min-height: 1.4em; }
+.nc-sub { color: #8f9bb0; margin: 6px 0 0; font-size: .82rem; }
+
+/* état « vérification » : anneau qui tourne */
+.nc-spinner {
+  width: 46px; height: 46px; margin: 4px auto 0; border-radius: 50%;
+  border: 4px solid rgba(169, 139, 255, .18);
+  border-top-color: #A98BFF;
+  animation: nc-spin .8s linear infinite;
+}
+@keyframes nc-spin { to { transform: rotate(360deg); } }
+
+/* état « résultat » : pastille qui apparaît en pop */
+.nc-badge {
+  width: 58px; height: 58px; margin: 2px auto 0; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.8rem; font-weight: 800; line-height: 1;
+  animation: nc-pop .36s cubic-bezier(.2, 1.3, .4, 1) both;
+}
+.nc-ok .nc-badge { background: rgba(92, 227, 161, .16); color: #5ce3a1; border: 2px solid rgba(92, 227, 161, .55); }
+.nc-down .nc-badge { background: rgba(255, 123, 142, .14); color: #ff7b8e; border: 2px solid rgba(255, 123, 142, .5); }
+@keyframes nc-pop { from { transform: scale(.4); opacity: 0; } }
+
+/* le bon état s'affiche via la classe du <body> (nc-check / nc-ok / nc-down) */
+.nc-spinner, .nc-badge { display: none; }
+.nc-check .nc-spinner { display: block; }
+.nc-ok .nc-badge, .nc-down .nc-badge { display: flex; }
+
+@media (prefers-reduced-motion: reduce) {
+  .nc-spinner { animation-duration: 1.6s; }
+  .nc-badge { animation: none; }
+}

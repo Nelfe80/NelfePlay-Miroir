@@ -1,0 +1,414 @@
+/* La fiche d'un jeu du scoring : son record en image, puis son classement.
+   Les couleurs viennent des jetons du site ; une fiche avec sa propre palette
+   se lirait comme une page d'ailleurs. */
+
+.gs-head {
+    display: grid;
+    grid-template-columns: minmax(0, 20rem) minmax(0, 1fr);
+    /* La capture se cale en HAUT du texte. Centree, elle flottait plus bas que
+       le surtitre et la page partait de travers. */
+    align-items: start;
+    gap: clamp(1.2rem, 3vw, 2.2rem);
+}
+
+/* La capture est un tube : la forme (4/3), le `contain`, l'absence de lissage
+   et le voile viennent de `crt-tube` dans app.css, partages avec l'accueil. Il
+   ne reste ici que le cadre de la fiche.
+
+   Le carre d'avant donnait au vertical d'arcade deux larges bandes noires ; le
+   4/3 est la forme d'un moniteur, et elle ne change pas d'un jeu a l'autre. */
+.gs-shot {
+    margin: 0;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
+
+.gs-shot.is-clickable img {
+    cursor: zoom-in;
+}
+
+/* La colonne de la capture porte aussi sa legende : la regle et la date. Elles
+   sont DANS la colonne, pas dans la figure, parce que la figure est un tube en
+   4/3 qui masque ce qui depasse. */
+.gs-shot-col {
+    display: grid;
+    gap: .6rem;
+}
+
+.gs-shot-meta {
+    display: grid;
+    gap: .2rem;
+    padding: 0 .15rem;
+}
+
+.gs-rule,
+.gs-date {
+    margin: 0;
+    font-size: .86rem;
+}
+
+.gs-rule {
+    color: var(--text-soft);
+}
+
+.gs-date {
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+}
+
+.gs-zoom {
+    position: absolute;
+    /* Devant le voile du tube (z-index 2). Sans cette ligne, le bouton passait
+       dessous des que la capture est devenue un tube : il etait dans la page,
+       on ne le voyait plus. */
+    z-index: 3;
+    right: 10px;
+    bottom: 10px;
+    padding: .25rem .6rem;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    background: rgba(6, 8, 17, .72);
+    color: var(--text-soft);
+    font: inherit;
+    font-size: .76rem;
+    cursor: pointer;
+}
+
+.gs-zoom:hover,
+.gs-zoom:focus-visible {
+    border-color: var(--brand);
+    color: var(--brand-bright);
+}
+
+.gs-hero h1 {
+    margin: 0;
+    font-size: clamp(2rem, 3.8vw, 3.2rem);
+}
+
+.gs-system {
+    margin: .2rem 0 0;
+    color: var(--muted);
+    font-size: .84rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+}
+
+/* Le filtre de machine : un meme jeu ouvert sur plusieurs machines. */
+.gs-machines {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+    margin: .45rem 0 0;
+}
+
+.gs-machine {
+    padding: .2rem .7rem;
+    font-size: .8rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    text-decoration: none;
+    transition: color .12s ease, border-color .12s ease;
+}
+
+.gs-machine:hover,
+.gs-machine:focus-visible {
+    color: var(--text);
+    border-color: var(--line-strong);
+}
+
+.gs-machine.is-active {
+    color: var(--text);
+    background: var(--surface-raised);
+    border-color: var(--line-strong);
+}
+
+.gs-record {
+    margin-top: .9rem;
+}
+
+/* Le meme code couleur que le certificat de record : un score certifie se reconnait a sa
+   couleur, et deux teintes differentes pour la meme chose obligeraient a se demander si
+   c'est bien la meme. Le halo et le monospace tabulaire viennent de la aussi. */
+.gs-score {
+    margin: 0;
+    color: #ffcb05;
+    font-family: ui-monospace, Consolas, monospace;
+    font-size: clamp(2.2rem, 4.4vw, 3.6rem);
+    font-weight: 800;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+    text-shadow: 0 0 40px #ffcb0530, 0 2px 0 #0a0f28;
+}
+
+/* Un jeu ouvert sans score : l'invitation tient la place du record, dans sa couleur. */
+.gs-empty {
+    margin: 0;
+    max-width: 30ch;
+    color: #ffcb05;
+    font-size: clamp(1.15rem, 2vw, 1.5rem);
+    font-weight: 800;
+    line-height: 1.25;
+}
+
+.gs-holder {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .6rem;
+    margin: .6rem 0 0;
+}
+
+.gs-where {
+    margin: .3rem 0 0;
+    color: var(--muted);
+    font-size: .84rem;
+}
+
+/* La case de partage se lit avec les boutons : elle prend toute la largeur pour ne pas
+   se faire prendre pour l'un d'eux. */
+.gs-share {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    width: 100%;
+    /* Pas de marge NEGATIVE ici : elle annulait le `gap` du conteneur et collait la case
+       aux boutons. C'est au conteneur d'espacer ses lignes, pas a l'un de ses enfants de
+       reprendre ce qu'il donne. */
+    margin: .2rem 0 0;
+    color: var(--text-soft);
+    font-size: .88rem;
+    cursor: pointer;
+}
+
+/* L'explication tient sur la meme ligne quand la place existe, et passe dessous sinon :
+   elle accompagne la case, elle ne la remplace pas. */
+.gs-share-help {
+    color: var(--muted);
+    font-size: .8rem;
+}
+
+.gs-share input {
+    width: 1rem;
+    height: 1rem;
+    accent-color: var(--brand);
+    cursor: pointer;
+}
+
+/* Le choix d'autorisation, subordonne a la diffusion : il prend toute la largeur et
+   s'indente, pour qu'on lise qu'il depend de la case au-dessus. */
+.gs-join {
+    width: 100%;
+    margin: 0;
+    padding: 0 0 .2rem 1.6rem;
+    border: 0;
+}
+
+.gs-join legend {
+    padding: 0;
+    color: var(--muted);
+    font-size: .82rem;
+}
+
+.gs-join label {
+    display: inline-flex;
+    align-items: center;
+    gap: .35rem;
+    margin-right: 1rem;
+    color: var(--text-soft);
+    font-size: .86rem;
+    cursor: pointer;
+}
+
+.gs-join input {
+    accent-color: var(--brand);
+    cursor: pointer;
+}
+
+/* Ce que devient le score si quelqu'un rejoint : sa propre ligne, sous les trois choix. */
+.gs-join .gs-join-unranked {
+    display: block;
+    margin-top: .35rem;
+}
+
+.gs-actions {
+    display: flex;
+    flex-wrap: wrap;
+    /* Les lignes de ce bloc sont heterogenes — une case, un choix, des boutons — d'ou un
+       espacement VERTICAL plus genereux que l'horizontal, sinon les rangees se touchent. */
+    gap: 14px 12px;
+    align-items: center;
+    margin: 1rem 0 0;
+}
+
+/* Le classement du jeu reprend le tableau des classements a l'identique : il ne lui
+   manque que le titre de section, que la fiche pose elle-meme. */
+.gs-board > .container > h2 {
+    margin-bottom: 1.2rem;
+}
+
+@media (max-width: 820px) {
+    .gs-head {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .gs-shot-col {
+        max-width: 22rem;
+    }
+}
+
+/* La preuve sur la page : meme discretion que dans la boite. */
+/* La phrase qui remplace les deux boutons hors Windows. Elle occupe la ligne
+   entiere : glissee entre des boutons, elle passerait pour une legende. */
+.gs-other-platform {
+    flex-basis: 100%;
+    max-width: 62ch;
+    margin: 0;
+    color: var(--text-soft);
+    font-size: .88rem;
+    line-height: 1.5;
+}
+
+.gs-proof {
+    margin: .55rem 0 0;
+}
+
+.gs-proof a {
+    display: inline-flex;
+    align-items: center;
+    gap: .4rem;
+    color: var(--text-soft);
+    font-size: .84rem;
+    text-decoration: underline;
+    text-decoration-color: rgba(151, 174, 211, 0.38);
+    text-underline-offset: .22em;
+}
+
+.gs-proof a:hover,
+.gs-proof a:focus-visible {
+    color: var(--brand-bright);
+    text-decoration-color: var(--brand);
+}
+
+.gs-proof img {
+    flex: none;
+    display: block;
+}
+
+/* Le hero du site respire pour une page d'accueil ; une fiche est plus dense, et trop d'air
+   entre les blocs oblige a faire defiler pour lire ce qui va ensemble. */
+.gs-hero {
+    padding: clamp(48px, 6vw, 84px) 0 clamp(34px, 4.5vw, 58px);
+}
+
+.gs-board {
+    padding-top: clamp(24px, 3vw, 40px);
+}
+
+/* ── Avec quoi ce classement se dispute ──────────────────────────────────── */
+/* Sous la capture : l'empreinte des dumps acceptes et les coeurs homologues. Petit,
+   gris, en retrait - on ne vient pas lire ca, on vient le chercher quand on en a
+   besoin. La colonne fait 20rem : une empreinte sha1 s'y coupe plutot que de pousser
+   la page (demande user 2026-09-23). */
+.gs-tech {
+    margin-top: 0.9rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--line);
+    font-size: 0.78rem;
+    color: var(--muted);
+}
+
+/* Une seule ligne pour toutes les empreintes : ce sont des gestes cote a cote,
+   plus des valeurs a lire. */
+.gs-tech-line {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.2rem 0.9rem;
+    margin: 0.15rem 0 0;
+}
+
+.gs-hash-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+}
+
+.gs-tech-algo {
+    flex: none;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    opacity: 0.75;
+}
+
+.gs-copy {
+    flex: none;
+    padding: 0 0.3rem;
+    font-size: 0.85rem;
+    line-height: 1.2;
+    color: var(--muted);
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: color .15s, border-color .15s, background .15s;
+}
+
+.gs-copy:hover { color: var(--text); border-color: var(--line-strong); }
+
+.gs-copy:focus-visible {
+    outline: 2px solid var(--brand-bright);
+    outline-offset: 2px;
+}
+
+/* Copie faite : le bouton le dit lui-meme, sans bulle ni message ailleurs. */
+.gs-copy.is-done {
+    color: var(--brand-bright);
+    border-color: color-mix(in srgb, var(--brand) 45%, transparent);
+}
+
+/* Le coeur que la borne DU LECTEUR chargera : on le souligne parmi les autres plutot
+   que de le repeter ailleurs. */
+.gs-core.is-yours {
+    color: var(--brand-bright);
+    background: color-mix(in srgb, var(--brand) 24%, transparent);
+    border-color: var(--brand-bright);
+}
+
+.gs-tech-note {
+    margin: 0.15rem 0 0;
+    font-size: 0.7rem;
+    opacity: 0.8;
+}
+
+.gs-tech-cores {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.3rem;
+    margin: 0.7rem 0 0;
+}
+
+.gs-tech-label {
+    flex-basis: 100%;
+    font-size: 0.7rem;
+    opacity: 0.8;
+}
+
+.gs-core {
+    padding: 0.15rem 0.5rem;
+    font-size: 0.72rem;
+    color: var(--text);
+    background: color-mix(in srgb, var(--brand) 12%, transparent);
+    border: 1px solid color-mix(in srgb, var(--brand) 32%, transparent);
+    border-radius: 999px;
+}
+
+/* Le visuel du jeu, montre faute de capture du record : legende discrete, jamais confondue avec la preuve. */
+.gs-illustration-note { margin: .5rem 0 0; font-size: .8rem; color: var(--muted, #8f93a8); font-style: italic; }
+/* Le code d'un mode cache, sous ses onglets : il accompagne le choix, il ne le crie pas. */
+.gs-mode-unlock { margin: .5rem 0 0; max-width: 62ch; font-size: .85rem; line-height: 1.45; color: var(--muted, #8f93a8); }

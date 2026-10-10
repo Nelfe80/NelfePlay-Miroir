@@ -1,0 +1,89 @@
+/* La page des scores en attente.
+   Volontairement sobre : c'est une page d'explication, pas un classement parallèle.
+   Rien n'y est mis en avant, aucun score n'y est chiffré. */
+
+.quarantine-empty {
+    color: var(--text-muted, #9aa0b5);
+    font-size: 1.05rem;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.quarantine-list {
+    display: grid;
+    gap: 1rem;
+    list-style: none;
+    margin: 0 0 2.5rem;
+    padding: 0;
+}
+
+.quarantine-item {
+    background: rgba(255, 255, 255, .03);
+    border: 1px solid rgba(255, 255, 255, .08);
+    /* Le liseré dit l'état sans qu'on ait à lire : en attente, reconnu, écarté. */
+    border-left: 3px solid var(--etat, #8a8fa3);
+    border-radius: 10px;
+    padding: 1rem 1.15rem;
+}
+
+.quarantine-item.is-wait { --etat: #d9a441; }
+.quarantine-item.is-ok   { --etat: #4fbf7b; }
+.quarantine-item.is-ko   { --etat: #c8556b; }
+
+.quarantine-head {
+    align-items: baseline;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem .75rem;
+    margin-bottom: .35rem;
+}
+
+.quarantine-emulator {
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+.quarantine-version {
+    color: var(--text-muted, #9aa0b5);
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: .85rem;
+}
+
+.quarantine-badge {
+    background: color-mix(in srgb, var(--etat) 18%, transparent);
+    border-radius: 999px;
+    color: var(--etat);
+    font-size: .72rem;
+    letter-spacing: .04em;
+    margin-left: auto;
+    padding: .2rem .6rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+.quarantine-count {
+    font-size: .95rem;
+    margin: 0 0 .2rem;
+}
+
+.quarantine-why {
+    color: var(--text-muted, #9aa0b5);
+    font-size: .88rem;
+    margin: 0;
+}
+
+.quarantine-explain {
+    border-top: 1px solid rgba(255, 255, 255, .08);
+    padding-top: 1.5rem;
+}
+
+.quarantine-explain h2 {
+    font-size: 1.1rem;
+    margin: 0 0 .6rem;
+}
+
+.quarantine-explain p {
+    color: var(--text-muted, #9aa0b5);
+    font-size: .92rem;
+    margin: 0 0 .6rem;
+}

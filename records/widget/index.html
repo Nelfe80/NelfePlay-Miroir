@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NelfePlay records - widget</title>
+<style>
+  :root{--ink:#f5f7fb;--dim:#ccd5e5;--faint:#8f9bb0;--panel:#0c111d;--panel2:#111827;--line:#1e2740;--brand:#865DFF;--hill:#A98BFF;--hill-lo:#5B34D6;--gold:#ffc96b}
+  *{box-sizing:border-box}html,body{margin:0;background:transparent}
+  .w{font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;color:var(--ink);
+    border:1px solid var(--line);border-radius:14px;overflow:hidden;
+    background:linear-gradient(180deg,var(--panel2),var(--panel));max-width:360px}
+  .hd{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:11px 13px;border-bottom:1px solid var(--line)}
+  .hd .g{font-weight:900;font-size:14px;line-height:1.1;letter-spacing:-.01em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .hd .tag{font-size:8.5px;letter-spacing:.2em;color:var(--hill);border:1px solid var(--hill-lo);border-radius:5px;padding:2px 5px;text-transform:uppercase;flex:none}
+  .rows{display:flex;flex-direction:column}
+  .r{display:grid;grid-template-columns:26px 1fr auto;gap:9px;align-items:center;padding:8px 13px;border-top:1px solid #ffffff06;font-size:13px}
+  .r:first-child{border-top:0}
+  .r .rk{font-weight:900;color:var(--faint);font-variant-numeric:tabular-nums}
+  .r .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:600}
+  .r .sc{font-family:ui-monospace,Consolas,monospace;font-weight:800;color:var(--gold);font-variant-numeric:tabular-nums}
+  .ft{display:flex;align-items:center;justify-content:space-between;padding:9px 13px;border-top:1px solid var(--line);font-size:11px}
+  .ft a{color:var(--brand);text-decoration:none;font-weight:700}
+  .ft .by{color:var(--faint)}.ft .by b{color:var(--brand)}
+  .empty{padding:16px 13px;color:var(--dim);font-size:12.5px}
+</style>
+</head><body>
+<div class="w" id="w">
+  <div class="hd"><span class="g" id="g" translate="no">…</span><span class="tag">records</span></div>
+  <div class="rows" id="rows"></div>
+  <div class="ft"><a id="all" href="#" target="_blank" rel="noopener"></a><span class="by" translate="no">Nelfe<b>Play</b></span></div>
+</div>
+<script>
+const P=new URLSearchParams(location.search);
+const system=P.get('system')||'megadrive', game=P.get('game')||'', ruleset=P.get('ruleset')||'1cc';
+const n=Math.max(1,Math.min(10,+(P.get('n')||5))); let LANG=(P.get('lng')||'en');
+const I={en:{anon:"Anonymous",pts:"pts",all:"Full ranking →",empty:"No certified score yet."},
+ fr:{anon:"Anonyme",pts:"pts",all:"Classement complet →",empty:"Aucun score certifié."},
+ es:{anon:"Anónimo",pts:"pts",all:"Clasificación completa →",empty:"Aún no hay puntuación."},
+ ja:{anon:"匿名",pts:"点",all:"全ランキング →",empty:"認証スコアなし。"},
+ zh:{anon:"匿名",pts:"分",all:"完整排行榜 →",empty:"暂无认证分数。"},
+ ko:{anon:"익명",pts:"점",all:"전체 순위 →",empty:"인증 점수 없음。"}};
+if(!I[LANG])LANG='en'; const T=k=>(I[LANG]||I.en)[k];
+const gt=game.replace(/-/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
+document.getElementById('g').textContent=gt;
+const board=`https://nelfeplay.com/records/${system}/${game}/${ruleset}/#${LANG}`;
+const a=document.getElementById('all'); a.href=board; a.textContent=T('all');
+(async()=>{
+  try{
+    const d=await (await fetch(`https://nelfeplay.com/api/v1/scores/leaderboard?rom_group=${encodeURIComponent(game)}&ruleset=${encodeURIComponent(ruleset)}&limit=${n}`)).json();
+    const rows=(d.leaderboard||[]);
+    if(!rows.length){document.getElementById('rows').innerHTML=`<div class="empty">${T('empty')}</div>`;return;}
+    const med={1:'🥇',2:'🥈',3:'🥉'};
+    document.getElementById('rows').innerHTML=rows.map(r=>`<div class="r">
+      <span class="rk">${med[r.rank]||('#'+r.rank)}</span>
+      <span class="nm"${r.anonymous?'':' translate="no"'}>${flag(r.country)}${r.anonymous?T('anon'):esc(r.player)}</span>
+      <span class="sc" translate="no">${Number(r.score).toLocaleString(LANG)} <small style="color:var(--faint);font-weight:600">${T('pts')}</small></span></div>`).join('');
+  }catch(e){document.getElementById('rows').innerHTML=`<div class="empty">${T('empty')}</div>`;}
+})();
+function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+function flag(c){return (c&&/^[A-Za-z]{2}$/.test(c))?String.fromCodePoint(...[...c.toUpperCase()].map(x=>0x1F1E6+x.charCodeAt(0)-65))+' ':'';}
+</script>
+</body></html>

@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Double Dragon · records certifiés - NelfePlay</title>
+<meta name="description" content="Classement certifié de Sonic the Hedgehog (Mega Drive, 1cc) sur NelfePlay. Scores mesurés sur la machine, signés (ECDSA P-256) et vérifiés. Page statique, aucune requête serveur.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='14' font-size='14'%3E%F0%9F%8F%85%3C/text%3E%3C/svg%3E">
+<style>
+  :root{--ink:#f5f7fb;--dim:#ccd5e5;--faint:#8f9bb0;--panel:#0c111d;--panel2:#111827;--line:#1e2740;--line2:#2b3a5c;
+    --brand:#865DFF;--ring:#ffcb05;--hill:#A98BFF;--hill-lo:#5B34D6;--gold:#ffc96b;--silver:#cdd8ee;--copper:#e08a4d;--pending:#ff9d3c;--scan:rgba(255,255,255,.028)}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{background:radial-gradient(1200px 700px at 50% -12%,#865DFF14,transparent 60%),repeating-linear-gradient(0deg,transparent 0 2px,var(--scan) 2px 3px),linear-gradient(180deg,#0a0f1a,#060811 62%);
+    color:var(--ink);font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;min-height:100vh}
+  .wrap{max-width:940px;margin:0 auto;padding:clamp(18px,3vw,44px) clamp(14px,4vw,28px) 72px}
+  .topbar{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+  .logo{display:flex;align-items:center;font-weight:700;font-size:17px}.logo b{font-weight:inherit;color:var(--brand)}
+  .logo .tag{margin-left:10px;font-size:10.5px;letter-spacing:.24em;color:var(--hill);border:1px solid var(--hill-lo);border-radius:6px;padding:2px 7px;text-transform:uppercase}
+  .langs{display:flex;gap:2px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
+  .langs button{all:unset;cursor:pointer;font-size:12px;padding:5px 9px;border-radius:7px;color:var(--dim)}
+  .langs button[aria-current="true"]{background:var(--brand);color:#fff;font-weight:700}
+  .langs button:focus-visible{outline:2px solid var(--ring);outline-offset:2px}
+  .checker{height:12px;border-radius:3px;margin:20px 0 8px;background:repeating-conic-gradient(var(--hill) 0 25%,var(--hill-lo) 0 50%) 0 0/26px 26px;box-shadow:0 6px 22px #865DFF33,inset 0 -7px 12px #00000040}
+  h1{font-size:clamp(30px,6.5vw,58px);line-height:.98;margin:.18em 0 .05em;font-weight:900;letter-spacing:-.02em;text-wrap:balance;text-shadow:0 2px 0 #0a0f1a,0 0 34px #865DFF40}
+  h1 b{color:var(--brand)}
+  /* Logo système en couleur, sur fond transparent (variante « -w » privilégiée) ;
+     ombre douce pour le détacher du fond sombre, sans cartouche. */
+  .plate{display:inline-flex;align-items:center;margin:14px 0 4px}
+  .plate img{display:block;height:30px;max-width:190px;width:auto;object-fit:contain;filter:drop-shadow(0 1px 2px rgba(0,0,0,.55))}
+  .breadcrumb{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+  .meta{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;margin-top:10px}
+  .chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:5px 12px;font-size:12.5px}
+  .chip.ver{border-color:#2b6b3e;background:#0e2a1a;color:#bff7cf}.chip.ver svg{width:13px;height:13px}
+  .dump{display:flex;flex-wrap:wrap;gap:6px 8px;align-items:center;margin-top:10px;font-size:11.5px;color:var(--faint)}
+  .dump .hash{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:5px 10px;font-family:ui-monospace,Consolas,monospace;color:var(--dim);cursor:pointer}
+  .dump .hash:hover{border-color:var(--line2);color:var(--ink)}
+  .dump .hash b{color:var(--faint);font-family:"Segoe UI",system-ui,sans-serif;font-weight:700;letter-spacing:.04em}
+  .dump .hash .cp{color:var(--brand);font-size:12px}
+  .dump .hash.copied{border-color:var(--hill);color:var(--hill)}
+
+  .podium{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:26px 0 8px}
+  @media (max-width:640px){.podium{grid-template-columns:1fr}}
+  .pod .when{font-size:11px;color:var(--faint);margin-top:3px;font-variant-numeric:tabular-nums}
+  .pod{border:1px solid #8a6b00;border-radius:16px;padding:18px 16px;background:linear-gradient(180deg,#241d05,#141024);text-align:center;box-shadow:0 26px 60px -28px #ffcb0522,0 0 0 1px #ffcb0518 inset}
+  .pod .medal{font-size:38px;filter:drop-shadow(0 4px 14px #ffcb0555)}
+  .pod .who{margin-top:8px;font-weight:800;font-size:17px}
+  .pod .sc{margin-top:4px;font-family:ui-monospace,Consolas,monospace;font-weight:800;font-size:32px;color:var(--ring);font-variant-numeric:tabular-nums}
+  .pod .pl{font-size:11px;color:var(--faint);margin-top:2px}
+
+  .you{margin:20px 0 4px;display:flex;align-items:center;gap:14px;border:1px solid #2a5a8a;border-radius:14px;padding:13px 16px;background:linear-gradient(90deg,#123055,#0c1a3e 72%);flex-wrap:wrap}
+  .you:empty{display:none}
+  .you .rk{font-family:ui-monospace,Consolas,monospace;font-weight:900;font-size:22px;color:var(--brand);font-variant-numeric:tabular-nums}
+  .you .rk small{display:block;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-family:"Segoe UI",system-ui,sans-serif;font-weight:700}
+  .you .info{flex:1;min-width:180px}.you .info b{font-weight:800}.you .info div{font-size:12px;color:var(--dim)}
+  .you .cta{display:inline-flex;align-items:center;gap:7px;background:var(--brand);color:#fff;text-decoration:none;font-weight:700;font-size:12.5px;border-radius:10px;padding:8px 14px}
+  .you .cta:hover{filter:brightness(1.1)}
+  .you .alt{font-size:11px;color:var(--faint);margin-top:5px}.you .alt a{color:var(--dim)}
+
+  .list{border:1px solid var(--line);border-radius:16px;overflow:hidden;background:linear-gradient(180deg,var(--panel2),var(--panel));margin-top:18px}
+  .list-h,.row{display:grid;grid-template-columns:52px 1fr auto;gap:12px;align-items:center;padding:13px 18px}
+  .list-h{border-bottom:1px solid var(--line);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);font-weight:700}
+  .list-h .r3{text-align:right}
+  .row{border-top:1px solid #ffffff08}
+  a.row{color:inherit;text-decoration:none;transition:background .12s}
+  a.row:hover{background:#ffffff06}
+  .rank{font-weight:900;font-size:17px;color:var(--faint);font-variant-numeric:tabular-nums}
+  .who{display:flex;align-items:center;gap:10px;min-width:0}.flag{font-size:16px}.nm{font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .nmwrap{display:flex;flex-direction:column;min-width:0}.when{font-size:11px;color:var(--faint);font-variant-numeric:tabular-nums}
+  /* Monde d'obtention + provenance salle (records station : nom + ville). */
+  .wico{font-size:13px;flex:none;opacity:.9}
+  .prov{font-size:11px;color:var(--faint);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  /* Barre de scope géographique : monde / pays / ville / salle (vue filtrée, rangs locaux). */
+  .scope{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:2px 0 12px}
+  .scope button,.scope select{font:inherit;font-size:12.5px;color:var(--dim);background:#ffffff08;border:1px solid var(--line);
+    border-radius:999px;padding:6px 12px;cursor:pointer;transition:background .12s,color .12s,border-color .12s}
+  .scope button:hover,.scope select:hover{background:#ffffff12}
+  /* La liste ouverte est dessinee par le systeme : sombre elle aussi, sinon gris sur blanc (2026-10-07). */
+  .scope select{color-scheme:dark}
+  .scope select option{background:#141826;color:#e8eaf6}
+  .scope button.on{background:var(--brand,#865DFF);color:#fff;border-color:transparent;font-weight:700}
+  .scope .scl{font-size:11px;color:var(--faint);letter-spacing:.12em;text-transform:uppercase;margin-right:2px}
+  .sc{text-align:right;font-family:ui-monospace,Consolas,monospace;font-weight:800;font-size:19px;font-variant-numeric:tabular-nums;color:var(--gold);text-shadow:0 0 18px #ffd24a30}
+  /* Fraîcheur du scellement : or=dernière génération scellée, argent/cuivre plus anciennes, orange=pas encore sur la blockchain. */
+  .sc.silver,.pod .sc.silver{color:var(--silver);text-shadow:none}
+  .sc.copper,.pod .sc.copper{color:var(--copper);text-shadow:none}
+  .sc.pending,.pod .sc.pending{color:var(--pending);text-shadow:none}
+  .sc.pending small{color:var(--pending);letter-spacing:.02em;text-transform:none;opacity:.9}
+  .sc small{display:block;font-size:9.5px;letter-spacing:.14em;color:var(--faint);text-transform:uppercase;font-family:"Segoe UI",system-ui,sans-serif;font-weight:700;margin-top:1px}
+  .empty{padding:26px 18px;text-align:center;color:var(--dim)}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:16px;font-size:12px;color:var(--dim)}
+  .legend .k{display:inline-flex;align-items:center;gap:7px}.sw{width:22px;height:6px;border-radius:3px}
+  .sw.gold{background:var(--gold)}.sw.silver{background:var(--silver)}.sw.copper{background:var(--copper)}.sw.pend{background:var(--pending)}
+
+  .flow{margin-top:30px;display:grid;grid-template-columns:repeat(4,1fr);gap:10px}
+  @media(max-width:640px){.flow{grid-template-columns:1fr 1fr}}
+  .step{border:1px solid var(--line);border-radius:12px;padding:12px 13px 14px;background:var(--panel)}
+  .step .n{font-size:10.5px;letter-spacing:.16em;color:var(--brand);font-weight:800;text-transform:uppercase}
+  .step h3{margin:7px 0 3px;font-size:13.5px}.step p{margin:0;font-size:12px;color:var(--dim);line-height:1.42}
+  .disclaimer{margin-top:22px;font-size:11.5px;color:var(--faint);border-top:1px solid var(--line);padding-top:14px}
+  .gen{font-family:ui-monospace,Consolas,monospace;font-size:10.5px;color:var(--faint);margin-top:8px}
+</style>
+</head><body>
+<div class="wrap">
+  <div class="topbar">
+    <span class="logo" translate="no">Nelfe<b>Play</b><span class="tag">records</span></span>
+    <div class="langs" role="group" aria-label="Langue">
+      <button aria-current="true" onclick="setLang('en',this)">EN</button><button onclick="setLang('fr',this)">FR</button>
+      <button onclick="setLang('es',this)">ES</button><button onclick="setLang('ja',this)">日本語</button>
+      <button onclick="setLang('zh',this)">中文</button><button onclick="setLang('ko',this)">한국어</button>
+    </div>
+  </div>
+  <div class="checker"></div>
+  <span class="plate" translate="no"><img src="/records/logos/arcade.svg" alt="" loading="lazy"></span>
+  <div class="breadcrumb" data-t="crumb">RECORDS CERTIFIÉS · Arcade</div>
+  <h1 translate="no"><b>Double</b> Dragon</h1>
+  <div class="meta">
+    <span class="chip" data-t="ruleset">Règle : 1cc · sans continue</span>
+    <span class="chip" data-t="metric">Métrique : score</span>
+    <span class="chip ver"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span data-t="verified">Scores vérifiés</span></span>
+  </div>
+  <div class="dump" translate="no">
+    <span data-t="dumplbl">Empreinte du dump :</span>
+    <span class="hash" data-copy="f2ddcaeae6d66fbda05678c5170719dc" onclick="cp(this)"><b>MD5</b> f2ddcaeae6d66fbda05678c5170719dc <span class="cp">⧉</span></span>
+    <span class="hash" data-copy="" onclick="cp(this)"><b>SHA-256</b>  <span class="cp">⧉</span></span>
+  </div>
+
+  <div class="podium" id="podium" translate="no"></div>
+  <div class="you" id="you"></div>
+  <div class="scope" id="scope" translate="no"></div>
+  <div class="list" translate="no"><div class="list-h"><div data-t="h_rank">Rang</div><div data-t="h_player">Joueur</div><div class="r3" data-t="h_score">Score</div></div><div id="rows"></div></div>
+
+  <div class="legend">
+    <span class="k"><span class="sw gold"></span><span data-t="l_gold">enregistré à l'instant</span></span>
+    <span class="k"><span class="sw silver"></span><span data-t="l_silver">enregistrement précédent</span></span>
+    <span class="k"><span class="sw copper"></span><span data-t="l_copper">encore avant</span></span>
+    <span class="k"><span class="sw pend"></span><span data-t="l_pend">en attente d'enregistrement blockchain</span></span>
+  </div>
+
+  <div class="flow">
+    <div class="step"><div class="n" data-t="s1n">01 · Mesure</div><h3 data-t="s1h">Surveillance de la RAM</h3><p data-t="s1p">Lecture RAM par le composant homologué ; score et checkpoints échantillonnés à la source.</p></div>
+    <div class="step"><div class="n" data-t="s2n">02 · Signature</div><h3 data-t="s2h">Sur la machine</h3><p data-t="s2p">Passeport de session signé ECDSA P-256, clé matérielle non exportable.</p></div>
+    <div class="step"><div class="n" data-t="s3n">03 · Vérification</div><h3 data-t="s3h">Côté serveur</h3><p data-t="s3p">Empreintes build/core/dump, monotonie de la trajectoire et fin de partie revérifiées.</p></div>
+    <div class="step"><div class="n" data-t="s4n">04 · Enregistrement</div><h3 data-t="s4h">Sur la blockchain</h3><p data-t="s4p">Empreinte du verdict horodatée sur la blockchain (OpenTimestamps) - antériorité prouvable, immuable.</p></div>
+  </div>
+  <p class="disclaimer" data-t="disc">Page statique générée - aucune requête serveur à la lecture. Seuls les scores au verdict « publié » y figurent.</p>
+  <p class="disclaimer" style="margin-top:6px"><a id="verifylink" href="https://nelfeplay.com/verify/" style="color:var(--brand);text-decoration:none"></a> &nbsp;·&nbsp; <a id="wikilink" href="https://nelfe80.github.io/NelfeScoringProtocol/" target="_blank" rel="noopener" style="color:var(--dim);text-decoration:none"></a></p>
+  <div class="gen" id="gen"></div>
+</div>
+
+<script>
+  // ===== DONNÉES (injectées par le générateur) =====
+  const G = {"system":"arcade","system_name":"Arcade","game":"double-dragon","ruleset":"1lc","total":2,"generated_at":"2026-10-10 20:00 UTC","refresh_min":15,"generation":275,"board":[{"rank":1,"score":6220,"label":"speedbull","anonymous":false,"country":"FR","context":"home","venue":"","city":"Brest","tier":"copper","block":970754,"token":"9d9111fd-1310-4161-baae-cfd84ae7fe12","at":"2026-10-10 10:47"},{"rank":2,"score":3450,"label":"Old AF Gamer","anonymous":false,"country":"CA","context":"home","venue":"","city":"Calgary","tier":"copper","block":970780,"token":"55a2132a-20f5-472f-8b03-e7dc262134e5","at":"2026-10-10 13:21"}],"me":null};
+
+  const fmt=n=>n.toLocaleString('fr-FR');
+  const medal={1:'🥇',2:'🥈',3:'🥉'};
+  // Code pays ISO (« FR ») → drapeau emoji (🇫🇷) via indicateurs régionaux ; sinon 🏳️.
+  const flag=c=>(c&&/^[A-Za-z]{2}$/.test(c))?String.fromCodePoint(...[...c.toUpperCase()].map(x=>0x1F1E6+x.charCodeAt(0)-65)):'🏳️';
+  const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+  // Icône du MONDE d'obtention (partagée avec le RGPC/app) : maison / stream / salle.
+  const ctxIcon=c=>({home:'🎮',stream:'📺',station:'🕹️'}[c]||'🎮');
+  // Provenance : un record STATION porte la salle (nom + ville). home/stream : rien
+  // (le monde par défaut, l'icône suffit) - pas de sur-affichage sur la majorité home.
+  const provText=r=>(r.context==='station')?[r.venue,r.city].filter(Boolean).join(' · '):'';
+
+  // ── Scope géographique : monde 👑 / pays 🏆 / ville 🏅 / salle ⭐ ─────────
+  // Vue FILTRÉE du board mondial (les rangs sont RECALCULÉS localement dans le
+  // scope : « top ville », « top salle »). Le board reste partitionné par monde
+  // en amont ; ici on ne fait que restreindre géographiquement l'affichage.
+  let SCOPE={kind:'world',value:'',label:''};   // initialisé depuis l'URL au 1er render (readScope est hoistée)
+  function readScope(){
+    const q=new URLSearchParams(location.search);
+    if(q.get('venue')) return {kind:'venue',value:q.get('venue'),label:q.get('venue')};
+    if(q.get('city')) return {kind:'city',value:q.get('city'),label:q.get('city')};
+    if(q.get('country')) return {kind:'country',value:q.get('country').toUpperCase(),label:q.get('country').toUpperCase()};
+    return {kind:'world',value:'',label:''};
+  }
+  function inScope(r){
+    if(SCOPE.kind==='world') return true;
+    if(SCOPE.kind==='country') return (r.country||'').toUpperCase()===SCOPE.value;
+    if(SCOPE.kind==='city') return (r.city||'')===SCOPE.value;
+    if(SCOPE.kind==='venue') return (r.venue||'')===SCOPE.value;
+    return true;
+  }
+  function viewBoard(){
+    if(SCOPE.kind==='world') return G.board;
+    let n=0; return G.board.filter(inScope).map(r=>({...r,rank:++n}));
+  }
+  const scopeMedal=()=>({world:'👑',country:'🏆',city:'🏅',venue:'⭐'}[SCOPE.kind]||'👑');
+  // Le NOM du pays dans la langue de la page (« France », « Bolivie ») plutot que son code (2026-10-07). Le
+  // navigateur les connait tous (Intl.DisplayNames) ; sans lui, le code reste. La valeur, elle, reste le code.
+  function countryName(code){
+    try{ return new Intl.DisplayNames([LANG],{type:'region'}).of(code)||code; }catch(e){ return code; }
+  }
+  const scopeLabel=()=>SCOPE.kind==='country'?countryName(SCOPE.value):SCOPE.label;
+  function setScope(s){ SCOPE=s; renderScopeBar(); renderBoard(); }
+  const distinct=sel=>[...new Set(G.board.map(sel).filter(Boolean))];
+  function renderScopeBar(){
+    const el=document.getElementById('scope'); if(!el) return;
+    const countries=distinct(r=>(r.country||'').toUpperCase());
+    const cities=distinct(r=>r.city);
+    const venues=distinct(r=>r.venue);
+    // Rien à cloisonner (un seul lieu/pays) → barre masquée.
+    if(countries.length<=1 && cities.length===0 && venues.length===0){ el.innerHTML=''; return; }
+    const opt=(list,cur,icon)=>list.map(v=>`<option value="${esc(v)}" ${cur===v?'selected':''}>${icon} ${esc(v)}</option>`).join('');
+    const optPays=(list,cur)=>list.map(v=>({v,n:countryName(v)})).sort((a,b)=>a.n.localeCompare(b.n,LANG))
+      .map(({v,n})=>`<option value="${esc(v)}" ${cur===v?'selected':''}>🏆 ${esc(n)}</option>`).join('');
+    let h=`<button class="${SCOPE.kind==='world'?'on':''}" onclick="setScope({kind:'world',value:'',label:''})">👑 ${T('sc_world')}</button>`;
+    if(countries.length>1) h+=`<select onchange="this.value&&setScope({kind:'country',value:this.value,label:this.value})"><option value="">🏆 ${T('sc_country')}</option>${optPays(countries,SCOPE.kind==='country'?SCOPE.value:'')}</select>`;
+    if(cities.length) h+=`<select onchange="this.value&&setScope({kind:'city',value:this.value,label:this.value})"><option value="">🏅 ${T('sc_city')}</option>${opt(cities,SCOPE.kind==='city'?SCOPE.value:'','🏅')}</select>`;
+    if(venues.length) h+=`<select onchange="this.value&&setScope({kind:'venue',value:this.value,label:this.value})"><option value="">⭐ ${T('sc_venue')}</option>${opt(venues,SCOPE.kind==='venue'?SCOPE.value:'','⭐')}</select>`;
+    el.innerHTML=h;
+  }
+
+  function renderBoard(){
+    const view=viewBoard();
+    // podium (jusqu'à 3, s'adapte s'il y en a moins) - top du scope courant.
+    const top=view.slice(0,3);
+    document.getElementById('podium').innerHTML = top.map(r=>{
+      const wi=r.context&&r.context!=='home'?` <span class="wico">${ctxIcon(r.context)}</span>`:'';
+      const pl=r.rank!==1?(r.rank===2?T('p2'):T('p3'))
+        :(SCOPE.kind==='world'?T('p1'):`${scopeMedal()} ${esc(scopeLabel())}`);
+      const pv=provText(r);
+      return `<div class="pod"><div class="medal">${medal[r.rank]||'#'+r.rank}</div>
+        <div class="who">${r.anonymous?T('anon'):esc(r.label)} ${flag(r.country)}${wi}</div>
+        <div class="sc ${r.tier||'pending'}">${fmt(r.score)}</div>
+        <div class="pl">${pl}</div>
+        ${pv?`<div class="when">🕹️ ${esc(pv)}</div>`:(r.at?`<div class="when">${r.at}</div>`:'')}</div>`;
+    }).join('');
+
+    // liste
+    const rows=view;
+    document.getElementById('rows').innerHTML = rows.length ? rows.map(r=>{
+      const wi=r.context&&r.context!=='home'?`<span class="wico">${ctxIcon(r.context)}</span>`:'';
+      const pv=provText(r);
+      const sub=pv?`<span class="prov">🕹️ ${esc(pv)}</span>`:(r.at?`<span class="when">${r.at}</span>`:'');
+      return `<a class="row" href="/records/${G.system}/${G.game}/${G.ruleset}/${r.token}/#${LANG}"><div class="rank">${r.rank}</div>
+        <div class="who">${wi}<span class="flag">${flag(r.country)}</span><span class="nmwrap"><span class="nm">${r.anonymous?T('anon'):esc(r.label)}</span>${sub}</span></div>
+        <div class="sc ${r.tier||'pending'}">${fmt(r.score)}<small>${T('pts')}</small></div></a>`;
+    }).join('')
+      : `<div class="empty">${T('empty')}</div>`;
+  }
+
+  let scopeInit=false;
+  function render(){
+    if(!scopeInit){ SCOPE=readScope(); scopeInit=true; } // depuis l'URL une seule fois (préservé au changement de langue)
+    renderScopeBar();
+    renderBoard();
+    // ta position : remplie par la sonde locale de la borne (renderYou/probeDevice).
+    renderYou();
+
+    document.getElementById('gen').innerHTML =
+      `mis à jour ${G.generated_at} · génération #${G.generation} · ${G.total} score(s)` +
+      (G.refresh_min ? ` · <span id="next" title="prochaine mise à jour des records"></span>` : '');
+    startCountdown();
+  }
+
+  // Décompte « prochaine mise à jour » : le cron serveur régénère toutes les
+  // G.refresh_min minutes, aligné sur l'horloge - on vise le prochain créneau.
+  let _cd = null;
+  function startCountdown(){
+    const iv = (G.refresh_min | 0) * 60;
+    const el = document.getElementById('next');
+    if (!iv || !el) return;
+    if (_cd) clearInterval(_cd);
+    const tick = () => {
+      const now = Math.floor(Date.now() / 1000);
+      const s = Math.max(0, Math.ceil((now + 1) / iv) * iv - now);
+      el.textContent = '🔄 ' + Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0');
+    };
+    tick();
+    _cd = setInterval(tick, 1000);
+  }
+
+  // ── Bloc « ta position » : sonde locale de la borne ─────────────────────────
+  // Sur une borne, la page (nelfeplay.com) interroge l'API locale APIExpose
+  // (127.0.0.1:12345 - joignable depuis HTTPS, exemptée de « mixed content »)
+  // pour le rang de CET appareil + le lien d'identification. Ailleurs (téléphone,
+  // PC), l'appel échoue silencieusement et le bloc reste masqué.
+  let ME=null;
+  function renderYou(){
+    const el=document.getElementById('you'); if(!el) return;
+    if(!ME){el.innerHTML='';return;}
+    const idUrl=ME.identify_url||'http://127.0.0.1:12345/link';
+    const pos = ME.rank!=null
+      ? `<div class="rk">#${fmt(ME.rank)}<small>${T('of')} ${fmt(ME.of)}</small></div>
+         <div class="info"><b>${T('you')}</b> · ${ME.anonymous?T('you_meta'):''}<div>${T('you_hint')}</div></div>`
+      : `<div class="rk">-</div><div class="info"><b>${T('you')}</b><div>${T('you_hint')}</div></div>`;
+    const cta = ME.paired
+      ? `<div class="alt">✓ <a href="https://nelfeplay.com/${LANG}/account">${T('account')}</a></div>`
+      : `<div><a class="cta" href="${idUrl}">🔗 ${T('identify')}</a>
+           <div class="alt">${T('or')} <a href="https://nelfeplay.com/${LANG}/account">${T('account')}</a></div></div>`;
+    el.innerHTML = pos + cta;
+  }
+  async function probeDevice(){
+    try{
+      const r=await fetch(`http://127.0.0.1:12345/api/v1/nelfeplay/records/me?rom_group=${encodeURIComponent(G.game)}&system=${encodeURIComponent(G.system||'')}&ruleset=${encodeURIComponent(G.ruleset)}`,{cache:'no-store'});
+      if(!r.ok) return;
+      ME=await r.json(); renderYou();
+    }catch(e){/* pas sur une borne : pas de bloc « ta position » */}
+  }
+
+  function cp(el){const v=el.getAttribute('data-copy');navigator.clipboard&&navigator.clipboard.writeText(v);
+    el.classList.add('copied');setTimeout(()=>el.classList.remove('copied'),1200);}
+
+  // ===== i18n via #lng =====
+  const I={
+    en:{wiki:"Documentation",verifylink:"Verify",records:"records",crumb:"CERTIFIED RECORDS · %SYS%",ruleset:"Ruleset: 1cc · no continue",metric:"Metric: score",verified:"Verified scores",dumplbl:"Dump fingerprint:",p1:"1st · World",p2:"2nd",p3:"3rd",of:"of",you:"You",you_meta:"unidentified machine",you_hint:"Identify your machine to keep this rank under your name.",identify:"Identify this machine",or:"or",account:"from your account",h_rank:"Rank",h_player:"Player",h_score:"Score",pts:"points",anon:"Anonymous",empty:"No certified score yet - be the first.",l_gold:"just recorded",l_silver:"previous record",l_copper:"before that",l_pend:"awaiting blockchain record",s1n:"01 · Measure",s1h:"RAM monitoring",s1p:"Read from RAM by the homologated component; score and checkpoints sampled at source.",s2n:"02 · Sign",s2h:"On the machine",s2p:"Session passport signed ECDSA P-256, non-exportable hardware key.",s3n:"03 · Verify",s3h:"Server-side",s3p:"Build/core/dump fingerprints, score monotonicity and game-end re-checked.",s4n:"04 · Record",s4h:"On the blockchain",s4p:"Verdict hash timestamped on the blockchain (OpenTimestamps) - provable priority, immutable.",disc:"Static generated page - no server call on read. Only published scores appear."},
+    fr:{wiki:"Documentation",verifylink:"Vérifier",records:"records",crumb:"RECORDS CERTIFIÉS · %SYS%",ruleset:"Règle : 1cc · sans continue",metric:"Métrique : score",verified:"Scores vérifiés",dumplbl:"Empreinte du dump :",p1:"1er · Monde",p2:"2e",p3:"3e",of:"sur",you:"Toi",you_meta:"machine non identifiée",you_hint:"Identifie ta machine pour garder ce rang à ton nom.",identify:"Identifier cette machine",or:"ou",account:"depuis ton compte",h_rank:"Rang",h_player:"Joueur",h_score:"Score",pts:"points",anon:"Anonyme",empty:"Aucun score certifié pour l'instant - sois le premier.",l_gold:"enregistré à l'instant",l_silver:"enregistrement précédent",l_copper:"encore avant",l_pend:"en attente d'enregistrement blockchain",s1n:"01 · Mesure",s1h:"Surveillance de la RAM",s1p:"Lecture RAM par le composant homologué ; score et checkpoints échantillonnés à la source.",s2n:"02 · Signature",s2h:"Sur la machine",s2p:"Passeport de session signé ECDSA P-256, clé matérielle non exportable.",s3n:"03 · Vérification",s3h:"Côté serveur",s3p:"Empreintes build/core/dump, monotonie de la trajectoire et fin de partie revérifiées.",s4n:"04 · Enregistrement",s4h:"Sur la blockchain",s4p:"Empreinte du verdict horodatée sur la blockchain (OpenTimestamps) - antériorité prouvable, immuable.",disc:"Page statique générée - aucune requête serveur à la lecture. Seuls les scores publiés y figurent."},
+    es:{wiki:"Documentación",verifylink:"Verificar",records:"records",crumb:"RÉCORDS CERTIFICADOS · %SYS%",ruleset:"Regla: 1cc · sin continue",metric:"Métrica: puntuación",verified:"Puntuaciones verificadas",dumplbl:"Huella del dump:",p1:"1º · Mundo",p2:"2º",p3:"3º",of:"de",you:"Tú",you_meta:"máquina no identificada",you_hint:"Identifica tu máquina para conservar este puesto.",identify:"Identificar esta máquina",or:"o",account:"desde tu cuenta",h_rank:"Puesto",h_player:"Jugador",h_score:"Puntuación",pts:"puntos",anon:"Anónimo",empty:"Aún no hay puntuación certificada - sé el primero.",l_gold:"recién registrado",l_silver:"registro anterior",l_copper:"antes",l_pend:"pendiente de registro blockchain",s1n:"01 · Medir",s1h:"Monitoreo de la RAM",s1p:"Lectura de RAM por el componente homologado; puntuación y checkpoints en origen.",s2n:"02 · Firmar",s2h:"En la máquina",s2p:"Pasaporte de sesión firmado ECDSA P-256, clave no exportable.",s3n:"03 · Verificar",s3h:"En el servidor",s3p:"Huellas build/core/dump, monotonía y fin de partida revisados.",s4n:"04 · Registro",s4h:"En la blockchain",s4p:"Hash del veredicto sellado en la blockchain (OpenTimestamps) - anterioridad probada, inmutable.",disc:"Página estática generada - sin llamada al servidor. Solo puntuaciones publicadas."},
+    ja:{wiki:"ドキュメント",verifylink:"検証",records:"records",crumb:"認証記録 · %SYS%",ruleset:"ルール：1cc・コンティニュー無し",metric:"指標：スコア",verified:"検証済みスコア",dumplbl:"ダンプの指紋：",p1:"1位・世界",p2:"2位",p3:"3位",of:"/",you:"あなた",you_meta:"未識別の端末",you_hint:"端末を識別してこの順位を自分の名前で保持。",identify:"この端末を識別",or:"または",account:"アカウントから",h_rank:"順位",h_player:"プレイヤー",h_score:"スコア",pts:"点",anon:"匿名",empty:"認証スコアはまだありません - 最初になろう。",l_gold:"記録直後",l_silver:"前回の記録",l_copper:"その前",l_pend:"ブロックチェーン記録待ち",s1n:"01 · 計測",s1h:"RAMの監視",s1p:"認定コンポーネントがRAMを読み取り、発生源で採取。",s2n:"02 · 署名",s2h:"端末で",s2p:"セッションパスポートをECDSA P-256で署名、非エクスポート鍵。",s3n:"03 · 検証",s3h:"サーバー側",s3p:"ビルド/コア/ダンプ指紋、単調性、終了を再確認。",s4n:"04 · 記録",s4h:"ブロックチェーンへ",s4p:"判定ハッシュをブロックチェーンに刻印（OpenTimestamps）- 先行性を証明。",disc:"静的生成ページ - 読み込み時にサーバー呼び出しなし。公開スコアのみ。"},
+    zh:{wiki:"文档",verifylink:"验证",records:"records",crumb:"认证记录 · %SYS%",ruleset:"规则：1cc · 无续关",metric:"指标：分数",verified:"已验证分数",dumplbl:"转储指纹：",p1:"第1名 · 全球",p2:"第2名",p3:"第3名",of:"/",you:"你",you_meta:"未识别设备",you_hint:"识别你的设备以保留此排名。",identify:"识别此设备",or:"或",account:"从你的账户",h_rank:"排名",h_player:"玩家",h_score:"分数",pts:"分",anon:"匿名",empty:"暂无认证分数 - 成为第一名。",l_gold:"刚刚记录",l_silver:"上次记录",l_copper:"更早",l_pend:"等待区块链记录",s1n:"01 · 测量",s1h:"RAM 监控",s1p:"认证组件读取RAM；分数与检查点在源头采样。",s2n:"02 · 签名",s2h:"在本机",s2p:"会话护照以ECDSA P-256签名，密钥不可导出。",s3n:"03 · 验证",s3h:"服务器端",s3p:"构建/核心/转储指纹、单调性、结束校验。",s4n:"04 · 记录",s4h:"记录到区块链",s4p:"裁决哈希封印于区块链（OpenTimestamps）- 可证先后。",disc:"静态生成页面 - 读取时无服务器调用。仅显示已发布分数。"},
+    ko:{wiki:"문서",verifylink:"검증",records:"records",crumb:"인증 기록 · %SYS%",ruleset:"규칙: 1cc · 컨티뉴 없음",metric:"지표: 점수",verified:"검증된 점수",dumplbl:"덤프 지문:",p1:"1위 · 세계",p2:"2위",p3:"3위",of:"/",you:"당신",you_meta:"미식별 기기",you_hint:"기기를 식별해 이 순위를 이름으로 보존.",identify:"이 기기 식별",or:"또는",account:"계정에서",h_rank:"순위",h_player:"플레이어",h_score:"점수",pts:"점",anon:"익명",empty:"아직 인증 점수가 없습니다 - 첫 주자가 되세요.",l_gold:"방금 기록",l_silver:"이전 기록",l_copper:"그 이전",l_pend:"블록체인 기록 대기",s1n:"01 · 측정",s1h:"RAM 모니터링",s1p:"인증 구성요소가 RAM을 읽어 원천에서 채취.",s2n:"02 · 서명",s2h:"기기에서",s2p:"세션 패스포트를 ECDSA P-256으로 서명, 비추출 키.",s3n:"03 · 검증",s3h:"서버에서",s3p:"빌드/코어/덤프 지문, 단조성, 게임 종료 재확인.",s4n:"04 · 기록",s4h:"블록체인에",s4p:"판정 해시를 블록체인에 봉인(OpenTimestamps) - 선후 증명.",disc:"정적 생성 페이지 - 읽기 시 서버 호출 없음. 게시된 점수만 표시."}
+  };
+  // Clés du filtre de scope géographique (fusionnées pour ne pas alourdir les
+  // lignes de dictionnaire ci-dessus). Monde 👑 / pays 🏆 / ville 🏅 / salle ⭐.
+  const SCOPE_I={
+    en:{sc_world:"World",sc_country:"Country",sc_city:"City",sc_venue:"Venue"},
+    fr:{sc_world:"Monde",sc_country:"Pays",sc_city:"Ville",sc_venue:"Salle"},
+    es:{sc_world:"Mundo",sc_country:"País",sc_city:"Ciudad",sc_venue:"Sala"},
+    ja:{sc_world:"世界",sc_country:"国",sc_city:"都市",sc_venue:"会場"},
+    zh:{sc_world:"全球",sc_country:"国家",sc_city:"城市",sc_venue:"场馆"},
+    ko:{sc_world:"세계",sc_country:"국가",sc_city:"도시",sc_venue:"장소"}
+  };
+  for(const l in SCOPE_I){ Object.assign(I[l]||(I[l]={}), SCOPE_I[l]); }
+  let LANG='en';
+  function T(k){return (I[LANG]||I.en)[k] ?? (I.en[k]||k)}
+  function apply(){document.documentElement.lang=LANG;document.querySelectorAll('[data-t]').forEach(e=>{const v=(I[LANG]||I.en)[e.getAttribute('data-t')];if(v==null)return;if(v.includes('%SYS%'))e.innerHTML=v.split('%SYS%').join('<span translate="no">'+(G.system_name||'')+'</span>');else e.textContent=v});const vl=document.getElementById('verifylink');if(vl){vl.textContent='🔎 '+T('verifylink');vl.href='https://nelfeplay.com/verify/#'+LANG;}const wk=document.getElementById('wikilink');if(wk)wk.textContent='📖 '+T('wiki');render()}
+  function setLang(l,btn){LANG=l;document.querySelectorAll('.langs button').forEach(b=>b.removeAttribute('aria-current'));if(btn)btn.setAttribute('aria-current','true');
+    const rest=(location.hash.split('|')[1]||'');location.hash=l+(rest?('|'+rest):'');apply()}
+  LANG=(location.hash||'#en').replace('#','').split('|')[0]||'en';if(!I[LANG])LANG='en';
+  const cur=[...document.querySelectorAll('.langs button')].find(x=>x.getAttribute('onclick').includes("'"+LANG+"'"));
+  if(cur){document.querySelectorAll('.langs button').forEach(x=>x.removeAttribute('aria-current'));cur.setAttribute('aria-current','true')}
+  apply();
+  // La sonde interroge l'API locale d'une BORNE (127.0.0.1). Lancée depuis
+  // une page HTTPS publique, elle fait demander au navigateur une permission
+  // d'accès au réseau local - à chaque visite, sur chaque téléphone, pour un
+  // appel qui ne peut pas aboutir là : le téléphone n'est pas la borne.
+  //
+  // Elle n'est donc tentée que si l'adresse le demande. Une borne qui ouvre
+  // cette page ajoute « ?borne=1 » ; personne d'autre ne paie la question.
+  if (new URLSearchParams(location.search).get('borne') === '1') { probeDevice(); }
+</script>
+</body></html>

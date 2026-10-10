@@ -1,0 +1,647 @@
+/* Classements des salles verifiees.
+ *
+ * Tout part des variables de app.css : cette page est une page du site, pas une
+ * fenetre posee dessus. La version relayee avait sa propre palette et se lisait
+ * comme un autre produit.
+ *
+ * Le vert de la mention « salle verifiee » est celui de --success, deja utilise
+ * ailleurs pour dire « c'est bon ». Il ne concurrence pas le violet de la
+ * marque : l'un signale un etat, l'autre porte l'identite.
+ */
+
+/* La colonne est large comme le tableau ; c'est la PHRASE qui garde sa laisse
+   de lecture. Une accroche qui court sur 1180 px se lit mal. */
+/* Le titre de la page est le logo World Scoring : le mot « Classement » reste dans le
+   h1 pour les lecteurs d'ecran, masque a l'oeil. La largeur suit l'ecran pour que
+   « WORLD SCORING » reste lisible sur telephone. */
+.rk-title {
+    margin: 0;
+    line-height: 1;
+}
+
+.rk-title-logo {
+    display: block;
+    width: clamp(232px, 36vw, 392px);
+    height: auto;
+}
+
+.rk-hero .page-lead {
+    max-width: 62ch;
+}
+
+/* La classe suffit a les designer : ecrite « .rk-hero .rk-tabs », la regle ne
+   valait que pour les classements et les onglets des contests collaient a la
+   phrase du dessus. */
+.rk-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 26px;
+}
+
+.rk-tabs a {
+    padding: 9px 18px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--text-soft);
+    text-decoration: none;
+    font-size: 0.94rem;
+    font-weight: 600;
+}
+
+.rk-tabs a:hover,
+.rk-tabs a:focus-visible {
+    border-color: var(--line-strong);
+    color: var(--text);
+}
+
+.rk-tabs a.is-active {
+    background: var(--brand);
+    border-color: var(--brand);
+    color: #fff;
+}
+
+/* ── Les trois mondes ────────────────────────────────────────────────────── */
+
+/* Ils changent le SENS du classement, pas seulement son contenu : ils se
+   posent donc au-dessus des filtres, et se lisent comme des onglets. */
+.rk-worlds {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 10px;
+}
+
+.rk-worlds button {
+    padding: 10px 18px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--text-soft);
+    font: inherit;
+    font-size: 0.94rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.rk-worlds button:hover {
+    border-color: var(--line-strong);
+    color: var(--text);
+}
+
+.rk-worlds button.is-active {
+    background: var(--brand);
+    border-color: var(--brand);
+    color: #fff;
+}
+
+.rk-worlds-note {
+    max-width: 78ch;
+    margin: 0 0 24px;
+    color: var(--muted);
+    font-size: 0.86rem;
+    line-height: 1.6;
+}
+
+/* ── Les filtres ─────────────────────────────────────────────────────────── */
+
+/* Les champs s'alignent par le HAUT (2026-10-07) : alignes par le bas, le petit mot sous la
+   recherche allongeait sa colonne et faisait descendre la liste du perimetre d'autant. */
+.rk-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 18px;
+    align-items: flex-start;
+    margin-bottom: 26px;
+}
+
+.rk-filters label {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    font-size: 0.78rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+/* « Monde » n'a pas de sous-choix : sa liste de valeurs se cache. L'attribut
+   hidden pose display:none, mais la regle ci-dessus le bat - une declaration
+   d'auteur l'emporte sur celle du navigateur, et le champ restait visible,
+   vide, a cote du perimetre. */
+.rk-filters label[hidden] {
+    display: none;
+}
+
+/* La liste des valeurs (pays, ville) n'a pas de libelle visible : une ligne vide en tient lieu,
+   pour que sa liste s'aligne sur celle du perimetre. */
+#rk-value-wrap::before {
+    content: "\00a0";
+}
+
+/* Le champ de recherche et les listes deroulantes appartiennent a la meme
+   rangee : ils se ressemblent, sinon l'un a l'air d'un ajout. */
+.rk-filters select,
+.rk-filters input {
+    min-width: 200px;
+    max-width: 100%;
+    padding: 10px 12px;
+    background: var(--surface-raised);
+    color: var(--text);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    font: inherit;
+    font-size: 0.95rem;
+    text-transform: none;
+    letter-spacing: normal;
+}
+
+/* Le petit mot sous le champ : il n'apparait que s'il reste des jeux hors de
+   la fenetre, ou si la recherche ne trouve rien. */
+.rk-hint {
+    min-height: 1.1em;
+    font-size: 0.72rem;
+    letter-spacing: normal;
+    text-transform: none;
+    color: var(--muted);
+}
+
+.rk-filters select:focus-visible,
+.rk-filters input:focus-visible {
+    outline: 2px solid var(--brand-bright);
+    outline-offset: 2px;
+}
+
+/* Ce que le defi choisi classe : une phrase sur sa propre ligne, sous les listes. Vide (la fiche
+   d'un jeu ne l'a pas, et le script ne l'a pas encore ecrite), elle ne prend pas de place. */
+.rk-challenge-note {
+    flex: 0 0 100%;
+    max-width: 78ch;
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.86rem;
+    line-height: 1.6;
+}
+
+.rk-challenge-note:empty {
+    display: none;
+}
+
+/* ── Le podium ───────────────────────────────────────────────────────────── */
+
+.rk-podium {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 16px;
+    margin: 0 0 26px;
+    padding: 0;
+    list-style: none;
+}
+
+.rk-place {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 20px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+}
+
+/* La premiere place se distingue par la couleur de la marque, pas par une
+ * taille differente : trois cartes de hauteurs inegales se lisent mal des que
+ * la grille passe sur une colonne. */
+.rk-place-1 {
+    border-color: color-mix(in srgb, var(--brand) 55%, transparent);
+    background: linear-gradient(180deg,
+        color-mix(in srgb, var(--brand) 12%, var(--surface)) 0%,
+        var(--surface) 60%);
+}
+
+.rk-medal {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+.rk-place-1 .rk-medal {
+    color: var(--brand-bright);
+}
+
+.rk-place-game {
+    color: var(--text-soft);
+    font-size: 0.92rem;
+}
+
+.rk-place-score {
+    font-size: 1.7rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+}
+
+/* ── Le joueur ───────────────────────────────────────────────────────────── */
+
+.rk-player {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.rk-avatar {
+    /* Les avatars sont dessines pixel par pixel : les lisser les abimerait. */
+    image-rendering: pixelated;
+    border-radius: 7px;
+    flex: none;
+}
+
+.rk-honors {
+    font-size: 0.85rem;
+}
+
+/* ── Le tableau ──────────────────────────────────────────────────────────── */
+
+/* Le tableau defile dans sa propre boite : sans cela, six colonnes poussent la
+ * page entiere de cote sur un telephone. */
+.rk-table-scroll {
+    overflow-x: auto;
+}
+
+.rk-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.rk-table th,
+.rk-table td {
+    padding: 11px 12px;
+    text-align: left;
+    border-bottom: 1px solid var(--line);
+    white-space: nowrap;
+}
+
+.rk-table th {
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+.rk-table .rk-rank {
+    width: 3ch;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+}
+
+.rk-table .rk-system {
+    color: var(--text-soft);
+}
+
+.rk-table .rk-score,
+.rk-table th.rk-score {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+}
+
+/* LE SCORE EST CE QU'ON VIENT LIRE. Il se lisait a la taille du reste de la ligne,
+   noye entre le pseudo, la provenance et le moteur ; il porte maintenant la ligne
+   (demande user 2026-09-22). L'entete garde sa petite taille : c'est une etiquette. */
+.rk-table td.rk-score {
+    font-size: 1.32rem;
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    color: var(--text, #eef2ff);
+}
+
+/* Ce qui accompagne le score ne grossit pas avec lui. */
+.rk-table td.rk-score .rk-replay,
+.rk-table td.rk-score .rk-flag,
+.rk-table td.rk-score .rk-emulator,
+.rk-table td.rk-score .rk-difficulty {
+    font-size: 0.72rem;
+    letter-spacing: 0;
+}
+
+.rk-table td.rk-score .rk-seal {
+    vertical-align: baseline;
+}
+
+@media (max-width: 640px) {
+    .rk-table td.rk-score {
+        font-size: 1.14rem;
+    }
+}
+
+/* ── Bouton « ▷ Replay » (funnel) ────────────────────────────────────────── */
+/* N'apparait QUE sur les records dont le replay est public. Pilule discrete a la
+ * couleur de la marque : presente sans concurrencer le score. Le clic est pris
+ * par le funnel (nelfe-runtime.js) via data-nelfe-replay. */
+.rk-replay {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: 4px;
+    padding: 4px 12px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1;
+    color: var(--brand-bright);
+    background: color-mix(in srgb, var(--brand) 16%, transparent);
+    border: 1px solid color-mix(in srgb, var(--brand) 45%, transparent);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background .15s, border-color .15s, transform .1s;
+}
+
+.rk-replay:hover {
+    background: color-mix(in srgb, var(--brand) 28%, transparent);
+    border-color: var(--brand-bright);
+}
+
+.rk-replay:active { transform: translateY(1px); }
+
+.rk-replay:focus-visible {
+    outline: 2px solid var(--brand-bright);
+    outline-offset: 2px;
+}
+
+.rk-replay[aria-busy="true"] { opacity: 0.6; cursor: progress; }
+
+/* ── « Sans replay : MAME autonome » ─────────────────────────────────────── */
+/* A la place du bouton, quand le moteur qui a mesure le score n'enregistre pas la
+ * partie. MAME hors RetroArch mesure par le pont Lua mais n'a pas les commandes
+ * reseau d'enregistrement : le record est vrai, il n'est simplement pas rejouable.
+ * Ton eteint, aucune bordure : c'est une note de bas de page, pas une alerte, et
+ * surtout pas un bouton mort qu'on essaierait de cliquer (2026-09-22). */
+.rk-no-replay {
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: middle;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0;
+    color: var(--muted, #94a3b8);
+    opacity: 0.85;
+    cursor: help;
+}
+
+@media (max-width: 640px) {
+    /* L'ecran etroit garde le score entier : la note passe dessous. */
+    .rk-no-replay {
+        display: block;
+        margin-left: 0;
+        margin-top: 2px;
+    }
+}
+
+/* Dans le tableau, le score est aligne a droite : le bouton suit le nombre sur
+ * la meme ligne plutot que de creer une colonne. */
+.rk-table .rk-score .rk-replay {
+    margin-top: 0;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+/* Sa propre ligne. Un liseré et un fond a peine teinte suffisent : un
+   classement se lit en balayant, et une ligne trop criarde ferait perdre les
+   autres. */
+.rk-table tr.is-me td {
+    background: color-mix(in srgb, var(--brand) 14%, transparent);
+}
+
+.rk-table tr.is-me td:first-child {
+    box-shadow: inset 3px 0 0 var(--brand-bright);
+}
+
+.rk-place.is-me {
+    border-color: var(--brand-bright);
+}
+
+.rk-state {
+    padding: 26px 12px;
+    color: var(--muted);
+    text-align: center;
+    white-space: normal;
+}
+
+.rk-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border: 1px solid color-mix(in srgb, var(--success) 45%, transparent);
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--success) 12%, transparent);
+    color: var(--success);
+    font-size: 0.74rem;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+/* La couleur dit la garantie. Le vert est reserve a la salle verifiee ; les
+   deux autres mondes restent neutres, sinon la pastille verte ne voudrait plus
+   rien dire. */
+.rk-badge-home,
+.rk-badge-stream {
+    border-color: var(--line-strong);
+    background: transparent;
+    color: var(--muted);
+}
+
+.rk-where {
+    margin-left: 8px;
+    color: var(--muted);
+    font-size: 0.82rem;
+}
+
+.rk-tally {
+    margin: 20px 0 0;
+    color: var(--muted);
+    font-size: 0.94rem;
+}
+
+.rk-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 16px 0 0;
+}
+
+/* ── Comment on sait que c'est vrai ──────────────────────────────────────── */
+
+.rk-trust {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 16px;
+}
+
+.rk-trust article {
+    padding: 22px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+}
+
+.rk-trust h3 {
+    margin: 0 0 8px;
+    font-size: 1.05rem;
+}
+
+.rk-trust p {
+    margin: 0;
+    color: var(--text-soft);
+    font-size: 0.94rem;
+}
+
+.rk-trust p + p {
+    margin-top: 12px;
+}
+
+.rk-trust a {
+    color: var(--brand-bright);
+}
+
+/* Le sceau de scellement, devant le score. Discret : il certifie, il ne decore pas. */
+.rk-seal {
+    display: inline-block;
+    margin-right: .35em;
+    vertical-align: -.12em;
+}
+
+/* La tete de l'avatar du moment : dessinee en 32 x 32, montree a la taille du portrait. */
+canvas.rk-avatar {
+  width: 28px;
+  height: 28px;
+  image-rendering: pixelated;
+}
+
+/* Classement des joueurs (sans jeu choisi) : podiums en medailles, points en or. */
+.rk-medals { display: inline-flex; gap: 8px; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.rk-medal-count { font-size: .92em; }
+.rk-games { font-variant-numeric: tabular-nums; }
+.rk-place .rk-medals { margin-top: 4px; }
+
+/* ── LES SCORES EN ATTENTE, DANS UN CLASSEMENT ─────────────────────────────
+   Un score joue sur un emulateur que la plateforme ne reconnait pas encore est
+   garde, pas detruit. Il se charge a la demande, sous le tableau, et ne prend
+   JAMAIS de rang : il se lit a cote du classement, jamais dedans.
+   (Ces regles vivent ici et non dans quarantaine.css : c'est cette page-ci qui
+   les affiche, et elle ne charge pas la feuille de la page d'explication.) */
+/* Les lignes en attente dans un classement : visibles, jamais confondues avec un rang.
+   Pas de numéro, pas de sceau, et un fond qui les met en retrait. */
+.rk-row.is-pending {
+    opacity: .72;
+}
+
+.rk-row.is-pending td:first-child::before {
+    color: var(--text-muted, #9aa0b5);
+    content: '·';
+}
+
+.rk-pending-tag {
+    background: rgba(217, 164, 65, .16);
+    border-radius: 999px;
+    color: #d9a441;
+    font-size: .68rem;
+    letter-spacing: .03em;
+    margin-left: .45rem;
+    padding: .12rem .45rem;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+/* La barre sous le classement. Le bouton porte la charte du site (.button .button-ghost
+   .button-small) ; on ne redéfinit ici que ce qui lui est propre, la pastille d'état et
+   le lien d'explication à côté. */
+.rk-pending-bar {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: .75rem;
+    /* Le tableau se termine juste au-dessus : sans cet air, le bouton se lit comme une
+       ligne de plus du classement, ce qu'il n'est pas. */
+    margin-top: 1.9rem;
+    margin-bottom: .5rem;
+}
+
+/* Le point reprend la couleur de l'attente, celle de la pastille sur les lignes : on
+   reconnaît de quoi parle le bouton avant d'avoir lu son texte. */
+.rk-pending-dot {
+    background: #d9a441;
+    border-radius: 50%;
+    box-shadow: 0 0 0 3px rgba(217, 164, 65, .16);
+    display: inline-block;
+    flex: none;
+    height: 7px;
+    width: 7px;
+}
+
+.rk-pending-toggle[aria-pressed="true"] {
+    border-color: rgba(217, 164, 65, .5);
+}
+
+.rk-pending-toggle[aria-pressed="true"] .rk-pending-dot {
+    box-shadow: 0 0 0 4px rgba(217, 164, 65, .24);
+}
+
+/* L'aide : un point d'interrogation, pas une phrase. Une cible ronde de 26 px, assez
+   grande pour le doigt, assez discrète pour ne pas concurrencer le bouton. */
+.rk-pending-help {
+    align-items: center;
+    border: 1px solid var(--line-strong, rgba(255, 255, 255, .16));
+    border-radius: 50%;
+    color: var(--text-muted, #9aa0b5);
+    display: inline-flex;
+    flex: none;
+    font-size: .8rem;
+    height: 26px;
+    justify-content: center;
+    line-height: 1;
+    text-decoration: none;
+    width: 26px;
+}
+
+.rk-pending-help:hover,
+.rk-pending-help:focus-visible {
+    border-color: rgba(134, 93, 255, .52);
+    color: var(--text, inherit);
+}
+
+/* La difficulte choisie au depart, sous le score : libre, elle se lit sans departager. */
+.rk-difficulty {
+    display: block;
+    margin-top: 2px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--brand-bright, #A98BFF);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+/* Le mode d'un record, a cote du nom du jeu : « Tetris · Type B ». */
+.rk-mode {
+    display: inline-block;
+    margin-left: 0.4em;
+    padding: 0 0.45em;
+    border-radius: 999px;
+    border: 1px solid rgba(134, 93, 255, .45);
+    font-size: 0.72rem;
+    font-weight: 600;
+    line-height: 1.5;
+    vertical-align: 0.1em;
+    white-space: nowrap;
+}
+
+/* Le moteur du record, sous le score : une precision, pas une donnee du classement. */
+.rk-emulator {
+    display: block;
+    margin-top: 2px;
+    font-size: 0.72rem;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    color: var(--muted, #8a93a8);
+    white-space: nowrap;
+}

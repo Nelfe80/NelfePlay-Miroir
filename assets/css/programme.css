@@ -1,0 +1,718 @@
+/* ── Programmation du scoring certifie ─────────────────────────────────────
+   Une mosaique d'ecrans cathodiques, trois par rangee sur toute la largeur du
+   contenu. En couleur les jeux ouverts, en noir et blanc ceux qui attendent le
+   vote. */
+
+.prog {
+    --prog-gap: 16px;
+    padding-block: 14px 56px;
+}
+
+.prog-head {
+    display: grid;
+    gap: 8px;
+    margin-bottom: 14px;
+}
+
+.prog-top {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 10px 24px;
+}
+
+.prog-heading {
+    display: grid;
+    gap: 4px;
+}
+
+.prog-heading .eyebrow {
+    margin: 0;
+}
+
+.prog-heading h1 {
+    margin: 0;
+    font-size: clamp(1.5rem, 2.6vw, 2.1rem);
+    line-height: 1.1;
+}
+
+.prog-intro {
+    margin: 0;
+    max-width: 120ch;
+    color: #9fb0c9;
+    font-size: .88rem;
+}
+
+.prog-bar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 20px;
+}
+
+.prog-bar .prog-window {
+    flex: 1 1 260px;
+}
+
+/* Le Next : une vignette, le nom, et le vendredi. */
+.prog-next {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    min-width: 0;
+    padding: 8px 14px 8px 8px;
+    border: 1px solid var(--line-strong);
+    border-radius: 14px;
+    background: rgba(12, 17, 29, .8);
+}
+
+.prog-next.is-decided {
+    border-color: rgba(134, 93, 255, .6);
+    box-shadow: 0 0 24px rgba(134, 93, 255, .18);
+}
+
+.prog-next-tag {
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: var(--violet);
+    color: #fff;
+    font-size: .72rem;
+    font-weight: 800;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+}
+
+.prog-next-screen.prog-screen {
+    flex: none;
+    width: 72px;
+}
+
+.prog-next-text {
+    display: grid;
+    gap: 2px;
+    min-width: 0;
+    margin: 0;
+    font-size: .88rem;
+    color: #9fb0c9;
+}
+
+.prog-next-text strong {
+    color: #fff;
+    font-size: 1rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+/* Le bulletin : cinq televiseurs. */
+.prog-ballot {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: .88rem;
+}
+
+.prog-ballot-label {
+    color: #9fb0c9;
+    font-weight: 700;
+}
+
+.prog-tvs {
+    display: inline-flex;
+    gap: 4px;
+}
+
+.prog-tv {
+    display: inline-flex;
+    color: #56627a;
+    transition: color .2s ease, transform .2s ease;
+}
+
+.prog-tv-glass {
+    fill: transparent;
+    transition: fill .2s ease;
+}
+
+.prog-tv.is-used {
+    color: var(--violet);
+}
+
+.prog-tv.is-used .prog-tv-glass {
+    fill: rgba(134, 93, 255, .55);
+}
+
+.prog-tv.is-pulse {
+    transform: scale(1.25);
+}
+
+.prog-ballot-left {
+    color: #c9d4e6;
+    font-weight: 700;
+}
+
+a.prog-ballot-left {
+    color: var(--violet);
+}
+
+.prog-window,
+.prog-status {
+    margin: 0;
+    color: #9fb0c9;
+    font-size: .86rem;
+}
+
+.prog-status:empty {
+    display: none;
+}
+
+.prog-status {
+    color: #ffb4c4;
+    font-weight: 700;
+}
+
+/* ── La grille ─────────────────────────────────────────────────────────── */
+
+.prog-grid {
+    /* Positionnee : les tuiles s'y reperent (programme.js lit leur colonne a leur position). */
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--prog-gap);
+    /* Sur toute la largeur du contenu, alignee sur la tete de page (demande du 2026-09-17) : la
+       grille calee sur la hauteur de la fenetre donnait de petits ecrans sur un grand moniteur. */
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media (max-width: 640px) {
+    .prog-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+.prog-tile {
+    position: relative;
+    min-width: 0;
+}
+
+.prog-tile[hidden] {
+    display: none;
+}
+
+/* Le repere du bas : quand il approche, une rangee de plus. */
+.prog-more {
+    height: 1px;
+}
+
+/* L'ecran : un tube bombe, coins en ellipse, lignes, reflet, vignettage. */
+.prog-screen {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    border-radius: 11% / 15%;
+    background: #05070c;
+    box-shadow:
+        0 0 0 2px #1a2132,
+        0 0 0 5px #0b0f18,
+        0 12px 28px rgba(0, 0, 0, .5);
+    transition: filter .35s ease, box-shadow .25s ease, transform .25s ease;
+}
+
+.prog-screen img {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    image-rendering: pixelated;
+    transform: scale(1.03);
+    filter: contrast(1.08) saturate(1.15);
+}
+
+/* Le verre bombe, une fois sa carte calculee par le script. */
+.prog.prog-bombe .prog-screen img {
+    filter: url(#prog-bombe) contrast(1.08) saturate(1.15);
+}
+
+.prog-screen::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, .32) 0, rgba(0, 0, 0, .32) 1px, transparent 1px, transparent 3px);
+}
+
+.prog-screen::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    border-radius: inherit;
+    background:
+        radial-gradient(90% 60% at 30% 18%, rgba(255, 255, 255, .16), transparent 55%),
+        radial-gradient(120% 90% at 50% 50%, transparent 58%, rgba(0, 0, 0, .55) 100%);
+    box-shadow: inset 0 0 26px rgba(0, 0, 0, .75), inset 0 0 0 1px rgba(255, 255, 255, .05);
+}
+
+/* Un jeu sans capture : de la neige, pas un trou. */
+.prog-noise {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background:
+        repeating-radial-gradient(circle at 17% 32%, rgba(255, 255, 255, .09) 0 1px, transparent 1px 3px),
+        repeating-radial-gradient(circle at 71% 64%, rgba(255, 255, 255, .07) 0 1px, transparent 1px 4px),
+        #11151f;
+}
+
+/* En attente : noir et blanc, qui s'eclaire au survol. Pas d'assombrissement : les jeux sur fond
+   noir (Galaxian, Tempest) devenaient illisibles ; on releve plutot leurs traits. */
+.prog-tile.is-candidate .prog-screen,
+.prog-tile.is-locked .prog-screen {
+    filter: grayscale(1) contrast(1.2) brightness(1.15);
+}
+
+.prog-tile.is-candidate:hover .prog-screen,
+.prog-tile.is-candidate:focus-within .prog-screen {
+    filter: grayscale(1) contrast(1.25) brightness(1.4);
+    transform: translateY(-3px);
+}
+
+/* Soutenu par moi : une lueur, et le televiseur du bulletin sur l'ecran. */
+.prog-tile.is-mine .prog-screen {
+    filter: grayscale(.85) contrast(1.08) brightness(.95);
+    box-shadow:
+        0 0 0 2px var(--violet),
+        0 0 0 5px #0b0f18,
+        0 0 26px rgba(134, 93, 255, .45);
+}
+
+.prog-tile.is-locked .prog-screen {
+    box-shadow:
+        0 0 0 2px #e9b949,
+        0 0 0 5px #0b0f18,
+        0 0 24px rgba(233, 185, 73, .35);
+}
+
+.prog-tile.is-open:hover .prog-screen,
+.prog-tile.is-open:focus-within .prog-screen {
+    transform: translateY(-3px);
+}
+
+/* L'APERCU AU SURVOL (app.js). Le lecteur passe SOUS le verre : lignes, reflet et vignettage
+   restent devant. Il se pose au-dessus de la capture, recadre comme elle (data-video-overscan),
+   et le verre bombe le courbe aussi quand le navigateur l'accepte sur un cadre. */
+.prog-screen > iframe {
+    z-index: 1;
+    border: 0;
+}
+
+.prog.prog-bombe .prog-screen > iframe {
+    filter: url(#prog-bombe);
+}
+
+/* app.css efface le balayage et le reflet des cartes en lecture : pas ici, le tube reste un tube. */
+.prog-screen.is-playing::before,
+.prog-screen.is-leaving::before {
+    opacity: 1;
+    filter: none;
+    background-image: repeating-linear-gradient(to bottom, rgba(0, 0, 0, .32) 0, rgba(0, 0, 0, .32) 1px, transparent 1px, transparent 3px);
+}
+
+.prog-screen.is-playing::after,
+.prog-screen.is-leaving::after {
+    opacity: 1;
+}
+
+/* En attente, l'apercu part du noir et blanc de l'ecran et prend ses couleurs une fois l'image
+   lancee ; en sortant, il y retourne avant de s'effacer. Les memes fonctions de filtre de part
+   et d'autre : le navigateur les fait glisser au lieu de sauter. */
+.prog-tile.is-candidate .prog-screen.is-playing,
+.prog-tile.is-locked .prog-screen.is-playing,
+.prog-tile.is-mine .prog-screen.is-playing {
+    filter: grayscale(0) contrast(1) brightness(1);
+    transition: filter 1.4s ease .15s, box-shadow .25s ease, transform .25s ease;
+}
+
+.prog-screen.is-leaving {
+    transition: filter .45s ease, box-shadow .25s ease, transform .25s ease;
+}
+
+/* Le tube CHAUFFE pendant les quelques secondes ou l'apercu se prepare cache (le bandeau de titre
+   de YouTube passe) : les lignes defilent et une bande claire remonte l'ecran. Le survol repond
+   tout de suite, et l'attente fait partie du televiseur. */
+.prog-screen.is-loading::before {
+    background-image:
+        linear-gradient(to bottom, transparent 0, rgba(255, 255, 255, .10) 46%, rgba(255, 255, 255, .16) 50%, transparent 58%),
+        repeating-linear-gradient(to bottom, rgba(0, 0, 0, .38) 0, rgba(0, 0, 0, .38) 1px, transparent 1px, transparent 3px);
+    background-size: 100% 260%, 100% 3px;
+    animation: prog-chauffe 2.2s linear infinite;
+}
+
+@keyframes prog-chauffe {
+    from { background-position: 0 130%, 0 0; }
+    to { background-position: 0 -130%, 0 -30px; }
+}
+
+.prog-screen.is-leaving > iframe {
+    opacity: 0;
+    transition: opacity .25s ease .4s;
+}
+
+.prog-mark {
+    position: absolute;
+    top: 7%;
+    right: 7%;
+    z-index: 4;
+    display: none;
+    padding: 4px;
+    border-radius: 8px;
+    background: var(--violet);
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .4);
+}
+
+.prog-mark .prog-tv-glass {
+    fill: rgba(255, 255, 255, .35);
+}
+
+.prog-tile.is-mine .prog-mark {
+    display: inline-flex;
+}
+
+/* Le nom, l'annee, la machine : au survol, en bas de l'ecran. */
+.prog-info {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+    display: grid;
+    gap: 2px;
+    padding: 28px 12% 9%;
+    border-radius: 0 0 11% 11% / 0 0 15% 15%;
+    background: linear-gradient(to top, rgba(4, 6, 12, .92) 40%, transparent);
+    color: #c9d4e6;
+    font-size: .8rem;
+    line-height: 1.3;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity .2s ease, transform .2s ease;
+    pointer-events: none;
+}
+
+.prog-info strong {
+    color: #fff;
+    font-size: .98rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.prog-state {
+    color: #b9a6ff;
+    font-weight: 700;
+}
+
+.prog-tile:hover .prog-info,
+.prog-tile:focus-within .prog-info {
+    opacity: 1;
+    transform: none;
+}
+
+/* Tout l'ecran en attente est le bouton de vote ; tout l'ecran d'un jeu ouvert, le lien vers son
+   classement. L'etiquette se pose en bas a droite de l'image, a cote du nom (demande du
+   2026-09-17) : le centre reste a la video. */
+.prog-hit {
+    position: absolute;
+    inset: 0;
+    z-index: 5;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding: 0 7% 8% 0;
+    border: 0;
+    border-radius: 11% / 15%;
+    background: transparent;
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Le nom laisse la place a l'etiquette, sur deux lignes au besoin. */
+.prog-tile.is-candidate .prog-info,
+.prog-tile.is-open .prog-info {
+    padding-right: 40%;
+}
+
+.prog-tile.is-candidate .prog-info strong,
+.prog-tile.is-open .prog-info strong {
+    display: -webkit-box;
+    white-space: normal;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.prog-hit:focus-visible {
+    outline: 3px solid var(--violet);
+    outline-offset: 4px;
+}
+
+.prog-hit-label {
+    padding: 7px 16px;
+    border-radius: 999px;
+    background: rgba(134, 93, 255, .92);
+    color: #fff;
+    font-weight: 800;
+    font-size: .88rem;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, .45);
+    opacity: 0;
+    transform: scale(.9);
+    transition: opacity .18s ease, transform .18s ease;
+}
+
+.prog-hit:hover .prog-hit-label,
+.prog-hit:focus-visible .prog-hit-label {
+    opacity: 1;
+    transform: none;
+}
+
+.prog-hit[aria-pressed="true"] .prog-hit-label {
+    background: rgba(12, 17, 29, .92);
+    box-shadow: 0 0 0 1px var(--violet), 0 6px 18px rgba(0, 0, 0, .45);
+}
+
+.prog-hit[disabled] {
+    cursor: progress;
+}
+
+.prog-tile.is-refused .prog-screen {
+    animation: prog-refus .36s ease;
+}
+
+@keyframes prog-refus {
+    20%, 60% { transform: translateX(-5px); }
+    40%, 80% { transform: translateX(5px); }
+}
+
+/* Apparition au defilement, seulement quand le script est la. */
+.prog-anim .prog-tile {
+    opacity: 0;
+    transform: translateY(18px) scale(.97);
+    transition: opacity .45s ease, transform .45s ease;
+}
+
+.prog-anim .prog-tile.is-seen {
+    opacity: 1;
+    transform: none;
+}
+
+/* L'ECRAN GRANDIT DE MOITIE AU SURVOL (demande du 2026-09-17 : x1,5 plutot que x2), vers
+   l'interieur de la page : programme.js choisit l'origine selon la colonne et la hauteur dans la
+   fenetre. Il passe au-dessus de ses voisins le temps de grandir et de revenir, pas plus. Le
+   texte, l'etiquette et le cadre, agrandis avec lui, sont ramenes a leur taille de lecture. */
+.prog-tile,
+.prog-anim .prog-tile.is-seen {
+    transition: opacity .45s ease, transform .28s ease, z-index 0s linear .28s;
+}
+
+.prog-grid .prog-tile.is-zoomed {
+    z-index: 20;
+    transform: scale(1.5);
+    transition: opacity .45s ease, transform .28s ease, z-index 0s;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-screen {
+    transform: none;
+    box-shadow:
+        0 0 0 1.4px #1a2132,
+        0 0 0 3.4px #0b0f18,
+        0 10px 30px rgba(0, 0, 0, .6);
+}
+
+.prog-grid .prog-tile.is-zoomed.is-mine .prog-screen {
+    box-shadow:
+        0 0 0 1.4px var(--violet),
+        0 0 0 3.4px #0b0f18,
+        0 0 20px rgba(134, 93, 255, .45);
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-info {
+    gap: 1px;
+    padding-top: 19px;
+    font-size: .6rem;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-info strong {
+    font-size: .76rem;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-hit-label {
+    padding: 5px 11px;
+    font-size: .62rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .45);
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-mark {
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-mark svg {
+    width: 15px;
+    height: 15px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .prog-screen,
+    .prog-info,
+    .prog-hit-label,
+    .prog-tv,
+    .prog-tile,
+    .prog-anim .prog-tile.is-seen,
+    .prog-grid .prog-tile.is-zoomed {
+        transition: none;
+    }
+
+    .prog-tile.is-refused .prog-screen {
+        animation: none;
+    }
+}
+
+.prog-empty,
+.prog-credit {
+    margin: 18px 0 0;
+    color: #8fa2bf;
+    font-size: .82rem;
+    text-align: center;
+}
+
+.prog-filters {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+}
+
+/* ── L'ecran agrandi : le tube s'efface, le jeu revient en couleur ───────────
+   A une fois et demie, les lignes de balayage font 4,5 px et le vignettage
+   mange les bords : le shader passait devant le jeu. Quand on RESTE sur un
+   ecran, c'est le jeu qu'on veut voir ; le tube ne fait plus que l'encadrer.
+   Le noir et blanc des jeux en attente cede aussi : il dit « pas encore
+   sorti » de loin, il n'a plus rien a dire quand on est dessus. Au depart de
+   la souris, tout revient par la meme transition. */
+.prog-grid .prog-tile.is-zoomed .prog-screen::before {
+    opacity: .38;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-screen::after {
+    opacity: .45;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-screen.is-playing::before,
+.prog-grid .prog-tile.is-zoomed .prog-screen.is-leaving::before {
+    opacity: .38;
+}
+
+.prog-grid .prog-tile.is-zoomed .prog-screen.is-playing::after,
+.prog-grid .prog-tile.is-zoomed .prog-screen.is-leaving::after {
+    opacity: .45;
+}
+
+.prog-grid .prog-tile.is-zoomed.is-candidate .prog-screen,
+.prog-grid .prog-tile.is-zoomed.is-locked .prog-screen,
+.prog-grid .prog-tile.is-zoomed.is-mine .prog-screen {
+    filter: grayscale(0) contrast(1.04) brightness(1.04);
+    transition: filter .9s ease .1s, box-shadow .25s ease, transform .25s ease;
+}
+
+.prog-screen::before,
+.prog-screen::after {
+    transition: opacity .4s ease;
+}
+
+/* ── Les voix de chaque jeu, en gros chiffres pixel (2026-10-09) ──────────────
+   Au milieu du televiseur, les voix de ce jeu, dans le violet du site. Le chiffre est pose SUR
+   l'ecran et non dedans : l'ecran d'un jeu en attente passe en noir et blanc, et le violet y
+   deviendrait gris. Il porte ses propres lignes de balayage (le masque), pour se lire comme une
+   image du tube. Sa taille suit celle de l'ecran (unite --u, un pixel du chiffre). Il s'efface quand
+   on vient sur l'ecran : l'apercu du jeu prend sa place, et le nombre se lit alors en clair sous le
+   nom. Rien pour un jeu sans voix. Chaque chiffre est une image de la feuille (.pd-0 a .pd-9, plus
+   bas) : le script n'a qu'a poser une case par chiffre quand un vote change le nombre. */
+.prog-grid .prog-tile {
+    container-type: inline-size;
+}
+
+.prog-big {
+    --u: 3.4cqi;
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+    filter: drop-shadow(0 0 calc(var(--u) * .8) rgba(134, 93, 255, .55));
+    -webkit-mask-image: repeating-linear-gradient(to bottom, #000 0, #000 2px, rgba(0, 0, 0, .7) 2px, rgba(0, 0, 0, .7) 3px);
+    mask-image: repeating-linear-gradient(to bottom, #000 0, #000 2px, rgba(0, 0, 0, .7) 2px, rgba(0, 0, 0, .7) 3px);
+    transition: opacity .25s ease;
+}
+
+.prog-big:empty {
+    display: none;
+}
+
+.pd {
+    display: block;
+    flex: none;
+    width: calc(var(--u) * 7);
+    height: calc(var(--u) * 9);
+    margin-left: calc(var(--u) * -1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.pd:first-child {
+    margin-left: 0;
+}
+
+.prog-tile:hover .prog-big,
+.prog-tile:focus-within .prog-big,
+.prog-tile.is-zoomed .prog-big,
+.prog-tile:has(.prog-screen.is-loading) .prog-big,
+.prog-tile:has(.prog-screen.is-playing) .prog-big {
+    opacity: 0;
+}
+
+/* Un navigateur qui ne connait pas les unites de conteneur ne saurait pas dimensionner le chiffre. */
+@supports not (width: 1cqi) {
+    .prog-big {
+        display: none;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .prog-big {
+        transition: none;
+    }
+}
+
+/* ── Les chiffres en pixels (genere : scratchpad/police_pixel.py) ── */
+.pd-0 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M1 0h5v1h-5zM0 1h2v1h-2zM5 1h2v1h-2zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM0 3h1v1h-1zM2 3h1v1h-1zM4 3h1v1h-1zM6 3h1v1h-1zM0 4h1v1h-1zM2 4h1v1h-1zM4 4h1v1h-1zM6 4h1v1h-1zM0 5h1v1h-1zM2 5h1v1h-1zM4 5h1v1h-1zM6 5h1v1h-1zM0 6h1v1h-1zM2 6h3v1h-3zM6 6h1v1h-1zM0 7h2v1h-2zM5 7h2v1h-2zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M2 1h3v1h-3zM1 2h1v1h-1zM5 2h1v1h-1zM1 3h1v1h-1zM5 3h1v1h-1zM1 4h1v1h-1zM5 4h1v1h-1zM1 5h1v1h-1zM5 5h1v1h-1zM1 6h1v1h-1zM5 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+.pd-1 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M2 0h3v1h-3zM1 1h2v1h-2zM4 1h1v1h-1zM1 2h1v1h-1zM4 2h1v1h-1zM1 3h2v1h-2zM4 3h1v1h-1zM2 4h1v1h-1zM4 4h1v1h-1zM2 5h1v1h-1zM4 5h1v1h-1zM1 6h2v1h-2zM4 6h2v1h-2zM1 7h1v1h-1zM5 7h1v1h-1zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M3 1h1v1h-1zM2 2h2v1h-2zM3 3h1v1h-1zM3 4h1v1h-1zM3 5h1v1h-1zM3 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+.pd-2 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M1 0h5v1h-5zM0 1h2v1h-2zM5 1h2v1h-2zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM0 3h5v1h-5zM6 3h1v1h-1zM1 4h2v1h-2zM5 4h2v1h-2zM0 5h2v1h-2zM3 5h3v1h-3zM0 6h1v1h-1zM2 6h5v1h-5zM0 7h1v1h-1zM6 7h1v1h-1zM0 8h7v1h-7z'/%3E%3Cpath fill='%23865DFF' d='M2 1h3v1h-3zM1 2h1v1h-1zM5 2h1v1h-1zM5 3h1v1h-1zM3 4h2v1h-2zM2 5h1v1h-1zM1 6h1v1h-1zM1 7h5v1h-5z'/%3E%3C/svg%3E"); }
+.pd-3 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M1 0h5v1h-5zM0 1h2v1h-2zM5 1h2v1h-2zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM0 3h5v1h-5zM6 3h1v1h-1zM2 4h1v1h-1zM5 4h2v1h-2zM0 5h5v1h-5zM6 5h1v1h-1zM0 6h1v1h-1zM2 6h3v1h-3zM6 6h1v1h-1zM0 7h2v1h-2zM5 7h2v1h-2zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M2 1h3v1h-3zM1 2h1v1h-1zM5 2h1v1h-1zM5 3h1v1h-1zM3 4h2v1h-2zM5 5h1v1h-1zM1 6h1v1h-1zM5 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+.pd-4 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M3 0h3v1h-3zM2 1h2v1h-2zM5 1h1v1h-1zM1 2h2v1h-2zM5 2h1v1h-1zM0 3h2v1h-2zM3 3h1v1h-1zM5 3h1v1h-1zM0 4h1v1h-1zM2 4h2v1h-2zM5 4h2v1h-2zM0 5h1v1h-1zM6 5h1v1h-1zM0 6h4v1h-4zM5 6h2v1h-2zM3 7h1v1h-1zM5 7h1v1h-1zM3 8h3v1h-3z'/%3E%3Cpath fill='%23865DFF' d='M4 1h1v1h-1zM3 2h2v1h-2zM2 3h1v1h-1zM4 3h1v1h-1zM1 4h1v1h-1zM4 4h1v1h-1zM1 5h5v1h-5zM4 6h1v1h-1zM4 7h1v1h-1z'/%3E%3C/svg%3E"); }
+.pd-5 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M0 0h7v1h-7zM0 1h1v1h-1zM6 1h1v1h-1zM0 2h1v1h-1zM2 2h5v1h-5zM0 3h1v1h-1zM5 3h2v1h-2zM0 4h5v1h-5zM6 4h1v1h-1zM0 5h3v1h-3zM4 5h1v1h-1zM6 5h1v1h-1zM0 6h1v1h-1zM2 6h3v1h-3zM6 6h1v1h-1zM0 7h2v1h-2zM5 7h2v1h-2zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M1 1h5v1h-5zM1 2h1v1h-1zM1 3h4v1h-4zM5 4h1v1h-1zM5 5h1v1h-1zM1 6h1v1h-1zM5 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+.pd-6 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M1 0h5v1h-5zM0 1h2v1h-2zM5 1h1v1h-1zM0 2h1v1h-1zM2 2h4v1h-4zM0 3h1v1h-1zM2 3h4v1h-4zM0 4h1v1h-1zM5 4h2v1h-2zM0 5h1v1h-1zM2 5h3v1h-3zM6 5h1v1h-1zM0 6h1v1h-1zM2 6h3v1h-3zM6 6h1v1h-1zM0 7h2v1h-2zM5 7h2v1h-2zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M2 1h3v1h-3zM1 2h1v1h-1zM1 3h1v1h-1zM1 4h4v1h-4zM1 5h1v1h-1zM5 5h1v1h-1zM1 6h1v1h-1zM5 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+.pd-7 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M0 0h7v1h-7zM0 1h1v1h-1zM6 1h1v1h-1zM0 2h5v1h-5zM6 2h1v1h-1zM2 3h2v1h-2zM5 3h2v1h-2zM1 4h2v1h-2zM4 4h2v1h-2zM1 5h1v1h-1zM3 5h2v1h-2zM1 6h1v1h-1zM3 6h1v1h-1zM1 7h1v1h-1zM3 7h1v1h-1zM1 8h3v1h-3z'/%3E%3Cpath fill='%23865DFF' d='M1 1h5v1h-5zM5 2h1v1h-1zM4 3h1v1h-1zM3 4h1v1h-1zM2 5h1v1h-1zM2 6h1v1h-1zM2 7h1v1h-1z'/%3E%3C/svg%3E"); }
+.pd-8 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M1 0h5v1h-5zM0 1h2v1h-2zM5 1h2v1h-2zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM0 3h1v1h-1zM2 3h3v1h-3zM6 3h1v1h-1zM0 4h2v1h-2zM5 4h2v1h-2zM0 5h1v1h-1zM2 5h3v1h-3zM6 5h1v1h-1zM0 6h1v1h-1zM2 6h3v1h-3zM6 6h1v1h-1zM0 7h2v1h-2zM5 7h2v1h-2zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M2 1h3v1h-3zM1 2h1v1h-1zM5 2h1v1h-1zM1 3h1v1h-1zM5 3h1v1h-1zM2 4h3v1h-3zM1 5h1v1h-1zM5 5h1v1h-1zM1 6h1v1h-1zM5 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+.pd-9 { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 7 9' shape-rendering='crispEdges'%3E%3Cpath fill='%2305070c' fill-opacity='.9' d='M1 0h5v1h-5zM0 1h2v1h-2zM5 1h2v1h-2zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM0 3h1v1h-1zM2 3h3v1h-3zM6 3h1v1h-1zM0 4h2v1h-2zM6 4h1v1h-1zM1 5h4v1h-4zM6 5h1v1h-1zM1 6h4v1h-4zM6 6h1v1h-1zM1 7h1v1h-1zM5 7h2v1h-2zM1 8h5v1h-5z'/%3E%3Cpath fill='%23865DFF' d='M2 1h3v1h-3zM1 2h1v1h-1zM5 2h1v1h-1zM1 3h1v1h-1zM5 3h1v1h-1zM2 4h4v1h-4zM5 5h1v1h-1zM5 6h1v1h-1zM2 7h3v1h-3z'/%3E%3C/svg%3E"); }
+/* ── fin des chiffres en pixels ── */

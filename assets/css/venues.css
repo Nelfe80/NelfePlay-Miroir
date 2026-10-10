@@ -1,0 +1,98 @@
+/* Les salles.
+ *
+ * La page reprend le dessin des classements et des contests : meme tableau,
+ * memes filtres, memes onglets. Ce qui lui est propre tient en deux choses :
+ * la fiche que le gerant ecrit depuis son hub, et le rang mondial d'un record.
+ *
+ * Les classes ct- des contests sont reutilisees telles quelles (le lien du
+ * nom, le retour, le chapeau) : ce sont les memes objets pour le lecteur, et
+ * les redefinir ici les ferait diverger a la premiere retouche.
+ */
+
+.vn-desc {
+    max-width: 62ch;
+    margin: 14px 0 0;
+    color: var(--text-soft);
+}
+
+/* Les faits d'une salle : horaires, itineraire, liens, tournois. Une rangee
+   qui passe a la ligne plutot qu'un tableau - il y en a deux chez l'une et
+   six chez l'autre, et aucune colonne ne tiendrait les deux. */
+.vn-facts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 18px;
+    align-items: center;
+    margin-top: 18px;
+}
+
+.vn-fact {
+    color: var(--text-soft);
+}
+
+.vn-fact b {
+    color: var(--muted);
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+.vn-link {
+    display: inline-block;
+    padding: 6px 14px;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    color: var(--brand-bright);
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.vn-link:hover {
+    border-color: var(--brand-bright);
+    background: color-mix(in srgb, var(--brand-bright) 10%, transparent);
+}
+
+.vn-link:focus-visible {
+    outline: 2px solid var(--brand-bright);
+    outline-offset: 2px;
+}
+
+.vn-muted {
+    color: var(--muted);
+}
+
+.vn-records-lead {
+    max-width: 62ch;
+    margin: 6px 0 18px;
+    color: var(--text-soft);
+}
+
+/* Le rang mondial est la colonne qui porte la fierte : c'est lui qui dit si
+   un score compte dehors, et il se lit avant le score lui-meme. */
+.vn-rank {
+    display: inline-block;
+    padding: 3px 11px;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    color: var(--text-soft);
+    font-size: 0.74rem;
+    font-weight: 600;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+}
+
+.vn-rank-first {
+    border-color: color-mix(in srgb, var(--success) 50%, transparent);
+    background: color-mix(in srgb, var(--success) 14%, transparent);
+    color: var(--success);
+}
+
+/* Les horaires sont du texte libre ecrit par la salle : ils peuvent etre
+   longs, et ils ont le droit de passer a la ligne dans leur colonne. */
+.vn-hours {
+    max-width: 34ch;
+    white-space: normal;
+    color: var(--text-soft);
+}

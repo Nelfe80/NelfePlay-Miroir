@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Double Dragon - Certificat de record · NelfePlay</title>
+<meta name="description" content="Double Dragon - 1 100 points, record certifié NelfePlay.">
+<meta property="og:title" content="Double Dragon - record certifié NelfePlay">
+<meta property="og:description" content="Mesuré sur la machine, signé (ECDSA P-256), scellé sur la blockchain.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='14' font-size='14'%3E%F0%9F%8F%85%3C/text%3E%3C/svg%3E">
+<style>
+  :root{--ink:#f5f7fb;--dim:#ccd5e5;--faint:#8f9bb0;--card:#0c111d;--card2:#0a0f1a;--line:#1e2740;--line2:#2b3a5c;--panel:#0c111d;
+    --brand:#865DFF;--ring:#ffcb05;--gold:#ffc96b;--hill:#A98BFF;--hill-lo:#5B34D6;--btc:#f7931a;--wait:#ff9d3c}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{min-height:100vh;background:radial-gradient(900px 520px at 50% -10%,#865DFF16,transparent 60%),linear-gradient(180deg,#0a0f1a,#060811 65%);
+    color:var(--ink);font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;
+    display:flex;flex-direction:column;align-items:center;gap:14px;padding:clamp(16px,3vw,36px) 16px 56px;-webkit-font-smoothing:antialiased}
+  .topbar{width:min(100%,1040px);display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap}
+  .logo{display:flex;align-items:center;font-weight:700;font-size:15px}.logo b{font-weight:inherit;color:var(--brand)}
+  .logo .tag{margin-left:10px;font-size:9.5px;letter-spacing:.22em;color:var(--hill);border:1px solid var(--hill-lo);border-radius:5px;padding:2px 6px;text-transform:uppercase}
+  .langs{display:flex;gap:2px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
+  .langs button{all:unset;cursor:pointer;font-size:12px;padding:5px 9px;border-radius:7px;color:var(--dim)}
+  .langs button[aria-current="true"]{background:var(--brand);color:#fff;font-weight:700}
+  .langs button:focus-visible{outline:2px solid var(--ring);outline-offset:2px}
+  .hint{width:min(100%,1040px);font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint)}
+  .card{width:min(100%,1040px);position:relative;overflow:hidden;border-radius:22px;border:1px solid var(--line2);
+    background:radial-gradient(120% 140% at 88% -20%,#14245c 0%,transparent 42%),radial-gradient(90% 120% at 8% 120%,#1b1405 0%,transparent 40%),linear-gradient(160deg,var(--card),var(--card2));
+    box-shadow:0 40px 100px -40px #000,inset 0 1px 0 #ffffff10;display:grid;grid-template-columns:1.35fr .95fr}
+  @media(max-width:620px){.card{grid-template-columns:1fr}}
+  .card::after{content:"";position:absolute;left:0;right:0;bottom:0;height:8px;background:repeating-conic-gradient(#39d35333 0 25%,#1f8f3c22 0 50%) 0 0/22px 22px}
+  .left{padding:clamp(20px,3vw,36px);display:flex;flex-direction:column;gap:2px}
+  .brand{display:flex;align-items:center;font-weight:700;font-size:15px}.brand b{font-weight:inherit;color:var(--brand)}
+  .brand .tag{margin-left:10px;font-size:9.5px;letter-spacing:.22em;color:var(--hill);border:1px solid var(--hill-lo);border-radius:5px;padding:2px 6px;text-transform:uppercase}
+  .kicker{margin-top:14px;font-size:12.5px;letter-spacing:.26em;text-transform:uppercase;color:var(--gold);font-weight:800}
+  .game{font-size:clamp(23px,3.3vw,36px);font-weight:900;line-height:1.02;letter-spacing:-.02em;margin:5px 0 2px;text-wrap:balance}.game b{color:var(--brand)}
+  .sys{font-size:12.5px;color:var(--dim)}
+  .score{font-family:ui-monospace,Consolas,monospace;font-weight:800;font-variant-numeric:tabular-nums;font-size:clamp(44px,8vw,80px);line-height:1;color:var(--ring);margin:14px 0 2px;text-shadow:0 0 40px #ffcb0530,0 2px 0 #0a0f28}
+  .score span{font-size:.32em;color:var(--faint);letter-spacing:.14em;text-transform:uppercase;font-family:"Segoe UI",system-ui,sans-serif;font-weight:700;margin-left:10px;vertical-align:middle}
+  .who{display:flex;align-items:center;gap:10px;margin-top:6px}
+  .who canvas{width:30px;height:30px;border-radius:8px;border:1px solid #ffffff18;flex:none}
+  .who .flag{font-size:18px}.who .nm{font-weight:800;font-size:15px}.who .anon{color:var(--dim);font-weight:600;font-size:12.5px}
+  .right{padding:clamp(18px,3vw,30px);display:flex;flex-direction:column;gap:13px;border-left:1px solid #ffffff0c;background:linear-gradient(180deg,#0c163a55,transparent)}
+  @media(max-width:620px){.right{border-left:0;border-top:1px solid #ffffff0c}}
+  .seal{display:flex;align-items:center;gap:12px}
+  /* Le sceau est la MARQUE de verification Nelfe, pas une pastille verte generique : c'est
+     elle qu'on retrouve partout ailleurs sur le site, et un certificat doit porter le meme
+     signe que ce qu'il certifie. */
+  .seal .badge{width:56px;height:56px;flex:none;display:grid;place-items:center}
+  .seal .badge img{width:56px;height:56px;display:block}
+  /* Scellement en cours : la marque s'estompe. Elle ne devient pas une autre marque — la
+     signature est deja faite, c'est l'ancrage qui manque. */
+  .seal.wait .badge img{opacity:.45}
+  .seal .lbl{font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:800}.seal.ok .lbl{color:var(--hill)}.seal.wait .lbl{color:var(--wait)}
+  .seal .lbl small{display:block;color:var(--faint);letter-spacing:.02em;text-transform:none;font-weight:500;font-size:11px;margin-top:2px}
+  .proof{border:1px solid var(--line);border-radius:12px;padding:11px 12px;background:#0a1330;font-size:11.5px}
+  .proof .r{display:flex;justify-content:space-between;gap:12px;padding:5px 0;border-top:1px solid #ffffff08}.proof .r:first-child{border-top:0}
+  .proof .k{color:var(--faint);flex:none}
+  .proof .v{font-family:ui-monospace,Consolas,monospace;color:var(--ink);text-align:right;overflow:hidden;text-overflow:ellipsis}
+  .proof .v.btc{color:var(--btc)}.proof .v.ok{color:var(--hill)}.proof .v.wait{color:var(--wait)}
+  .idline{margin-top:auto;font-size:10.5px;color:var(--faint);letter-spacing:.04em;font-family:ui-monospace,Consolas,monospace}
+  .under{width:min(100%,1040px);display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap;align-items:center}
+  .links{display:flex;gap:16px;flex-wrap:wrap;font-size:12.5px}
+  .links a{color:var(--dim);text-decoration:none;border-bottom:1px solid #2b3a5c;padding-bottom:1px}
+  .links a:hover{color:var(--ink);border-color:var(--brand)}.links a .ic{color:var(--brand);margin-right:5px}
+  .permalink{font-family:ui-monospace,Consolas,monospace;font-size:11.5px;color:var(--faint)}
+  .note{max-width:1040px;font-size:11.5px;color:var(--faint);text-align:center;line-height:1.5;margin-top:4px}
+</style>
+</head><body>
+  <div class="topbar">
+    <span class="logo" translate="no">Nelfe<b>Play</b><span class="tag">records</span></span>
+    <div class="langs" role="group" aria-label="Language">
+      <button onclick="setLang('en',this)">EN</button><button onclick="setLang('fr',this)">FR</button>
+      <button onclick="setLang('es',this)">ES</button><button onclick="setLang('ja',this)">日本語</button>
+      <button onclick="setLang('zh',this)">中文</button><button onclick="setLang('ko',this)">한국어</button>
+    </div>
+  </div>
+  <div class="hint" id="hint"></div>
+
+  <div class="card">
+    <div class="left">
+      <div class="brand" translate="no">Nelfe<b>Play</b><span class="tag">records</span></div>
+      <div class="kicker" id="kicker"></div>
+      <div class="game" id="game" translate="no"></div>
+      <div class="sys" id="sys" translate="no"></div>
+      <div class="score" id="score" translate="no"></div>
+      <div class="who" id="who"></div>
+    </div>
+    <div class="right" id="right" translate="no"></div>
+  </div>
+
+  <div class="under"><div class="links" id="links"></div><span class="permalink" id="permalink" translate="no"></span></div>
+  <p class="note" id="note"></p>
+
+<script>
+  const C = {"title":"Double Dragon","sys_name":"Arcade","ruleset":"1cc","score":1100,"player":"Lorenzolamas","recorded_as":"","anonymous":false,"md5":"f2ddcaeae6d66fbda05678c5170719dc","sha_short":"","sealed":true,"block":969863,"established":"2026-10-04T13:35:50Z","token":"5c89c956-778a-44c1-ab05-e6350d433f90","token_short":"5c89c956","permalink":"nelfeplay.com/records/arcade/double-dragon/1cc/5c89c956-778a-44c1-ab05-e6350d433f90/","verify_url":"https://nelfeplay.com/verify/","board_url":"https://nelfeplay.com/records/arcade/double-dragon/1cc/","btc_url":"https://mempool.space/block/969863"};
+  const $ = id => document.getElementById(id);
+
+  const I = {
+    en:{wiki:"Documentation",kicker:"Record certificate",pts:"points",anon:"Anonymous",usub:"· unidentified machine",
+      sok:"Verified &amp; sealed",soks:"Signed on the machine · timestamped on the blockchain",
+      swa:"Verified · sealing in progress",swas:"Signed on the machine · blockchain anchoring in progress",
+      ksig:"Signature",kseal:"Seal",kdate:"Established",kas:"Recorded as",pend:"awaiting blockchain record",block:"block",
+      cert:"certificate",immut:"immutable",lverify:"Verify",lboard:"Current leaderboard",lbtc:"View on the blockchain",
+      note:"Immutable certificate: score, dump fingerprints (MD5 + SHA-256), ECDSA signature and blockchain seal. No rank on it - the rank lives on the leaderboard."},
+    fr:{wiki:"Documentation",kicker:"Certificat de record",pts:"points",anon:"Anonyme",usub:"· machine non identifiée",
+      sok:"Vérifié &amp; scellé",soks:"Signé sur la machine · horodaté sur la blockchain",
+      swa:"Vérifié · scellement en cours",swas:"Signé sur la machine · ancrage blockchain en cours",
+      ksig:"Signature",kseal:"Sceau",kdate:"Établi le",kas:"Enregistré sous",pend:"en attente d'enregistrement blockchain",block:"bloc",
+      cert:"certificat",immut:"immuable",lverify:"Vérifier",lboard:"Classement actuel",lbtc:"Voir sur la blockchain",
+      note:"Certificat immuable : score, empreintes du dump (MD5 + SHA-256), signature ECDSA et sceau blockchain. Pas de rang dessus - le rang vit sur le classement."},
+    es:{wiki:"Documentación",kicker:"Certificado de récord",pts:"puntos",anon:"Anónimo",usub:"· máquina no identificada",
+      sok:"Verificado y sellado",soks:"Firmado en la máquina · sellado en la blockchain",
+      swa:"Verificado · sellado en curso",swas:"Firmado en la máquina · anclaje blockchain en curso",
+      ksig:"Firma",kseal:"Sello",kdate:"Establecido el",kas:"Registrado como",pend:"pendiente de registro blockchain",block:"bloque",
+      cert:"certificado",immut:"inmutable",lverify:"Verificar",lboard:"Clasificación actual",lbtc:"Ver en la blockchain",
+      note:"Certificado inmutable: puntuación, huellas del dump (MD5 + SHA-256), firma ECDSA y sello blockchain. Sin rango - el rango vive en la clasificación."},
+    ja:{wiki:"ドキュメント",kicker:"記録証明書",pts:"点",anon:"匿名",usub:"· 未識別の端末",
+      sok:"検証・封印済み",soks:"端末で署名・ブロックチェーンに刻印",
+      swa:"検証済み・封印処理中",swas:"端末で署名・ブロックチェーン記録処理中",
+      ksig:"署名",kseal:"封印",kdate:"確立日",kas:"登録名",pend:"ブロックチェーン記録待ち",block:"ブロック",
+      cert:"証明書",immut:"不変",lverify:"検証",lboard:"現在のランキング",lbtc:"ブロックチェーンで見る",
+      note:"不変の証明書：スコア、ダンプ指紋（MD5・SHA-256）、ECDSA署名、ブロックチェーン封印。順位は記載なし（順位はランキングに）。"},
+    zh:{wiki:"文档",kicker:"记录证书",pts:"分",anon:"匿名",usub:"· 未识别设备",
+      sok:"已验证并封印",soks:"在本机签名·区块链上盖时间戳",
+      swa:"已验证·封印进行中",swas:"在本机签名·区块链锚定中",
+      ksig:"签名",kseal:"封印",kdate:"确立于",kas:"登记名",pend:"等待区块链记录",block:"区块",
+      cert:"证书",immut:"不可变",lverify:"验证",lboard:"当前排行榜",lbtc:"在区块链上查看",
+      note:"不可变证书：分数、转储指纹（MD5 + SHA-256）、ECDSA 签名与区块链封印。无排名-排名在排行榜上。"},
+    ko:{wiki:"문서",kicker:"기록 증명서",pts:"점",anon:"익명",usub:"· 미식별 기기",
+      sok:"검증·봉인됨",soks:"기기에서 서명·블록체인에 타임스탬프",
+      swa:"검증됨·봉인 진행 중",swas:"기기에서 서명·블록체인 앵커링 중",
+      ksig:"서명",kseal:"봉인",kdate:"확립일",kas:"등록 당시 이름",pend:"블록체인 기록 대기",block:"블록",
+      cert:"증명서",immut:"불변",lverify:"검증",lboard:"현재 순위",lbtc:"블록체인에서 보기",
+      note:"불변 증명서: 점수, 덤프 지문(MD5 + SHA-256), ECDSA 서명, 블록체인 봉인. 순위 없음 - 순위는 순위표에."}
+  };
+  let LANG='en';
+  const T=k=>(I[LANG]||I.en)[k] ?? (I.en[k]||k);
+
+  function render(){
+    document.documentElement.lang=LANG;
+    $('hint').textContent=T('kicker');
+    $('kicker').textContent=T('kicker');
+    const esc=s=>s.replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    const tp=C.title.split(' ');
+    $('game').innerHTML=`<b>${esc(tp[0])}</b>${tp.length>1?' '+esc(tp.slice(1).join(' ')):''}`;
+    $('sys').textContent=`${C.sys_name} · ${C.ruleset}`;
+    $('score').innerHTML=`${C.score.toLocaleString(LANG)}<span>${T('pts')}</span>`;
+    $('who').innerHTML=`<canvas id="ic" width="60" height="60"></canvas><span class="flag">🏳️</span>`+
+      (C.anonymous?`<span class="nm">${T('anon')}</span><span class="anon">${T('usub')}</span>`:`<span class="nm">${C.player}</span>`);
+    identicon($('ic'), C.token);
+
+    const sealRow = C.sealed
+      ? `<span class="v btc">₿ ${T('block')} ${C.block}</span>`
+      : `<span class="v wait">${T('pend')}</span>`;
+    const date = new Intl.DateTimeFormat(LANG,{dateStyle:'long',timeStyle:'short',timeZone:'UTC'}).format(new Date(C.established))+' UTC';
+    $('right').innerHTML=`
+      <div class="seal ${C.sealed?'ok':'wait'}">
+        <div class="badge"><img src="/assets/brand/nelfe-verified.svg" alt="" width="56" height="56"></div>
+        <div class="lbl">${C.sealed?T('sok'):T('swa')}<small>${C.sealed?T('soks'):T('swas')}</small></div>
+      </div>
+      <div class="proof">
+        <div class="r"><span class="k">${T('ksig')}</span><span class="v ok">ECDSA P-256 ✓</span></div>
+        ${C.md5?`<div class="r"><span class="k">Dump · MD5</span><span class="v" translate="no">${esc(C.md5)}</span></div>`:''}
+        ${C.sha_short?`<div class="r"><span class="k">Dump · SHA-256</span><span class="v" translate="no">${esc(C.sha_short)}</span></div>`:''}
+        <div class="r"><span class="k">${T('kseal')}</span>${sealRow}</div>
+        <div class="r"><span class="k">${T('kdate')}</span><span class="v">${date}</span></div>
+        ${C.recorded_as?`<div class="r"><span class="k">${T('kas')}</span><span class="v" translate="no">${esc(C.recorded_as)}</span></div>`:''}
+      </div>
+      <div class="idline">${T('cert')} ${C.token_short} · ${T('immut')}</div>`;
+
+    // Les liens internes portent la langue choisie (#lng) ; le lien Bitcoin (externe) non, et il
+    // part dans un NOUVEL ONGLET : il quitte le site pour mempool.space, et un certificat qu'on
+    // vient de partager ne doit pas disparaitre sous le lecteur qui verifie son sceau.
+    $('links').innerHTML=
+      `<a href="${C.verify_url}#${LANG}"><span class="ic">🔎</span>${T('lverify')}</a>`+
+      `<a href="${C.board_url}#${LANG}"><span class="ic">🏅</span>${T('lboard')}</a>`+
+      (C.btc_url?`<a href="${C.btc_url}" target="_blank" rel="noopener"><span class="ic">⛓</span>${T('lbtc')}</a>`:'')+
+      `<a href="https://nelfe80.github.io/NelfeScoringProtocol/" target="_blank" rel="noopener"><span class="ic">📖</span>${T('wiki')}</a>`;
+    $('permalink').textContent=C.permalink;
+    $('note').textContent=T('note');
+  }
+
+  function fnv(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}
+  function identicon(cv,seed){if(!cv)return;const h=fnv(seed),ctx=cv.getContext("2d"),N=5,S=cv.width/N;
+    ctx.fillStyle=`hsl(${(Math.floor(h/360))%360} 34% 15%)`;ctx.fillRect(0,0,cv.width,cv.height);
+    ctx.fillStyle=`hsl(${h%360} 72% 62%)`;
+    for(let y=0;y<N;y++)for(let x=0;x<3;x++){if((h>>((y*3+x)%29))&1){ctx.fillRect(x*S,y*S,S,S);ctx.fillRect((N-1-x)*S,y*S,S,S);}}}
+
+  function setLang(l,btn){LANG=l;document.querySelectorAll('.langs button').forEach(b=>b.removeAttribute('aria-current'));if(btn)btn.setAttribute('aria-current','true');
+    location.hash=l;render()}
+  LANG=(location.hash||'#en').replace('#','')||'en';if(!I[LANG])LANG='en';
+  const cur=[...document.querySelectorAll('.langs button')].find(x=>x.getAttribute('onclick').includes("'"+LANG+"'"));
+  if(cur)cur.setAttribute('aria-current','true');
+  render();
+</script>
+</body></html>

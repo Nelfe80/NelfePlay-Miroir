@@ -1,0 +1,106 @@
+/* L'annuaire des directs.
+   Il emprunte le tableau des classements : c'est le meme lecteur, la page doit lui
+   ressembler. Ce fichier n'ajoute que ce qui est propre a un direct. */
+
+/* Le socle du site pose 160px sur un hero de vitrine. Un annuaire se lit tout de suite :
+   la liste doit etre a l'ecran, pas sous un pli. */
+.lv-hero {
+    padding: clamp(2.4rem, 5vw, 4rem) 0 clamp(1.6rem, 3vw, 2.4rem);
+}
+
+.lv-section {
+    padding: clamp(1.8rem, 3vw, 2.6rem) 0 clamp(2.4rem, 5vw, 3.6rem);
+}
+
+/* La pastille du direct. Elle bat : c'est ce qui distingue une chose qui se passe
+   MAINTENANT d'une ligne d'annuaire. */
+.lv-dot {
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    margin-right: .45rem;
+    border-radius: 50%;
+    background: #e0245e;
+    box-shadow: 0 0 0 0 rgba(224, 36, 94, .55);
+    animation: lv-pulse 1.9s ease-out infinite;
+    vertical-align: .05em;
+}
+
+@keyframes lv-pulse {
+    70% { box-shadow: 0 0 0 7px rgba(224, 36, 94, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(224, 36, 94, 0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .lv-dot {
+        animation: none;
+    }
+}
+
+/* Le type est DEDUIT de l'etat reel de la partie, jamais saisi. La couleur suit ce qu'on
+   peut faire : jouer, regarder, ou seulement reagir. */
+.lv-type {
+    display: inline-block;
+    padding: .1rem .45rem;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    font-size: .74rem;
+    white-space: nowrap;
+}
+
+.lv-type-open {
+    border-color: rgba(126, 231, 135, .5);
+    color: #7ee787;
+}
+
+.lv-type-followers {
+    border-color: rgba(134, 93, 255, .55);
+    color: var(--brand-bright);
+}
+
+.lv-type-spectate {
+    color: var(--text-soft);
+}
+
+.lv-type-react {
+    color: var(--muted);
+}
+
+.lv-kind {
+    margin-left: .35rem;
+    color: var(--muted);
+    font-size: .72rem;
+}
+
+.lv-twitch,
+.lv-here {
+    color: var(--brand-bright);
+    font-size: .82rem;
+    text-decoration: underline;
+    text-decoration-color: rgba(134, 93, 255, .45);
+    text-underline-offset: .2em;
+    white-space: nowrap;
+}
+
+.lv-empty,
+.lv-note {
+    max-width: 46rem;
+    color: var(--muted);
+    font-size: .84rem;
+}
+
+.lv-note {
+    margin: .9rem 0 0;
+}
+
+/* Le bouton qui lance le direct sur sa borne. Ce qui mene ailleurs (la chaine, la fiche)
+   passe en dessous, en petit : c'est l'action principale de la ligne. */
+.lv-join {
+    margin-bottom: .4rem;
+}
+
+.lv-join + .lv-twitch,
+.lv-join + .lv-here,
+.lv-twitch + .lv-here {
+    display: block;
+}

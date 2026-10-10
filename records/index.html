@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Records certifiés - NelfePlay</title>
+<meta name="description" content="Classements de scores rétro certifiés : mesurés sur la machine, signés, scellés sur la blockchain. Vérifiables par quiconque.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='14' font-size='14'%3E%F0%9F%8F%85%3C/text%3E%3C/svg%3E">
+<style>
+  :root{--ink:#f5f7fb;--dim:#ccd5e5;--faint:#8f9bb0;--panel:#0c111d;--panel2:#111827;--line:#1e2740;--line2:#2b3a5c;
+    --brand:#865DFF;--ring:#ffcb05;--hill:#A98BFF;--hill-lo:#5B34D6;--gold:#ffc96b;--scan:rgba(255,255,255,.028)}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{background:radial-gradient(1200px 700px at 50% -12%,#865DFF14,transparent 60%),repeating-linear-gradient(0deg,transparent 0 2px,var(--scan) 2px 3px),linear-gradient(180deg,#0a0f1a,#060811 62%);
+    color:var(--ink);font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;min-height:100vh}
+  .wrap{max-width:1040px;margin:0 auto;padding:clamp(18px,3vw,44px) clamp(14px,4vw,28px) 72px}
+  .topbar{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+  .logo{display:flex;align-items:center;font-weight:700;font-size:17px}.logo b{font-weight:inherit;color:var(--brand)}
+  .logo .tag{margin-left:10px;font-size:10.5px;letter-spacing:.24em;color:var(--hill);border:1px solid var(--hill-lo);border-radius:6px;padding:2px 7px;text-transform:uppercase}
+  .langs{display:flex;gap:2px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
+  .langs button{all:unset;cursor:pointer;font-size:12px;padding:5px 9px;border-radius:7px;color:var(--dim)}
+  .langs button[aria-current="true"]{background:var(--brand);color:#fff;font-weight:700}
+  .checker{height:12px;border-radius:3px;margin:22px 0 10px;background:repeating-conic-gradient(var(--hill) 0 25%,var(--hill-lo) 0 50%) 0 0/26px 26px;box-shadow:0 6px 22px #865DFF33,inset 0 -7px 12px #00000040}
+  h1{font-size:clamp(28px,5.5vw,48px);line-height:1.02;margin:.1em 0 .1em;font-weight:900;letter-spacing:-.02em;text-wrap:balance}
+  h1 b{color:var(--brand)}
+  .sub{color:var(--dim);font-size:14.5px;max-width:60ch}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-top:26px}
+  a.card{display:flex;flex-direction:column;gap:6px;border:1px solid var(--line);border-radius:16px;padding:18px;background:linear-gradient(180deg,var(--panel2),var(--panel));text-decoration:none;color:inherit;transition:border-color .12s,transform .12s}
+  a.card:hover{border-color:var(--brand);transform:translateY(-2px)}
+  /* Logo système en couleur, sur fond transparent (variante « -w » privilégiée quand
+     elle existe) ; ombre douce pour le détacher du fond sombre, sans cartouche. */
+  .card .plate{align-self:flex-start;display:inline-flex;align-items:center;margin-bottom:3px}
+  .card .plate img{display:block;height:26px;max-width:150px;width:auto;object-fit:contain;filter:drop-shadow(0 1px 2px rgba(0,0,0,.55))}
+  .card .sys{font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint)}
+  .card .nm{font-size:20px;font-weight:900;letter-spacing:-.01em;line-height:1.05}.card .nm b{color:var(--brand)}
+  .card .rs{font-size:12.5px;color:var(--dim)}
+  .card .row{display:flex;justify-content:space-between;align-items:flex-end;margin-top:8px}
+  .card .top{font-family:ui-monospace,Consolas,monospace;font-weight:800;font-size:26px;color:var(--gold);font-variant-numeric:tabular-nums}
+  .card .top small{display:block;font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:700;font-family:"Segoe UI",system-ui,sans-serif}
+  .card .cnt{font-size:12px;color:var(--faint)}
+  .empty{border:1px dashed var(--line2);border-radius:16px;padding:30px;text-align:center;color:var(--dim);margin-top:24px}
+  .foot{display:flex;gap:18px;flex-wrap:wrap;margin-top:30px;font-size:13px}
+  .foot a{color:var(--dim);text-decoration:none;border-bottom:1px solid #2b3a5c;padding-bottom:1px}
+  .foot a:hover{color:var(--ink);border-color:var(--brand)}.foot a .ic{color:var(--brand);margin-right:5px}
+  /* Les deux faces d'une meme question : qui est le meilleur, et comment on
+     sait que c'est vrai. Meme dessin que l'onglet des classements. */
+  .tabs{display:flex;gap:6px;margin:22px 0 2px;flex-wrap:wrap}
+  .tabs a{padding:9px 18px;border:1px solid var(--line);border-radius:999px;color:var(--dim);text-decoration:none;font-size:14px;font-weight:600}
+  .tabs a:hover{border-color:var(--line2);color:var(--ink)}
+  .tabs a[aria-current="page"]{background:var(--brand);border-color:var(--brand);color:#fff}
+  .note{margin-top:16px;font-size:11.5px;color:var(--faint)}
+</style>
+</head><body>
+<div class="wrap">
+  <div class="topbar">
+    <span class="logo" translate="no">Nelfe<b>Play</b><span class="tag">records</span></span>
+    <div class="langs" role="group" aria-label="Language">
+      <button onclick="setLang('en',this)">EN</button><button onclick="setLang('fr',this)">FR</button>
+      <button onclick="setLang('es',this)">ES</button><button onclick="setLang('ja',this)">日本語</button>
+      <button onclick="setLang('zh',this)">中文</button><button onclick="setLang('ko',this)">한국어</button>
+    </div>
+  </div>
+  <div class="checker"></div>
+  <h1 id="h1"></h1>
+  <p class="sub" id="sub"></p>
+  <nav class="tabs">
+    <a id="tabrank" href="https://nelfeplay.com/en/rankings"></a>
+    <a id="tabrec" href="/records/" aria-current="page"></a>
+  </nav>
+  <div class="grid" id="grid"></div>
+  <div class="foot">
+    <a id="lverify" href="https://nelfeplay.com/verify/"></a>
+    <a id="lwiki" href="https://nelfe80.github.io/NelfeScoringProtocol/" target="_blank" rel="noopener"></a>
+  </div>
+  <p class="note" id="note"></p>
+</div>
+
+<script>
+const CAT = [{"system":"arcade","system_name":"Arcade","game":"bubble-bobble","title":"Bubble Bobble","ruleset":"1cc-power-up","logo":"/records/logos/arcade.svg","top":1106220,"total":45},{"system":"arcade","system_name":"Arcade","game":"metal-slug-3","title":"Metal Slug 3","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":864770,"total":174},{"system":"arcade","system_name":"Arcade","game":"bubble-bobble","title":"Bubble Bobble","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":854110,"total":203},{"system":"arcade","system_name":"Arcade","game":"bubble-bobble","title":"Bubble Bobble","ruleset":"1cc-original","logo":"/records/logos/arcade.svg","top":846250,"total":19},{"system":"arcade","system_name":"Arcade","game":"metal-slug-3","title":"Metal Slug 3","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":784250,"total":14},{"system":"arcade","system_name":"Arcade","game":"19xx-the-war-against-destiny","title":"19xx The War Against Destiny","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":778200,"total":167},{"system":"arcade","system_name":"Arcade","game":"bubble-bobble","title":"Bubble Bobble","ruleset":"1cc-super","logo":"/records/logos/arcade.svg","top":368110,"total":4},{"system":"arcade","system_name":"Arcade","game":"19xx-the-war-against-destiny","title":"19xx The War Against Destiny","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":261800,"total":6},{"system":"arcade","system_name":"Arcade","game":"altered-beast","title":"Altered Beast","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":227700,"total":218},{"system":"arcade","system_name":"Arcade","game":"bubble-bobble","title":"Bubble Bobble","ruleset":"1lc-original","logo":"/records/logos/arcade.svg","top":203260,"total":1},{"system":"arcade","system_name":"Arcade","game":"1942","title":"1942","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":198570,"total":738},{"system":"arcade","system_name":"Arcade","game":"bubble-bobble","title":"Bubble Bobble","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":197860,"total":4},{"system":"megadrive","system_name":"Mega Drive / Genesis","game":"sonic-the-hedgehog","title":"Sonic the Hedgehog","ruleset":"1cc","logo":"/records/logos/megadrive.svg","top":165660,"total":80},{"system":"arcade","system_name":"Arcade","game":"double-dragon","title":"Double Dragon","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":93170,"total":170},{"system":"mastersystem","system_name":"Mastersystem","game":"alex-kidd-in-miracle-world","title":"Alex Kidd In Miracle World","ruleset":"1cc","logo":"/records/logos/mastersystem.svg","top":75000,"total":54},{"system":"arcade","system_name":"Arcade","game":"1942","title":"1942","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":52010,"total":30},{"system":"mastersystem","system_name":"Mastersystem","game":"alex-kidd-in-miracle-world","title":"Alex Kidd In Miracle World","ruleset":"1lc","logo":"/records/logos/mastersystem.svg","top":41600,"total":48},{"system":"arcade","system_name":"Arcade","game":"ms-pac-man","title":"Ms Pac Man","ruleset":"1cc","logo":"/records/logos/arcade.svg","top":31050,"total":393},{"system":"arcade","system_name":"Arcade","game":"altered-beast","title":"Altered Beast","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":20700,"total":10},{"system":"megadrive","system_name":"Mega Drive / Genesis","game":"sonic-the-hedgehog","title":"Sonic the Hedgehog","ruleset":"1lc","logo":"/records/logos/megadrive.svg","top":15800,"total":2},{"system":"arcade","system_name":"Arcade","game":"ms-pac-man","title":"Ms Pac Man","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":15350,"total":19},{"system":"arcade","system_name":"Arcade","game":"double-dragon","title":"Double Dragon","ruleset":"1lc","logo":"/records/logos/arcade.svg","top":6220,"total":2},{"system":"arcade","system_name":"Arcade","game":"metal-slug-3","title":"Metal Slug 3","ruleset":"1cc-multi","logo":"/records/logos/arcade.svg","top":2000,"total":1}];
+const $ = id => document.getElementById(id);
+const I = {
+  en:{tabrank:"Rankings",tabrec:"Certified records",tag:"records",h1:"Certified <b>records</b>",sub:"Retro score leaderboards - measured on the machine, signed, sealed on the blockchain. Verifiable by anyone.",best:"best",scores:"scores",empty:"No certified leaderboard yet.",verify:"🔎 Verify",wiki:"📖 Documentation",note:"Static pages - no server call on read. Only published scores appear."},
+  fr:{tabrank:"Classements",tabrec:"Records certifiés",tag:"records",h1:"<b>Records</b> certifiés",sub:"Classements de scores rétro - mesurés sur la machine, signés, scellés sur la blockchain. Vérifiables par quiconque.",best:"meilleur",scores:"scores",empty:"Aucun classement certifié pour l'instant.",verify:"🔎 Vérifier",wiki:"📖 Documentation",note:"Pages statiques - aucune requête serveur à la lecture. Seuls les scores publiés y figurent."},
+  es:{tabrank:"Clasificaciones",tabrec:"Récords certificados",tag:"records",h1:"<b>Récords</b> certificados",sub:"Clasificaciones de puntuaciones retro - medidas en la máquina, firmadas, selladas en la blockchain. Verificables por cualquiera.",best:"mejor",scores:"puntuaciones",empty:"Aún no hay clasificación certificada.",verify:"🔎 Verificar",wiki:"📖 Documentación",note:"Páginas estáticas - sin llamada al servidor. Solo puntuaciones publicadas."},
+  ja:{tabrank:"ランキング",tabrec:"認証済みの記録",tag:"records",h1:"認証<b>記録</b>",sub:"レトロスコアのランキング - 端末で計測、署名、ブロックチェーンに封印。誰でも検証可能。",best:"最高",scores:"スコア",empty:"認証ランキングはまだありません。",verify:"🔎 検証",wiki:"📖 ドキュメント",note:"静的ページ - 読み込み時にサーバー呼び出しなし。公開スコアのみ。"},
+  zh:{tabrank:"排行榜",tabrec:"认证纪录",tag:"records",h1:"认证<b>记录</b>",sub:"复古分数排行榜 - 在本机测量、签名、封印于区块链。任何人皆可验证。",best:"最佳",scores:"分数",empty:"暂无认证排行榜。",verify:"🔎 验证",wiki:"📖 文档",note:"静态页面 - 读取时无服务器调用。仅显示已发布分数。"},
+  ko:{tabrank:"랭킹",tabrec:"인증된 기록",tag:"records",h1:"인증 <b>기록</b>",sub:"레트로 점수 순위 - 기기에서 측정, 서명, 블록체인에 봉인. 누구나 검증 가능.",best:"최고",scores:"점수",empty:"아직 인증 순위표가 없습니다.",verify:"🔎 검증",wiki:"📖 문서",note:"정적 페이지 - 읽기 시 서버 호출 없음. 게시된 점수만 표시."},
+};
+let LANG='en';
+const T=k=>(I[LANG]||I.en)[k] ?? (I.en[k]||k);
+const fmt=n=>Number(n).toLocaleString(LANG);
+
+function render(){
+  document.documentElement.lang=LANG;
+  document.querySelector('.logo .tag').textContent=T('tag');
+  $('h1').innerHTML=T('h1'); $('sub').textContent=T('sub'); $('note').textContent=T('note');
+  $('tabrank').textContent=T('tabrank'); $('tabrank').href='https://nelfeplay.com/'+LANG+'/rankings';
+  $('tabrec').textContent=T('tabrec'); $('tabrec').href='/records/#'+LANG;
+  $('lverify').textContent=T('verify'); $('lverify').href='https://nelfeplay.com/verify/#'+LANG;
+  $('lwiki').textContent=T('wiki');
+  if(!CAT.length){ $('grid').innerHTML=`<div class="empty">${T('empty')}</div>`; return; }
+  $('grid').innerHTML=CAT.map(c=>{
+    const tp=c.title.split(' ');
+    const nm=`<b translate="no">${tp[0]}</b>`+(tp.length>1?' <span translate="no">'+tp.slice(1).join(' ')+'</span>':'');
+    const lg=c.logo?`<span class="plate"><img src="${c.logo}" alt="" loading="lazy"></span>`:'';
+    return `<a class="card" href="/records/${c.system}/${c.game}/${c.ruleset}/#${LANG}">
+      ${lg}<span class="sys" translate="no">${c.system_name}</span>
+      <span class="nm">${nm}</span>
+      <span class="rs" translate="no">${c.ruleset}</span>
+      <span class="row"><span class="top" translate="no">${fmt(c.top)}<small>${T('best')}</small></span>
+        <span class="cnt">${c.total} ${T('scores')}</span></span></a>`;
+  }).join('');
+}
+function setLang(l,btn){LANG=l;document.querySelectorAll('.langs button').forEach(b=>b.removeAttribute('aria-current'));if(btn)btn.setAttribute('aria-current','true');location.hash=l;render()}
+LANG=(location.hash||'#en').replace('#','')||'en';if(!I[LANG])LANG='en';
+const cur=[...document.querySelectorAll('.langs button')].find(x=>x.getAttribute('onclick').includes("'"+LANG+"'"));
+if(cur)cur.setAttribute('aria-current','true');
+render();
+</script>
+</body></html>

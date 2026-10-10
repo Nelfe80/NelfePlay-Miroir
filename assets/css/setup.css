@@ -1,0 +1,10 @@
+/* Bloc d'appairage de /setup. Externalisé (CSP style-src 'self'). */
+.setup-link { margin:22px 0; padding:18px; border:1px solid rgba(134, 93, 255,.35); border-radius:14px; background:rgba(10,18,26,.5); }
+.setup-address-fallback { margin:14px 0 0; color:#8f9bb0; font-size:.85rem; }
+.setup-address-fallback code { background:rgba(8,12,20,.7); padding:2px 8px; border-radius:6px; }
+
+/* Détection : ✓ vert dans l'étape faite (styles externalisés, CSP style-src 'self'). */
+.setup-number.is-ok { background:#2ec77a; border-color:#2ec77a; color:#04210f; }
+.setup-steps li.is-done { opacity:.72; }
+.setup-step-ok { color:#2ec77a; font-weight:600; margin:.25em 0 0; }
+.setup-recheck { margin:10px 0 0; }
