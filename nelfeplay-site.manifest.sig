@@ -1,0 +1,1 @@
+{"format":1,"alg":"ECDSA_P256_SHA256_DER","key_id":"ac42342aeb27b98beabd6964aa675d9a9dc08854edfd714bac26627d0930bacd","manifest_sha256":"416f3ffb0f9b37a24e90e95c5e512e56633d8ed4b8dd38d8ed6fb0a6a2d9f4db","signature":"MEQCIDLLOKHK9O379bKDbiQFttphiT_XBxh6HjL6omrHZGiUAiA7EROeEMgHS8O336MZGEQkDhDq-hje2XTDH_9o1Qf_fw"}
