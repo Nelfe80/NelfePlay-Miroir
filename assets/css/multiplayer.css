@@ -1,0 +1,561 @@
+/* NelfePlay MULTIPLAYER (27/10) : la vitrine des jeux, les classements expliques, les cotes ELO. Tout passe par les
+   variables du theme (jour et nuit) ; les couleurs propres sont celles des places a la borne (P1 violet, P2 orange). */
+
+.mp-hero {
+    background:
+        radial-gradient(1200px 420px at 12% -10%, rgba(162, 89, 255, 0.22), transparent 60%),
+        radial-gradient(900px 380px at 92% 0%, rgba(255, 138, 61, 0.18), transparent 60%);
+}
+
+.mp-hero h1 {
+    max-width: 22ch;
+    text-wrap: balance;
+}
+
+.mp-hero-compact h1 {
+    max-width: none;
+}
+
+/* Le post-scriptum du chapeau, un ton en dessous. */
+.mp-ps {
+    margin-top: 0.7rem;
+    font-size: clamp(1rem, 1.6vw, 1.12rem);
+}
+
+.mp-figures {
+    margin-top: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: var(--brand);
+}
+
+.mp-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.4rem;
+}
+
+/* L'experience : deux grandes captures, puis deux plus petites. */
+.mp-shots {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.25rem;
+}
+
+.mp-shot {
+    margin: 0;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    overflow: hidden;
+    box-shadow: var(--shadow);
+}
+
+.mp-shot img {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+.mp-shot figcaption {
+    padding: 1rem 1.2rem 1.2rem;
+}
+
+.mp-shot h3 {
+    margin: 0 0 0.35rem;
+}
+
+.mp-shot p {
+    margin: 0;
+    color: var(--muted);
+}
+
+/* Les jeux, par type. */
+.mp-type-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0.5rem 0 1.5rem;
+}
+
+.mp-type-nav a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.85rem;
+    border-radius: 999px;
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* Le titre d'un type qui a son classement ELO y mene : une fleche le dit. */
+.mp-type h3 a::after {
+    content: "→";
+    margin-left: 0.15rem;
+    color: var(--brand);
+    font-weight: 700;
+}
+
+.mp-type h3 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.mp-type h3 a:hover,
+.mp-type h3 a:focus-visible {
+    color: var(--brand);
+}
+
+.mp-type-nav a span,
+.mp-type h3 span {
+    font-size: 0.8em;
+    color: var(--muted);
+    font-weight: 600;
+}
+
+.mp-type {
+    margin-top: 2rem;
+    scroll-margin-top: 5rem;
+}
+
+.mp-type h3 {
+    margin: 0 0 0.9rem;
+    padding-left: 0.7rem;
+    border-left: 4px solid var(--brand);
+}
+
+.mp-type-combat h3 { border-left-color: #c9ef2f; }
+.mp-type-course h3 { border-left-color: #f2b81e; }
+.mp-type-coop h3 { border-left-color: #ff4fa3; }
+.mp-type-puzzle h3 { border-left-color: #8a8a99; }
+.mp-type-sport h3 { border-left-color: #ff6a3d; }
+.mp-type-strategie h3 { border-left-color: #e9c46a; }
+.mp-type-tir h3 { border-left-color: #ff3b4f; }
+
+.mp-grid {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+}
+
+.mp-card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.mp-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow);
+}
+
+.mp-card-image {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    background: #0b0a16;
+}
+
+/* Le cadre garde sa hauteur : une capture verticale (19XX) est recadree, pas etiree. */
+a.mp-card-image {
+    display: block;
+}
+
+a.mp-card-image:focus-visible {
+    outline: 3px solid var(--brand);
+    outline-offset: -3px;
+}
+
+a.mp-card-image:hover img {
+    filter: brightness(1.1);
+}
+
+.mp-card-image img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    image-rendering: pixelated;
+}
+
+.mp-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    padding: 0.7rem 0.8rem 0.85rem;
+}
+
+.mp-card-meta {
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+
+.mp-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin-top: 0.2rem;
+}
+
+.mp-badge {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--line-strong);
+    color: var(--muted);
+}
+
+.mp-badge-ranked {
+    background: #ffd23c;
+    border-color: #ffd23c;
+    color: #1d1600;
+}
+
+.mp-badge-ready {
+    border-color: rgba(162, 89, 255, 0.55);
+    color: var(--brand);
+}
+
+.mp-badge-choice {
+    border-color: rgba(255, 138, 61, 0.55);
+    color: #d4621f;
+}
+
+/* Une coop qui concourt au 1CC MULTI : le sigle en or sur fond sombre, lisible de jour comme de nuit. */
+.mp-badge-1cc {
+    background: #1d1600;
+    border-color: #ffd23c;
+    color: #ffd23c;
+    text-decoration: none;
+}
+
+.mp-badge-1cc:hover,
+.mp-badge-1cc:focus-visible {
+    background: #ffd23c;
+    color: #1d1600;
+}
+
+/* Les classements expliques : le conteneur de la navigation, le texte a sa largeur de lecture. */
+.mp-explain h2 {
+    margin-top: 2.4rem;
+}
+
+.mp-explain > p,
+.mp-explain > .mp-examples,
+.mp-explain > .mp-list {
+    max-width: 900px;
+}
+
+.mp-explain h2:first-child {
+    margin-top: 0;
+}
+
+.mp-examples {
+    display: grid;
+    gap: 0.6rem;
+    margin-top: 1rem;
+}
+
+.mp-example {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr);
+    gap: 1rem;
+    padding: 0.8rem 1rem;
+    background: var(--surface-raised);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+}
+
+.mp-example span {
+    color: var(--text-soft);
+}
+
+/* Les sept pastilles sur une ligne, la lettre au-dessus de son intervalle ; sur un telephone, trois par ligne. */
+.mp-letters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(6.4rem, 1fr));
+    gap: 0.8rem;
+    margin-top: 1rem;
+}
+
+.mp-letter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0.4rem;
+    padding: 0.7rem 0.4rem;
+    text-align: center;
+    text-wrap: balance;
+    background: var(--surface-raised);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
+}
+
+.mp-hexa {
+    display: inline-grid;
+    place-items: center;
+    width: 2.2rem;
+    height: 1.95rem;
+    clip-path: polygon(25% 0, 75% 0, 100% 50%, 75% 100%, 25% 100%, 0 50%);
+    background: #ffd23c;
+    color: #120f24;
+    font-weight: 800;
+}
+
+.mp-hexa-small {
+    width: 1.75rem;
+    height: 1.55rem;
+    font-size: 0.85rem;
+}
+
+.mp-letter-s .mp-hexa, .mp-hexa.mp-letter-s { background: linear-gradient(135deg, #ffe680, #ffb300); }
+.mp-letter-a .mp-hexa, .mp-hexa.mp-letter-a { background: #a259ff; color: #fff; }
+.mp-letter-b .mp-hexa, .mp-hexa.mp-letter-b { background: #3d7bff; color: #fff; }
+.mp-letter-c .mp-hexa, .mp-hexa.mp-letter-c { background: #39e58c; }
+.mp-letter-d .mp-hexa, .mp-hexa.mp-letter-d { background: #ff8a3d; }
+.mp-letter-e .mp-hexa, .mp-hexa.mp-letter-e { background: #b8b6c9; }
+.mp-letter-provisoire .mp-hexa, .mp-hexa.mp-letter-provisoire { background: var(--surface-soft); color: var(--muted); box-shadow: inset 0 0 0 2px var(--line-strong); }
+
+.mp-three {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.mp-three article {
+    padding: 1rem 1.1rem;
+    background: var(--surface-raised);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+}
+
+.mp-three h3 {
+    margin: 0 0 0.4rem;
+    color: var(--brand);
+}
+
+.mp-three p {
+    margin: 0;
+}
+
+.mp-genres {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.8rem;
+}
+
+/* La puce sur le bord du texte, comme les titres et les paragraphes. */
+.mp-list {
+    display: grid;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+}
+
+.mp-list li {
+    position: relative;
+    padding-left: 1.1rem;
+}
+
+.mp-list li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.6em;
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 2px;
+    background: var(--brand);
+}
+
+.mp-ranked-games {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.75rem;
+    margin-top: 1rem;
+}
+
+.mp-ranked-games li {
+    display: flex;
+    flex-direction: column;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    font-weight: 600;
+}
+
+.mp-ranked-games a {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    color: inherit;
+    text-decoration: none;
+}
+
+.mp-ranked-games a:hover span,
+.mp-ranked-games a:focus-visible span {
+    color: var(--brand);
+}
+
+.mp-ranked-games img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    image-rendering: pixelated;
+}
+
+.mp-ranked-games span {
+    padding: 0.5rem 0.7rem;
+}
+
+/* Les cotes ELO. */
+.mp-ladders {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 1.5rem;
+}
+
+.mp-ladder {
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.mp-ladder.is-active {
+    background: var(--brand);
+    border-color: var(--brand);
+    color: #fff;
+}
+
+.mp-ladder-group {
+    margin-left: 0.6rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+.mp-board-title {
+    margin: 0 0 1rem;
+}
+
+.mp-empty {
+    padding: 2rem 1.5rem;
+    text-align: center;
+    color: var(--muted);
+    background: var(--surface-raised);
+    border: 1px dashed var(--line-strong);
+    border-radius: var(--radius);
+}
+
+.mp-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    background: var(--surface);
+}
+
+.mp-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-variant-numeric: tabular-nums;
+}
+
+.mp-table th,
+.mp-table td {
+    padding: 0.7rem 0.9rem;
+    text-align: left;
+    border-bottom: 1px solid var(--line);
+    white-space: nowrap;
+}
+
+.mp-table th {
+    font-size: 0.78rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+
+.mp-table tbody tr:last-child td {
+    border-bottom: 0;
+}
+
+.mp-num {
+    text-align: right !important;
+}
+
+.mp-rank {
+    font-weight: 800;
+    width: 3rem;
+}
+
+.mp-podium-1 .mp-rank { color: #c98f00; }
+.mp-podium-2 .mp-rank { color: #8a8fa3; }
+.mp-podium-3 .mp-rank { color: #b0652f; }
+
+.mp-player a {
+    color: var(--text);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.mp-player a:hover {
+    color: var(--brand);
+}
+
+.mp-flag {
+    margin-left: 0.4rem;
+}
+
+.mp-provisional td {
+    color: var(--muted);
+}
+
+.mp-provisional small {
+    font-size: 0.72rem;
+}
+
+@media (max-width: 760px) {
+    .mp-shots,
+    .mp-three {
+        grid-template-columns: minmax(0, 1fr);
+    }
+
+    .mp-example {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 0.3rem;
+    }
+}
