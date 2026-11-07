@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-6",
+ "title": "Mega Man 6",
+ "source": "screenscraper",
+ "ss_game_id": 1307,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1307,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man 6",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Que les jeux commencent!\r\nIls sont venus des États-Unis, du Canada et du Japon. Les meilleurs concepteurs du monde et leurs meilleurs guerriers robotiques sont venus concourir au Premier Tournoi Annuel de Robotique. Mais ce qui a commencé comme un jeu a soudainement pris une tournure terrifiante! À la veille du Grand Championnat, le sponsor de l'événement a annoncé que l'ensemble du tournoi n'était qu'un plan élaboré pour mettre la main sur les robots les plus puissants du monde! Maintenant face à une armée de mercenaires métalliques, Mega Man doit combattre un nouvel ennemi féroce - Le mystérieux Mr. X!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man 6",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "In Mega Man 6, the world celebrates the first global Robot Design Contest, where hundreds of inventors present their most powerful creations. But when the mysterious sponsor, Mr. X, kidnaps the eight winning robots and declares his plan to take over the world, chaos erupts. When confronted, Mr. X shocks Mega Man by revealing that Dr. Wily was merely his puppet all along. Determined to end this threat once and for all, Mega Man sets out to battle the eight new Robot Masters — and finally face Mr. X himself.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "16d04cbddc4fd843fce7d3997971824f7d827836b05295b9678df34bb787b45c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1307&media=fanart",
+   "fetched_at": "2026-11-06T16:07:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "08e1f0d4ef6af6c9e6a7405c922ff3e6b2dcc961cdab37949882d2667082fb56",
+   "width": 600,
+   "height": 280,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1307&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:07:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a2bfb9d7b4af6e30634b5fa124e43f9c82a1e479e74def848a91c70f8a449914",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1307&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "cfe918a99bd10dcbbe15d197e8348ab472decfa470cf42ee789e08f64f4b851f",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1307&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "55008a570ced2ff1551f0218489182c3bc8ee2ec013cdc3337de75f2d9419120",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1307&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:07:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0b6ce8a1effd64d1d093f98238e3f4f2aa3d65c57262311c70b3978ce449bb28",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1307&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:07:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:07:12+00:00",
+ "status": "done"
+}

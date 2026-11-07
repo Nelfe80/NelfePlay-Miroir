@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "aso-armored-scrum-object",
+ "title": "ASO: Armored Scrum Object",
+ "source": "screenscraper",
+ "ss_game_id": 40073,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40073,
+  "release_year": 1985,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Alpha Mission",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "ASO - Armored Scrum Object: Dans la galaxie de Tetrenova, une guerre s'est déroulée qui a épuisé les ressources. Les survivants se regroupent et cherchent un nouvel endroit à reconstruire. Ils choisissent une planète apparemment sous développée, la Terre. \r\nEn utilisant votre vaisseau de défense Syd, vous devez détruire les forces d'invasion et les cibles au sol.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Alpha Mission",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "ASO - Armored Scrum Object (entitled Alpha Mission in the original USA arcade release) is a one-player scrolling shooter game, similar to Xevious in its segregation of air-to-air and air-to-ground weapons. Missiles are used to destroy ground enemies, while laser-like weapons are used for aerial opponents. Throughout each of the levels, the player must fight off waves of enemies that threaten several space stations and a boss must be defeated at the end of each. Like most early games in this genre, when the player dies, all weapons are lost and the player is moved to a point slightly before the point of death. The player's craft can also be upgraded to have more powerful weapons by picking up various power-ups throughout the level.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "82ef39a861a6071742cf5088214aecb52e78ad5d4392b0d4b6036e5ce2df0eb9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40073&media=fanart",
+   "fetched_at": "2026-11-06T23:18:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "956abe2d5464b06bde20e5e7546d85787ffb846fcf75695b760fbd16cf6996d4",
+   "width": 600,
+   "height": 191,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40073&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:18:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "30fe2e7a006a91a0bf52332ac6a5c9d24d30714587cc2673accf27530129be7e",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40073&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:18:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "2f143986e969078b8ee55ec0635bb4c3fc8dffdb3351bbdbb9006bad6b264c75",
+   "width": 216,
+   "height": 288,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40073&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:18:20+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a735a66fcd5c83fcc58c635cf41c8c40eed58539dea8f43a4f7069c0b5037616",
+   "width": 850,
+   "height": 1205,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40073&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T23:18:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2a82b376787bcffa9e723cbe60a9ed5bdf38bce76f8e218e8041ded24e3133b6",
+    "width": 216,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40073&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:18:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:18:15+00:00",
+ "status": "done"
+}

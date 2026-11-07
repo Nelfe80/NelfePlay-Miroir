@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "slug": "chip-n-dale-rescue-rangers",
+ "title": "Chip 'n Dale Rescue Rangers",
+ "source": "screenscraper",
+ "ss_game_id": 521732,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 521732,
+  "release_year": 2010,
+  "publisher": "Dynamic Pixels/ Disney Mobile",
+  "developer": "Dynamic Pixels",
+  "players": "1",
+  "system_label": "J2ME"
+ },
+ "text": {
+  "fr": {
+   "name": "Chip 'n Dale Rescue Rangers",
+   "genre": "Action",
+   "synopsis": "Welcome the brave Disney's Rescue Rangers to your mobile phone! The Fat Cat together with professor Nimnul has put the city to the brink of anarchy. The villains' terror has paralyzed the police force and the only ones who are able to restore the order ar",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Chip 'n Dale Rescue Rangers",
+   "genre": "Action",
+   "synopsis": "Welcome the brave Disney's Rescue Rangers to your mobile phone! The Fat Cat together with professor Nimnul has put the city to the brink of anarchy. The villains' terror has paralyzed the police force and the only ones who are able to restore the order ar",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d9ed06af4545ab16e9117677da7f8c3ed25e25d6751a073658dd4cb3cb1a4eb3",
+   "width": 600,
+   "height": 33,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=302&jeuid=521732&media=wheel-hd%28ss%29",
+   "fetched_at": "2026-11-06T16:22:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bacb0fe458a86ab71356ab763a59dc05af462ace93025a48056ec4575a7a9550",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=302&jeuid=521732&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T16:22:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "48e875fd6bdaf9ffcad88d50fc5e125f854a4993701935d3127e13c5e3d41e0b",
+    "width": 240,
+    "height": 320,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=302&jeuid=521732&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:22:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "support-2d",
+  "sstitle",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:22:34+00:00",
+ "status": "done"
+}

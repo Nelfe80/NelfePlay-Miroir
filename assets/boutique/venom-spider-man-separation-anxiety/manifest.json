@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "venom-spider-man-separation-anxiety",
+ "title": "Venom/Spider-Man: Separation Anxiety",
+ "source": "screenscraper",
+ "ss_game_id": 2510,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2510,
+  "release_year": 1995,
+  "publisher": "Acclaim Entertainment",
+  "developer": "Software Creations",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Venom & Spider-Man : Separation Anxiety",
+   "genre": "Beat'em All",
+   "synopsis": "La Life Foundation a créé cinq clones de Venom et a projeté de faire une armée pour contrôler la ville. En contrôlant Spider-Man ou Venom, vous devrez les détruire tous les cinq et stopper leurs plans. Hormis les coups traditionnels et l'utilisation de la toile d'araignée, il est possible de faire appel à quelques autres super héros en récoltant des icônes spéciales.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Venom & Spider-Man : Separation Anxiety",
+   "genre": "Beat'em Up",
+   "synopsis": "Separation Anxiety is a side scrolling beat'em up game, featuring characters and stories taken from the Spiderman comics. The story is loosely based on a mini series of comics about Venom. In this game, the player(s) gets to choose between controlling Spider-Man, or his on and off again foe Venom. As Spiderman you must stop the life foundation who have removed five symbiotes from Venom. They plan to bond them with their soldiers, creating a dangerous army. Venom recovering from his wounds also realises he must destroy them.\n\nThe game lets you punch, kick, swing and do combos throughout streets, the woods and underground complexes towards your goal. Throughout the game the player can pick up superhero icons. This icons will help you by summoning help from some of Spiderman's greatest allies like Daredevil, Ghost Rider, Hawkeye and Captain America",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9610066ea1c65a4ddb243b8761d73c0c2da48298af0e49cf05e8b670b6386c46",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2510&media=fanart",
+   "fetched_at": "2026-11-06T23:25:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f1d35a92ab86af1fb28fc5bedf2a7e98e42cd38d3c327372d5ef0effd4e69fdc",
+   "width": 600,
+   "height": 180,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2510&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:25:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0d4d45e3a1c0a160569672c51dbf9dd0f0b6da49a1561f9b0ec2faa7e5381840",
+   "width": 680,
+   "height": 500,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2510&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:25:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5860193892214794c23e2253b8c0a112ada77caf2ac50c0dea52eb4a1935ee40",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2510&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:25:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "769290f95625818ddd0aa73b2a357b9890c146029de931e85103bfc4d031a34c",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2510&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:25:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "07ae33e00d6e6b69ae582c85310abc5acceaa440af81b84be3e79b55ca18449a",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2510&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:25:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:25:10+00:00",
+ "status": "done"
+}

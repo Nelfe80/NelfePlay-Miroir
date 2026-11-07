@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "missile-command-3d",
+ "title": "Missile Command 3D",
+ "source": "screenscraper",
+ "ss_game_id": 14192,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14192,
+  "release_year": 1995,
+  "publisher": "Atari",
+  "developer": "Virtuality Entertainment",
+  "players": "1",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Missile Command 3D",
+   "genre": "Tir / Missile Command Like",
+   "synopsis": "Dans Missile Command 3D sur Jaguar vous devez défendre la côte contre de mystérieux envahisseurs. Les ennemis arrivent du ciel et vous disposez d'une batterie de trois canons contenant chacun dix missiles pour les repousser. Une fois qu'un canon est vide ou détruit, il devient inutilisable et il faut alors bien gérer son stock pour éviter de mourir. Le jeu contient de nombreux niveaux à la difficulté exponentielle durant lesquels il faut protéger six villes des ennemis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Missile Command 3D",
+   "genre": "Shooter / Missile Command Like",
+   "synopsis": "Missile Command 3D is an update to the classic Atari arcade game. The goal in Missile Command is to defend your cities against an onslaught of missiles coming from the sky. Your arsenal consists of three anti-missile flak cannons. You have to position the anti-missile clouds in the path of the incoming missiles to stop them from impacting.\n\nThis Jaguar game has 3 modes. First, there is a port of the original arcade game. There are neat extras for this mode like graphic backdrops and the ability to resize or scale the screen. The second mode is Missile Command 3D. This mode retains the gameplay of the original, but adds 3D graphics to the mix. The final mode, Virtual Missile Command, changes things up quite a lot. Instead of anti-missile flak, your cannons shoot lasers. This means you don't need to lead your targets anymore. You play the game from a first-person perspective, and must switch between the three cannons via buttons on the keypad. There are nine levels in this mode, each with a boss at the end.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "18c1bb25a7ca1811788571c914d57b2515152cff6262ecc406b7981fc025eaf3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14192&media=fanart",
+   "fetched_at": "2026-11-06T16:58:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ae3ee2641322915322b913a85c9a1e2d8fc64a9b528c86de93c585c05f473120",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14192&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:58:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9a4b380d0cbd22de851144dd5ae72ebb89f628ac19b05b4cd7386ce51453502b",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14192&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:58:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "13a9d745bc573494ea852d41cb526e05446fc80863f74f2ff2acda2468921316",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14192&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:58:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c07ae38422bc22096b4d24c7d0dd1a542958459e712f6096de685d0f9be36a68",
+   "width": 320,
+   "height": 227,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14192&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:58:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "adb5d4e223c15b0bcfd60469c5dceb161d7a406c7d8f11f68ab96f5d2b5fb729",
+    "width": 320,
+    "height": 227,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14192&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:58:16+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:58:07+00:00",
+ "status": "done"
+}

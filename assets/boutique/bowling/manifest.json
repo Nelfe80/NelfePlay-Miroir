@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "bowling",
+ "title": "Bowling",
+ "source": "screenscraper",
+ "ss_game_id": 14053,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14053,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Bowling",
+   "genre": "Sport / Bowling",
+   "synopsis": "Bowling pour Atari VCS 2600 est un jeu de sport développé par Atari. Jouable à 1 ou 2, il reprend les règles classiques du bowling. Il n'y a qu'un seul mode de jeu, mais plusieurs niveaux de difficulté qui laissent la possibilité ou non de contrôler la boule. Le niveau de difficulté influence également la probabilité de faire un strike.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bowling",
+   "genre": "Sports / Bowling",
+   "synopsis": "Your objective is to roll as high a score as possible, whether you're playing a one-player or a two-player game.  There are ten \"pins\" to knock down.  You have two tries (or rolls) to knock down the pins each time you're up.  Each game consists of ten \"frames\" (or turns).\r\n\r\nIf you succeed in knocking down all the pins on your first roll, it's called a \"strike\".  A strike is marked with an \"x\" on the TV screen.\r\n\r\nIf you leave pins standing, but \"pick them up\" on your second try, it's called a \"spare\".  Spares are marked with a \"/\" on the screen.\r\n\r\nAn \"open frame\" occurs when you fail to knock down all then pins in two rolls.  Open frames are indicated with a straight horizontal line (-) on the screen.\r\n\r\nThe ultimate goal in BOWLING is to roll 12 consecutive strikes for a \"perfect\" score of 300.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a084338e7b0096d92a66acb523ed24dcb356a18b517f362b26123e9be43a5d59",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14053&media=fanart",
+   "fetched_at": "2026-11-06T16:49:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "049c2245617ae32fe946ace9a1fb325b4a74f0a13019cad03f6d335ca57756ba",
+   "width": 400,
+   "height": 79,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14053&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:49:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "27c31292e894f8eefa0625f53844449c7d980a21b6e88f433942c395a960c68b",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14053&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:49:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f2f5c388d8d2479c9a9b611fe10d880f3dbbe15eabad632049fdb0b90b586c57",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14053&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:49:53+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "fa3722d28222e91365563477bf79a147042147b637d03b9e6d2b24e906cf6b6d",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14053&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:49:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c552139faed9248b7a3a63cf64f24d2844baee10374fd9c5894de4c504c1a99f",
+    "width": 320,
+    "height": 220,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14053&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:49:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:49:48+00:00",
+ "status": "done"
+}

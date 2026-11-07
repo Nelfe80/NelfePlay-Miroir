@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-the-hedgehog-rev-1",
+ "title": "Sonic The Hedgehog (Rev 1)",
+ "source": "screenscraper",
+ "ss_game_id": 12856,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12856,
+  "release_year": 1991,
+  "publisher": "SEGA",
+  "developer": "Ancient",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic The Hedgehog",
+   "genre": "Plateforme",
+   "synopsis": "Sonic the Hedgehog sur Game Gear est un jeu de plates-formes dont la principale caractéristique est l'incroyable vitesse de pointe de son héros, un hérisson bleu. L'histoire débute lorsque le docteur Robotnik capture les animaux de l'île et les enferme dans des robots. Le but du jeu est de libérer les animaux de l'île et de mettre à mal les plans de conquête du terrible Robotnik.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic the Hedgehog",
+   "genre": "Platform",
+   "synopsis": "SEGA's mascot Sonic the Hedgehog made his debut in a famous Genesis title, but Sega's 8-bit systems got their own version of the platformer, featuring the same story and gameplay style, but different levels. To stop the evil Dr. Robotnik, Sonic must traverse six zones consisting of three levels each. Most of the zones are based on those in the original game, but some are entirely new. Enemies and power-ups are mostly the same as well. Sonic can pick up golden rings for protection (when hit, he simply loses all of his rings instead of a life) and bonuses: 100 rings gain Sonic an extra life, and 50 remaining rings at the end of a level allow access to pinball-themed special stages full of bumpers and springs. The final level of a zone is always a boss fight against Robotnik. Sonic should also collect the six Chaos Emeralds to keep them from falling into Robotnik's hands. In a departure from the original game, these are not hidden in the special stages but somewhere in the regular levels.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ee75cc9d19eeee26e9a7bc432f4ba99f0a08bc031d5c357b156cca7450a30c62",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12856&media=fanart",
+   "fetched_at": "2026-11-06T16:11:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "43703010e35088aa35d28369f32d92eeaa94bde5daede2770337544758b225f1",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12856&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:11:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4ac7e39ece8c585b4f97d3c899a6c15946e9c08628a7819fc39c93244d35d529",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12856&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:11:28+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8405e367b387d9cb0399ecbb66a140047e1173a26df9e7e6ef9d8042f2096372",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12856&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:11:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "71ad6b4f58815632f7f10984aa0e61a15f011a68f4f6745275c0c4f39bdebbf2",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12856&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:11:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "75b800d046d1339487c625e55e11650181d959a0b14b69a8d1815a1898874d24",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12856&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:11:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:11:25+00:00",
+ "status": "done"
+}

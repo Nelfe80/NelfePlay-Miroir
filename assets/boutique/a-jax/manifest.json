@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "a-jax",
+ "title": "A-Jax",
+ "source": "screenscraper",
+ "ss_game_id": 47096,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47096,
+  "release_year": 1989,
+  "publisher": "Konami",
+  "developer": "SPS",
+  "players": "1",
+  "system_label": "Sharp X68000"
+ },
+ "text": {
+  "fr": {
+   "name": "A-jax",
+   "genre": "Shoot'em Up",
+   "synopsis": "The game takes place in a fictional 2007 where the Earth has been conquered by alien invaders. The player combats the occupation forces using vehicles under operation code named 'A-Jax' created to liberate the Earth. Game play is divided into two scrolling sections with two different vehicles: the first being a vertical scrolling section with the helicopter and a Rail scrolling stage with the jet/space fighter. The game spans eight stages and extends to 30,000 points, a second at 150,000 points. During the helicopter segments, the player has access to four different weapons including the Vulcan, Bomb, 3-Way, Triple and Laser. Each weapon is available through their own specific pick-up icon. However, the helicopter can only equip one firing weapon at a time with the Bomb being constant. The player also has access to Options which add additional firepower. The jet segments contrast highly from the helicopter segments, they have a complete lack of available power-ups and additional weapons beyond a machine gun and bomb.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "A-jax",
+   "genre": "Shoot'em Up",
+   "synopsis": "The game takes place in a fictional 2007 where the Earth has been conquered by alien invaders. The player combats the occupation forces using vehicles under operation code named 'A-Jax' created to liberate the Earth. Game play is divided into two scrolling sections with two different vehicles: the first being a vertical scrolling section with the helicopter and a Rail scrolling stage with the jet/space fighter. The game spans eight stages and extends to 30,000 points, a second at 150,000 points. During the helicopter segments, the player has access to four different weapons including the Vulcan, Bomb, 3-Way, Triple and Laser. Each weapon is available through their own specific pick-up icon. However, the helicopter can only equip one firing weapon at a time with the Bomb being constant. The player also has access to Options which add additional firepower. The jet segments contrast highly from the helicopter segments, they have a complete lack of available power-ups and additional weapons beyond a machine gun and bomb.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d205da9731d23e19ce68efafaaf6ea68ce39665ba0244b05d1781d6bb954ce12",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=79&jeuid=47096&media=fanart",
+   "fetched_at": "2026-11-06T16:12:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e2ee72dcd0ad35a11e6650ddde8c91e8c97f1ee20e30b5c412bf6950f0761882",
+   "width": 600,
+   "height": 263,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=79&jeuid=47096&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T16:12:50+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "718cf2f3e5aa0cffd33662c9b0e6d59fef27aee9d9cdf9c627df232d8b0c9b7c",
+   "width": 492,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=79&jeuid=47096&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:12:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "17962ea4115ef2dbcf3cc60b30113e002995d13474aa56800372cff286bcfaaf",
+   "width": 597,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=79&jeuid=47096&media=support-2D%28jp%29%5B1%5D",
+   "fetched_at": "2026-11-06T16:12:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9d9decf6809392e53f81f14b4a7bb07992a3c7277fc6d9046cf9266afaf4c556",
+   "width": 256,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=79&jeuid=47096&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:12:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "344b8bf78f08bcff1ba929d2931fc3168804ab917236edd9b6ce5e1928f247c6",
+    "width": 256,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=79&jeuid=47096&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:12:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:12:48+00:00",
+ "status": "done"
+}

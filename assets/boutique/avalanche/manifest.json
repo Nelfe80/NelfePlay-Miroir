@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "slug": "avalanche",
+ "title": "Avalanche",
+ "source": "screenscraper",
+ "ss_game_id": 574908,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 574908,
+  "release_year": null,
+  "publisher": "",
+  "developer": "",
+  "players": "",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Avalanche",
+   "genre": "",
+   "synopsis": "",
+   "synopsis_lang": ""
+  },
+  "en": {
+   "name": "Avalanche",
+   "genre": "",
+   "synopsis": "",
+   "synopsis_lang": ""
+  }
+ },
+ "media": {
+  "ss": []
+ },
+ "absent": [
+  "fanart",
+  "wheel",
+  "box-2d",
+  "support-2d",
+  "sstitle",
+  "flyer",
+  "ss"
+ ],
+ "fetched_at": "2026-11-06T16:48:13+00:00",
+ "status": "done"
+}

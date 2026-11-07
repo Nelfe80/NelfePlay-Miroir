@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "elvactr",
+ "title": "Elevator Action Returns",
+ "source": "screenscraper",
+ "ss_game_id": 41103,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41103,
+  "release_year": 1994,
+  "publisher": "Taito",
+  "developer": "Taito",
+  "players": "1-2",
+  "system_label": "Taito Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Elevator Action Returns",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Cette suite est excellente avec des graphismes 2D très fins et des animations très nombreuses qui pimentent l'action (il faut voir les ennemis chanceler sous les balles!). Les musiques sont discrètes mais rythment les moments les plus difficiles. L'objectif du jeu est simple, traverser une série de niveaux dans lesquels vous devez désamorcer 5 bombes. Les bombes se trouvent derrière les portes rouges tandis que les portes bleues représentent les bonus. A vous de vous défendre contre les nombreux ennemis grâce à votre revolver et vos sauts classieux!\r\n\r\nUn classique indémodable!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Elevator Action Returns",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Elevator Action Returns is a scrolling platform shoot-em-up for one or two players who each take on the role of a special task force operative and must foil a terrorist group that has planted nuclear bombs in various facilities. Players must also obtain the secret intelligence data scattered throughout each facility in order to disarm the bombs. \r\n\r\nThe objective of the game is to enter all of the red-coloured doors in each stage, then proceed to the exit. If players miss one of the red doors, they will be unable to progress beyond a certain point. There are also blue-coloured doors and entering these will award the player a special item, these include health refills, special firearms, sub-weapons and bonus points.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "24b47a1a37daf26517ef41bd907ae6b8c558b0dee3aa3d6814258f1072a367b6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=fanart",
+   "fetched_at": "2026-11-06T23:53:52+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "48060e08c4e47487cadcd683d66350ee8bc3e70acff3804de277b49b021ba6da",
+   "width": 400,
+   "height": 122,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:53:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1734ad9e02598b2322070d6d633ea22b68f39c8bc9fc9e8d3332079dd0fceab9",
+   "width": 496,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:53:55+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9d0f90daaf6c21f8a42c29bbd6302c246e67106416f33faf7a5b9585588839b1",
+   "width": 451,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:53:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ea002a3b7430e18dca6ef00c6ac6b98120688a2bf970fe7dc0a877148b460e8b",
+   "width": 320,
+   "height": 232,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:53:57+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "199c3a50fdea9782d88666967dc166e617b4cafd9ca200be071b1dc68ad4ac35",
+   "width": 1388,
+   "height": 969,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T23:54:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "ef30b7102267a81ea842926e615fcd6df9f6312ff326ec7b79ca25541278603d",
+    "width": 320,
+    "height": 232,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41103&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:54:01+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:53:51+00:00",
+ "status": "done"
+}

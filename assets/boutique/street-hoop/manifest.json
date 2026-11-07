@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "street-hoop",
+ "title": "Street Hoop",
+ "source": "screenscraper",
+ "ss_game_id": 10943,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 10943,
+  "release_year": 2010,
+  "publisher": "D4 Enterprise",
+  "developer": "Data East",
+  "players": "1-2",
+  "system_label": "Wii"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Hoop",
+   "genre": "Sport / Basketball",
+   "synopsis": "Dans ce jeu de basket de rue en trois contre trois, choisissez une équipe issue de l'un des dix pays en lice et tentez de vous imposer comme la meilleure équipe au monde. Les règles du basketball sont considérablement allégées. Les mouvements se montrent bien complets : feinte, dribble, charge, dunks divers et variés, interceptions, combinaisons... Par exemple, on peut faire semblant d'amorcer un dunk et au dernier moment, on passe le ballon. Ces techniques étant exposées entre chaque match, il est préférable de ne pas les passer quand on débute. En plus des nombreuses techniques disponibles, la puissance peut être chargée et libérée pour effectuer d'impressionnants super dunks.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Hoop",
+   "genre": "Sports / Basketball",
+   "synopsis": "In this three-on-three street basketball game, choose a team from one of the ten competing countries and try to establish yourself as the best team in the world. The rules of basketball are considerably simplified. The moves are very complete: feints, dribbling, charges, various and sundry dunks, interceptions, combinations, etc. For example, you can pretend to start a dunk and then pass the ball at the last moment. These techniques are explained between each match, so it's best not to use them when you're just starting out. In addition to the many techniques available, power can be charged up and released to perform impressive super dunks.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "87a5dea5db6a44704592c132b5e2019457abdbeaaa2d53aa1550ab81f28724cb",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=10943&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:45:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "cf11a59b61813869c643173fecffc7e373a6b62cf9dd539a6092f162bfb2344c",
+   "width": 486,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=10943&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:45:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c4893bd706fba74260f6e7ad9504f7ae310368c014f57a65ead3823e4db842ec",
+   "width": 600,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=10943&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:45:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "dc265305972efb23b5b0904fe9e1f6c1429c15d75762a131c31cbe5fcd375002",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=10943&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:45:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "a57880710564436a524015fede569591f2d9e3668394eb8c77f275fdaeef1bb4",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=10943&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:45:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:45:29+00:00",
+ "status": "done"
+}

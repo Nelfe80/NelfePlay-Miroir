@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "slug": "super-contra",
+ "title": "Super Contra",
+ "source": "screenscraper",
+ "ss_game_id": 17553,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 17553,
+  "release_year": 2007,
+  "publisher": "Konami",
+  "developer": "Digital Eclipse",
+  "players": "2",
+  "system_label": "Xbox 360"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Contra",
+   "genre": "",
+   "synopsis": "Bill et Lance rempilent dans Super Contra sur le Xbox Live et doivent repousser l'envahisseur extraterrestre qui cette fois s'est installé dans une base militaire en Amérique du Sud. Choisissez l'un des deux soldats et, armé de votre sulfateuse à munitions infinies, faites un carnage dans le rang ennemi. Optez pour le mode coopération afin de jouer avec un ami et débloquez les différents succès du titre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Contra",
+   "genre": "",
+   "synopsis": "Bill and Lance are back in Super Contra on Xbox Live and must fend off the alien invader, this time taking up residence in a military base in South America. Choose one of the two soldiers and, armed with your infinite ammo sledgehammer, wreak havoc on the enemy ranks. Opt for the co-op mode to play with a friend and unlock the various achievements of the title.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6258ea0bd2a2c5e7c605afad71a19449d0bc3ae845c92b0122710d83450a5843",
+   "width": 400,
+   "height": 194,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=33&jeuid=17553&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:54:44+00:00"
+  },
+  "ss": []
+ },
+ "absent": [
+  "fanart",
+  "box-2d",
+  "support-2d",
+  "sstitle",
+  "flyer",
+  "ss"
+ ],
+ "fetched_at": "2026-11-06T17:54:43+00:00",
+ "status": "done"
+}

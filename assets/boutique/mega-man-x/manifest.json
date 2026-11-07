@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-x",
+ "title": "Mega Man X",
+ "source": "screenscraper",
+ "ss_game_id": 2159,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2159,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man X",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "À la fin de sa vie, le Dr Light réussit à créer le premier d'une série de robots qui vont révolutionner le monde. Capable de penser et de prendre des décisions, ce robot exclusif représente une menace réelle mais offre aussi de grandes possibilités. Appréhendant de révéler au monde sa création, le Dr Light décide de la sceller dans une capsule et de tester ses systèmes jusqu'à ce qu'ils soient totalement fiables. Le futur devra décider de son sort...\r\nLibéré de sa capsule par le Dr Cain, \"X\" naît dans le monde du futur, là où les révoltes des robots ne sont plus qu'un mauvais souvenir. Quand le Dr Cain tente de concrétiser les avant-projets du Dr Light en produisant une série de Réploïdes, l'expérience tourne au cauchemar. Maintenant, le monde est au bord de la destruction. Un nouveau Mega Man doit surgir pour affronter Sigma et ses troupes avant que l'espèce humaine disparaisse de la planète!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man X",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Mega Man X is a robot designed by Dr. Light to choose his own path in life. Years after he is created, Dr. Cain finds X and mimics his design to create a race of such robots called reploids. When the sigma virus infects these reploids, causing them to commit acts of evil, it is up to Mega Man X and his partner Zero (who is quite powerful, contrary to what his name implies) to stop it.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e48fe13ca11b4451b9838d80ee7308c1e4b25c1e12bb1f1a3074086330c06a86",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2159&media=fanart",
+   "fetched_at": "2026-11-06T16:04:05+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5322b50eb9d25a70c4988933ba517b307a7ec0ed8454df057ffec8ad5a502a07",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2159&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:04:06+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "05d294cc34a58bba1154fe2152722d672c4b866e1cf24b7950be893ad8a337bd",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2159&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:04:08+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d7ec66378372c4b54ed15904d83baf35ed8f56eac2dc1393012c450e1e90a0af",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2159&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:04:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "10cf805f43f5e6f907ad1f5437cdce4c8e51371f54362afbab27f54121eb0ec6",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2159&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:04:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f2aef47fc9913e399f7f5b3f92bb12ece59c099e2b6df28cf9356ec1c7cef470",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2159&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:04:12+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:04:04+00:00",
+ "status": "done"
+}

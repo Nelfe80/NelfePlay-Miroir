@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dungeons-dragons-shadow-over-mystara",
+ "title": "Dungeons & Dragons: Shadow over Mystara",
+ "source": "screenscraper",
+ "ss_game_id": 37392,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37392,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-4",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Dungeons & Dragons: Shadow over Mystara",
+   "genre": "Beat'em All",
+   "synopsis": "Dungeons and Dragons: Shadow over Mystara, (ou Shadow of Mystara, parfois même appelé Dungeons and Dragons 2), est un jeu vidéo du type beat them all avec des aspects jeu vidéo de rôle, développé et édité par Capcom en février 1996. C'est le second d'une série de deux jeux en arcade basés sur l'univers de Mystara (le premier volet de la saga s'intitule Dungeons and Dragons: Tower of Doom)1,2. Il est considéré comme le dernier et le plus grand des beat them all par Gaming Age Review3 et comme « un des plus réussis du genre » par Jon Thompson de All Games Guide",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dungeons & Dragons: Shadow over Mystara",
+   "genre": "Beat'em Up",
+   "synopsis": "Dungeons & Dragons: Shadow over Mystara is an arcade game developed and published by Capcom in 1996 as a sequel to Dungeons & Dragons: Tower of Doom. It was also released on the Sega Saturn, packaged with Tower of Doom, under the title Dungeons & Dragons Collection. The game is set in the Dungeons & Dragons campaign setting of Mystara. It was one of the last 2-D arcade side-scrollers created by Capcom; only Battle Circuit (1997) came after Shadow over Mystara.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "31d82221328409cc7c656c20fa11ace2c4cb10d200a7a23f977412ae4b5ad382",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37392&media=fanart",
+   "fetched_at": "2026-11-06T15:32:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a97ab607db14452ebf6d321e359e59465d4a24437b042bc492558ce0ff2bba68",
+   "width": 600,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37392&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:32:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9b1331d9232e8d442e1ab22c636d945cd44f9b008b14f384ac6d92d2971d455b",
+   "width": 514,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37392&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:32:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "fb12d269fbd61cb3f44473d2389347c960fe9074a6b6821f1079df9d15891353",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37392&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:33:00+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "412fb9f38311a328d55c232cb0da64b0e469f48c19b783ff0a57f67864affe3d",
+   "width": 640,
+   "height": 828,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37392&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:33:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7991d8f5a39e871d63c72fa948c06d1836ba2c1436df69cb2f730d392894ca9e",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37392&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:33:03+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:32:54+00:00",
+ "status": "done"
+}

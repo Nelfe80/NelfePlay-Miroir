@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "avsp",
+ "title": "Alien vs. Predator",
+ "source": "screenscraper",
+ "ss_game_id": 37388,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37388,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Alien vs. Predator",
+   "genre": "Beat'em All",
+   "synopsis": "Dans ce Beat féroce développé sur CPS-2 arcade, jusqu'à trois joueurs peuvent mettre leurs efforts en commun pour anéantir successivement des hordes de xénomorphes, d'infectés et de militaires renégats.Les deux Predators (ou « Yautja », comme on l'entend maintenant souvent) se déclinent en Warrior et Hunter. Si les deux profils sentent un peu la redite, ils permettent surtout aux joueurs de ne pas se disputer le rôle du pred.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Alien vs. Predator",
+   "genre": "Beat'em Up",
+   "synopsis": "San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.\n\nThe players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "73b494cd72a7569ad072dfe4bd98b4bb9ab65d4b97ec49ed24b12e73b304a067",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=fanart",
+   "fetched_at": "2026-11-06T23:51:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5bc2fe5c879318e153aaf75c60ff2d799b180a2f98a32839f130afa5a058d7b7",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:51:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6cef0476bc6bc6581927a3d04b2ac6d24250aec341c69e880a2242537c29a5f5",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:51:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7bad4c906219875553cbdf6ec3317a7d6bf1bd12f74be6c7c953ece7ceaa069d",
+   "width": 526,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:51:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "facd14bf693ebec0a3378854daf3d2d4d55b9d75be3c2564674ba4d6f964bdd6",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:51:40+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "882d5d6e64a69aa7eb05995b878c1dcd63ba38d6e4597774ac4ab3091b90d424",
+   "width": 850,
+   "height": 1206,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:51:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "79a7ba7726ac6780718d1cb7d2ab64418a252f4066b9d2f3a2af36991eb25897",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37388&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:51:42+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:51:33+00:00",
+ "status": "done"
+}

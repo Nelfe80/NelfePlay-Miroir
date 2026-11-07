@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "battle-lode-runner",
+ "title": "Battle Lode Runner",
+ "source": "screenscraper",
+ "ss_game_id": 14566,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14566,
+  "release_year": 1993,
+  "publisher": "Hudson Soft",
+  "developer": "Hudson Soft",
+  "players": "1-5",
+  "system_label": "PC Engine"
+ },
+ "text": {
+  "fr": {
+   "name": "Battle Lode Runner",
+   "genre": "Plateforme",
+   "synopsis": "Le titre d'action/réflexion Battle Lode Runner sur Turbografx-16 reprend le même principe que le premier jeu en ajoutant une option multijoueur pour que 5 joueurs puissent s'amuser en même temps. Chacun tente alors de récupérer le plus d'or possible tout en évitant les ennemis qui rôdent.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Battle Lode Runner",
+   "genre": "Platform",
+   "synopsis": "Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players move around several platforms collecting gold. Various enemies inhabit the levels, and the player, armed with a drill, attempts to drill holes to capture the enemies.  Unfortunately, this does not defeat the enemies, only disables them for a short time. After a few seconds, the enemies respawn and resume their chase of the player.\n\nThe five-player option was new to any incarnation of Lode Runner, and operates in a very similar manner to Bomberman, except with hole drilling instead of bombing.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "88f978afc35cd10d5679498a7d464d3466c8458fc363ca5f715e8c2c44357847",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14566&media=fanart",
+   "fetched_at": "2026-11-06T23:54:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "63e6dbf338086e45c080a4ddfec152d7822a2aa1f8c784f01f104cb36705bf92",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14566&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T23:54:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3c9c6b387d600bc099a5299d8f853dea4a11c2d97f5136269a8488a03144b41d",
+   "width": 680,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14566&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:54:20+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e6d51e5fa9a5926ddfdbf3138133406441bd7cd91a118643e483b14b31a64dee",
+   "width": 474,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14566&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:54:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c8951bf574ea22b21c028cf29ef177eeae64137e3a2ce0bcfa5da5307da11a10",
+   "width": 256,
+   "height": 224,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14566&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T23:54:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "78bf2a122f9325b8df8328fd1ba4eb9b0c3aa55136135238d8418f69f5bb2c5c",
+    "width": 256,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14566&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:54:24+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:54:16+00:00",
+ "status": "done"
+}

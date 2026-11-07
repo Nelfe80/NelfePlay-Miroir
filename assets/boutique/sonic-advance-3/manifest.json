@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-advance-3",
+ "title": "Sonic Advance 3",
+ "source": "screenscraper",
+ "ss_game_id": 3843,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3843,
+  "release_year": 2004,
+  "publisher": "THQ",
+  "developer": "Sonic Team",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Advance 3",
+   "genre": "Plateforme",
+   "synopsis": "Sonic Advance 3 est un jeu de plates-formes 2D disponible sur Gameboy Advance. Dans cette opus, le joueur a la possibilité de choisir son personnage ainsi que son coéquipier. Selon la combinaison, les conséquences sont différentes. Sonic peut propulser à toute vitesse son coéquipier, Tails le lance en l'air, Amy lui donne un marteau, etc. A vous de bien savoir exploiter vos personnages afin de terminer les niveaux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Advance 3",
+   "genre": "Platform",
+   "synopsis": "Eggman has broken the world into seven parts, now the player must find the seven Chaos Emeralds to restore the world. \n\nSonic Advance 3 is a Sonic game with a twist: the player can play with a friend in co-op mode or one of many multi-player modes like ring race. The game contains features from Sonic Advance and Sonic Advance 2, but with more options like choosing from 2 characters in story mode (a leading and a following character).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "10758d6d3260a0c745e54ec8901a38c3df4d32e1ac4073fedeb9baecfed5dbce",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3843&media=fanart",
+   "fetched_at": "2026-11-06T23:54:51+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e06451653cf4cde7790cc5a14e3bb0328e0100060d13940f7e355536d59a6461",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3843&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:54:52+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f01c9c114b4345b75881a213e01acb038d4021d0f35d3e77f43d9d1347d740ba",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3843&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:54:54+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4e0d892d405b5c41a4297b9b254e28f89b758dab5e04501cc23c082b9eb678b5",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3843&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:54:55+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5a546d6e75b5c1a8152d2af54500d96294b198a589ebfa9e9ffd36847ab60134",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3843&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:54:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1c698992f73fc33262e0a4ad4dcdb550c5c38f0d7e80c58b8707335d4edc5703",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3843&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:54:58+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:54:50+00:00",
+ "status": "done"
+}

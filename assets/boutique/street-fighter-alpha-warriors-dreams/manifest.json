@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-alpha-warriors-dreams",
+ "title": "Street Fighter Alpha: Warriors' Dreams",
+ "source": "screenscraper",
+ "ss_game_id": 37202,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37202,
+  "release_year": 2000,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Game Boy Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter Alpha : Warriors' Dreams",
+   "genre": "Combat",
+   "synopsis": "C'est Street Fighter comme vous vous en souvenez toujours, avec de nouveaux mouvements, personnages et systèmes de combo, ainsi qu'un look et une ergonomie plus travaillés.\r\n\r\nLes nouveaux coups disponibles pour chaque combattant, appelés Super coups, leur permettent de déclencher des coups très puissants. Une barre en bas de l'écran représente la puissance que vous devez utiliser pour les coups. Vous commencez le premier tour sur 0, et chaque attaque que vous faites ajoute de la puissance à la barre. Une fois que vous atteignez le niveau 3, vous pouvez déclencher les attaques spéciales, qui peuvent parfois mettre KO l'adversaire.\r\n\r\nL'autre changement majeur par rapport à la série Street Fighter 2 sont les contres Alpha. Ceux-ci peuvent être utilisés pour contrer une attaque qui arrive après le blocage.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter Alpha: Warriors' Dreams",
+   "genre": "Fighting",
+   "synopsis": "It's Street Fighter as you always remember it, with some new moves, characters and combo systems, as well as a more polished look and feel.\n\nThe new moves available for each fighter, called Super moves, allow them to fire off very powerful moves. A bar at the bottom of the screen represents the power that you have to use for the moves. You start the first round on 0, and each attack that you make adds power to the bar. Once you reach level 3, you can unleash the special attacks, that can sometimes KO the opponant.\n\nThe other major change over the Street Fighter 2 series are the Alpha counters. These can be used to counter an on-coming attack after blocking.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "47244243a9c2c641a019de0fa91a049e0093a30fd48b49012988c0bc1385e657",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37202&media=fanart",
+   "fetched_at": "2026-11-06T15:46:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "efc5a97139fc6c6b3b388f3f5bf6867e613a67e61e5bb73506eef000485d0b6e",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37202&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T15:46:37+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1db8a0e5969880e54ebecfeea1a647c69aaf5bcb007cc8bf8cd644c416c1de88",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37202&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:46:39+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "10e30224023a521f82305a3f123727367ea854d17869dbe9c89f482a72f70ee8",
+   "width": 600,
+   "height": 701,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37202&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:46:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8de306003a76adacee9d89762815777c3d46c4068aa0cf266548ecc986ec02ef",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37202&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:46:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "1e257301c515560524d88b71b052f98d8235a5625bd1b78ed7ed1c20c452344f",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37202&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:46:43+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:46:34+00:00",
+ "status": "done"
+}

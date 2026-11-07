@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "red-earth",
+ "title": "Red Earth",
+ "source": "screenscraper",
+ "ss_game_id": 37426,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37426,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 3"
+ },
+ "text": {
+  "fr": {
+   "name": "Red Earth",
+   "genre": "Combat",
+   "synopsis": "Red Earth se déroule sur une Terre alternative en 1999 et suit les aventures de quatre héros face à une armée de monstres mythiques lâchés par Scion pour détruire le monde. Choisissez entre Léo le Roi Lion, Mai-Ling l'Artiste Martiale, Tessa la Sorcière ou Kenji le Ninja et combattez à travers le monde pour vaincre Scion le Géant de Fer.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Red Earth",
+   "genre": "Fighting",
+   "synopsis": "Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "673c380641127333fbe1173519468e8cbd0af8d988513745eaf4e0d7f1fd8bae",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37426&media=fanart",
+   "fetched_at": "2026-11-06T15:51:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "292d85dd99b7446901bbc28b2a6b4775c08ae3b888184dcf5b6acf47ab2f9327",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37426&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:51:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "abdec0d0c068cc2f26deaf0acfd0bce2c26a03463cd5bcdf22a07e6736253544",
+   "width": 800,
+   "height": 1185,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37426&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:51:10+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "688b688d2f8c3b131862a07dd0fd42a8e8c4f6882985116670cdf965d0cab776",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37426&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:51:11+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "64dcce8b001b279a7d241da4ae203678ad9aa2f06942f3a1bd787e3ded42a0fa",
+   "width": 800,
+   "height": 1185,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37426&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:51:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "3884a1f07244adee16d92052e900f1dceb9ae082b8d6b4cd1157d5e2728d732a",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37426&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:51:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:51:06+00:00",
+ "status": "done"
+}

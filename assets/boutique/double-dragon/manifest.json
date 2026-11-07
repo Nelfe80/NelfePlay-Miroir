@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "double-dragon",
+ "title": "Double Dragon",
+ "source": "screenscraper",
+ "ss_game_id": 37573,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37573,
+  "release_year": 1995,
+  "publisher": "SNK",
+  "developer": "Technos Japan",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Double Dragon",
+   "genre": "Combat",
+   "synopsis": "Double Dragon sur Neo Geo est un jeu de combat directement inspiré du célébrissime beat'em all éponyme de 1988. Cette fois ci, ce ne sont pas 2 mais 10 combattants jouables qui s'affrontent dans des duels en plein coeur des quartiers de New York.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Double Dragon",
+   "genre": "Fighting",
+   "synopsis": "Released around the same time as the film of the same name and loosely based on its story, this installment in the Double Dragon series also moves away from the traditional roam-the-streets-fighting to a pure one-on-one fighter. There are ten characters to choose from, including Billy and Jimmy and the game has colorful interactive backgrounds, screen zooming, over-the-top special moves and with the inclusion of double jumps, combos, charges for the losing player and counter hits, there is plenty of room for advanced fighting strategies.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b0f63e2bbdd3be177fbfdc68458f04880d537179a48120f75fa6337e9d420b65",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=fanart",
+   "fetched_at": "2026-11-06T15:30:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "804b1353e0a82f5af30a6039b8d3bf231ae504c5aade8aea95c90ae85d96e449",
+   "width": 600,
+   "height": 216,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:30:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "142b4bbad1da3ba2b33cc25489fe24ec12a3cd33e590203292297766f5d14943",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:30:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "29a57a95c4687ba25556e5527ae198b93057cbb3eef8ce496b34a84a5deb85bf",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:30:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e585b0cc1a24f136a8b5a3e57ac6bb3fa4da000bd79342008e354acf45f81af5",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:30:14+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "f38b0af5e14ee6f37dc55a43c85ba7e15bf84b9259b11fa98e1a093fe95b8868",
+   "width": 564,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:30:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5b029a10d3d1a0ff36a7c2c1b6e34962ddcc4cdfdd2c6aa7dfe1b11a6b8354d8",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37573&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:30:17+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:30:07+00:00",
+ "status": "done"
+}

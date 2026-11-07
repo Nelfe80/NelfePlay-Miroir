@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "realsports-basketball",
+ "title": "RealSports Basketball",
+ "source": "screenscraper",
+ "ss_game_id": 87546,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87546,
+  "release_year": 1982,
+  "publisher": "CGE Services",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Basketball",
+   "genre": "Sport / Basketball",
+   "synopsis": "Il s'agit de la réglementation du basketball, à quelques exceptions près. Il n'y a pas de tirs à trois points, pas de coups de ligne fautifs, pas de temps morts, pas de pénalités, pas de chronomètre et ni le joueur ni la balle ne peuvent sortir des limites.\r\n\r\nVous contrôlez deux joueurs en tandem. Vous passez des balles entre eux en appuyant sur le bouton et en appuyant sur le joystick vers l'autre joueur. Vous tirez de la même façon, mais en appuyant sur le joystick vers le panier. Pour voler la balle, il suffit de toucher le joueur adverse qui a la balle. Essayez simplement d'obtenir plus de paniers que vos adversaires avant le temps s'épuise. Chaque jeu est divisé en quatre quarts. Une fois les quatre quarts terminés, le jeu est terminé.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Basketball",
+   "genre": "Sports / Basketball",
+   "synopsis": "This is regulation basketball with some exceptions. There are no three-point shots, no foul-line shots, no time outs, no penalties, no shot clock and neither the player nor the ball can go out of bounds.\n\nYou control two players in tandem. You pass balls between each other by pressing the button and pushing the joystick towards the other player. You shoot the same way but by pressing the joystick towards the basket. To steal the ball, just touch the opposing player who has the ball. Simply try to get more baskets than your opponents before the time runs out. Each game is divided into four quarters. After all four quarters are done, the game is over.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "eb8c91ac5af94c67455604d521cd02e118fe8668127ec5669616008a54623c2c",
+   "width": 400,
+   "height": 33,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87546&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:00:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "92d5f5099e9102aec5f3932e5019fe984e40808ae591936077ae541d059336ac",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87546&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "609e99b71094d445e437e5ad61497bfe78914e6c7f0f320870f766f6d9d26439",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87546&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f45859a6a06179113c17c058cc721b66870b1d69bd6df2f097149c8f44c8c404",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87546&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:00:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "490e2fc7e0c32c38fe2690fe4627a241bee8c72e978275964104ceacf1386e23",
+    "width": 304,
+    "height": 199,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87546&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:00:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:00:30+00:00",
+ "status": "done"
+}

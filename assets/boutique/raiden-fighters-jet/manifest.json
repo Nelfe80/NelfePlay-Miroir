@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "raiden-fighters-jet",
+ "title": "Raiden Fighters Jet",
+ "source": "screenscraper",
+ "ss_game_id": 42757,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42757,
+  "release_year": 1998,
+  "publisher": "Seibu Kaihatsu",
+  "developer": "Seibu Kaihatsu",
+  "players": "1-2",
+  "system_label": "Seibu Kaihatsu"
+ },
+ "text": {
+  "fr": {
+   "name": "Raiden Fighters Jet",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Le troisième de la série Raiden Fighters. Cet opus conserve la même intensité et un gameplay maniaque que ses prédécesseurs, tout en introduisant plusieurs nouvelles mécaniques. Le jeu contient les modes de jeu Normal, Spécial et Expert. La bande originale se compose de musique rave et techno au rythme rapide, en rupture avec le style plus mélodique orienté pop de la série de jeux Raiden originale.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Raiden Fighters Jet",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "The third in the Raiden Fighters series. This opus retains the same intensity and manic gameplay as its predecessors, while introducing several new mechanics. The game contains Normal, Special, and Expert game modes.\r\n\r\nThe soundtrack consists of fast-paced rave and techno music in a departure from the more melodic pop orientated style of the original Raiden game series.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8ec787e36ce0d7b1541068777a698883b70361affe3d8108262432d8f2986c30",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42757&media=fanart",
+   "fetched_at": "2026-11-06T16:33:29+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ba641ccbc30db5c78ecd9ae0ea8d8fe0e22936cbfa3402d2f1f13408900bedf0",
+   "width": 400,
+   "height": 201,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42757&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:33:30+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c97203ed53cdd847fa9afc45eb92162cef2915d2f079a7e55341fe5e0264d020",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42757&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:33:32+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b7a02d6f42975b9918f0d412f3030c92be8ffcc7fe13fa136257e06d5776d2b3",
+   "width": 240,
+   "height": 320,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42757&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:33:33+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "f3ce77cf1176b24a7109da56137a2f49fba116538d528cababe55af69def1d55",
+   "width": 1000,
+   "height": 1419,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42757&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T16:33:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "6fa65e59ff3f06695ae010ba1c8b1508e8e1b5e3112f4f16d2965326dcd60527",
+    "width": 240,
+    "height": 320,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42757&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:33:36+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:33:28+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "bakumatsu-rouman-tokubetsu-hen-gekka-no-kenshi-tsuki-ni-saku-hana-chiri-yuku-hana-japan",
+ "title": "Bakumatsu Rouman Tokubetsu Hen - Gekka no Kenshi - Tsuki ni Saku Hana, Chiri Yuku Hana (Japan)",
+ "source": "screenscraper",
+ "ss_game_id": 47064,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47064,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "Saurus",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "The Last Blade : Beyond the Destiny",
+   "genre": "Combat",
+   "synopsis": "A la premiere prise en main, on a l'impression d'etre avec une adaptation du 1er \"The Last Blade\" porté sur NGPC. Puis à l'instar de \"SNK vs Capcom\" le joueur gagne des points qui peuvent etre depensé pour debloquer d'autres personnages, des mini-jeux, des fin alternatives, etc...\r\nGrace a ces differents bonus, on se retrouve tres rapidement avec un \"nouveau\" jeu et une rejouabilité accru!\r\nDe plus le jeu a reussi a garder, de maniere quasi intact, le gameplay specifique a la serie des \"The Last Blade\" sur AES/MVS.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Last Blade : Beyond the Destiny",
+   "genre": "Fighting",
+   "synopsis": "1863. History's hidden secret is revealed. During the age known as \"Bakumatsu\", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a2fd6d5c74149b9e085dd00fa14d117066c6a8284eb82e47e513a770bbcf111d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47064&media=fanart",
+   "fetched_at": "2026-11-07T06:35:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "80ce3f4961f62d9a7ce7a19aacae16bc7ca7c6b5c5116f763958bdf64db603c0",
+   "width": 483,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47064&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T06:35:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "224181117a9b088dc9672057ca7cf831da6d30afacd273f12ae8be797e93a965",
+   "width": 599,
+   "height": 700,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47064&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-07T06:35:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4b59dd220924b0d99c66a9b0cc81a4cb9c9b8b87515303d67b2742376d199b3b",
+   "width": 600,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47064&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-07T06:35:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1517d05eb38c0e4fa41c914cab6fb714baf07695c5607b02c2b7cbde0e97a63e",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47064&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T06:35:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5b649f0200716ab81d5f00dee8456546f9fafc40b36a4b45b18d4bc641b2dbfd",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47064&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:35:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T06:35:15+00:00",
+ "status": "done"
+}

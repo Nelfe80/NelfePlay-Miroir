@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-alpha-2",
+ "title": "Street Fighter Alpha 2",
+ "source": "screenscraper",
+ "ss_game_id": 37408,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37408,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter Alpha 2",
+   "genre": "Combat",
+   "synopsis": "Street Fighter Alpha 2 retient la plupart des éléments de gameplay introduits dans Alpha: Warriors' Dreams : la jauge de Super Combo à trois niveaux, les contres ou encore les blocages.\r\n\r\nLa principale nouveauté est l'ajout du système de « Custom Combo », qui remplace les « Chain Combos » du premier Street Fighter Alpha. Les « Custom Combo » requièrent au minimum un niveau de la jauge d'énergie pour leurs utilisations et se caractérisent par une ombre violette à chaque déplacement du personnage. À l'activation, le joueur gagne en rapidité pour effectuer les combos, mais une limite est imposée au joueur le temps de son utilisation. Le temps des « Custom Combo » dépendent de la jauge d'énergie, deux secondes pour un niveau d'énergie, trois secondes pour le second niveau et quatre secondes pour le troisième niveau. Un seul coup de pied ou coup de poing est nécessaire pour utiliser un niveau de la jauge d'énergie. L'utilisation de deux niveaux se fait à l'aide de deux boutons de coup de poing ou de pied, et de trois boutons de coup poing ou pied pour utiliser les trois niveaux. Le joueur ne peut plus bloquer aucune attaque lorsque les « Custom Combo » sont actifs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter Alpha 2",
+   "genre": "Fighting",
+   "synopsis": "Street Fighter Alpha 2, known as Street Fighter Zero 2 in Japan, Asia and South America, is a 1996 fighting game originally released for the CPS II arcade hardware by Capcom. The game is both a sequel and a remake to the previous year's Street Fighter Alpha: Warriors' Dreams, which is itself a prequel to the Street Fighter II series in terms of plot and setting",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "38894f5038615126f483b2f4e32d5ff71f1075c1b5d3f488e7ad412474d3865d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=fanart",
+   "fetched_at": "2026-11-06T15:45:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e905d1eff7d38844f6e15f5f9260eeb1b16b473f51dbcca358b0c80a38aee4ff",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:45:54+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6699f493f499eabc1d8f091c6d46445e9dfec82a14ac382d98cbf3622a974416",
+   "width": 514,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:45:55+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b442924352d5138c9a840806113af87c908e84316e369c1ae185f1c85b9fa268",
+   "width": 342,
+   "height": 695,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:45:57+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "874b10e8e08be06411ca256c6739e17c6cb69e02d6a996a03c74d51c15a30186",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:45:58+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "e57546eace904eeec1311a9cd83bb4a3e19e5e4fba3e7a8e0977a32a014e576c",
+   "width": 848,
+   "height": 1090,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:46:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "02dd30cbdfa72d5f564ed5fc95486be4e7f61664ac4858e04ba44577601313e6",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37408&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:46:01+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:45:52+00:00",
+ "status": "done"
+}

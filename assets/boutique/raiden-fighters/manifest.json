@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "raiden-fighters",
+ "title": "Raiden Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 42722,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42722,
+  "release_year": 1996,
+  "publisher": "Fabtek",
+  "developer": "Seibu Kaihatsu",
+  "players": "1-2",
+  "system_label": "Seibu Kaihatsu"
+ },
+ "text": {
+  "fr": {
+   "name": "Raiden Fighters",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Dans Raiden Fighters, il y a cinq vaisseaux de combat disponibles, chacun équipé d'un laser et d'un missile. Chaque vaisseau de combat a des forces et des faiblesses différentes. En fonction des paramètres de la machine, il est possible de choisir des vaisseaux issus des titres précédents de Seibu Kaihatsu, Raiden II et Viper Phase 1. Ces deux vaisseaux (appelés respectivement Raiden mk-II et Judge Spear) ont des mécanismes différents de ceux des cinq vaisseaux habituels, comme des bombes différentes et la possibilité d'utiliser simultanément des armes laser et des missiles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Raiden Fighters",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "In Raiden Fighters, there are five available fighter craft, each with a Laser and a Missile weapon. Each fighter craft has different strengths and weaknesses. Depending on a particular machine's settings, ships from the earlier Seibu Kaihatsu titles Raiden II and Viper Phase 1 can be chosen. These two ships (given the names Raiden mk-II and Judge Spear respectively) have different mechanics from the five regular craft, such as different bombs and the ability to use Laser and Missile weapons simultaneously. The Slave plane is playable, inheriting the bomb and movement speed of the fighter craft they normally accompany.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d444b0d34b7dc0677d0e9ca8c83d0cb2fe14208189b29e31c04a299fb8118d8a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42722&media=fanart",
+   "fetched_at": "2026-11-06T16:33:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "36dbef59856c1a55153c705bf372b45a91f16c57fd38bc0fcbfc56a3241afdb3",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42722&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:33:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a703d0765913fc5da60bf5ee81f9792dd14940ecab0cd46408c5db1e492b8538",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42722&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:33:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "beb4d59eda110e8b3ce1f0361e7b220f5e3bc16f192af18d59bc63db2d90a90a",
+   "width": 240,
+   "height": 320,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42722&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:33:16+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "dd4a1a60b92ae439c8b50aa0734e4a439e87ac5fafc5f71a16b3e3d1dd7b35a8",
+   "width": 850,
+   "height": 1193,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42722&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:33:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "acf304ac9da82ffa313bc34d03ce02da5fac6e7bab09805ab953bcc498895653",
+    "width": 240,
+    "height": 320,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=42722&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:33:19+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:33:11+00:00",
+ "status": "done"
+}

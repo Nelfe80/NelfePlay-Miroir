@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "neo-geo-cup-98",
+ "title": "Neo Geo Cup '98",
+ "source": "screenscraper",
+ "ss_game_id": 37609,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37609,
+  "release_year": 1998,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Neo Geo Cup '98 : The Road to the Victory",
+   "genre": "Sport",
+   "synopsis": "Neo Geo Cup'98 est une simulation de football basée sur la coupe du Monde 1998. Ce titre est un nouvel opus de la série Super Sidekicks et met à jour l'ensemble des données pour se concentrer sur l'événement. En phase de qualification ou lors des matchs à élimination directe, menez l'une des 64 équipes disponibles vers la victoire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Neo Geo Cup '98 : The Road to the Victory",
+   "genre": "Sports",
+   "synopsis": "Neo Geo Cup'98 is a football simulation based on the World Cup 1998. This title is a new installment in the series Super Sidekicks and updates all data to focus on the event. In qualification phase or during games knockout, lead one of the 64 available teams to victory.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d89be046536381145a0c177bd26a3e475fe0ac43c80a1a8a560cc185a73fe7a3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=fanart",
+   "fetched_at": "2026-11-06T23:40:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "dc2df12cf1814548f80e09711f3116065ada18f228bed5a61020c318e5713c06",
+   "width": 600,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:40:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c4330a302864f37349a7421152b145aea219162e0d26283f9810dfde886afdca",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:40:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8a2ac5a0d5bb6e1de26284e63a38633ca9878f218609019d2cd3d7708995f195",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:40:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d19e9d04631ac531f277713330a46f069cf5bded2a06bd7363921544312a18b0",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:40:45+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "15cfd1ac3d36ca042aae5873af9971bac847b8b85b9f575c0e93e2045c4cfbbd",
+   "width": 563,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:40:47+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5df4c4cdadc92e2be6f2a760263e89150fcf02e35ea213b1c6d075e8ad4af4d5",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37609&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:40:48+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:40:39+00:00",
+ "status": "done"
+}

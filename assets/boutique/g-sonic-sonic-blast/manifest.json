@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "g-sonic-sonic-blast",
+ "title": "G-Sonic - Sonic Blast",
+ "source": "screenscraper",
+ "ss_game_id": 12895,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12895,
+  "release_year": 1996,
+  "publisher": "SEGA",
+  "developer": "Aspect",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Blast",
+   "genre": "Plateforme",
+   "synopsis": "Sonic Blast sorti sur Game Gear est le dernier épisode des aventures de la mascotte Sega sur sa console portable. Vous pouvez y jouer Sonic, et Knuckles, qui a la capacité de planer et d'escalader les parois, donnant un nouveau souffle au jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Blast",
+   "genre": "Platform",
+   "synopsis": "Sonic Blast was released for Game Gear in conjunction with Sonic 3D Blast (aka Sonic 3D: Flickies' Island) for Genesis/MD and Saturn.  It boasted similarly rendered character sprites and colorful backgrounds.  The game was yet another addition to the series, plus Sega had hoped it would be a boost to the dying Game Gear's title selection at the time.  Brazilian based TecToy re-released the game for Sega Master System in 1997, a year after the initial release (while many may think this is a pirated title, TecToy is indeed licensed to produce and release games under the Sega name).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fd8d39bfaee717554bd9d190761b3dc213e15b4694a8634f694cc38541b078b3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12895&media=fanart",
+   "fetched_at": "2026-11-07T01:00:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c8951e85ed665f9ff881e4aa431eefc234ed1ab63de0ded78cf3ce58445ffede",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12895&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:00:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6291995a127f3ddd9bd64dc682de807375f13e3309385fbc9c93553a90d4b102",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12895&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:00:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4469fb1bdc82f6878f37a0e18b03c1c13b472391a81062ffaeb8848815207fb3",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12895&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:00:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "71fe450921d0e3276797b5875f12efc38abf750bdb2c08c0c863ead149576099",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12895&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:00:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c0787229604e3e09f542740f79aae4bf42bfdfab811ca7646b3aeb60d19707af",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12895&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:00:39+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:00:31+00:00",
+ "status": "done"
+}

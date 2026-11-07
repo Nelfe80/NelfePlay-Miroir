@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "vanguard",
+ "title": "Vanguard",
+ "source": "screenscraper",
+ "ss_game_id": 43910,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43910,
+  "release_year": 1981,
+  "publisher": "SNK",
+  "developer": "TOSE",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Vanguard",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Dans Vanguard, votre objectif est de piloter votre vaisseau spatial vers la Cité du Mystère qui est située au bout d'un tunnel fortement gardé, et une fois là-bas, détruisez la créature Gond. Le tunnel est divisé en plusieurs zones différentes, appelées la zone de montagne, la zone arc-en-ciel, la zone de bâton, la zone de rayures, la zone sombre et la ville du mystère. Chaque zone propose différents types de vaisseaux spatiaux ennemis à gérer et peut défiler horizontalement ou verticalement. Dans la zone de montagne ou dans la zone de rayures, vous pouvez également rencontrer une capsule d'énergie marquée d'un «E». Si vous volez à travers cela, votre vaisseau devient temporairement invincible aux murs mortels de la grotte et aux nombreux ennemis qui tentent de vous arrêter.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Vanguard",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Vanguard is a scrolling space shooter (some levels are horizontal, some are diagonal, and some are vertical). Shoot down enemies with your laser. Keep a close eye on your ever decreasing fuel gauge, luckily each enemy that you destroy will add to your remaining fuel. Find the energy pods to be temporarily invulnerable; the energy pods will also increase your fuel level. At the end of each level you must defeat a boss that is guarded by two moving force fields with holes in them. The computer will announce the name of the each zone using some nifty early 80's synthesized speech. The different levels include Mountain Zone, Rainbow Zone, Styx Zone, Rainbow Zone 2, Stripe Zone, Rainbow Zone 3, Bleak Zone, and the City of Mystery.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "572f99687327f4c015c65c744339ab881fbaacf00a75ed802fa8ceb18d81e94f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=fanart",
+   "fetched_at": "2026-11-06T16:02:59+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ffb3e31009498787f0e3ac8ab0451b118854b65d1af4f1b0fc5659babfd22cdf",
+   "width": 400,
+   "height": 125,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:03:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e2c166535786f8d485bcb609e617f229e9f2d946c3eb2244c70ed40221a336f6",
+   "width": 432,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:03:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5cefee11a2459bd459267c59c37e9260f27eb4e45cef70a0083867c34b6c7af6",
+   "width": 495,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:03:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c45e40e512ecb45336137f1f423c74a9baf849328d178e07f311df0c395f615d",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:03:06+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "47283e47f0a72767c768d708dbbdb93fa17f23be45ca69fd019ac7ad337738fc",
+   "width": 656,
+   "height": 1086,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:03:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "507c9e9d92a7a40da1b75eb02dba1a3ad3502b813468b3ddfe59167fbf5e0813",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43910&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:03:10+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:02:57+00:00",
+ "status": "done"
+}

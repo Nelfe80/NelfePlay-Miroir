@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "sengoku-3",
+ "title": "SENGOKU 3",
+ "source": "screenscraper",
+ "ss_game_id": 37637,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37637,
+  "release_year": 2001,
+  "publisher": "SNK",
+  "developer": "Noise Factory",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Sengoku 3",
+   "genre": "Combat",
+   "synopsis": "Troisième jeu de la série des beat'em up Sengoku, Sengoku 3 vous oppose une fois de plus, avec un ami, aux forces mortes-vivantes de Nobunaga, mais cette fois, vous pouvez choisir librement parmi un groupe de personnages différents, chacun ayant ses propres armes et capacités, et choisir l'endroit du monde auquel vous voulez vous attaquer.\r\nLe jeu intègre un système de combat plus complexe, similaire à celui d'un jeu de combat en un contre un, en offrant aux joueurs différents boutons d'attaque, des mouvements spéciaux basés sur des entrées directionnelles, des combos et même une super barre utilisée pour déclencher des super mouvements dévastateurs. Vous ne pouvez pas changer d'arme ou vous transformer en d'autres personnages comme dans les jeux précédents, mais vous pouvez acquérir différentes armes à distance pour des attaques supplémentaires ainsi que débloquer certains boss pour augmenter le nombre de personnages disponibles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sengoku 3",
+   "genre": "Fighting",
+   "synopsis": "The third game in the Sengoku series of beat 'em ups, Sengoku 3 once again pits you and a friend against the undead forces of Nobunaga, however this time you can freely select from a group of different characters each with their own weapons and abilities, as well as choose which location in the world (or level) to tackle whenever you want.\n\nThe game incorporates a more complex fighting system similar to a one-on-one fighting game, by giving players different attack buttons, special moves based on directional inputs, combos and even a super bar used to unleash devastating super moves. You cannot change weapons or transform into other characters as in the previous games, but you can acquire different ranged weapons for additional attacks as well as unlock certain bosses to increase your available characters.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "73b8ac60d61b98bb51950f93cb666646155d26b14ee03227410b066181bedd9f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=fanart",
+   "fetched_at": "2026-11-06T15:35:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7a49edc611da0aef9ddddb7ebdf14034a641c98e928dd247fa1ef31150b8ce5e",
+   "width": 600,
+   "height": 250,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T15:35:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "739008a7092b23c5e41dff43c5835136618c372f48f217551cc73f65240d978c",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:35:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e9e2b64b4503a68164da267954c1c1cfe7a8bceac132827dfa938eb253cfe74d",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:35:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "7ff5c46b4499fd66b36e5de7aa857d2e4e438f9e9a1d7399a60f9fb25a756181",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:35:51+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6019ab9faea4e928bed04e43e7ba7df3fd32817a2d8121aa0804544a5b515c06",
+   "width": 558,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:35:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fd11fac233d47b3bfc06c7ec9cc4fa01d9724622a2c41387b9058afecc2eb73e",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37637&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:35:54+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:35:45+00:00",
+ "status": "done"
+}

@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "slug": "shock-troopers-2nd-squad",
+ "title": "SHOCK TROOPERS: 2ND SQUAD",
+ "source": "screenscraper",
+ "ss_game_id": 337480,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 337480,
+  "release_year": 2016,
+  "publisher": "SNK Playmore",
+  "developer": "Saurus",
+  "players": "1-2",
+  "system_label": "PC Windows"
+ },
+ "text": {
+  "fr": {
+   "name": "Shock Troopers: 2nd Squad",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Shock Troopers : 2nd Squad est un run 'n gun vu de dessus. Comme dans le premier épisode, cette vue ne signifie pas que vous vous contenterez d'avancer du bas vers le haut, puisqu'il est également possible de se déplacer latéralement. Votre quête comporte cinq niveaux, soit un de moins qu'auparavant. Mais surtout, finis les trois chemins alternatifs qui accroissaient la durée de vie : désormais il n'y a qu'un seul endroit dans le jeu où l'on peut choisir quel embranchement on souhaite prendre, ce qui ne laisse au final que deux possibilités contre trois auparavant. \r\n\r\nEnsuite, il n'y a désormais plus que quatre personnages sélectionnables. Ils ont tous des caractéristiques (vitesse, puissance…) différentes et leurs attaques propres, mais malheureusement il n'est désormais plus possible de constituer sa propre équipe de trois personnages comme dans le premier Shock Troopers.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Shock Troopers: 2nd Squad",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. \r\n\r\nIn addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b45e5c5d6e34a60da0b6b8ca46607d37b1135924b6a7c33b6fec0a38f7f4cd01",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=138&jeuid=337480&media=fanart",
+   "fetched_at": "2026-11-06T15:35:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d4af3439cedd46527308299767544db78b8e790c53ee9556207943fcc4997d3c",
+   "width": 550,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=138&jeuid=337480&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:35:26+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b91318cba51327cd497673f71b5014097f6a2b5974f6965f64ec671b863b80b7",
+   "width": 600,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=138&jeuid=337480&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:35:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "311a73f17c19e2996f8780e56cedaf6da095fd78edfa1945d8bcd274d8542ba0",
+    "width": 1920,
+    "height": 1080,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=138&jeuid=337480&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:35:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d",
+  "sstitle",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:35:24+00:00",
+ "status": "done"
+}

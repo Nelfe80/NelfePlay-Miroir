@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "varth-operation-thunderstorm",
+ "title": "Varth: Operation Thunderstorm",
+ "source": "screenscraper",
+ "ss_game_id": 37382,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37382,
+  "release_year": 1992,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Varth: Operation Thunderstorm",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "L'histoire se déroule sur la planète Varth, perdue au fin fond du trou du cul de l'univers. Là, les êtres vivants vivent sous la férule du super-calculateur Delta-7 qui régit leur vie et pense pour eux. Tout irait pour le mieux dans le meilleur des mondes (si tant est que la vie en tant que mouton soit un bien) si ce n'était DUD, un programme malveillant qui va parasiter l'ordinateur et en prendre le contrôle. À partir de là, c'est le bordel : Delta-7 intime l'ordre à l'humanité de s'entre-déchirer, causant la disparition de 60% de la population, puis lance une armada de véhicules de guerre pour supprimer les survivants. Heureusement, deux vieux coucous d'ancienne génération, Saber et Scimitar, ne répondent pas à l'appel. Au lieu de cela, leurs pilotes vont mener l'assaut contre les machines devenues folles : c'est ainsi que débute l'opération Thunderstorm.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Varth: Operation Thunderstorm",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Varth: Operation Thunderstorm is an arcade game in the vertical scrolling shooter genre, published in 1992. The game did not see a console port following its initial release, but 14 years later Digital Eclipse Software would port the game onto the PlayStation 2, PSP and Xbox as part of the Capcom Classics Collection Vol. 2.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "357fdc7850967049772ba757906e1d50b94e1508f324977eb51c928eef02322c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=fanart",
+   "fetched_at": "2026-11-06T17:20:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "858191c620112bde51aa30a740c415ed058d642b9911b78a62c81693ed684556",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:20:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "630ed1e8d9e64559a77ae91c79b61e5a05bd04e4f18af78d64fd4829445600e2",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:20:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "58e743dd2f817222bc71119673ba6da5806c43069bce807fa43165de164f64d6",
+   "width": 404,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:20:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f2d96622fa9bc80a7e2177d448fe607a3e80a1bc4c49bcb4fa97a7776ff913aa",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:20:19+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "684b66ab1f2fba6bf40a1350aea7e840c61badf4d742f370812562aeadb45be2",
+   "width": 850,
+   "height": 1210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:20:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "95429091181ed2e19594e123438e23272bb4b41f5bf3541f6d93f6bd5579b9f7",
+    "width": 224,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37382&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:20:22+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:20:13+00:00",
+ "status": "done"
+}

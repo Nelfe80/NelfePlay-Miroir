@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "the-king-of-fighters-battle-de-paradise",
+ "title": "The King of Fighters: Battle de Paradise",
+ "source": "screenscraper",
+ "ss_game_id": 87558,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87558,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "The King of Fighters - Battle de Paradise",
+   "genre": "Jeu de societe / plateau",
+   "synopsis": "\"The King of Fighters: Battle de Paradise\", plus generalement appele \"KOF: Battle de Paradise\", est une simulation de jeu de plateau. On retrouve le meme style graphique que pour SNK vs. Capcom: Card Fighters Clash.\r\nLe jeu est pour 2 joueurs (VS CPU ou VS Player avec 2 NGPC reliés) et se joue a la maniere d'un \"sugoroku\" (equivalent du Backgammon).\r\nOn selectionne d'abord son Hero parmi les 4 proposés et un Striker (les meme que ceux present dans KOF '99 : Evolution sur Dreamcast)\r\nLes joueurs jettent un dé et deplacent differents pions sur le plateau. Les pions \"speciaux\" permettent de declancher des mini-jeux qui font souvent reference à de vieilles licences SNK.\r\nLe but du jeu est de gagner un maximum d'etoiles (que l'on peut acheter grace a la monnaie gagné dans le jeu)\r\nOn peut aussi gagner des points en utilisant des cartes speciales qui affectent le deroulement du jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The King of Fighters - Battle de Paradise",
+   "genre": "Board game",
+   "synopsis": "The King of Fighters: Battle De Paradise is a board based, two player party game that plays in a similar manner as sugoroku. The player can either link with another user to play or challenge the CPU. Each side choose one of four original characters to represent their place on the board as well as an accompanying Striker character (the Extra Strikers from The King of Fighters '99: Evolution). If they're unsatisfied with their avatar's name, an option to rename their character is also given.\r\n\r\nPlayers roll a dice and move along the board with various squares. Specially marked squares can trigger one of many mini-games for the player's striker to participate in for coins. Mini-games themselves are a collection of memory games, dodging contests, quiz challenges, and other games common to the genre. Some of these mini-games refer to SNK's older games such as T.A.N.K or previous King of Fighters titles. The main goal of the game is to gather coins to buy stars; the player with the most stars wins.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d9ab27a66159068d48173c590e37a59c894081fbb24898a6a984749bcc659cfe",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87558&media=fanart",
+   "fetched_at": "2026-11-06T17:14:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5b741ff733c9b1ccf8755b01c4f8f48d8e31e3a6ac79e77f8e5f9e0c11e99f19",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87558&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:14:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7286607a288494f2ad0bba4cc040e3b95bd913f59044bfd2c722e57e5449cc81",
+   "width": 900,
+   "height": 909,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87558&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:14:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "59b94a079b175a5401d2b3092ccb7283fa5f8f68ba0f6ca6ff58709486a469de",
+   "width": 600,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87558&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:14:17+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "28932ba1289876716ba3b6183782d18a4472b3fa11e3354338cd2fc307fb2933",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87558&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:14:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "da65931d537d9dfd1c72f25852a7f547127eb8dea191edcfc432585b931e3880",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87558&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:14:20+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:14:12+00:00",
+ "status": "done"
+}

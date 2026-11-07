@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "kid-dracula",
+ "title": "Kid Dracula",
+ "source": "screenscraper",
+ "ss_game_id": 3183,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3183,
+  "release_year": 1993,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Kid Dracula",
+   "genre": "Plateforme",
+   "synopsis": "Kid Dracula sur Gameboy vous met dans la peau d'un vampire qui est pote avec la mort. Dans un jeu de plates-formes, vous traversez 8 niveaux dans lesquels vous pouvez apprendre des sorts comme la classique transformation en chauve-souris.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Kid Dracula",
+   "genre": "Platform",
+   "synopsis": "Kid Dracula is a side-scroller and a parody of the Castlevania series. The difference is you play as a young vampire rather than a vampire killer.\n\nGameplay consists of very standard jump and shoot platform action.  As you progress through the 8 levels, you gain the ability to perform spells, like turning into a bat. You will also receive guidance from your pal, the Grim Reaper.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "152b20897f0f3c4816927d61314277380e937f44d83de7d834dd7f8c57b0cff9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3183&media=fanart",
+   "fetched_at": "2026-11-06T16:21:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "81ff312a511e2303b352d90f2bb039b366f515c547329a59b22c20e1283e286a",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3183&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:21:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "29222ed483a6134da57eba1a0319e2a255856b68a72113f54bd68f2a6150e9c5",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3183&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:21:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "650007510f8df89ffe17114702de41ad672d510f41476ba49e77caf1fdf9df84",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3183&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:22:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "845b6dfcf79635e8fc3ebfe47b00d8fe114380b1d5069b8391ec8bff478a83b6",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3183&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:22:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "287974570e2922cef1f9886ad97594997f4274d5c3a135815be09ccf336bc919",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3183&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:22:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:21:55+00:00",
+ "status": "done"
+}

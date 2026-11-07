@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-mario-bros-deluxe",
+ "title": "Super Mario Bros. Deluxe",
+ "source": "screenscraper",
+ "ss_game_id": 37204,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37204,
+  "release_year": 1999,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1-2",
+  "system_label": "Game Boy Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Mario Bros. Deluxe",
+   "genre": "Plateforme",
+   "synopsis": "Super Mario Bros. Deluxe est un jeu de plates-formes sur Gameboy. La princesse Toadstool a été enlevée par le terrible Bowser. A vous de la délivrer. Mais, pour cela, vous devez franchir moult pièges tendus par vos ennemis, et traverser de nombreux niveaux, de plates-formes en escaliers, et de tuyaux en falaises escarpées.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Mario Bros. Deluxe",
+   "genre": "Platform",
+   "synopsis": "The Mushroom Kingdom has been invaded by the Koopa, a tribe of turtles who possess dark magic. Their king Bowser has transformed all its inhabitants into stones, bricks, and mushrooms; he has also captured Princess Toadstool. She is the only one who can break the evil spell.\nImprisoned in a castle deep in Bowser's new found kingdom, Mario, a humble plumber, hears of the tragedy and sets out to free her.\n\nRun, jump, and throw fireballs to defeat the evil Bowser and his minions.\n\nThe game features the original 1985 game, a challenge mode, and versus game option. Also included are records, an album, and a toy box.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "88a6fb009c492f75bef88cda61c8e2f269ccbf196eca256de3b34dafd9f9eeb9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37204&media=fanart",
+   "fetched_at": "2026-11-07T00:10:12+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6580512348b3da72fca93a1822a357a1cf68a37193993ece08d2bfe01ffa2ed9",
+   "width": 548,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37204&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T00:10:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "73868584a1c25b8d1b920a3ae11d9baaf4a4206c32aeffde096efd7a5d134ac8",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37204&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T00:10:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2519640e4b0351fc3c08e5f45899bb9a153c616127ad3f4af6040de337b619d3",
+   "width": 600,
+   "height": 701,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37204&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T00:10:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "dca145825d2bb9f2c6ff2f6a6ffe8d13a7e5ab89ad9265db1b3535d1987ac48d",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37204&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T00:10:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "25e510e04e50ca4858ea75c91acc258d791b7801be2c294171d18693256535b6",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=10&jeuid=37204&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T00:10:19+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:10:11+00:00",
+ "status": "done"
+}

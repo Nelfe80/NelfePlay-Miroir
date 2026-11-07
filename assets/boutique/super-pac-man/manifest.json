@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "super-pac-man",
+ "title": "Super PAC-MAN",
+ "source": "screenscraper",
+ "ss_game_id": 43432,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43432,
+  "release_year": 1982,
+  "publisher": "Namco",
+  "developer": "Namco",
+  "players": "1-2",
+  "system_label": "Namco Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Pac-Man",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Pac-Man doit manger des clés pour ouvrir des portes, ce qui lui permettra de manger des fruits et des prix, pas des points. Manger le Super Power Energizers augmente la taille de Pac-Man et lui permet d'accélérer. Pendant toute la durée de ce Super énergisant, il peut passer librement au-dessus des fantômes, même si ce sont leurs couleurs dangereuses d'origine.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Pac-Man",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Super Pac-Man is a 1- or 2-player game where you are in control of the legendary Pac-Man. As in the original \"Pac-Man\" game, the goal is to clear each maze, but this time, instead of dots, the maze consists of prizes which are locked away behind gates. There are two ways to access the prizes. You can eat the keys which open a particular gate, and not always the gate which is closest to that key. Or you can crash through the gate after you eat a Super Pill and become Super Pac-Man. You are not required to eat all of the keys in order to complete the stage.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "20753608f96e8a49bc222d25ea95597fe07f05b94a01e44fa42d3d3472e6dbf9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=fanart",
+   "fetched_at": "2026-11-06T17:12:41+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2bd05dfa1005c3958faa2080e0ac54aafe1c5693135feeb60095a133a15c1e87",
+   "width": 300,
+   "height": 150,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:12:43+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c984564a0eb985b607d02f99c70bc71a76135224814dd397dea47aacf56fd7c3",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:12:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e06edfbd0502a5031991627e064df17364873c045bd30721fcdcd146315bed58",
+   "width": 547,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:12:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6aa525e80872b75ef7b2a3186b83e7291b1cd7a03ff4fed4b024884a4181ef17",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:12:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5e8a1d2bf9a7e46f84a59ecfbb0891b0ce962c4c53ec79d7f879cdf83eda1ae4",
+   "width": 850,
+   "height": 1196,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:12:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "59eed795052ea070906fad3cb17e99ba29ba129845a1933b10ff96fa14e042d4",
+    "width": 224,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43432&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:12:50+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:12:41+00:00",
+ "status": "done"
+}

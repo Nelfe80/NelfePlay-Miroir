@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania",
+ "title": "Castlevania",
+ "source": "screenscraper",
+ "ss_game_id": 1268,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1268,
+  "release_year": 1987,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania",
+   "genre": "Plateforme / Run & Jump Scrolling",
+   "synopsis": "À vos risques et périls!\r\nSi vous trouvez le monde extérieur effrayant, attendez de voir l'intérieur. Vous entrez dans la plus longue nuit de votre vie. Fantômes, lutins, démons, loups, chauve-souris - des créatures cachées dans les moindres recoins.\r\nSoyez vigilant, c'est votre unique chance de trouver une arme ou deux. Car lorsque enfin vous rencontrerez le Comte, il n'aura qu'un seul objectif: votre jugulaire. Alors gardez votre pieu aiguisé.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania",
+   "genre": "Platform / Run & Jump Scrolling",
+   "synopsis": "Enter at your own risk!\r\n\r\nIf you think it's scary on the outside, wait till you see the basement. You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats – creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "eabefffdf4b9a7f8a5e3d5cfaef819a47df5945f11c04993088de2470dc58d90",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1268&media=fanart",
+   "fetched_at": "2026-11-06T16:19:22+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "25d2993a8cf67043884de2a416cd6b71811e9196e06c7753f1e1a24b11a82f8b",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1268&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:19:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7ab7ddc4fd73a210a2162466f883623ead4f54efbaba2110be926d54a22f9f51",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1268&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:19:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "05b6fa19717dba2a51c0ece2d99b52351cac5a3e2fe771108c3460c93c615935",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1268&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:19:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b952ba96ae7f322ad6a6a66b9d05fdd420c5f0b6d5bba3cbc9fbea63b2241dea",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1268&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:19:28+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0ab0f0f1650f9a0fa3d36a683ca7b6235642162e2e67b2a7fa2f249b7ef764b2",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1268&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:19:30+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:19:22+00:00",
+ "status": "done"
+}

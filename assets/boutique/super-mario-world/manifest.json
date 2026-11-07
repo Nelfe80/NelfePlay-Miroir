@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-mario-world",
+ "title": "Super Mario World",
+ "source": "screenscraper",
+ "ss_game_id": 2144,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2144,
+  "release_year": 1991,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Mario World",
+   "genre": "Plateforme / Run & Jump",
+   "synopsis": "Découvrez un monde nouveau avec Mario et Yoshi!\r\nMario s'embarque dans la plus passionnante de ses aventures... Mais cette fois-ci, il est venu avec un ami. Yoshi le dinosaure lui sera très utile pour affronter à nouveau le terrible Bowser. Sachez utiliser les nouveaux pouvoirs de Mario et l'appétit vorace de Yoshi pour compléter les 96 niveaux remplis de monstres et d'obstacles. Escaladez les montagnes, traversez les rivières et explorez les grottes. Détruisez les 7 châteaux Koopa et découvrez les clés menant aux niveaux secrets.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Mario World",
+   "genre": "Platform / Run & Jump",
+   "synopsis": "Once again, the evil Bowser has captured Princess Peach (while on a holiday on Yoshi's Island), and it's up to Mario to save her. To aid him in his quest, Mario must use the flying ability of the feather to get him to places hard to reach. But what's even more important is his new friend, the dinosaur Yoshi, who Mario can ride through each level and eat the enemies.\n\nOver 90 levels are on offer, with plenty of Bowser's evil koopas and new characters around each level. Apart from saving Peach, you can also save some of Yoshi's friends, other dinosaurs that each have a special attack. Each level also contains a set of extra items to collect, including dinosaur coins, and break the tape at the end of each level to collect stars, that allow you to open up the bonus games.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "09e072f619dc834c6097d1753b79f8cdca575aaa8b8d30af748f6cd353921ef7",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2144&media=fanart",
+   "fetched_at": "2026-11-07T11:07:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "869b37b7449cd64627b64ace13d133a5cdfdc368827358a2da7e4430662d47ef",
+   "width": 600,
+   "height": 190,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2144&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T11:07:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "22f62b3781ba9bdfe360bc238cbb0e566bbd0df522e517e80d1698842758a386",
+   "width": 680,
+   "height": 500,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2144&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T11:07:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "09dbdc21e0cd20e9522360babbdf52a6d18e4fce35a58bb1ddf0ac274dcd17f5",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2144&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T11:07:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3a5312588ba79e746732413312adbf42ade41aaba90b32a89bb155e3a90592bf",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2144&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T11:07:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "03255a477f543ed9022546375944d588408a3e1ccf216f86657c496e93e7a98a",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2144&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T11:07:24+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T11:07:16+00:00",
+ "status": "done"
+}

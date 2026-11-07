@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "1943-the-battle-of-midway",
+ "title": "1943: The Battle of Midway",
+ "source": "screenscraper",
+ "ss_game_id": 39875,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 39875,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "1943 : The Battle Of Midway",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "La suite de 1942 fait de nouveau combattre le joueur au-dessus des nuages pendant la Seconde Guerre mondiale, cette fois dans une bataille intense au large des îles Midway.\r\n\r\nLes mises à jour du gameplay incluent une barre d'énergie, qui peut être épuisée en étant touché par des tirs entrants ou en utilisant une arme spéciale. La barre d'énergie peut être reconstituée en ramassant des bonus, tandis que les armes spéciales (foudre, cyclones et vagues) peuvent abattre tous les chasseurs à l'écran à ce moment-là.\"",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "1943 : The Battle Of Midway",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American aircraft carrier, pursue all Japanese air and sea forces, fly through the 16 levels of play, make their way and destroy the Japanese battleship Yamato. 11 levels consist of an air-to-sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese bombers and a mother bomber that needs to be destroyed.\r\nAs in 1942, players pilot a P-38. Two buttons are used: one for regular attacks and one for special actions that executes either a loop or one of three special attacks that damage the plane. Unlike in 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapon that replaces the default twin gun.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "1821d6b2a514e1e887a064f3e79374b060c4ff029f6a3de99ab4efadaf6f8c6e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=fanart",
+   "fetched_at": "2026-11-06T17:15:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "60d8096ef1239ada0283831918d3f158748d0ad51f2e4213a729df6ad496d6b6",
+   "width": 600,
+   "height": 328,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:15:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c24843dc9d6d4e5d251b672630c16b059cf05536f0482770735ac828d1e6a04d",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:15:34+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "66406dcffb4ca3ef3893f76dc7a136ea62493c92a99efa1cd6989ea6bd53e8de",
+   "width": 421,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:15:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e35cf51aff847341501c9822b5da9544be764dee1cb5871c3bb7b5d1dbc29bb1",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:15:37+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "091c93dbad64108266265c266a28a3e92351197a19941306510ebf6da97f36bb",
+   "width": 850,
+   "height": 1174,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:15:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b6c759b9615a36368ac62de3275ce4e68152c03cad76e100755b04c3a7c52109",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39875&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:15:39+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:15:30+00:00",
+ "status": "done"
+}

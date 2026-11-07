@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "hyper-dyne-side-arms",
+ "title": "Hyper Dyne Side Arms",
+ "source": "screenscraper",
+ "ss_game_id": 43076,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43076,
+  "release_year": 1986,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Side Arms - Hyper Dyne",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "J'ai toujours aimé les Mech; Gundams et autres armures geantes. Et ici c'est dans un shoot pur et dur que vous allez vous deffouler ca reste du classic mais il faud l'essayer. c'ast pas un R-TYPE et les boss manque de diverssité, les bonnus sont assez nombreux et la jouabilité est bonne.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Side Arms - Hyper Dyne",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "An evil alien race called the 'Bozon' are trying to wipe out Mankind, and Lieutenant Henry and Sergent Sanders are given the responsibility of saving the Human Race. They each climb into a Mobilsuit - a jet-powered, heavily armoured combat suit - and set out on their mission. \r\n\r\nSide Arms is a horizontally - and occasionally vertically - scrolling shoot-em-up for one or two players. Each player has two fire buttons, one for shooting ahead and one for shooting behind; crucial for a game in which enemies attack from all directions. Shooting certain enemies will reveal power-ups - displayed as 'POW' icons - and shooting the icons will either change their type, or reveal a special weapon.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "377f26883bb478038848ec6afe7d941d8de1ac37d44d237f0274709fd6bca674",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=fanart",
+   "fetched_at": "2026-11-06T23:24:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ef55d68375f44640f1b70e79d1a395a7c77d48cb52a74e022b9c2ea42616c76b",
+   "width": 600,
+   "height": 189,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:24:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2326f8de71591c5088757a7b35d36009e91722b6cf6dc17b2db686985c662c55",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:24:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d49f53ff905612fa4c5e118bbb3b4346830c7b3342ff4e10f5be7c9600bff825",
+   "width": 458,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:24:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7d626176041a353c3c2ed287bfc8d5b12aa97c22ee7ab6ebc91e5a14d5829908",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:24:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d5171c720dc2512cea1f2e733f936f42816f4aef82862d59846a5579f8cb4453",
+   "width": 850,
+   "height": 1197,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:24:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2f3de87acb638e878a3afaf40cd18200d9e74ee82247e6079782db6b6c01b184",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43076&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:24:32+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:24:22+00:00",
+ "status": "done"
+}

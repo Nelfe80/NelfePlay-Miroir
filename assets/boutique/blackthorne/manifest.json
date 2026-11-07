@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "blackthorne",
+ "title": "Blackthorne",
+ "source": "screenscraper",
+ "ss_game_id": 2329,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2329,
+  "release_year": 1994,
+  "publisher": "Interplay",
+  "developer": "Blizzard Entertainment",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Blackhawk",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Depuis des temps immémoriaux, l'harmonie du monde de Tuul est régie par deux pierres sacrées renfermant l'essence de grands rois du passé. Ces deux artefacts, symbolisant respectivement la lumière et les ténèbres, sont en possession des deux rois qui règnent sur Tuul. Le roi Vlaros, champion de la lumière, règne sur Androth tandis que Sarlac domine Ka'dra'suul, dont les habitants, vénérant les ténèbres, ont fini par se transformer en monstres diaboliques au fil des générations. Sarlac et ses hordes envahissent Androth par surprise. Le roi Vlaros crée un portail dimensionnel et expédie son fils unique, Kyle, sur la Terre, pour préserver la pierre de la lumière. Deux décennies plus tard, Kyle est devenu un soldat d'élite, dressé pour tuer. Il est temps de pour lui de revenir sur Tuul et d'y briser la tyrannie de Sarlac. Le jeune héritier devra explorer plusieurs lieux sinistres et parvenir à la sortie de chaque zone sans perdre la vie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Blackthorne",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.\n\nThis game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f59ce599bdd867364af25161a29266fd90d4fb479a162a9e78f2c6f5d28697e7",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2329&media=fanart",
+   "fetched_at": "2026-11-06T17:39:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0b659ed8fb0bf9dc53856574c7786a7a6b1ba312a38f557b503e2eeaa4a07d29",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2329&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:39:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b78ffb4d3f52567eef6e9a6ee3fb89a6a5a4086691876956760d2b26895ec6cb",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2329&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:39:34+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d026d1844727807eb7f802efa5c9fba5a06fb259b795754a9acc0ba81d566514",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2329&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:39:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "84a8a6f9be7e11abbd3fac15b6e2fc451d6eb5de616651458468f5fb44d066cb",
+   "width": 256,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2329&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T17:39:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "14a63efca8d1bcadf9a4b3f478d0806ee15e9448b0d5ee52ac433381100bdff5",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2329&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:39:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:39:30+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "captain-america-and-the-avengers",
+ "title": "Captain America and The Avengers",
+ "source": "screenscraper",
+ "ss_game_id": 40445,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40445,
+  "release_year": 1991,
+  "publisher": "Data East",
+  "developer": "Data East",
+  "players": "1-4",
+  "system_label": "Data East Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Captain America And The Avengers",
+   "genre": "Beat'em All",
+   "synopsis": "Un beat them all à défilement latéral (ponctué de sections shoot'em up) dans lequel un ou plusieurs joueurs incarnent Captain America, Iron Man, Vision ou Hawkeye alors qu'ils se préparent à affronter Red Skull et ses hommes de main.\r\n\r\nChaque personnage possède une arme ou un pouvoir distinct qui peut être utilisé tout au long du jeu. Captain America utilise son bouclier, Iron Man ses rayons répulseurs, Vision son faisceau solaire et Hawkeye son arc et ses flèches.\r\nIl y a aussi d'autres super-héros tels que Quicksilver, Sub-Mariner, Wonder Man et The Wasp qui apparaissent à certains moments du jeu pour donner un coup de main.\r\n\r\nLe jeu comprend cinq niveaux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Captain America And The Avengers",
+   "genre": "Beat'em Up",
+   "synopsis": "A side-scrolling beat'em up (punctuated with occasional shoot'em up sections) in which one or more players take on the role of either Captain America, Iron Man, Vision, or Hawkeye as they prepare to do battle with Red Skull and his henchmen. Each player character has a different weapon or power that can be used throughout the game to assist them in combat. Captain America uses his shield, Iron Man uses his repulsor rays, Vision uses his solar beam and Hawkeye uses his bow and arrows. There are also additional superheroes such as Quicksilver, Sub-Mariner, Wonder Man, and The Wasp who appear at certain points in the game to assist the player characters. Some of the super-villain foes that await the heroes are Klaw, The Living Laser, Whirlwind, The Grim Reaper, The Wizard, The Controllers, The Mandarin, The Juggernaut (from X-Men), Ultron and Crossbones. The game consists of all five stages.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "20f240bf23bcc424edff3657a6f87c894bc5f81c91b39c31318222514c891887",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=fanart",
+   "fetched_at": "2026-11-06T17:31:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ef92436d50b4223b98ca17df4648ceb8c5e3d13cf0064fbb9a1f67be7905a002",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:31:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "adfdce1edc52c25114e74790e577e93cfb2c202aac5c598bad9469b062994089",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:31:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "37e36e4e41182a5887eefb7cdc19dfbe6bf5b436c74c4ebe56554e8b0b585c5f",
+   "width": 606,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:31:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b4fc7c47575d462ed63ed6f19f00220aeeb16ce82edce8bfa5f30aafc74d64d8",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:31:22+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "667080282ce94ecb0a265244c1806ea2754c84123d6497bfe7c4071eb27b4a23",
+   "width": 850,
+   "height": 1210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:31:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "ca5d9acef4e97a8d39fa264e2f06e5ef36b768a5fc353cb8917c3900bc347690",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=162&jeuid=40445&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:31:24+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:31:14+00:00",
+ "status": "done"
+}

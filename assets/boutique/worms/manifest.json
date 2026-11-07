@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "worms",
+ "title": "Worms",
+ "source": "screenscraper",
+ "ss_game_id": 2318,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2318,
+  "release_year": 1996,
+  "publisher": "Ocean",
+  "developer": "East Point Software",
+  "players": "1-8",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Worms",
+   "genre": "Stratégie",
+   "synopsis": "Worms est un jeu de stratégie au tour par tour. Il met en scène jusqu'à 4 équipes de 4 vers, dont le but est de détruire les autres sur un terrain généré aléatoirement. Chaque ver dispose de 100 points de vie et meurt lorsque ses points de vie tombent à 0. À sa mort, un ver explose, causant des dégâts à tous ceux qui se trouvent à proximité.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Worms",
+   "genre": "Strategy",
+   "synopsis": "Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.nnnnnn",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9a33ebf4e814626221073efb816222b2df190debe7fa853f3e1566bdea77f102",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2318&media=fanart",
+   "fetched_at": "2026-11-06T23:57:04+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9ad24a8ea593c9538d790dbdbdd62ee9ffdb08cd2f3a74e65db0a7b944095b3c",
+   "width": 600,
+   "height": 270,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2318&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T23:57:06+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "02b15119642128d4d646d0720718fe71536f294e701cbf6f25e7463f5f45afd8",
+   "width": 680,
+   "height": 497,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2318&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:57:08+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9258ee48aba60498716dbfd49508dd95639898e30d5312a5785e646f30590f2e",
+   "width": 600,
+   "height": 420,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2318&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:57:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d57fb6710ae3ea23c6db8b8a6e1315d79bf54e3f39525cf646fdb1e3b1e6443a",
+   "width": 384,
+   "height": 336,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2318&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T23:57:10+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "020dcec7922eb3df6959a021c4d63b134f448039348ada387533ed8161dc3f3a",
+    "width": 256,
+    "height": 224,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2318&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T23:57:12+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:57:03+00:00",
+ "status": "done"
+}

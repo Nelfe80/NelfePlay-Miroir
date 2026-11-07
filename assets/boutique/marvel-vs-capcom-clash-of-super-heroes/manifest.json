@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "marvel-vs-capcom-clash-of-super-heroes",
+ "title": "Marvel vs. Capcom: Clash of Super Heroes",
+ "source": "screenscraper",
+ "ss_game_id": 37403,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37403,
+  "release_year": 1998,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Marvel vs. Capcom : Clash of Super Heroes",
+   "genre": "Combat",
+   "synopsis": "Marvel vs. Capcom : Clash of the Super Heroes met aux prises les héros de l'éditeur de jeux Capcom et de l'éditeur de comics Marvel, dans un jeu de combat en 2D. Vous devez former une équipe de trois combattants, chacun pouvant intervenir à n'importe quel moment. Des enchaînements sont possibles entre les membres de votre équipe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Marvel vs. Capcom : Clash of Super Heroes",
+   "genre": "Fighting",
+   "synopsis": "Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs. Capcom series. In contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters. The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss. The game was developed in late 1997 and first released in January 1998.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e8779ee8bd18e22de9e604b75ae2c3ec4f10cc2610209a67942ff813f11c6fa7",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=fanart",
+   "fetched_at": "2026-11-06T15:27:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4e1e2073161732427c6b14b1a79065bc8138d1aaf736a6e2d29ec912df127940",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:27:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7515426ed165bf3f73e6a6d7fa260431796543e90f08f7e168c70fac156259d8",
+   "width": 514,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:27:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e794786ccebeeded83f0449138d2636b497385e22eb01dc60fad5b0a7fb0891e",
+   "width": 509,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:27:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "391284807fc590adf55757386b00970ab876e9bcf66016d7bc74aa8475e6d323",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:27:15+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "c7bd7beb652043d660212cb97ff16215ffc788ea28c05bb171863a4081046908",
+   "width": 845,
+   "height": 1203,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:27:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "93c3542a1fb78244245dbb02cac64c7dd6067da0ef8d80ca2b151b5c4bbfe017",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37403&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:27:18+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:27:08+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "rygar",
+ "title": "Rygar",
+ "source": "screenscraper",
+ "ss_game_id": 150550,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150550,
+  "release_year": 1986,
+  "publisher": "",
+  "developer": "Tecmo",
+  "players": "",
+  "system_label": "PlayChoice"
+ },
+ "text": {
+  "fr": {
+   "name": "Rygar",
+   "genre": "Plateforme / Fighter Scrolling",
+   "synopsis": "A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Rygar",
+   "genre": "Platform / Fighter Scrolling",
+   "synopsis": "A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "dc31fa4f60752385c99ac92ee961bfd23dd76292801e2fee1b796a5490e91931",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=150550&media=fanart",
+   "fetched_at": "2026-11-06T23:43:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "318090b2c98d2e0a73cc3eac01eb543c2c44bbf66b736c38d09e626b59f72af2",
+   "width": 400,
+   "height": 180,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=150550&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:43:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "caec19bf76eef7d3536be1f6cf06d1a7d72102feea8569927add5e2e0731396d",
+   "width": 850,
+   "height": 1201,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=150550&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:43:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "06d4f969411f42ab69fc7c25d4633e4c390bfbb02360d9a5c9c935d451c5795d",
+   "width": 256,
+   "height": 482,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=150550&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:43:52+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6e18d4696f0fcd26a28c023241ce7eb89186e8b17f4c1d8df7e93977b46374ec",
+   "width": 850,
+   "height": 1101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=150550&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:43:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3055e243921afb223f2df6933de4b76102020cf93857751f83d17bf950a2cc23",
+    "width": 256,
+    "height": 482,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=150550&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:43:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:43:46+00:00",
+ "status": "done"
+}

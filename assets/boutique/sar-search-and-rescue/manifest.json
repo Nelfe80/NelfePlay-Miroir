@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "sar-search-and-rescue",
+ "title": "SAR: Search and Rescue",
+ "source": "screenscraper",
+ "ss_game_id": 42947,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42947,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "SAR: Search And Rescue",
+   "genre": "Tir",
+   "synopsis": "Après la disparition mystérieuse d'un vaisseau spatial pionnier, l'enquête a révélé que le crash s'était produit prêt d'un ravin pour une raison inconnue. Deux agents des services de recherche et de secours partent en mission pour déterminer les causes du crash et éliminer la menace Alien.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "SAR: Search And Rescue",
+   "genre": "Shooter",
+   "synopsis": "When a pioneer spaceship vanishes mysteriously. An investigation reveals that the spaceship crashed near a ravine due to unknown circumstances. Now two SAR (Search and Rescue) operatives are on a mission to find out what happened, and eliminate the alien threat.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6cb1d791faefca1fb13fdee5cb9a47ac46c7d10fe512d6b6716043dca6c76a51",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=fanart",
+   "fetched_at": "2026-11-06T16:01:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "27c6fd6875d208fe844741787e141905f3f7fbad56c2b3354edcc7b9e2cb27a7",
+   "width": 400,
+   "height": 142,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:01:50+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a54d0ef8223ce9c049cf2e865201188e870cc55648f080b82edf5afecc092172",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:01:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1585ca47045e2daf959ef16db637ccd9b05be9084db75e8f7e4537fcb8cf9b53",
+   "width": 470,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:01:53+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d2070953a1bf8d719b3f736103f9fc29e9503621040778aac6ef1f42fe3f19a8",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:01:54+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "0e35f7ea974479fb8422d8438b2f2570c3b72a9d0e57b89c77962e92a95df9fb",
+   "width": 595,
+   "height": 790,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:01:56+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "115823722303a060e135ea7e10fe79e0747c738c7f64edd68a836e573e9a4180",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42947&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:01:57+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:01:47+00:00",
+ "status": "done"
+}

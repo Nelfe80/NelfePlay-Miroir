@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-ii-the-arcade-game",
+ "title": "Teenage Mutant Ninja Turtles II: The Arcade Game",
+ "source": "screenscraper",
+ "ss_game_id": 79235,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 79235,
+  "release_year": 1990,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "PlayChoice"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Ninja Turtles II: The Arcade Game (",
+   "genre": "Combat",
+   "synopsis": "Suite du premier tortue ninja, TMNT 2 : The Arcade Game est un jeu d'action inspiré de la franchise des Tortues Ninja. L'intrigue place nos 4 héros face à Shredder et ses sbires ayant enlevé la jeune reporter April O'Neil. Tout au long du jeu, vous combattrez des hordes d'ennemis mais également des boss connus comme le diabolique Krang. Cette version-ci contient des niveaux supplémentaires, de nouveaux boss ainsi que de nouvelles musiques.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles II: The Arcade Game (",
+   "genre": "Fighting",
+   "synopsis": "April O'Neil, the reporter friend of the Teenage Mutant Ninja Turtles, is kidnapped by the villainous Shredder and his two goons, Bebop and Rocksteady. The four ninja turtles: Raphael, Michelangelo, Donatello and Leonardo fight their way through hordes of Foot Soldiers in order to rescue April. They battle familiar foes such as the mad scientist Baxter Stockman, General Traag from Dimension X and the evil alien brain Krang, up to the final showdown with Shredder himself.\r\n\r\nTeenage Mutant Ninja Turtles: The Arcade Game is a port of the popular arcade game made by Konami during the height of the cartoon series' popularity. Depending on the version of the game, up to two, three or four players can take part in the action. The game plays like a simplified Double Dragon. While most of the standard Foot Soldier enemies are easily dispatched, some attack with knives or ray guns and are thus more dangerous. At the end of each level, players encounter a boss (or in certain cases two bosses working in tandem, such as Bebop and Rocksteady).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8c4053cc243aee8be6637469300ffa7229a20cf18e95ba311da19178b94e5a3f",
+   "width": 400,
+   "height": 180,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=79235&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:26:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "67c6a63b9bf4ce465be00dbd0f2a61154b8ec4463d38f6e9fc28e05f87e03093",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=79235&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T17:26:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4903183bf618675a25d320bf64d9ae814a65121c99ff8aaea5eef0c3dbb88902",
+   "width": 256,
+   "height": 482,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=79235&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:26:38+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bcfcd30d2695bc3c391c175b44d086c5b96aa89e174e6d7c007ce26318dfa130",
+   "width": 854,
+   "height": 1100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=79235&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:26:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8e7023f6fd50d268aa3033e790ff008a7eb4bfcdba5203fe149b0cf769906a48",
+    "width": 256,
+    "height": 482,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=184&jeuid=79235&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:26:41+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:26:34+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "goof-troop",
+ "title": "Goof Troop",
+ "source": "screenscraper",
+ "ss_game_id": 2210,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2210,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Goof Troop",
+   "genre": "Puzzle-Game",
+   "synopsis": "Dingo et son fils profitent d'une journée de pêche quand ils apprennent que leurs amis Pat Hibulaire et Pat Junior ont été kidnappés par des pirates. Ils partent à leur rescousse en traversant l'île de Spoonerville. Là, de nombreux pièges et énigmes se dressent sur leur passage. En solo ou en coopération avec un ami, vous pouvez mener Dingo et Max dans cette aventure.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Goof Troop",
+   "genre": "Puzzle",
+   "synopsis": "Goofy and his son Max were enjoying a peaceful day of fishing, when Keelhaul Pete absconds with Pete and PJ. \n\nNow it's up to Goofy and Max to travel to Spoonerville Island and venture through the jungle to rescue their friends. As either character, you'll take on an army of surly swashbucklers as you dodge exploding cannon balls and search dank dungeons on your way to the final showdown with Keelhaul Pete.\n\nAlong the way, you'll have to dig for treasure and solve puzzles to find the keys that will allow you to enter the pirate's hideout and face Pete.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3030e50f1ae9a4f0e0a8cfdd17ecf02653b2cbb237585d9dd079b4a9881486f9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2210&media=fanart",
+   "fetched_at": "2026-11-06T23:55:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bd0a6ba5031b403b33e42af1c0c45c9252577e0f3a201ef7d2656eddaae882ea",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2210&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:55:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5a2eb259eca34491a8f0a471229dd3cedc58626b6fb98e38a68b6af5d5312bfc",
+   "width": 680,
+   "height": 500,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2210&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "af706d9abc1c59680661130379d25b89665d6e432c7be6c8e99a5049576b59b9",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2210&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:56:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "84c7fc9f416bd3802685e03b7080d2bb78d8ad8d1a63e1c20cdacaf578c5a593",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2210&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:56:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "793e4ac35009c060ea266547d448630ecf956e5da3f7ccc37abf815ea61c03bc",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2210&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:56:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:55:55+00:00",
+ "status": "done"
+}

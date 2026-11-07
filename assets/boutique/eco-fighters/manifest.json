@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "eco-fighters",
+ "title": "Eco Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 37395,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37395,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Eco Fighters",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Dans un futur lointain, alors que la colonisation spatiale est très avancée, certaines entreprises n'hésitent pas à exploiter des planètes entières jusqu'à les détruire. Un scientifique célèbre, le Dr. Moly, met au point un vaisseau spatial dans le but de stopper les agissements néfastes de la plus grande multinationale du moment, la Goyolk, coupable de polluer sa planète.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Eco Fighters",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Eco Fighters is a horizontal shooter, where the player controls a ship with a rotating gun. As suggested by both its titles, the game has an \"eco-friendly\" theme. It was also developed by the same team from two Mega Man arcade titles, The Power Battle and The Power Fighters.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "23dd3caabf9177c76c419c231bd353db404df748b476fcca50a0ea65fa9c0495",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37395&media=fanart",
+   "fetched_at": "2026-11-06T17:22:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b35a5bab7c725b29c6234f073d0aecc285acf7e8f0f8bd789b5d918a49e15ce3",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37395&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:22:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "56b4de7e76accd626269f5c2cecc9a5a5b5fa6f5c42bb27d92b32f1f4dc7e4ef",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37395&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:22:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "2c1de763054c1a1d735bd7218e07d79dacc6cd7b5ed7bef78fedb8936d4ca92d",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37395&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:22:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "304ecf87fddb924719ef3609d5ddc2f3e0c132ea534ea23c5363857cd78ab7b2",
+   "width": 850,
+   "height": 1231,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37395&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:22:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "be9dfbdf06b5f32ced277e3a024705234264c46bb5fe333ec595dec62dd10213",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37395&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:22:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:22:42+00:00",
+ "status": "done"
+}

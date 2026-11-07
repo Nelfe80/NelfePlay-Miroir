@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "pirate-ship-higemaru",
+ "title": "Pirate Ship Higemaru",
+ "source": "screenscraper",
+ "ss_game_id": 41675,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41675,
+  "release_year": 1984,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Pirate Ship Higemaru",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Prenez le rôle de Momotaro, qui doit lancer des tonneaux sur les ennemis pour arrêter les pirates Higemaru, dans ce jeu inspiré de Bomberman.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pirate Ship Higemaru",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Take on the role of Momotaro who must launch barrels at enemies to stop the evil Higemaru pirates.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "01a09c3a4a611b7d1f372029c79f334c1e00988c8fd1136ebe23fc3a7957bc6e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41675&media=fanart",
+   "fetched_at": "2026-11-06T17:16:50+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f70fcae7f50c9b44447321e3ca86084277ad5ba9e91f859eaa6f2ab02279e4ef",
+   "width": 600,
+   "height": 183,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41675&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:16:51+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "399dc37610f0e01b5b8bd74f8b59897e8b143f6f0b9328a465f35797a61245dd",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41675&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:16:53+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9dacf01dbb002b03f963e0bc78c6fe6caa68ef19c8a7b6e0e8cd5544059f0dae",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41675&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:16:54+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1156086d81c8bf34e440c600de671c5541fdf06e8be5a1099aa6083309d1cccf",
+   "width": 850,
+   "height": 1195,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41675&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:16:56+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ca66a1f0f6c4ee255c0b8d0c7e5a154f1fa995a0ec5d1cf980dae420298bb22d",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41675&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:16:57+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:16:49+00:00",
+ "status": "done"
+}

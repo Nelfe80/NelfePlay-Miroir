@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "king-of-fighters-r-2-pocket-fighting-series-world-en-ja",
+ "title": "King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47038,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47038,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "King of Fighters R-2",
+   "genre": "Combat / Versus",
+   "synopsis": "En utilisant à nouveau le style japonais \"SD\" (Super-Deformed) (amélioré), la série KOF fait ses débuts sur la nouvelle console portable de SNK. Le titre apporte les mêmes caractéristiques de gameplay que son homologue arcade / console The King of Fighters '98, comme la possibilité de choisir entre deux modes de jeu (Advanced ou Extra), une adaptation identique des étapes de combats, l'ajout de \" Advantage System \"(directement lié aux jauges de puissance) et la chance de se battre avec une version motorisée du \"franchise boss\", Rugal Bernstein.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "King of Fighters R-2",
+   "genre": "Fighting / Versus",
+   "synopsis": "Using again the Japanese \"SD\" (Super-Deformed) artwork style (now reworked), the KOF Series makes your debut in the new SNK's color handheld. The title brings the same gameplay characteristics present in its arcade/console counter-part The King of Fighters '98, like the possibility of choose between two game modes (Advanced or Extra), an identical adaptation of the battle stages, the addition of \"Advantage System\" (directly related to the power gauges) and the chance to battle with a powered version of the \"franchise boss\", Rugal Bernstein.\n\nUnlike the previous game (The King of Fighters R-1), this sequence doesn't have a defined storyline, but it's implicit that Rugal is still alive and returns once again to try conquer the world and satisfy his evil ambitions.\n\nThe teams included in the game were slightly reformulated and now are the following ones (this time, Leona Heidern and Iori Yagami are single entries):\n\n1. Team Kusanagi (Kyo Kusanagi, Saisyu Kusanagi and Shingo Yabuki)Super Babe Team (Athena Asamiya, Yuri Sakazaki and Kasumi Todo)\n2. New Southtown Team (Ryo Sakazaki, Mai Shiranui and Terry Bogard)\n3. Orochi Team (Yashiro Nanakase, Shermie and Chris)",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "1ca880bbb5da3e7dc1b71eda42be1fbfb520a63b262dd679a5e42c1e688ad9b4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=fanart",
+   "fetched_at": "2026-11-06T23:22:06+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "05f186b54296befbc1ee597988657f8a7ff9352e52d9e5b299a75bacd13b2091",
+   "width": 600,
+   "height": 231,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:22:07+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e46266d38de548bc0320ee7a248e1af8db10085eac71b8039b35846b58328bd7",
+   "width": 695,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:22:09+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "67ffa2798952fdea00b2c9cdb74d6c7de1f9274b75781a96a156d76d280f2f7e",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:22:10+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c042b91ad3ea735fbe4d03f1622e74246f2143779b7bb0dd0e3aa3eb27f56da9",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:22:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e7eb33974d6451a7b9a66d30be1608448e966341c4aeb64f1b529e32d1f3a96e",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:22:13+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "db01ee2ae0551c78d16544fc311935764d45badd5a4dad4ff89d03a0f3ef6cdf",
+    "width": 160,
+    "height": 152,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47038&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:22:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:22:04+00:00",
+ "status": "done"
+}

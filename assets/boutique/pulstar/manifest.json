@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "pulstar",
+ "title": "PULSTAR",
+ "source": "screenscraper",
+ "ss_game_id": 13876,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13876,
+  "release_year": 1995,
+  "publisher": "SNK",
+  "developer": "Aicom Corporation",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Pulstar",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Une menace extraterrestre plane sur la galaxie et seuls vous et votre fidèle chasseur stellaire pouvez la vaincre.\r\n\r\nPulstar est un jeu de tir à défilement latéral en 2D dans lequel vous contrôlez votre vaisseau qui se fraye un chemin à travers des niveaux remplis de vagues d'ennemis déterminés à vous détruire. Vous pouvez améliorer vos armes principales en collectant des power-ups et le fait de charger de l'énergie vous permet de lancer des attaques surpuissantes au prix de la consommation de power-ups. De plus, votre vaisseau est équipé d'un pod d'armement \"optionnel\" qui flotte autour de votre vaisseau et qui peut être positionné dans plusieurs configurations pour protéger le vaisseau ou augmenter sa puissance de feu.\r\n\r\nBien qu'entièrement en 2D, le jeu utilise des sprites 3D pré-calculés et inclut des cutscenes entièrement animés entre chaque niveau. Il permet également de jouer à deux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pulstar",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "An alien threat looms over the galaxy and only you and your trusty star fighter can defeat them.\n\nPulstar is a 2D side-scrolling shooter in which you control your ship as it makes its way past stages filled with waves after waves of enemies bent on your destruction. You can upgrade your main weapons by collecting power-ups and charging up energy allows you to release charged attacks at the cost of power-up consumption. Additionally your ship comes with an ever-prescent \"option\" gun pod that floats around your ship and which can be positioned in several configurations to help protect the ship or increase its firepower.\n\nWhile completely 2D, the game uses pre-rendered 3D sprites and includes fully animated cutscenes between each level. Also features support for two-player gameplay.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "84b26137015937ad8bff36de94cdefc11cafbcc3529853cff7c32f6f2de86449",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=fanart",
+   "fetched_at": "2026-11-06T15:35:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "098f022492925e382925759af40b482e5380f4e1beef906c879cb682313005ef",
+   "width": 600,
+   "height": 99,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:35:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "79dd64428d78d4dd0fe1a9c5b01406fdd92fe7e1b06004cb79c37589e29a8629",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:35:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "642b850a57031a8515d0cecf90040a934057e9ba579a2dbcf1c9ad536e8f5604",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:35:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "56ade343381d644f58f022238a5201a89cdfbca85e913c07343f25d84a6a27ad",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:35:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "31b4b72acd3708ed3b4ac7e241cb584aef4b2bccefa5f89254d317f2c5ff3c0f",
+   "width": 554,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:35:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ace2764bc278ea5a0facc6ee63d377ad683f4d26a696ac18e671b8ee42577a40",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13876&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:35:10+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:35:01+00:00",
+ "status": "done"
+}

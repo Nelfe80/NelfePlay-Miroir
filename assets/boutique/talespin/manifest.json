@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "talespin",
+ "title": "TaleSpin",
+ "source": "screenscraper",
+ "ss_game_id": 142,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 142,
+  "release_year": 1992,
+  "publisher": "Disney Interactive",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "TaleSpin",
+   "genre": "Plateforme",
+   "synopsis": "Dans TaleSpin sur Megadrive, vous incarnez l'ours Baloo et devez l'aider à acheminer ses cargaisons. Le jeu alterne séquences de plates-formes et phases de pilotage aérien. Bravez les conditions climatiques, débarrassez-vous des pirates de l'air, mais surtout, prenez garde aux griffes acérées de Sher Khan !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "TaleSpin",
+   "genre": "Platform",
+   "synopsis": "Baloo the Bear is the chief and only pilot at the always struggling air-frieght company of Higher for Hire. With his cargo plane, the Sea Duck and the young orphan, Kit Cloudkicker... Baloo is ready to take to the sky and face down air pirates, bad weather and the ruthless Shere Khan.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "35b270cb3b11bb5abca7bd20874686a557df9fdd66d68c2976752ba0c1a0943f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=142&media=fanart",
+   "fetched_at": "2026-11-06T18:16:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0cb17549d1a4688deabfb363ee0c68cd7a869d9bd4f3a21858a96bbb51ec65b7",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=142&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T18:16:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bdafdef4b453171e591c5787f1de9e1ce6db371efde1aa1e7a15ffe5dab1ef76",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=142&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T18:16:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b369de66b10c5aecebb34e0226acbf32b68d9dd2ac685e2c3050168332b890cc",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=142&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T18:16:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8776bb5664ff9151aabca5f8cc9160d4fd31d1fcf7aff22f2ad85477f812ddf1",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=142&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T18:16:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7b7db88af86cb49750a046a22decc03ba64c2cc7970f9546df49b217ff88a1e1",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=142&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T18:16:28+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:16:20+00:00",
+ "status": "done"
+}

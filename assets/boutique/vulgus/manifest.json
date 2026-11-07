@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "vulgus",
+ "title": "Vulgus",
+ "source": "screenscraper",
+ "ss_game_id": 44019,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44019,
+  "release_year": 1984,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Vulgus",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Vulgus est plutôt simple. Vous pilotez un vaisseau spatial et détruisez d'innombrables ennemis. C'est ce qui est fun avec ce jeu : il n'y a rien de compliqué, juste de la destruction.\r\nVous avez deux armes, votre blaster, et des bombes en nombre limité. Ce titre utilise le scrolling vertical, avec une possibilité de mouvement latéral. Vos ennemis consistent en un assortiment de vaisseaux plutôt réalistes, dont certains ont une apparence rappelant les insectes.\r\nLe jeu est infini, et n'est pas composé de niveaux, vous avancez et tirez. Le fond change régulièrement, de surfaces de planète à l'espace, et finit par se répéter une fois détruit un escadron d'aliens particulièrement important.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Vulgus",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Vulgus is pretty simple. You just pilot a spaceship and blast countless enemies. That is what is fun about this game. There is nothing complicated, just pure blasting. You only have two weapons, your blaster, and a limited supply of bombs. This title uses the time honored top-down vertically scrolling format. The background moves eternally forward, but you can move all around the screen, and can make the screen scroll both left and right. Your enemies consist of an assortment of fairly realistic looking spacecraft, some of which have a distinctive 'insectoid' look to them. This game is endless and it doesn't seem to have a level format. You just move forward and shoot. The backgrounds will change from time to time from planetary surfaces to space scenes and eventually they will start repeating once you blast this particularly large alien formation.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ce93bdf171945e85f9b6ed1987c232c1727f15cb43789ffdc2c7400e71faa7b3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=44019&media=fanart",
+   "fetched_at": "2026-11-06T17:16:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b99e40161777648a1ca97611b9b868769339516e90f4bb56d7c6f140e71665ca",
+   "width": 600,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=44019&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:16:37+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e61bfa5dcd6f52954d0b374305158c8c032140c8cb05486aa5fcb7b21f73b926",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=44019&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:16:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d664a1d8351f74d2f1ead6260bc2033c384ac50ff273cd990abd6a7abd12a54d",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=44019&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:16:40+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "24939e3141462135a84be90343175d435a5bcd82c784895955ad46249674109c",
+   "width": 850,
+   "height": 1099,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=44019&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:16:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4148b9ebeb04302ffe629e14177aafb6da8ec468cafaf09a57baeb450ab2a31b",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=44019&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:16:43+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:16:35+00:00",
+ "status": "done"
+}

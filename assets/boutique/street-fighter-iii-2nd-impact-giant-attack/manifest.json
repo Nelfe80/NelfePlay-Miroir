@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-iii-2nd-impact-giant-attack",
+ "title": "Street Fighter III 2nd Impact: Giant Attack",
+ "source": "screenscraper",
+ "ss_game_id": 37423,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37423,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 3"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter III : 2nd Impact - Giant Attack",
+   "genre": "Combat",
+   "synopsis": "Street Fighter III: 2nd Impact - Giant Attack reprend les bases posées par Street Fighter III: New Generation. Yun et Yang du premier jeu sont devenus deux personnages différents jouables, Yang a reçu une nouvelle palette de mouvements disposant de coups spéciaux et des supers qui le distinguent de Yun. Akuma revient en tant que personnage caché et le jeu ajoute notamment une version plus rapide du personnage contrôlée par l'ordinateur, nommée Shin Akuma apparaissant dans le mode solo.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter III : 2nd Impact - Giant Attack",
+   "genre": "Fighting",
+   "synopsis": "Street Fighter III - 2nd Impact: Giant Attack is the sequel to \"Street Fighter III - New Generation\". Joining the existing Street Fighter III cast are Hugo, Urien and recurring character Akuma (Gouki in the Japanese version). Other improvements include a speed increase, new moves and several damage-related tweaks.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "1bc17fbab1f3263c094f6699fc532ae0368f9e299d8219dff80503a5153cec83",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37423&media=fanart",
+   "fetched_at": "2026-11-06T15:48:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0a4ef27571070940f2200cf4533fb5bb38f88dcf07a555a88e19aa2ca6fd4c0a",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37423&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:48:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9070a5819facba1e1f0162d63a8dcb2dd12641275dac5e8c7725f8e886ad0892",
+   "width": 850,
+   "height": 1203,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37423&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:48:27+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "69997d10d083339d0b7af763d12b73851062aadf16406529887d8d8be8436b45",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37423&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:48:28+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6479eee64249d591e254a3db74afa2808e1f30fede125d3cbfaa01e6c71edae2",
+   "width": 850,
+   "height": 1203,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37423&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:48:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "1b87ced3aa252b6296f78db5f465faa3c3719de8a9e5f1254b22ef7cde39b776",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37423&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:48:31+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:48:23+00:00",
+ "status": "done"
+}

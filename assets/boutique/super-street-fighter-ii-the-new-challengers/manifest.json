@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-street-fighter-ii-the-new-challengers",
+ "title": "Super Street Fighter II: The New Challengers",
+ "source": "screenscraper",
+ "ss_game_id": 43304,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43304,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Street Fighter II: The New Challengers",
+   "genre": "Combat",
+   "synopsis": "La quatriéme version de Street Fighter 2, ici sur CPS 2, la deuxième génération de hardware arcade de Capcom.\r\nDans cette version, quatres nouveaux personnages font leur apparition, avec leur décor respectif et les graphismes sont retravaillés, CPS 2 oblige.\r\n\r\nSuper Street Fighter II: The New Challengers est aussi connu sous le nom de Super Street Fighter II: The Tournament Battle lorsque 4 bornes sont reliées entre elles pour participer à des tournois à 8 joueurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Street Fighter II: The New Challengers",
+   "genre": "Fighting",
+   "synopsis": "Super Street Fighter II: The New Challengers is the fourth game in the Street Fighter II sub-series of Street Fighter games, following Street Fighter II: Hyper Fighting. In addition to refining and balancing the existing character roster from the previous installments, Super Street Fighter II also introduced four new characters.\r\n\r\nThis game is also known under the name of Super Street Fighter II: The Tournament Battle when 4 Cabinets are connected to play in tournament mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2b0c63703ea9f51568ba7bafbd026fdea112c7565fa9ef8778d4c5015a1aff8b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=43304&media=fanart",
+   "fetched_at": "2026-11-06T15:49:29+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "de4c42b4330902ab2bf5bb0799fb6b44cdafbc128e0a1d40eb969802a7732d7d",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=43304&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:49:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bb1cc5d9ad32c191ab9f044f85df48df3fc814c204cb8144ec86d573e71911fa",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=43304&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:49:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "248b7abe1d82da199568173a05a8329d3686e0f9d20f9dc684478cdf409e739b",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=43304&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:49:34+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "f3948ce4c859ccea11df602d6f7faef380c0e096eb61c661781e2d697d61e8b3",
+   "width": 850,
+   "height": 1213,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=43304&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:49:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5c829e837b8e23793659f04431d749a8fa8dc0ddf963bdffcefd2f2ed6d76dcd",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=43304&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:49:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:49:29+00:00",
+ "status": "done"
+}

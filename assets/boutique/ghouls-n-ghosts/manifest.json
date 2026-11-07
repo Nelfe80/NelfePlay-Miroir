@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "ghouls-n-ghosts",
+ "title": "Ghouls 'n Ghosts",
+ "source": "screenscraper",
+ "ss_game_id": 30782,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 30782,
+  "release_year": 1989,
+  "publisher": "Capcom",
+  "developer": "Software Creations",
+  "players": "1",
+  "system_label": "Atari ST"
+ },
+ "text": {
+  "fr": {
+   "name": "Ghouls 'n Ghosts",
+   "genre": "Plateforme",
+   "synopsis": "Ghouls'n Ghost sur Atari ST est un jeu d'action se déroulant dans un univers médiéval. L'histoire débute lorsque des revenants attaquent le royaume et capturent la petite amie du chevalier Arthur. Incarnez ce dernier et partez en croisade contre les envahisseurs avant qu'ils ne sacrifient sa dulcinée pour ressusciter un démon terrifiant.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ghouls 'n Ghosts",
+   "genre": "Platform",
+   "synopsis": "3 years ago (in Ghosts 'N' Goblins), Arthur the brave knight saved Princess PrinPrin from the Dark Prince, Lucifer, and drove his evil forces back into the Underworld. Now, something sinister is again stirring...monsters had returned to attacking the king",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "06a2441db437eb046a5cda3d5c212b59fd056bfb6bf3075e364f739a0043d8c2",
+   "width": 600,
+   "height": 110,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=30782&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T17:18:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5a94fa2776d611654191ec50c0c1182cc60f129114ec36ee2fd4ff299e41cdcb",
+   "width": 640,
+   "height": 773,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=30782&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:18:34+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1836bc96fb7abf470f00f9974913efeddb489aba032d3895bf3648de2dace6dc",
+   "width": 575,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=30782&media=support-2D%28eu%29%5B1%5D",
+   "fetched_at": "2026-11-06T17:18:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9654a9685200fa18eb6d187fd004a1a1439813f2d3e2be4aa652b7c1eda4b154",
+   "width": 320,
+   "height": 200,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=30782&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T17:18:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "63568edb06d5c54dd51690435156758c555664a59f5dd7251e4bb5eda6885c27",
+    "width": 320,
+    "height": 200,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=30782&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T17:18:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:18:32+00:00",
+ "status": "done"
+}

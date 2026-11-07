@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania-ii-simon-s-quest",
+ "title": "Castlevania II: Simon's Quest",
+ "source": "screenscraper",
+ "ss_game_id": 9464,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 9464,
+  "release_year": 2007,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Wii"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania II : Simon's Quest",
+   "genre": "Aventure",
+   "synopsis": "Dans Castlevania II: Simon?s Quest sur NES, le célèbre chasseur de vampires Simon Belmont doit retrouver et détruire les restes de Dracula afin de lever la terrible malédiction qui pèse sur lui.Castlevania II reprend les éléments qui ont fait le succès de son prédécesseur, en y ajoutant un aspect aventure et une alternance entre le jour et la nuit. Méfiez-vous, les ennemis deviennent plus dangereux lorsque le soleil se couche!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania II: Simon's Quest",
+   "genre": "Adventure",
+   "synopsis": "In Castlevania II: Simon?s Quest for NES, vampire hunter Simon Belmont must track down and destroy Dracula?s remains in order to save himself from a deadly curse.Castlevania II expands on its predecessor with the addition of new adventure elements and also a day and night system that means tougher enemies when the sun goes down!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "963297a221d586628bda2e49f407983df0d9f92d1e340403c94ab1d5fe2d2477",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9464&media=fanart",
+   "fetched_at": "2026-11-06T16:20:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "4c60d2462adc84575e51888e24fa410d07b602ce3dcd9dd6fbb88098bd8f0cb0",
+   "width": 400,
+   "height": 154,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9464&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:20:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4596e897c0786f70da84ec46228a60c8b8d2b5672401535c753468c3083f4b6f",
+   "width": 486,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9464&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:20:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "cd6ec13f97805ee209dba8be07f6cf382e18e981c4b38a40897e76e397066dd4",
+   "width": 600,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9464&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:20:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f027e121f97a3b9af45a363749596b1550dad91b19a95acf1474c859c3a32d9f",
+   "width": 256,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9464&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:20:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "87e1c1ff334aec630a3243d70ad76f8f2c31a581cb8ae779943235fa93a06842",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9464&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:20:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:20:14+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "megaman-battle-network-2",
+ "title": "MegaMan Battle Network 2",
+ "source": "screenscraper",
+ "ss_game_id": 4112,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4112,
+  "release_year": 2002,
+  "publisher": "Ubisoft",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle Network 2",
+   "genre": "Jeu de rôles",
+   "synopsis": "Mega Man Battle Network 2 sur GBA se situe trois mois après le premier épisode. Nous retrouvons le jeune Lan et son incarnation virtuelle Mega Man dans ce jeu de rôle tactique. Alternant toujours entre les deux mondes (réel et cybernétique), le joueur doit cette fois arrêter les sombres plans de la NetMafia.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle Network 2",
+   "genre": "Role Playing Game",
+   "synopsis": "Netto Hikari (a.k.a. Lan Hikari) and his Navi MegaMan.EXE are back in a new adventure! After defeating the sinister World Three (WWW) and their leader, Dr. Wily, Netto and MegaMan have made the Internet safe once again. But a new Internet terrorist group, led by a mysterious new Navi named Gospel, have begun to spread chaos and fear throughout the Net! Netto and his friend Meiru, Dekao, and Yaito must get to the bottom of their plan and stop them before the Internet is deleted!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2cb601d6a29e4422c4eed1e7ebc369f4269fe36c8bf6a32087988097fcc0188a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4112&media=fanart",
+   "fetched_at": "2026-11-06T23:20:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3f91bf02e4f4a90daeb5ac751a2ecc75419f60a40e45530e7927c36149bd906f",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4112&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:20:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6d0505a4ae794492bb55af8f137f8a69912e0b0acc6e43b526db0ce13613f7ab",
+   "width": 916,
+   "height": 916,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4112&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f165c4afa9c517a274a67412bdfed70dee69279e4931c94290e99c192f97e086",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4112&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "ffd312ec9579c5b841b05d66b2afaf9e0e31558dd519836ab6e4e6b6d6a427df",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4112&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:20:20+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0dda72180f8bc4254726fc4661e90377999c2f403c02fa27d2cfae6004e422d1",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4112&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:20:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:20:13+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ikari-warriors-nes",
+ "title": "Ikari Warriors",
+ "source": "screenscraper",
+ "ss_game_id": 1346,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1346,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "Micronics",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Ikari Warriors",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Ikari Warriors sur NES est un jeu d'action à défilement vertical. Votre avion vient de s'écraser en pleine jungle en territoire ennemi, vous devez maintenant atteindre le village d'Ikari, mais de nombreux ennemis vous bloquent le passage, allant des simples soldats aux hélicoptères en passant par les tanks. Il va falloir vous en défaire pour accomplir votre mission !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ikari Warriors",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "63a3f20fe324019c06e9421dc4813d03d5a2a8d1c1c94b772d2ca6310663aa7e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1346&media=fanart",
+   "fetched_at": "2026-11-06T15:59:29+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "901f047e78bcd733437a5218925ba47a8fb76afb5b681f4aa136ccf3b7328288",
+   "width": 600,
+   "height": 280,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1346&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:59:30+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c9c1564c3908f2b64aca6e4a8f1ae059d9d217beeebe512dbb127d86ce474075",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1346&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:59:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "975405c34da8fa89273e8a2dc4266dd3dc74a5073e2d36ad51affdabfd5df87c",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1346&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:59:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b404419af191a3a2181d647e43468567113fa34bc50729947641bea10d112dd9",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1346&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:59:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1beb7b505a9cbf9e5da8f6f5a14c74c1201a9039ab58e8f14299ceb14deef646",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1346&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:59:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:59:29+00:00",
+ "status": "done"
+}

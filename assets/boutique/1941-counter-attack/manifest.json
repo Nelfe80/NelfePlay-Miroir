@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "1941-counter-attack",
+ "title": "1941: Counter Attack",
+ "source": "screenscraper",
+ "ss_game_id": 39873,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 39873,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "1941 : Counter Attack",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "1941 est la suite directe de 1943 sorti sur la génération précédente de borne. Sur CPS1, capcom nous livre un joli lifting de son shoot à scrolling vertical. Les graphismes n'ont pas vieilli, la variété est au rendez-vous, les décors se renouvellent tout au long des niveaux.\r\n6 petits niveaux seulement, c'est là son principal défaut, le titre se finit assez rapidement, la difficulté n'est pas énorme pour les habitués de shmups. On y revient volontiers le temps d'une petite partie quand on a une vingtaine de minutes libres.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "1941 : Counter Attack",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front.\n\nThe game consists of six levels.\n\nIt was the first shoot 'em up to add +1 to the score when a continue is used.[1]",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "364dd096e04f8be2f1932bdac632c74252151c4bdc3f4ad2b9df71a4ddc2e230",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=39873&media=fanart",
+   "fetched_at": "2026-11-06T17:19:30+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "917da037a65887db50eb54a94cd03095503fc22a39d04249f4574dd4f72ffc08",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=39873&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:19:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b8364346f7bbdf48edd56389d04b4d92f23991831b0e0841484725933d8cbf9f",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=39873&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:19:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7205ef3c4e4f0677caad3ab5526cc0fcd68b4caecbcae234b4c03acac797c685",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=39873&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:19:35+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5aae5fd7df0c45bb1fe4eca8befc5fabb7de7d2dd1a0eba7237e9a50495745af",
+   "width": 800,
+   "height": 1129,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=39873&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:19:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "931c249aaa31b297e2c9a0f3bb570e495732a68ecfaa4c48aced1f83a788f9c4",
+    "width": 224,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=39873&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:19:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:19:29+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "haunted-castle",
+ "title": "Haunted Castle",
+ "source": "screenscraper",
+ "ss_game_id": 41649,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41649,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Haunted Castle",
+   "genre": "Plateforme",
+   "synopsis": "il s'agit de la version arcade de Castlevania. Votre promise est enlevée le jour de votre mariage par un vampire et vous allez la récupérer au château du malotru.\r\n\r\nLes graphismes sont correctes pour l'époque et l'inspiration des Castlevania ne se voit que trop bien, dans les ennemis surtout. La musique est entraînante mais le jeu est très difficile car vous recommencez au début du jeu après chaque partie (il n'y a pas de continues), peu importe le nombre de crédits.\r\n\r\nSi vous etes en droit de posseder la rom et que le jeu semble trop difficile, je vous conseille d'utiliser l'option de sauvegarde de MAME pour éviter de recommencer depuis le début",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Haunted Castle",
+   "genre": "Platform",
+   "synopsis": "Count Dracula sleeps for a long hundred of years. During this time, peace exists at the village and Dracula is nothing but a mere legend.\n\nHowever, one day a young couple named Simon and Serena were celebrating their wedding at the village's church.\n\nThe couple were enveloped with happiness, as the wedding bells rang, their future seemed blessed...\n\nSuddenly, the empty sky was covered with dark clouds and with a rolling thunder that shook the earth, Dracula has once again awakened. Asking for the beautiful girl's blood, he flew down during the middle of the wedding and suddenly took the bride with him.\n\nNow in order to save Serena, Simon heads to the demon castle",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "39568369a5039091e2857de3e009adf450e3ae0b0522792b85b83267d2ffb111",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=fanart",
+   "fetched_at": "2026-11-06T16:13:06+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c64b09bc86ea24b09c4c39f7911a2c8d31ed63814cf10337269dbab967386572",
+   "width": 400,
+   "height": 207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:13:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e7d1fcba1b30ddf77548607073ae506addb3f7c6d70d71e62e2392d592e61579",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:13:09+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e304f15771ac49ceef0cda8d85e5de027a1c61eaddc203e01b9f0cf93839bd10",
+   "width": 484,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:13:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "34bead5490e3a22bae36b73c0cf3fed4c8d77f015e96032d52b9f073aed354f6",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:13:12+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8b0f637c0143c229c1aac9b38aa70a4ae9ea2ecff4239e8693afc7bed70e8082",
+   "width": 850,
+   "height": 1097,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:13:14+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2fe5af7c36ed34d4c9564b668b95935656566f16b3573effadc51a3464a819ed",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41649&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:13:15+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:13:06+00:00",
+ "status": "done"
+}

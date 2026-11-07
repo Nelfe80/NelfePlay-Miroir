@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "tetris-the-absolute-the-grand-master-2",
+ "title": "Tetris The Absolute The Grand Master 2",
+ "source": "screenscraper",
+ "ss_game_id": 43580,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43580,
+  "release_year": 2000,
+  "publisher": "Arika",
+  "developer": "Arika",
+  "players": "1-2",
+  "system_label": "Psikyo"
+ },
+ "text": {
+  "fr": {
+   "name": "Tetris The Absolute The Grand Master 2",
+   "genre": "Puzzle-Game",
+   "synopsis": "Attention merveille !\r\nUn grand Tetris d'arcade avec les briques qui prennent de la vitesse de manière intelligente , la gestion des collisions est aux petits oignons avec notamment l'ombre du tétro en cours ainsi que le rebord de l'empilement (ligne blanche) qui donne une très grande ergonomie à ce Tetris là . Sans compter que l'on peut aussi jouer à \"l'oreille\" grâce aux bruitages propres à chaque groupes de blocs . Le système de rang qui récompense les joueurs est aussi très élaboré et est toujours prisé par les joueurs japonais .\r\n\r\nJeu à deux possible mais non testé .\r\n\r\nCelui là fonctionne mieux sous Mame que le premier opus.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Tetris The Absolute The Grand Master 2",
+   "genre": "Puzzle",
+   "synopsis": "Arika's challenging puzzle-action series continues with new game modes, challenges, and mechanics innovations.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "402af1bdd433ee35d30858296936f51f6729fa84be4e4cb86627e2b1349ebb21",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=167&jeuid=43580&media=fanart",
+   "fetched_at": "2026-11-06T23:44:12+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e4053a7ca8a7de0be8297e5b64e0ad3a96d3e0e39b8b407a51c91abb987acaff",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=167&jeuid=43580&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:44:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "28e3b177083264a30f2bb1153fe823f2281b73614d5de94aa6c5a7a8184cfb1c",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=167&jeuid=43580&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:44:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "0686b0edfdb53d8b539222dd79fe7fde8eb1a6105253cc673a09bcd3ffa58402",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=167&jeuid=43580&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:44:16+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "71260e9159e1dd82d750a3e249ac9c93c3422d579ac44819c28cb18f01b62dee",
+   "width": 740,
+   "height": 1066,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=167&jeuid=43580&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T23:44:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "0305446ef828e93922a114833a6ee5d443e3980472c18b301eaa377bc34e0840",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=167&jeuid=43580&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:44:19+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:44:11+00:00",
+ "status": "done"
+}

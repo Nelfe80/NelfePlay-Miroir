@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "slug": "p-o-w-prisoners-of-war-nes",
+ "title": "P.O.W.: Prisoners of War",
+ "source": "screenscraper",
+ "ss_game_id": 403416,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 403416,
+  "release_year": null,
+  "publisher": "",
+  "developer": "",
+  "players": "",
+  "system_label": "Playstation 4"
+ },
+ "text": {
+  "fr": {
+   "name": "P.O.W.: Prisoners of War",
+   "genre": "",
+   "synopsis": "",
+   "synopsis_lang": ""
+  },
+  "en": {
+   "name": "P.O.W.: Prisoners of War",
+   "genre": "",
+   "synopsis": "",
+   "synopsis_lang": ""
+  }
+ },
+ "media": {
+  "ss": []
+ },
+ "absent": [
+  "fanart",
+  "wheel",
+  "box-2d",
+  "support-2d",
+  "sstitle",
+  "flyer",
+  "ss"
+ ],
+ "fetched_at": "2026-11-06T16:01:00+00:00",
+ "status": "done"
+}

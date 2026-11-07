@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "guerrilla-war",
+ "title": "Guerrilla War",
+ "source": "screenscraper",
+ "ss_game_id": 41604,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41604,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Guerrilla War",
+   "genre": "Tir",
+   "synopsis": "Une île tropicale est opprimée par un dictateur, mais heureusement un ou deux braves soldats américains sont là pour rétablir la justice. Marchez à travers les rivières, les marais et les forêts pour renverser le dictateur.\r\nLe jeu se déroule verticalement et vous vous déplacez vers le haut de l'écran en tirant sur les ennemis, en trouvant de bons points de tir stratégiques et en collectant des bonus. Comme les soldats ennemis viennent vers vous en groupes, vous devez faire preuve de prudence lorsque vous les éliminez, que ce soit à l'aide de votre arme ou de grenades. Certains soldats transportent également des otages, vous gagnerez des points si vous ne les abattez pas et que vous tirez sur leurs ravisseurs. Chaque niveau se termine par un boss.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Guerrilla War",
+   "genre": "Shooter",
+   "synopsis": "The country is struggling under the cruel domination of its evil King. The rebel guerilla leader and his comrades attempt to secretly land on shore. The King's military is waiting for them, however, and the players must fight their way inland to reach and destroy the King's palace stronghold.\r\n\r\nIn this, the pseudo-sequel to SNK's own superb \"Ikari Warriors\" (released two years earlier), players must once again shoot their way through a number of vertically scrolling levels, all packed with large numbers of enemy soldiers, gun emplacements and vehicles. Each level also contains a number of captured prisoners tied to wooden stakes, and these can be rescued for extra points. \r\n\r\nThe players' weapons have only a limited amount of ammunition and additional ammo/grenades must be picked up along the way. A number of gun upgrades can also be found. At various points in the game, players can also enter unoccupied enemy tanks, which provide increased firepower as well as resistance to enemy shots. Too many enemy hits, however, will eventually see the tank explode - this is proceeded by a warning flash to allow the player to exit the tank before the explosion occurs. Should the player be caught inside or near the tank when it explodes, a life is lost.\r\n\r\nAs with \"Ikari Warriors\", Guerrilla War features full 360 degree gameplay with attacking troops appearing from all directions. The players' on-screen counterparts are able to rotate themselves accordingly.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d02fa672d1bac0a78870d45de103c8822cf18dcfd326b2e7092f00b0af1ca660",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=fanart",
+   "fetched_at": "2026-11-06T15:57:50+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "ab20b419909331a747a01ef3c574a7363f566f6ae48dda10830b46ca273508e3",
+   "width": 400,
+   "height": 131,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:57:52+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fdfed2142106ea595c56783bc218d8c1a80f701f2042159363f32919b5490b90",
+   "width": 850,
+   "height": 1098,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:57:54+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "49e22d0c473bb015382d2f576825cc24fff5edecc65303801627d2882d92c361",
+   "width": 430,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:57:55+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0219032004671fc22b9f71ebdf91826e26518b75edfd6ecce1c2239f9b2f80e2",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:57:57+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "68c3c42e76e8de3dd5ffd2f96532956e5ae7737f1d5eb765526424a452d5b54c",
+   "width": 850,
+   "height": 1098,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:57:58+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5ea062b6673024b4fb7bcbcc89d6b676674b274eea1a3b29a4c360c0d55a9ee4",
+    "width": 224,
+    "height": 376,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41604&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:57:59+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:57:50+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania-bloodlines",
+ "title": "Castlevania: Bloodlines",
+ "source": "screenscraper",
+ "ss_game_id": 40,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40,
+  "release_year": 1994,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania : The New Generation",
+   "genre": "Plateforme / Fighter Scrolling",
+   "synopsis": "Un cauchemar en 6 épisodes à vous glacer les sangs. En effet, il vous faut à tout prix arrêter un redoutable vampire-femelle, la Comtesse Bartley, dans son entreprise de résurrection du maître de tous les maux, le Comte Dracula.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania : Bloodlines",
+   "genre": "Platform / Fighter Scrolling",
+   "synopsis": "In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.\r\n\r\nThe latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6080a3160af0a3a5d12b0a18ee0642a54699402020d4d0ac5ead0f2aa6f2a280",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=40&media=fanart",
+   "fetched_at": "2026-11-06T16:21:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b480fe4c4856f3a87950a84f183b5695c2421a98676979aa4812c168e92a2636",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=40&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:21:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5b90d9b29d499a3e5fbfeda1f35e080bb1d0171ebcc148d32c6bdfd4da29c3f5",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=40&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:21:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b405bf94290b910cfaffb53cdf6b71e08f696a14b1da1da51b1cf6e04e9bc43b",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=40&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:21:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "599f90c9779a349d82f94eb71a5ce553324d01f95b72e2b924fea9ad66f4acdb",
+   "width": 299,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=40&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:21:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "9db2086c2a2a10808f1426a71915445b3dcf2e8e4f44b1c6f004d29df94c2916",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=40&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:21:15+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:21:06+00:00",
+ "status": "done"
+}

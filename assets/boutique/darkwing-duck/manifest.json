@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "darkwing-duck",
+ "title": "Darkwing Duck",
+ "source": "screenscraper",
+ "ss_game_id": 143961,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 143961,
+  "release_year": 2012,
+  "publisher": "BMB",
+  "developer": "BMB",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Darkwing Duck",
+   "genre": "Plateforme",
+   "synopsis": "Darkwing Duck est un port de la version NES de Darkwing Duck sur la MegaDrive par une compagnie inconnue, mais comme il a les mêmes mauvais contrôles que Felix The Cat et Mario 4: Space Odyssey, il pourrait avoir été réalisé par la même compagnie qui a développé ces jeux, à savoir BMB.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Darkwing Duck",
+   "genre": "Platform",
+   "synopsis": "Darkwing Duck is a port of the NES version of Darkwing Duck on the MegaDrive by an unknown company, but as it has the same bad controls as Felix The Cat and Mario 4: Space Odyssey, it could have been made by the same company that has developed these games, namely BMB.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "96153d0305bc4c9f9eee9dd27b88a9791ff4e01dd86d7d13eedd530b5d4ee9ac",
+   "width": 600,
+   "height": 251,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=143961&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T18:15:06+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "88bd577c8c2cf0b09161cc16d85fc166fa0bb0a0a8a52d8367054148c5fa7357",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=143961&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T18:15:08+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1196c068cf59955ff65ce340eff848776c02a7e40b0362df3b394e33c510e394",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=143961&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T18:15:10+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9fe1be0eb3a4dab2eee91bf81337aa703fc8c067e7469d3ffc752ed72627b426",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=143961&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T18:15:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "01005b7f60818778fcc825754baec5b2c4aae6fbac877b1d971e9fd30e5bc076",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=143961&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T18:15:12+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:15:06+00:00",
+ "status": "done"
+}

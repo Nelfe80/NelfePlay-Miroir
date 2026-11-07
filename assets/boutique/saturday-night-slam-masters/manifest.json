@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "saturday-night-slam-masters",
+ "title": "Saturday Night Slam Masters",
+ "source": "screenscraper",
+ "ss_game_id": 37379,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37379,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-4",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Saturday Night Slam Masters",
+   "genre": "Sport / Lutte",
+   "synopsis": "Saturday Night Slam Masters est un jeu de combat se déroulant dans le monde du catch. Dix lutteurs peuvent être sélectionnés, chacun avec son style bien à lui et différentes combinaisons de boutons permettent d'amocher son adversaire. Il est possible de quitter le ring un court instant et de se servir d'éléments du décor comme armes. Un mode Death Match est également présent où tous les coups sont permis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Saturday Night Slam Masters",
+   "genre": "Sports / Wrestling",
+   "synopsis": "A 1-on-1 fighting game in which players choose from 10 different wrestlers and take to the ring to try and defeat their larger-than-life opponents. Each wrestler has an assortment of moves, including his own special 'super slam'. The object of the game is to win and defend the championship by pinning or putting a submission hold on your opponent.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f1124bea3563efa4b9431b2d7a7f9d4640ce0c2997b9011d349336faef0d5daf",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37379&media=fanart",
+   "fetched_at": "2026-11-06T15:32:30+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9d9dcc39606d863241a4af4b9cca900f9a7a5406e365144f0f313492bd1bf370",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37379&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:32:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "cfe38edaddd7ba4d3f7512a96722c35f82f0f618e3002fc2eb1e5cac83a007f1",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37379&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:32:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a07e3c89cb6777849aa94e70f9494961bcf0943938aa917225e6f934351137f0",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37379&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:32:34+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "fafc838d960c3c2511c096e8d94722dd238b4d5d5abdda40cde54446c89e7c2f",
+   "width": 800,
+   "height": 1147,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37379&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:32:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c94a63e3e25f1dbfd633299659eff42f134683d2b49556432e0d874513f5cbcf",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37379&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:32:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:32:28+00:00",
+ "status": "done"
+}

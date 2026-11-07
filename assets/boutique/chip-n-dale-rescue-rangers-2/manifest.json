@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "chip-n-dale-rescue-rangers-2",
+ "title": "Chip 'n Dale Rescue Rangers 2",
+ "source": "screenscraper",
+ "ss_game_id": 1382,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1382,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Chip 'N Dale : Rescue Rangers 2",
+   "genre": "Plateforme",
+   "synopsis": "Appel à tous les Rangers... Recherchons un félin qui s'est échappé.\r\nTic et Tac, nos minuscules mais téméraires détectives, ont eu vent de terribles nouvelles: le fameux chat criminel s'est évadé de prison et a volé l'Urne du Pharaon. Une fois de plus, les Rangers du Risque doivent se réunir, tenter de résoudre l'affaire de l'Urne disparue et renvoyer Catox, le félon félin derrière les barreaux.\r\nJoignez-vous à Tic, Tac et les autres Rangers dans cette nouvelle aventure farfelue. Explorez les niveaux dangereux du restaurant et rencontrez Water Rabbit à la personnalité explosive. Aidez-les à fuir parmi les niveaux glacés du réfrigérateur géant. Sondez les murs spectraux de l'entrepôt hanté et découvrez l'indice final qui vous révélera le repaire secret de Catox.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Chip 'N Dale : Rescue Rangers 2",
+   "genre": "Platform",
+   "synopsis": "Following the first Rescue Rangers game, the Rangers' overcame the plot of their arch-nemesis Fatcat, and locked him up in the prison/pound. However, Fatcat's henchmen have sprung him from prison by blimp. Suddenly a television news anchor is reporting that there is a bomb threat in a local restaurant. The Rescue Rangers take it upon themselves to save the day only to learn that the whole bomb scare was a diversion in order to allow Fatcat to steal an artifact known as the Urn of the Pharoah. The team must track Fatcat and learn what he has in store for the stolen goods.\n\nLike the previous game, Chip & Dale's Rescue Rangers 2 is a side-scrolling action game where 2 players can play simultaneously as Chip & Dale, or 1 player can control either chipmunk. Our heroes must conquer a series of oversized (from their perspective) stages in order to thwart Fatcat's nefarious schemes. For example, the first stage has the chipmunks hopping across the tables, chairs, and counters of a restaurant, and on through the kitchen. Many enemies try to slow the player's progress. The chipmunks' offensive ability is to pick up any of the copious blocks that litter the landscape and toss it in any of 5 directions (sideways, up, and diagonal-up). Along the way, there are scattered RR blocks for the heroes to collect. The other members of the Rescue Rangers -- Monty, Gadget, and Zipper -- are on hand to lend help out at key junctures.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b95e6d29f48717e2ccede5c6d8751881d289515bf3cbe162c1e6468d48aad3c9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1382&media=fanart",
+   "fetched_at": "2026-11-06T23:19:28+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "fd1b69cffc839a2f168949055dd97f5793a07f70bdd89412ddaf61f7e37c2dd2",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1382&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T23:19:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f401b0256773b1571e82e2821e68f85d5aca02e81a8eda042cabea7ec9c1c744",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1382&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:31+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8e3be3d25be5688bccb35898182a087a2ea10e05a8e2559019aaacb28ae0f3cc",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1382&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:32+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "65d9740f343152db272af5a4e94f39824e8729918d378bc84d81800ea49cff39",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1382&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:19:34+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e94b3a252afb970bb4965a8eeddda7e408c54f55431bf661419d2f820b810e0c",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1382&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:19:35+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:19:27+00:00",
+ "status": "done"
+}

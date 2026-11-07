@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "bbmanw",
+ "title": "Bomber Man World",
+ "source": "screenscraper",
+ "ss_game_id": 40175,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40175,
+  "release_year": 1992,
+  "publisher": "Irem",
+  "developer": "Hudson Soft",
+  "players": "1-4",
+  "system_label": "Irem Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "New Dyna Blaster - Global Quest",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Un jeu très simple mais excellent qui vous demandera un poil de réflexion et de sang froid en plus de la réussite.\r\nVous pouvez casser une partie du décor pour récupérer des bonus qui augmentent le nombre de bombes que l'on peut poser à la fois, leur portée etc... Il faut faire attention lorsqu'elles deviennent puissantes à toujours dégager en diagonale.  \r\nLe but est de détruire les ennemis présents à l'écran de chaque niveau.\r\nJeu décliné sur de nombreuses machines et source de pas mal de rigolades surtout quand un mode Multiplayer Vs est dispo.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "New Atomic Punk - Global Quest",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Bomber Man World is a strategic maze-based action game for up to four players in which the aim is to plant bombs to kill all of the enemies on the stage. Each of the game's grid-based stages are littered with both destructible and indestructible blocks, destructible blocks can be blown up to clear a path as well as to reveal a variety of different power-ups.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bb3af0f582f299dd63f08dada127b7e6e7660db0974da7eb9fe1e6da4958c30f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=fanart",
+   "fetched_at": "2026-11-06T23:45:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0b05fcf04b603d6692f05519706dfa5015c590548960a6fd37faddc7c2eeac2c",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:45:43+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c1fa931624a659044b0b441093a77682ce45dc7714b9d21e4e4d8f14550e9f89",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:45:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9dcf49c478627e939d7fc52456ca0074865a58d2dd409c7d471a0800ea0f4e8f",
+   "width": 489,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:45:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "045f4267859d06544868a69c31927cd2255532ab03107f688367046890c2c1d4",
+   "width": 320,
+   "height": 240,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:45:48+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5295f0ec8c45b904da09f0bacff3117731fdee8e561403a93d4f59a4d2ef5e65",
+   "width": 850,
+   "height": 1091,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T23:45:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "74e340d8496a3d42f661193100a38a3a17d4d761c0e9e9a00734496003f12bd2",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=40175&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:45:51+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:45:41+00:00",
+ "status": "done"
+}

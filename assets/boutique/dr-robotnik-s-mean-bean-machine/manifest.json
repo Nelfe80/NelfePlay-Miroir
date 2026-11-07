@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dr-robotnik-s-mean-bean-machine",
+ "title": "Dr. Robotnik's Mean Bean Machine",
+ "source": "screenscraper",
+ "ss_game_id": 12883,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12883,
+  "release_year": 1993,
+  "publisher": "SEGA",
+  "developer": "Compile",
+  "players": "1-2",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Dr. Robotnik's Mean Bean Machine",
+   "genre": "Puzzle-Game",
+   "synopsis": "Dr. Robotnik's Mean Bean Machine sur Game Gear est un puzzle-game où vous devez arranger des blocs de couleur de manière à les faire disparaître et à réaliser des enchaînements qui auront raison de votre opposant. Sauvez les habitants de BeanVille de la robotisation qu'Eggman veut leur faire subir !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dr. Robotnik's Mean Bean Machine",
+   "genre": "Puzzle",
+   "synopsis": "Okay, so this Dr. Robotnik guy, he decides to turn something else into robots.  This time, it's the citizens of Beanville!  It's up to you to save them from their doom.  You drop pairs of beans into the dungeons, trying to create groups of four in matching colors.  You must challenge Dr. Robotnik's robots to a battle and defeat them, and eventually face the Eggman himself.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9fece8d28932f4a1c5c11f1537a8ff686c610b001d26922402470ab8346bd638",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12883&media=fanart",
+   "fetched_at": "2026-11-06T16:08:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ee8f7fc05cd5cad87a03d41333d514ae3a628817d3fdc59e6d51f1efc3528773",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12883&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:08:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a0c6656e0c3334521265bff9eac0620935944de82098f16dccf3f47497be2afc",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12883&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:08:25+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "be4a8b2c99cbbeef64e0f907c6b22d3f9fd8c0ea3c75880087959f7bf7419baf",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12883&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:08:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "53e237d38e15ca9d8092743b1fee38e3c84ca828023f7dd52a479315979beaeb",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12883&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:08:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "aab3008894f55246199d08d9b4e2f25b88028e224269cd92e50bd576c0043543",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12883&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:08:29+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:08:21+00:00",
+ "status": "done"
+}

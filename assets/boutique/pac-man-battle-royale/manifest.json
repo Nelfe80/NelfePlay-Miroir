@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "pac-man-battle-royale",
+ "title": "PAC-MAN BATTLE ROYALE",
+ "source": "screenscraper",
+ "ss_game_id": 508462,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 508462,
+  "release_year": 2011,
+  "publisher": "Bandai Namco",
+  "developer": "Bandai Namco",
+  "players": "1-4",
+  "system_label": "TeknoParrot"
+ },
+ "text": {
+  "fr": {
+   "name": "Pac-Man Battle Royale",
+   "genre": "",
+   "synopsis": "Pac-Man Battle Royale réinvente le classique en transformant le labyrinthe en une arène compétitive où jusqu'à quatre Pac-Man colorés s'affrontent pour être le dernier survivant. Le but n'est plus seulement de manger des pastilles, mais d'éliminer les adversaires en les avalant après avoir croqué une super pastille, tout en évitant les fantômes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pac-Man Battle Royale",
+   "genre": "",
+   "synopsis": "Pac-Man Battle Royale reinvents the classic by turning the maze into a competitive arena where up to four colored Pac-Men battle to be the last one standing. The goal is no longer just to eat dots, but to eliminate opponents by gobbling them up after eating a power pellet, while avoiding ghosts.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0231e5ba10285e1b86487df0a9a6e3883b003f7994a79d07a03cd217826cd4a4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=508462&media=fanart",
+   "fetched_at": "2026-11-06T17:11:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "55d2593a01949fd47cc75baa8f56d1b76bd15f72c6eb273c3a27f55dfd07465e",
+   "width": 600,
+   "height": 245,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=508462&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:11:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a67d2992c7351233f33cb2655a03199cfd01b3d26f87ede7450ecbf3b4d5e415",
+   "width": 499,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=508462&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:11:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "8564def6c07596df71fcfd104f6e3905aae6f0f6e89efedbc8e012b837252786",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=508462&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:12:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "e0681ad5ad93e399cd2a6f4dbc22dd89f767247e63253c8c4c9a57d296af6af5",
+    "width": 1920,
+    "height": 1080,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=508462&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:12:01+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:11:54+00:00",
+ "status": "done"
+}

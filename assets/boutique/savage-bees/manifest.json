@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "savage-bees",
+ "title": "Savage Bees",
+ "source": "screenscraper",
+ "ss_game_id": 41136,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41136,
+  "release_year": 1985,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Exed Exes",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Exed Exes est un shoot'em up vertical développé par Capcom. Il a été licencié à Memetron et diffusé en-dehors du Japon en tant que Savage Bees Memetron. Il utilise un matériel similaire à '1942', mais est plus un successeur spirituel à Vulgus, également par Capcom.\r\n\r\nLe jeu se situe dans une ruche alien, dans lequel vous devez piloter votre vaisseau à travers des niveaux protégés par divers insectes, certains aussi gros que votre vaisseau, voire plus grand encore.\r\n\r\nCe qui rend Exed Exes différent de ses contemporains, excepté les graphismes haute résolution pour son époque, et l'utilisation avancée de parallax scrolling, était le fait que ce soit un des premiers shooters verticaux à permettre le jeu simultané à deux joueurs. Plutôt que d'attendre que le premier ait perdu pour prendre sa place, deux joueurs peuvent coopérer pour avancer encore plus loin dans le jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Savage Bees",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Exed Exes is an arcade vertical shooter developed by Capcom. It was licensed to Memetron and released outside of Japan in the arcades as Savage Bees Memetron (licensor to the game). It uses similar hardware to Capcom's 1942, but it is more of a spiritual successor to Capcom's earlier shooter Vulgus. It takes place in a science fiction alien hive where you must pilot your ship through many stages protected by insects, some as large as your craft, and some even larger.\r\n\r\nWhat made Exed Exes stand apart from other shooters, besides the high resolution graphics for its time, and the detailed use of parallax scrolling to indicate depth, was the fact that it was one of the earliest vertical shooters to allow for two player simultaneous play. Rather than waiting for one player to take his turn, two players could enjoy the game at the same time, and even work cooperatively to get further along in the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "10258817c7203c5541568ede276b5b2fbed52f1ff6883442b00bed1816e49e4d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=fanart",
+   "fetched_at": "2026-11-06T17:21:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "03c6cf0a1ce4205e7b79a315bfc8bbaec71ef5e0e1bd067f244c0a4a0ac76f25",
+   "width": 600,
+   "height": 159,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:21:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fd91726b355f74be91b6f27f54d4c004bdd9d49ddb80a3a3a53aa898077575b4",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:21:20+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2ecaa28ec4f7a216f7a915d318408c02c1d4caf43b60c96aa6fdb6b187cc2865",
+   "width": 508,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:21:22+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ff3444caff194f58536ef9fa0e1580b488ead700d1df4a11ba406628da486e8a",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:21:23+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "73c13d969b1b79843b2f02b93174e34a24937f4b346ab4820e28ab1f43f45300",
+   "width": 600,
+   "height": 858,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T17:21:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9455bb79bad47b5a59c7f78eb1ed5eb13984df65f1a4b98f946e3a9846c2d374",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=41136&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:21:26+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:21:17+00:00",
+ "status": "done"
+}

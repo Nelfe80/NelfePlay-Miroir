@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "tails-adventures",
+ "title": "Tails Adventures",
+ "source": "screenscraper",
+ "ss_game_id": 12891,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12891,
+  "release_year": 1995,
+  "publisher": "SEGA",
+  "developer": "Aspect",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Tails Adventure",
+   "genre": "Jeu de rôles",
+   "synopsis": "Le jeu de plates-formes Tails Adventure disponible sur Game Gear narre l'histoire du plus connu des compagnons de Sonic le hérisson : Tails l'écureuil volant. Alors que notre héros se repose sur son île, celle-ci est soudainement attaquée par une armée entière de canards. Seulement armé de bombes au départ, Tails pourra récupérer de nombreux gadgets par la suite comme un petit robot télécommandé, ainsi que les fameuses Emeraudes du Chaos afin de booster sa jauge de vol.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Tails Adventure",
+   "genre": "Role Playing Game",
+   "synopsis": "Before Tails met Sonic the Hedgehog he lived on Cocoa Island, a place that isn't on the map. It's an island pulled up by the Chaos Emeralds. Suddenly, while relaxing, Tails hears an explosion that seems like it's coming from inside the island. A Flicky tells Tails that Battle Kukku has invaded the island. He also tells Tails that Battle Kukku is mining here for the Chaos Emeralds, to obtain it's power. Tails gears up and heads for his quest to find the machine parts to build his weapon to defeat the evil Battle Kukku. There are however major plot differences between the Japanese and the western release. In the US and European version of the game it tells the story how Sonic and Tails decide to go separate ways for a while. Tails finds an unknown island and decides to dub it Tails Island. While resting there, a large explosion occurs and a Flicky tells him birds are invading the island.\n\nUnlike the other games in the series, this spin-off is less of a traditional platformer, but has a much slower pace with rpg elements and a focus on puzzle-solving. Tails can walk, jump, fly (momentarily), hang on ledges and throw bombs. He starts with ten health points that can be replenished with rings, but the amount can be extended to 99 by collecting chaos emeralds. In the twelve stages Tails can collect up to 26 items. Per level however, he is only allowed to bring along four and this adds a tactical dimension. One of the most vital tools is the Remote Robot that can squeeze through small areas that Tails cannot reach. Underwater he changes into the small submarine Sea Fox.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "be61a0646068065f788fff920e19548a1e73057e5cf4ce71c516e1bd5efe5a00",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12891&media=fanart",
+   "fetched_at": "2026-11-07T01:00:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5a273aac69581f48131960b3790c7b29a45adcfc7e0d6391405dd505c6d0c42f",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12891&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:00:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2d7b48f4575ec3a9135ddee9c1d4f62b74921f2c1e8eb0f440e804dd940f529e",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12891&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:00:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7df53bdc6b6852bdac95d3519bab77da8a101c3522a0a7f25c4be0701d5f36cd",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12891&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:00:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a209f045785ccb006f14c99ccd5ba4d95890eba5f9b17d1976952e85a1924bab",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12891&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:00:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "92da55566ccd3ae60e3a7ef8907138109fc6546a07ba93eb7ba6efa832c76b6e",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12891&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:00:52+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:00:44+00:00",
+ "status": "done"
+}

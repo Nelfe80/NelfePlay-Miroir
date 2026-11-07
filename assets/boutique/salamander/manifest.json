@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "salamander",
+ "title": "Salamander",
+ "source": "screenscraper",
+ "ss_game_id": 14521,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14521,
+  "release_year": 1991,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "PC Engine"
+ },
+ "text": {
+  "fr": {
+   "name": "Salamander",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Salamander (ou LifeForce sur d'autres supports) est un shoot'em up sur PC Engine. A bord de votre vaisseau sévèrement armé, vous devez progresser dans les niveaux en tirant sur tout ce qui bouge jusqu'au boss final. Une option multijoueur permet de jouer à deux en même temps.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Salamander",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Salamander (or LifeForce on other media) is a shoot'em up on PC Engine. Aboard your severely armed ship, you must progress through the levels by shooting everything that moves up to the final boss. A multiplayer option allows you to play two at the same time.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "eb4483eee38fd01bd37172a6241254b9b70e06974065395287f677b44c14795b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14521&media=fanart",
+   "fetched_at": "2026-11-06T18:03:18+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6355afcb75a027d5ff656692c9e14068ab7bfe235bb5f1353098a02ca41d1254",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14521&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T18:03:19+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "569f8ae1fce75da3dc8253d6e1b58f55063b6d73c2c2369f6622aa1806f3605d",
+   "width": 680,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14521&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T18:03:21+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "df6d7e4526664864c77eded5937789e25a358fdc3ed72a7cc70b93d96074c409",
+   "width": 474,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14521&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T18:03:23+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "98f371f241a8dc640c9616a39642f49d8be6b1df1274693bb6babf8b37721e50",
+   "width": 256,
+   "height": 232,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14521&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T18:03:24+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "99c1090f9d71a7455f66ebbdf2aa0c7a0ef02ce916a7d815a0d81465eab40866",
+    "width": 256,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=14521&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T18:03:25+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:03:18+00:00",
+ "status": "done"
+}

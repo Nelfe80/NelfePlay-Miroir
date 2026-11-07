@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "crystal-castles",
+ "title": "Crystal Castles",
+ "source": "screenscraper",
+ "ss_game_id": 14054,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14054,
+  "release_year": 1984,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Crystal Castles",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Bentley Bear est piégé dans les châteaux de cristal ! Pour sortir, il devra collecter toutes les gemmes situées chaque château. Le jeu se joue avec une vue isométrique en fausse 3D à travers des châteaux multi-plateforme. Lorsque Bentley récupère toutes les gemmes du niveau, il passe au château suivant, plus difficile. Bentley devra éviter une grande variété de créatures dangereuses qui errent dans les niveaux . De temps en temps, un chapeau magique apparaîtra. Si Bentley récupère le chapeau, il sera temporairement invincible.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Crystal Castles",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Bentley Bear is trapped in the Crystal Castles! To get out, he will need to collect all of the gems located throughout the castle. The game is played with an isometric view of the multi platformed castle. When Bentley collects all of the gems on the current castle, he will move on to the next, more difficult castle. Wandering throughout the castles are a wide variety of dangerous creatures, which Bentley should avoid. From time to time, a magic hat will appear. If Bentley collects the hat, he will temporarily be invincible to the castles inhabitants.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bac7415104fbfce6f70156b24f69df22659826526a65c833478d1f3caafc8d6b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14054&media=fanart",
+   "fetched_at": "2026-11-06T16:51:24+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c87d56e91c038a7a4fe99847e7ec214a0c3657bbd8ad24acbbbb1235b6ab859e",
+   "width": 600,
+   "height": 120,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14054&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:51:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d3b6673f05104d3bd4629eebc46874b69355ddcca242eab00b5568d9608ab60f",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14054&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:51:27+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "dddd8729775ef715a997d4f266513c5316cb291a14ed92642b94f658a5e46d44",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14054&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:51:29+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "07f66fcba8d6639b74b84ac0cc1831775f53085aba7235d3784d24cdf1ed54c7",
+   "width": 640,
+   "height": 480,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14054&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:51:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5bf01184f2dcc3380e89f1d130103cd6c8fd02d1b82f441a6c642d6667ff7488",
+    "width": 288,
+    "height": 174,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14054&media=ss%28us%29",
+    "fetched_at": "2026-11-06T16:51:31+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:51:23+00:00",
+ "status": "done"
+}

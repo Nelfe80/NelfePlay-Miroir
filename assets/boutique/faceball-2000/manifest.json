@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "faceball-2000",
+ "title": "Faceball 2000",
+ "source": "screenscraper",
+ "ss_game_id": 2921,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2921,
+  "release_year": 1992,
+  "publisher": "Bullet Proof Software",
+  "developer": "Xanth Software",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Faceball 2000",
+   "genre": "Tir / 1ere Personne",
+   "synopsis": "Faceball 2000 est un jeu de tir à la première personne. Vous incarnez un H.A.P.P.Y.F.A.C.E., acronyme de « Holographically Assisted Physical Pattern Yielded For Active Computerized Embarkation ». Les graphismes se composent de couloirs aux ombres plates. Les ennemis sont tous de simples formes géométriques ornées de smileys. Bien que les graphismes soient simples, ils offrent une liberté de mouvement totale, un peu comme dans Wolfenstein 3-D.\r\n\r\nIl existe deux modes de jeu. Il y a tout d'abord un mode solo dans lequel votre objectif est de trouver la sortie de chaque niveau.  Ce mode comporte 70 labyrinthes. Le deuxième mode est l'arène multijoueur. Sur Game Boy : jusqu'à 4 consoles Game Boy peuvent être reliées entre elles dans ce mode.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Faceball 2000",
+   "genre": "Shooter / FPV",
+   "synopsis": "Faceball 2000 is a first-person shooter.  You control a H.A.P.P.Y.F.A.C.E., or Holographically Assisted Physical Pattern Yielded For Active Computerized Embarkation. The graphics consist of flat shaded corridors. Enemies are all simple geometric shapes with smiley faces on them. Although the graphics are simple, they allow for full freedom of movement, not unlike Wolfenstein 3-D.\n\nThere are two modes of play. First there is a single player mode in which your goal is to find the exit to each level.  There are 70 mazes in this mode. The second mode is the multiplayer arena. For the Game Boy: up to 4 Game Boys can be linked together in this mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0823481a0471e2c4fb588bf3a210840615d6aecac86eb084da8305cb4c7ac124",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2921&media=fanart",
+   "fetched_at": "2026-11-07T00:10:22+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c94c89578f94609561c6e2562fec1002124c47da5a12108e709bd5881fa88278",
+   "width": 600,
+   "height": 160,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2921&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T00:10:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5087414ccfdf0ee8bccde8267c572d7e005cb7da030b8f6cb91bef401b20e9a7",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2921&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T00:10:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "432fa0ec960e2ee9beb2e844c78b48d76ad7b1b82b573f652500dca84f3e5921",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2921&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T00:10:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1e6f2eef9f0becf7ffd2890bd60d69537155e2d85ed1a7d1e988f7a235b6bc8d",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2921&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T00:10:34+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "53a9387d4cb9748b3b539d71797c961a166090ab256cd97752beeb095d1f1e85",
+    "width": 256,
+    "height": 224,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2921&media=ss%28us%29",
+    "fetched_at": "2026-11-07T00:10:36+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:10:21+00:00",
+ "status": "done"
+}

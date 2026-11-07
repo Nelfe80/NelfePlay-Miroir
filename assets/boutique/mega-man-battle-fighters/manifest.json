@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-battle-fighters",
+ "title": "Mega Man Battle & Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 498164,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 498164,
+  "release_year": 2022,
+  "publisher": "SNK",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Switch"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle & Fighters",
+   "genre": "Compilation",
+   "synopsis": "MEGA MAN BATTLE & FIGHTERS comprend deux titres adaptés pour le NEOGEO Pocket Color : MEGA MAN : THE POWER BATTLE et MEGA MAN 2 : THE POWER FIGHTERS.\r\n\r\n- MEGA MAN BATTLE & FIGHTERS est maintenant disponible via la NEOGEO Pocket Color Selection ! Vous pouvez également incarner différents personnages : PROTO MAN, BASS et DUO, chacun ayant son propre style de jeu. Préparez votre buster et plongez dans le monde de MEGA MAN !\r\n\r\n-  Passez directement à l'action en affrontant les boss des jeux MEGA MAN 1 à 7 ! Battez un total de 40 boss et mettez un terme aux plans de DR. WILY de dominer le monde !\r\n\r\n- Les données des personnages peuvent être obtenues aléatoirement en battant des ennemis ! Partez et collectez les 36 types pour remplir votre propre base de données personnelle !\r\n*Ce produit contient uniquement la version japonaise.\r\n*Les fonctions d'échange ont été désactivées.\r\n*Le manuel inclus dans le jeu provient de l'édition NEOGEO POCKET Color. Par conséquent, certaines des commandes peuvent varier sur Nintendo Switch™.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle & Fighters",
+   "genre": "Compilation",
+   "synopsis": "MEGA MAN BATTLE & FIGHTERS features two titles arranged for the NEOGEO Pocket Color: MEGA MAN: THE POWER BATTLE and MEGA MAN 2: THE POWER FIGHTERS.\r\n\r\n- MEGA MAN BATTLE & FIGHTERS is now available via NEOGEO Pocket Color Selection! You can also play as different characters PROTO MAN, BASS, and DUO, each with their own distinct playstyles. Get your buster ready and jump into the world of MEGA MAN!\r\n\r\n- Get straight to the action as you take on boss characters from the MEGA MAN games 1 to 7! Defeat a total of 40 bosses and put a stop to DR. WILY's plans for world domination!\r\n\r\n- Character data can be obtained randomly by defeating enemies! Set out and collect all 36 types to fill up your own personal database!\r\n*This product contains only the Japanese version.\r\n*Trading functions have been disabled.\r\n*The manual included in the game it is from the NEOGEO POCKET Color edition. Therefore, some of the controls may vary on Nintendo Switch™.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ee3c31dce79cac30121ec214639b897358fc9a8a94a07857f2ebad1b61da8354",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=498164&media=fanart",
+   "fetched_at": "2026-11-06T17:13:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d0de254a6a1911019b134dd2d91353b570a7ad843da852792a42bc370e6159c1",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=498164&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:13:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9f6d8e5cef9ce35db5949053508c1d8b1e17f0f503cd495104e4d0ec5056157c",
+   "width": 421,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=498164&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:13:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "56e651fb398dd76e8fcc7c7702bca455dc945c6cd30323a9b6ef47eaade8be9d",
+   "width": 682,
+   "height": 979,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=498164&media=support-2D%28cus%29",
+   "fetched_at": "2026-11-06T17:13:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b010a47f2348b0952aab5af62ed8d1e38f9c4ad07ee93d081d3ea2329ea9131e",
+   "width": 1280,
+   "height": 720,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=498164&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:13:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "98c0f02d970a4ac01f6c06ac0b965a7f4d39b25555d629420c173ac5f9a327e2",
+    "width": 1280,
+    "height": 720,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=498164&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:13:28+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:13:20+00:00",
+ "status": "done"
+}

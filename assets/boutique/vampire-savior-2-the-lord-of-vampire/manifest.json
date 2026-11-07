@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "vampire-savior-2-the-lord-of-vampire",
+ "title": "Vampire Savior 2: The Lord of Vampire",
+ "source": "screenscraper",
+ "ss_game_id": 37418,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37418,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Vampire Savior 2 : The Lord of Vampire",
+   "genre": "Combat",
+   "synopsis": "Vampire Savior 2 est le cinquième jeu de la série Darkstalkers lui aussi un beat 'em up en deux dimensions. Le roster tourne toujours autour d'une quinzaine de personnages. Souvenez-vous que son prédécesseur en faisait disparaître trois du casting : Donovan (censé être devenu un démon), Huitzil (détruit) et Pyron (abattu).\r\n\r\nVampire Savior 2 en fait encore disparaître trois, à savoir John Talbain le loup-garou, Sasquatch le yéti et Rikuo le triton. Et devinez qui les remplace (puisque le compte est toujours le même) ? Précisément : Donovan, Huitzil et Pyron ! Ça ressemble à une blague mais c'est la vérité.\r\n\r\nEt si vous trouvez cela un tantinet exagéré, dîtes-vous bien que c'est LA SEULE ET UNIQUE DIFFÉRENCE ENTRE LES DEUX JEUX ! Ah non, pardon, une fois que vous aurez fait votre choix vous devrez choisir de jouer ou non en mode turbo, et avec ou sans garde automatique (cette dernière possibilité était présente dans Vampire Hunter 2 mais pas dans Vampire Savior).\r\n\r\nLe but du jeu consiste comme toujours à vider la jauge de vie adverse, mais cette dernière itération fonctionne comme son aînée. En effet, quasiment tous vos coups font perdre à l'adversaire une portion de vie de manière définitive, et une autre de manière momentanée : s'il n'est pas touché pendant un moment, cette portion se recharge d'elle-même. Toujours au registre du désormais-classique-mais-qui-ne-l-était-pas-avant, au deuxième round le perdant de la première reprise regagne toute sa vie alors que le vainqueur conserve ce qui lui restait.\r\n\r\nLe jeu se pratique toujours à six boutons : trois pour les coups de pied (faibles, moyens et forts) et trois pour les coups de poing (idem). Comme d'habitude, vous pouvez réaliser toute une panoplie d'attaques normales, de projections, d'enchaînements et de coups spéciaux en manipulant correctement les boutons et le joystick.\r\n\r\nEt puis, parce qu'on ne change pas une équipe qui gagne, vous disposez d'une jauge de spécial qui peut être remplie sur neuf niveaux. Pour ce faire, il suffit de frapper l'adversaire. Une fois que cette jauge est remplie sur au moins un cran, vous pouvez déclencher des attaques ES, ou coups spéciaux améliorés, en appuyant sur plus d'un bouton lors de la manipulation. Un exemple : mettons que vous sortiez une boule de feu par un quart de tour avant plus poing (la puissance du poing détermine celle de la boule de feu), eh bien en faisant à la place quart de tour avant plus deux boutons de poing, vous sortez la même boule de feu en version ES, donc plus méchante. Vous pouvez aussi choisir de réaliser des attaques EX. Il s'agit de coups spéciaux uniques, généralement plus compliqués à réaliser qu'un spécial de base, et aux effets (tant visuels que sur la jauge de vie adverse) remarquables.\r\n\r\nEnfin, Vampire Savior 2 continue sur la lancée du premier et utilise la même spécificité : la \"Dark Force\". Si vous appuyez sur les boutons de pied et de poing de même puissance, vous passerez en mode Dark Force. Votre personnage prend alors la pose un instant (vous êtes vulnérable durant cette période, et si vous vous faites toucher la Dark Force est annulée) puis le décor passe en mode psychédélique. Une clepsydre apparaît sous votre barre de vie, vous indiquant combien il vous reste de temps pour profiter de ce mode. Chaque personnage y gagne un avantage propre : par exemple, Morrigan se dédouble et attaque son adversaire en sandwich.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Vampire Savior 2 : The Lord of Vampire",
+   "genre": "Fighting",
+   "synopsis": "Fifteen characters fight to end the reign of Jedah, the Vampire Savior and save their own souls!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e8293cf641ed74173ea913f3f768acba98458f09e3b9eb5e7b117a30b87d7ab3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37418&media=fanart",
+   "fetched_at": "2026-11-06T15:52:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "47eab41236fc5a6336486fb2246ad2e0d3d5bde9445fd8a780908556fcced7be",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37418&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:52:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ed69d9526eb6053b78bc523eb6695b58296cc599d3fc6e0b3485ce48add6a7f1",
+   "width": 500,
+   "height": 700,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37418&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T15:52:24+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "841ac0d335225f1f4bc3944a68e0720510b3c61a80ffccf3c80d113f15c5e9f0",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37418&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:52:25+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "e8d9b175cd63162a1a7a4e58dec850df413f40631a21c43571e5dfa718f1f310",
+   "width": 350,
+   "height": 497,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37418&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:52:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3271a503a9301067e1f6ed4fcb5e9a5deb5c90691c74b33ea848d9018deccf1b",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37418&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:52:29+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:52:20+00:00",
+ "status": "done"
+}

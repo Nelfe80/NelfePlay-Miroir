@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown-iv-amakusa-s-revenge",
+ "title": "SAMURAI SHODOWN IV: AMAKUSA'S REVENGE",
+ "source": "screenscraper",
+ "ss_game_id": 38395,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38395,
+  "release_year": 1996,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo CD"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown IV: Amakusa's Revenge",
+   "genre": "Combat / Versus",
+   "synopsis": "Samurai Shodown IV : Amakusa's Revenge sur Neo Geo est un jeu de combat se déroulant en 1789 au Japon. Anéanti lors du troisième opus, Amakusa est ressuscité et bien décidé à prendre sa revanche. Ce titre apporte quelques modifications au système de jeu, en ajoutant notamment la possibilité de se suicider durant le combat et des combos de fatalités pour achever votre adversaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown IV: Amakusa's Revenge",
+   "genre": "Fighting / Versus",
+   "synopsis": "Bringing a new breath to SNK's swordsman fighting series, this 4th installment marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam, now with updated stuff), introduces 2 newcomers for the pantheon (the brothers Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.\n\nIn spite of these little improvements, the game preserved (and improved a lot) many elements that did the previous one (Samurai Shodown III: Blades of Blood) a quite popular title, like the dodge move and the chance to choose between two versions of the fighter: the standard one and an alternative dark-styled one (SLASH and BUST, respectively).\n\nWith the intention to provide more action in the battles, the \"No Contest\" Moves were introduced: working in similar way (and under certain conditions) to the many games of Mortal Kombat Series, your fighter will execute an ultimate-slaughter move in a stunned opponent.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9ef771294b550eeeb998a7f6b69f75c99f47fe1d4ba1ed19aeddcd30a66573c5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=70&jeuid=38395&media=fanart",
+   "fetched_at": "2026-11-06T15:38:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ae897da0eb54f63d64799a246bbbdea6f69ae7e1ef05ce85223a103fdf99e8e4",
+   "width": 400,
+   "height": 199,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=70&jeuid=38395&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:38:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "00c7c9d0531e3cf584a4e34392ed153beab35cb4539c4ddd6602ca55d5ed3c5c",
+   "width": 680,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=70&jeuid=38395&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:38:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6d4cc5b0b229347d8c1bd3eecd994d02bf278c379ab3ec43807003f057872ad5",
+   "width": 600,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=70&jeuid=38395&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:38:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "097cb1c3f6363b7526f96a7b23c1fa0f1828f01431252f11d8b3882a3fc0a0c3",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=70&jeuid=38395&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:38:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b16869eab70d0367ca0986e26aee46424e9725c592fca6ab546d57e8ecee63ad",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=70&jeuid=38395&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:38:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:38:45+00:00",
+ "status": "done"
+}

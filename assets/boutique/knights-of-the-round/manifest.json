@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "knights-of-the-round",
+ "title": "Knights of the Round",
+ "source": "screenscraper",
+ "ss_game_id": 42020,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42020,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Knights of the Round",
+   "genre": "Beat'em All",
+   "synopsis": "Dans ce beat'em up médiéval, vous pouvez incarner Lancelot, Arthur ou Perceval (jusqu'à trois players simultanés). Nos trois chevaliers devront parcourir plusieurs niveaux d'une beauté rare remplis d'ennemis aussi laids que bien faits. La jouabilité est de mise dans ce jeu, et vous risquez de rester longtemps devant votre écran rien que pour le plaisir des yeux.\r\nA ne pas manquer !!!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Knights of the Round",
+   "genre": "Beat'em Up",
+   "synopsis": "Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6e78992fbeace2301ecea93bfa5ce02bf30373c1803e6dedd11006c872586cbb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=fanart",
+   "fetched_at": "2026-11-06T15:55:04+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2704532be20eaf84bbdd6925dcad760c70267c24cf92f7d500ba9d9fefd62bde",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:55:05+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4c77c59ef5663b8286f2f41b6c569a874651cc08e22da28edf818a2717a37f7d",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:55:07+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5a7779f546bf23b95461a7e16fbcdb781f6f4d53de29d9966b85793a08113c6a",
+   "width": 364,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:55:08+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9629ce79ddad81e1d4b90efb9fdef134bc5e705ae55c7bbd79c1a77442562b0c",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:55:10+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "757601215e2c23dc1a679697777cda0dc2065d8143111ca7be9fa8bdf487277f",
+   "width": 850,
+   "height": 1204,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:55:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "be517188ec386a7be012c2fe827e9c3b842b31bc7856a7fc49caf4ab914a1fa8",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42020&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:55:12+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:55:03+00:00",
+ "status": "done"
+}

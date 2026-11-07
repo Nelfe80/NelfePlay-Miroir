@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania-ii-belmont-s-revenge",
+ "title": "Castlevania II: Belmont's Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 3048,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3048,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania II : Belmont's Revenge",
+   "genre": "Plateforme",
+   "synopsis": "Une aventure que vous allez pouvoir croquer à belles dents...\r\nQuinze ans après avoir vaincu le Comte Dracula, le maître incontesté du Mal, Christopher Belmont doit affronter un vampire assoiffé de vengeance. Dracula est de retour. Pour accomplir ses actes repoussants, il a métamorphosé Soleiyu Belmont, votre fils, en un démon destructeur. En ce point de l'histoire, vous devez arracher Soleiyu des griffes du Comte, mais seulement au terme de maintes recherches à travers quatre châteaux hantés. Tous contiennent d'affreuses visions d'horreur, comme les serpents d'eau visqueux, les crapauds carnivores, les chevaliers maléfiques et de monstrueux démons...\r\nHeureusement, vous détenez des armes précieuses comme les Haches de Combat qui transpercent les armures, l'Eau Sainte qui brûle les bêtes et le Fouet Magique Légendaire.\r\nAttachez votre bouclier et pénétrez dans l'ombre. Mais êtes-vous prêt à affrontez les habitants des ténèbres?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania II : Belmont's Revenge",
+   "genre": "Platform",
+   "synopsis": "The curse of the Belmont family has struck again in the second Castlevania adventure for the Game Boy.  This game takes place 15 years after the first monochrome adventure.  Christopher's son has disappeared, and 4 mysterious castles have risen out of the fog.  He must travel to each castle and conquer the demons he finds there in order to rescue his son. Perhaps Dracula is not as dead as we thought.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "87d5e8052d14d2426d5885fad554e15d7f678bc2fa07fa61edcdf5db9fb02e03",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3048&media=fanart",
+   "fetched_at": "2026-11-06T16:19:54+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5156a18088b7688883434ed347b190ff5c179f03d5b26681c279e579247dad07",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3048&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:19:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ce0ca339ca0159227555f112405df02eb8d2b857021df2b1907a310f026761b3",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3048&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:19:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f1bdda8c2d10446e14e24ebfcb0ef5549412973bfac0ff38c33d941e6110e284",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3048&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:19:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5421b76c073ee99c4f05d1c11b0cf3813d73df118299c5f0dcd65d31602fb89f",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3048&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:20:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6d330c6125512b0d31c4909ad2d12a96d5fd243d14419a32c85a13b0fb41d380",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3048&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:20:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:19:53+00:00",
+ "status": "done"
+}

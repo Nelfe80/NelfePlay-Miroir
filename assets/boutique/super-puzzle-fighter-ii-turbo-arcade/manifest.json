@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-puzzle-fighter-ii-turbo-arcade",
+ "title": "Super Puzzle Fighter II Turbo",
+ "source": "screenscraper",
+ "ss_game_id": 37411,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37411,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Puzzle Fighter II Turbo",
+   "genre": "Puzzle-Game / Tomber",
+   "synopsis": "Super Puzzle Fighter II Turbo est un jeu de réflexion inspiré de Puyo Puyo. Le joueur contrôle des paires de blocs  qui remplissent peu à peu l'écran (qui fait 12 blocs de haut sur six de large). Le but du jeu est de remplir l'écran de l'adversaire (cf. Puyo Puyo et Tetris).\r\n\r\nLes deux gemmes composant une paire peuvent être de même couleur ou non. Outre les couleurs (rouge, bleu, vert, jaune), les gemmes sont différenciées par leur genre :\r\n\r\ngemmes normales (les plus courantes) ;\r\npower gems (qui sont des gems normales de même couleurs fusionnées) ;\r\ncrash gems (environ une sur dix) ;\r\ncounter gems (leur fréquence dépend de l'interaction entre les joueurs) ;\r\ngemmes spéciales (environ une sur 25).\r\nExceptées les counter gems, les joueurs reçoivent la même séquence de gemmes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Puzzle Fighter II Turbo",
+   "genre": "Puzzle / Fall",
+   "synopsis": "Burst right into the feverish puzzle action that combines irresistible, addictive fun with famous Capcom characters. Beat your opponent to the punch by stacking block after block in strategic patterns and color combinations. Be the first to fill the opponent's screen with blocks and K.O. you win! But get ready for more, because you can't play just once.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7009e0a37564e7f11c46a836bc37793700846fdf624e6349379d960aa461f2eb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37411&media=fanart",
+   "fetched_at": "2026-11-06T15:26:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "43c48b567aecb1c74d4f89e2cec905b7ba3246f9cefeae5f2c66f5a31c5e7574",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37411&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:26:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2c752d82a507f7fc243e3e0bdebe77d5b19feaef583b3249ed8e9fe807585056",
+   "width": 850,
+   "height": 1102,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37411&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:26:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0c8e110ef1bf2f75e3a6be204858729344459628d70e88aeeab7afc69f79b844",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37411&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:26:44+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "edd05a56990ad042dcc89720181f58d48f9587f823844d68dfb1adfb2482945b",
+   "width": 840,
+   "height": 1096,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37411&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:26:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "525955681af0eb51c254281da39c9456f492068001512eb1fe1830302b36453e",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37411&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:26:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:26:38+00:00",
+ "status": "done"
+}

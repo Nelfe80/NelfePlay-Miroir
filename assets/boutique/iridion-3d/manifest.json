@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "iridion-3d",
+ "title": "Iridion 3D",
+ "source": "screenscraper",
+ "ss_game_id": 4190,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4190,
+  "release_year": 2001,
+  "publisher": "THQ",
+  "developer": "Shin'en Multimedia",
+  "players": "1",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Iridion 3D",
+   "genre": "Tir / Avion, 3eme personne",
+   "synopsis": "Iridion 3D est un jeu de tir/action sur Gameboy Advance. Dans la peau d'un prospecteur interstellaire de retour sur Terre après un long voyage sur la planète Orion, vous découvrez que le maléfique Iridion a décidé de ravager la planète bleue. Préparez-vous à faire face durant les six stages qui composent le soft. Le sort de la galaxie est entre vos mains !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Iridion 3D",
+   "genre": "Shooter / Plane, TPV",
+   "synopsis": "In this Afterburner-inspired Gameboy Advance launch title, a player pilots the SHN fighter through seven pseudo-3D levels. Returning to Earth from a space mission, the protagonist notices that the Iridion empire has taken over. The SHN fighter can be upgraded with five different types of weapons for varying methods of destruction. This is German developer Shin'en's first English game, however, they have prior experience, having developed sound drivers for both the GBA and GBC.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5896013b3a95330b1dd879d0f4ba4da93e3e8dd5464fb3db20819e4ef87192dd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4190&media=fanart",
+   "fetched_at": "2026-11-06T15:40:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0dee0f9fe56fc9f50a6c8a3a7a0d25bfbcb2ecacd95dbebcdafb7d6db33c5e1b",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4190&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:40:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8e53327f3fb42b51556f8e6602e3650abaf8601edc9a43bae21b13f6c65cc264",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4190&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:40:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4290bfa53405604f6a8549a3aad77c93847565d1c7bd2a964179822e8717618c",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4190&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:40:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "1e97b3e39c4bc82cbaa841d2eed1c297ff843da3893dba06ff2deeb265b0c4bb",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4190&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:40:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "47d28d0514e918db875af4b1516e8c157463f050ea95131a4e21bc8e305b413a",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4190&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:40:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:40:32+00:00",
+ "status": "done"
+}

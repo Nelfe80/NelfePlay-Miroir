@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "fight-for-life",
+ "title": "Fight for Life",
+ "source": "screenscraper",
+ "ss_game_id": 14190,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14190,
+  "release_year": 1996,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Fight for Life",
+   "genre": "Combat",
+   "synopsis": "Fight for Life sur Jaguar est un jeu de combat en trois dimensions dans lequel vous pouvez incarner un ancien combattant défunt qui veut s'échapper des enfers et retourner dans le monde des vivants. Huit personnages sont disponibles, il vous faut ensuite battre tous vos adversaires, sachant qu'à chaque victoire, vous obtenez deux mouvements de votre concurrent.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Fight for Life",
+   "genre": "Fighting",
+   "synopsis": "Fight for Life is a 3D fighting game that takes place in hell.  The player controls one of eight deceased fighters competing to earn a chance to escape and return to the world of the living. After they defeat an opponent they not only move on to the next round, but also learn two of the opponent's moves.\n\nThis is the only 3D fighting game released for the Jaguar.  It features brightly-colored texture mapped fighters and arenas. Gameplay is very similar to Virtua Fighter, in that the moves more-or-less look like real martial arts.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "36f9729838ee29acc264b9c373da1483d3d8ac981b69dff81ce345d8633e1dc1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14190&media=fanart",
+   "fetched_at": "2026-11-06T16:54:19+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "adfaf24938cb908371b9b96cb6e83f6b8452208b690a35c076ee038002b787bd",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14190&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:54:20+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "049f916b3b583b2d58ddfe70254084f6b408ee80e98aa95b59f313d2a32eb9eb",
+   "width": 724,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14190&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:54:22+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ae5cb49f5cce13e3546185544a375da76e888636eb4a680849e7788f17a93505",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14190&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:54:23+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "7e6f3ab4e6cf6b6cdb4257768a1726bac7b7bd83fe2e36f80d4eb47aec058b48",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14190&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:54:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "a15302ee59b31d3ae28de7d7f298bb52bfb36b73adacae5af70a0f46ce637a30",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14190&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:54:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:54:18+00:00",
+ "status": "done"
+}

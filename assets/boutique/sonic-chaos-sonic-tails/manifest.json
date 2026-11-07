@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-chaos-sonic-tails",
+ "title": "Sonic Chaos (Sonic & Tails)",
+ "source": "screenscraper",
+ "ss_game_id": 12873,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12873,
+  "release_year": 1993,
+  "publisher": "SEGA",
+  "developer": "Aspect",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Chaos",
+   "genre": "Plateforme",
+   "synopsis": "Sonic Chaos vous permet pour la première fois sur Game Gear, d'incarner soit Tails, le renard à deux queues, soit le hérisson supersonique. La possibilité de voler ajoute une nouvelle dimension d'exploration à ce classique parmi les classiques du jeu de plates-formes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Chaos",
+   "genre": "Platform",
+   "synopsis": "Here he comes, straight from his high-speed Sonic 2 adventure! Headstrong Sonic The Hedgehog and his feisty friend Tails blast into hyperspeed to save the Chaos Emeralds. If evil Dr. Robotnik snatches the emeralds first, he'll make a Super Bomb! Could this be the end?\r\nBe Sonic or Tails in an all-new quest. Roar through the zones with super attitude as Sonic! As Tails, spin your twin tails and fly high!\r\nBlast-astic action! Sonic soars with his new Rocket Shoes and Pogo Spring. Tails goes airborne for a dizzying sky ride to snag bonus items!\r\n6 zones, 18 levels of rollercoaster landscapes, corkscrewing speedways and wild, whirling thrills!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "705bb2348cc8088c6c9888bc48552b29b52d4759d0574de22c84e1c8a00cb8be",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12873&media=fanart",
+   "fetched_at": "2026-11-06T23:19:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5781f411df505b7bd8f00859192f48cf06b6b672d8d94066334cb2fea6e05f68",
+   "width": 600,
+   "height": 150,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12873&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:19:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "47fc3586a862cef082acf61dd9323ffac526c9d28ad83e6102652a143fb5e3c4",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12873&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a726a3ce515ef8ab4e2fdf5c9d1ed89ee623f0495511d606cc32620e55cd5125",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12873&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ed1d265e00d5c2b7ec89ff9176d443422c67c66a89ebcf957318b04ab065ebf9",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12873&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:19:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "24db2ce7639858e80973153536dde952ddd6602f92390e90ea87cedb616d50d6",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12873&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:19:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:19:00+00:00",
+ "status": "done"
+}

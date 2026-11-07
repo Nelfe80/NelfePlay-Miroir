@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "secret-quest",
+ "title": "Secret Quest",
+ "source": "screenscraper",
+ "ss_game_id": 87863,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87863,
+  "release_year": 1989,
+  "publisher": "Atari",
+  "developer": "Axlon",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Secret Quest",
+   "genre": "",
+   "synopsis": "Seaquest est un jeu vidéo de simulation développé par Steve Cartwright et publié par Activision en 1983 sur Atari 26002.\r\n\r\nLe joueur est aux commandes d'un sous-marin chargé de récupérer des plongeurs qui explorent les fonds marins à la recherche d'un trésor.\r\nPour mener à bien sa mission, le sous-marin doit régulièrement faire surface afin de ramener les plongeurs à l'air libre et de renouveler ses provisions d'oxygène.\r\nIl doit de plus faire face à des requins, qui tentent de manger les plongeurs, et à des sous-marins ennemis, qui utilisent des torpilles pour tenter de le détruire et qui peuvent faire appel à un cuirassé pour empêcher le sous-marin du joueur de faire surface.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Secret Quest",
+   "genre": "",
+   "synopsis": "It started with one station, then three, then eight. If something isn't done, the aliens will overrun Earth. It is up to you to destroy the stations by setting their self destructs.\n\nYou move from room to room, fighting any enemies you encounter. When you beat an enemy, you get an energy pod or oxygen bottle. Fighting aliens depletes you energy and/or oxygen so kill quickly. You also use oxygen at the rate of one bottle per minute while exploring.\n\nAlong the way, you will sometimes find sonic keys, and energy sword, sonic blaster or particle beam. Sonic keys are needed for certain doors you encounter in later stations.\n\nOnce you set the self destruct code, a clock starts and you must make it to the teleporter before the time runs out. The game ends when you destroy all eight stations, run out of oxygen or do not get off a station before it self destructs. If you run out of energy, the game does not end but you will not be able to use any weapon so you can't kill monsters so you can't replenish oxygen. Hence, the game won't go long if you run out of energy.\n\nWeapon energy use and damage\nEnergy sword=1 energy and 2 strength\nSonic blaster=2 energy and 4 strength\nParticle beam=4 energy and 8 strength.\n\nScoring\nBear trap=50 points\nPotato Man=100 points\nChopper=150 points\nMachine=200 points\nFloater=250 points\nSpinner=350 points\nMedusa=400 points\nSquid=500 points\nStomper=550 points\nGhost=600 points\nFirecracker=650 points\nSnake=700 points\nDragon=750 points",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "046bb47e0b0856d52762491e5cbb5fec0409666ec46bd02a7cac6c5285cc3328",
+   "width": 400,
+   "height": 60,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87863&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:03:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4c5d55358eba8456380b0fa4e41cf255adc3374edf767f8ae390879eaf37b31d",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87863&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ac00751305ccb6cc4f58fd47b7fe2ca99ab28c3fcf47ad931499110a87fee592",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87863&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "3f640095b24bbf588fb334caec9cf14c729f4806763327ad7443e9aac0368fbc",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87863&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:04:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cf51800a6bfa54a4f8cbc6c7d7369458f57cf7f020a25a2c2b1110c200ecd9f0",
+    "width": 256,
+    "height": 194,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87863&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:04:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:03:58+00:00",
+ "status": "done"
+}

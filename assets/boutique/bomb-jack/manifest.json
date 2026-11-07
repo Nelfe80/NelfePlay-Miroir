@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "bomb-jack",
+ "title": "Bomb Jack",
+ "source": "screenscraper",
+ "ss_game_id": 40325,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40325,
+  "release_year": 1984,
+  "publisher": "Tehkan",
+  "developer": "Tehkan",
+  "players": "1-2",
+  "system_label": "Mame"
+ },
+ "text": {
+  "fr": {
+   "name": "Bomb Jack",
+   "genre": "Plateforme",
+   "synopsis": "Prenez le contrôle de Jack et collectez toutes les bombes pour passer au tour suivant. Ce n'est pas aussi facile qu'il n'y paraît, car de nombreux ennemis tels que des oiseaux, des tortues et des momies se mettent en travers de votre chemin. Les arrière-plans des niveaux sont constitués de lieux réels tels que Miami Beach, Sphynx, ... 99 niveaux sont disponibles, mais une fois que vous avez atteint 99, le jeu revient au premier niveau.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bomb Jack",
+   "genre": "Platform",
+   "synopsis": "Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. \r\n\r\nExtra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. \r\n\r\nA 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in \"Pac-Man\"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. \r\n\r\nEach of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. \r\n\r\nThe basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal \"Pac-Man\".",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e226c2f2e52f93afbc8243c45cf96c186e466ed31dd791cc343ee805e58902a6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=fanart",
+   "fetched_at": "2026-11-06T23:43:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1fd7a5898f32c2b939655ca0121a52c92fa7b3526b4acd9bea6fe03845bfa9b1",
+   "width": 600,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:43:37+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f2d67a23ba17167c63edbd2bf9da923599eb9e5c8acfb66f93b93387dc9dc363",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:43:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "00cd9348820c25849eccdea6d68584cd3d6e027b525a52ee80afa25f60a9ddb4",
+   "width": 467,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:43:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "64ae420129232e203cf2b186874febc675681b5bc4f4d84827cfc0964aef4c86",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:43:41+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "62ec4dda5942c3e481677a59f66df9fb1adcb4647cfe17996e21b41cee4f52ca",
+   "width": 850,
+   "height": 1214,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T23:43:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a44e2bcd6acb0fe14dcdbded6eb0225b6ca932abe9d6b4cf9345be0f4207de60",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40325&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:43:44+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:43:35+00:00",
+ "status": "done"
+}

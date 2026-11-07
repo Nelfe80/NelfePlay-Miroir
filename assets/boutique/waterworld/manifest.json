@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "waterworld",
+ "title": "WaterWorld",
+ "source": "screenscraper",
+ "ss_game_id": 1226,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1226,
+  "release_year": 1995,
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Waterworld",
+   "genre": "Aventure",
+   "synopsis": "\"Waterworld est un jeu d'action inspiré du film avec Kevin Costner. Le joueur incarne ce dernier dans trois phases de jeu différentes. La première permet de diriger le bateau tout en se débarrassant des \"\"Smokers\"\". Une autre propose de nager sous l'eau pour ramasser divers bonus et éviter des créatures marines. La dernière est une phase d'action où plusieurs armes deviennent disponibles au fur et à mesure de la progression dans le jeu.\"",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Waterworld",
+   "genre": "Adventure",
+   "synopsis": "Waterworld is a platform action game developed by Ocean Software for the Sega Mega Drive, Sega 32X and Sega Saturn based upon the 1995 Waterworld film. The game was set for release in September 1995, but was cancelled for unknown reasons. Development for the game was completed, with releases for the SNES, PC, Game Boy and Virtual Boy.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7eba12e217d03632fefad3d83c22d3691ff8c93e0e0584a7ac8a219312b47baa",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=1226&media=fanart",
+   "fetched_at": "2026-11-06T18:56:51+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8bcf21bd239d1b78930fdd9530d04c1267a160083d76e503166014363a0858ce",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=1226&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T18:56:52+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "75678affdd55196497f764538d66277f33c59eaef6756200521fc2384df319a0",
+   "width": 484,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=1226&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T18:56:54+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5b5b0a605448a52d4cba1e8a049d0c4077b7775a25fdd0195c06d1cb5e7c8d70",
+   "width": 600,
+   "height": 407,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=1226&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T18:56:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4630fee7587eecd03bb5b5c5b60515f99bd306ee48c2f194031d02cc07d286f6",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=1226&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T18:56:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4a7355e73b91a9118c0ca557fe2a4264de8216d2b5591b6f9d8fe3e5d78548c7",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=1226&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T18:56:58+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:56:50+00:00",
+ "status": "done"
+}

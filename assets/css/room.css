@@ -1,0 +1,1137 @@
+/* La charte de la Game Room : home, Games, fiches. Les couleurs de base viennent de app.css ; .gr-nuit garde de nuit les zones
+   qui le restent dans les deux themes, comme les ecrans du site. */
+:root {
+    --gold-room: #ffb400;
+    --panel-glow: 0 18px 44px rgba(44, 32, 104, 0.10);
+    --art-opacity: 0.2;
+    --marque-a: #22d3ee;
+    --marque-b: #865DFF;
+    --accent: #0b8ca3;
+    --gr-container: var(--container);
+    --gutter: 20px;
+    --fanart: saturate(1.5) contrast(1.06);
+    --titre: "Jersey 15", Inter, ui-sans-serif, system-ui, "Segoe UI", sans-serif;
+    --titre-style: normal;
+    --titre-graisse: 400;
+    --titre-taille: 46px;
+    --titre-page: 92px;
+}
+:root[data-theme="nuit"],
+.gr-nuit {
+    --panel-glow: 0 0 34px rgba(134, 93, 255, 0.12);
+    --art-opacity: 0.5;
+    --accent: #22d3ee;
+}
+.gr-nuit {
+    --bg: #0b0a1e;
+    --surface: #12102b;
+    --surface-raised: #191640;
+    --line: rgba(169, 139, 255, 0.18);
+    --line-strong: rgba(169, 139, 255, 0.34);
+    --text: #f5f7fb;
+    --text-soft: #d7d9ea;
+    --muted: #a3a6c2;
+    --brand-bright: #A98BFF;
+    --magenta: #f04bbd;
+}
+:where(.gr-page) a { color: inherit; }
+.gr-page img { display: block; max-width: 100%; }
+.gr-page svg.ic { width: 1em; height: 1em; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+
+
+.gr-wrap {
+    width: min(100% - 2 * var(--gutter), var(--gr-container));
+    margin-inline: auto;
+}
+
+/* Titres communs */
+.gr-titre {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 0;
+    font-family: var(--titre);
+    font-style: var(--titre-style);
+    font-weight: var(--titre-graisse);
+    font-size: var(--titre-taille);
+    line-height: 1.05;
+}
+.gr-titre::before {
+    content: "";
+    width: 36px;
+    height: 27px;
+    flex: none;
+    background: linear-gradient(90deg, var(--marque-a), var(--marque-b));
+    -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 24%22%3E%3Ccircle cx=%2216%22 cy=%2212%22 r=%2210.5%22 fill=%22none%22 stroke=%22%23000%22 stroke-width=%222.6%22/%3E%3Ccircle cx=%2216%22 cy=%2212%22 r=%226%22/%3E%3C/svg%3E") center / contain no-repeat;
+    mask: url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 24%22%3E%3Ccircle cx=%2216%22 cy=%2212%22 r=%2210.5%22 fill=%22none%22 stroke=%22%23000%22 stroke-width=%222.6%22/%3E%3Ccircle cx=%2216%22 cy=%2212%22 r=%226%22/%3E%3C/svg%3E") center / contain no-repeat;
+}
+.gr-tete { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 16px; flex-wrap: wrap; }
+.gr-tete a { font-size: 14px; font-weight: 700; color: var(--brand-bright); text-decoration: none; }
+.gr-tete p { margin: 2px 0 0; color: var(--muted); }
+
+/* Hero d'une fiche */
+.gr-hero {
+    position: relative;
+    overflow: hidden;
+    background: var(--bg);
+    color: var(--text);
+    border-bottom: 1px solid var(--line-strong);
+}
+.gr-hero-bg {
+    position: absolute;
+    inset: 0 0 0 auto;
+    width: 72%;
+    height: 100%;
+    object-fit: cover;
+    object-position: right 30%;
+    filter: var(--fanart);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 42%);
+    mask-image: linear-gradient(90deg, transparent 0, #000 42%);
+}
+.gr-hero::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(90deg, rgba(11, 10, 30, 0.82) 0, rgba(11, 10, 30, 0.66) 34%, transparent 54%),
+        radial-gradient(60% 90% at 62% 10%, rgba(134, 93, 255, 0.28), transparent 70%);
+}
+.gr-hero .gr-wrap {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    min-height: 450px;
+    padding-block: 20px 30px;
+}
+.gr-hero-col {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 13px;
+    width: min(100%, 720px);
+    margin-block: auto;
+}
+.gr-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 14px 5px 10px;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius-sm);
+    background: rgba(11, 10, 30, 0.6);
+    font-size: 14px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.gr-logo {
+    width: auto;
+    max-width: min(100%, 400px);
+    max-height: 170px;
+    filter: drop-shadow(0 8px 22px rgba(0, 0, 0, 0.6));
+}
+.gr-h1 {
+    margin: 0;
+    font-family: var(--titre);
+    font-style: var(--titre-style);
+    font-weight: var(--titre-graisse);
+    font-size: 60px;
+    line-height: 1;
+}
+.gr-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 15px;
+    font-weight: 600;
+}
+.gr-meta li + li::before { content: "·"; margin-right: 10px; color: var(--muted); }
+.gr-meta li.gr-chip + li::before { content: none; }
+.gr-chip,
+.gr-etiquette {
+    padding: 2px 10px;
+    border-radius: 6px;
+    background: #d3173f;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.gr-accroche {
+    max-width: 540px;
+    margin: 0;
+    font-size: 17.5px;
+    line-height: 1.5;
+    text-shadow: 0 1px 12px rgba(0, 0, 0, 0.7);
+}
+.gr-acquis {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: rgba(92, 227, 161, 0.14);
+    border: 1px solid rgba(92, 227, 161, 0.55);
+    color: #8ff0bf;
+    font-size: 14px;
+    font-weight: 700;
+}
+.gr-actions { display: flex; flex-wrap: wrap; align-items: stretch; gap: 12px; }
+.gr-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    min-height: 54px;
+    padding: 8px 18px;
+    border-radius: 13px;
+    border: 1px solid var(--line-strong);
+    background: rgba(25, 22, 64, 0.82);
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 800;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.gr-btn:hover { transform: translateY(-2px); }
+.gr-btn svg { font-size: 21px; }
+.gr-btn small { display: block; font-size: 12.5px; font-weight: 500; color: var(--text-soft); }
+.gr-btn b { display: block; font-size: 15px; letter-spacing: 0.02em; }
+.gr-btn-achat {
+    border-color: var(--gold-room);
+    background: linear-gradient(180deg, #4a2f07, #2c1b05);
+    color: #ffe2a0;
+    font-size: 17px;
+    box-shadow: 0 0 0 1px rgba(255, 180, 0, 0.3), 0 0 22px rgba(255, 150, 0, 0.45);
+}
+.gr-btn-violet {
+    border: 0;
+    background: linear-gradient(180deg, #A98BFF, var(--brand));
+    color: #0b0a1e;
+}
+.gr-btn-record { border-color: rgba(255, 180, 0, 0.55); }
+.gr-btn-record svg { color: var(--gold-room); }
+.gr-vendeur { margin: 0; font-size: 13px; color: var(--text-soft); text-shadow: 0 1px 8px rgba(0, 0, 0, 0.8); }
+
+/* Captures et fiche technique */
+.gr-media {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 150px 330px;
+    gap: 14px;
+    padding-block: 22px 8px;
+}
+.gr-media.sans-vignettes { grid-template-columns: minmax(0, 1fr) 330px; }
+.gr-ecran {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    max-height: 500px;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 16px;
+    background: #000;
+    box-shadow: var(--panel-glow);
+}
+.gr-ecran img { width: 100%; height: 100%; object-fit: contain; image-rendering: pixelated; filter: contrast(1.08) saturate(1.12) brightness(1.02); }
+.gr-ecran::before,
+.gr-ecran::after { content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none; }
+.gr-ecran::before { background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0, rgba(0, 0, 0, 0.3) 1px, transparent 1px, transparent 3px); }
+.gr-ecran::after {
+    background:
+        linear-gradient(118deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.03) 26%, transparent 44%),
+        radial-gradient(120% 80% at 50% 45%, rgba(150, 200, 255, 0.07), transparent 60%),
+        radial-gradient(135% 105% at 50% 50%, transparent 62%, rgba(0, 0, 0, 0.34) 100%);
+}
+.gr-ecran-scan {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+    height: 22%;
+    background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.05), transparent);
+    animation: gr-balayage 7s linear infinite;
+    pointer-events: none;
+}
+@media (prefers-reduced-motion: reduce) { .gr-ecran-scan { animation: none; opacity: 0; } }
+.gr-lecture {
+    position: absolute;
+    z-index: 2;
+    inset: 0;
+    display: none;
+    place-items: center;
+    background: rgba(11, 10, 30, 0.34);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 800;
+}
+.gr-lecture > span {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 20px;
+    border-radius: 999px;
+    background: rgba(11, 10, 30, 0.84);
+    border: 1px solid rgba(169, 139, 255, 0.6);
+}
+.gr-ecran.is-video .gr-lecture { display: grid; }
+.gr-vignettes { display: flex; flex-direction: column; gap: 10px; }
+.gr-vignettes button {
+    aspect-ratio: 4 / 3;
+    padding: 0;
+    overflow: hidden;
+    border: 2px solid var(--line);
+    border-radius: 10px;
+    background: #000;
+    cursor: pointer;
+}
+.gr-vignettes button[aria-current="true"] { border-color: var(--marque-a); box-shadow: 0 0 14px rgba(34, 211, 238, 0.55); }
+.gr-vignettes img { width: 100%; height: 100%; object-fit: cover; image-rendering: pixelated; }
+.gr-panneau {
+    padding: 18px 20px;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius);
+    background: var(--surface);
+    box-shadow: var(--panel-glow);
+}
+.gr-panneau h2 {
+    margin: 0 0 10px;
+    color: var(--brand-bright);
+    font-size: 17px;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.gr-media > .gr-panneau { display: flex; flex-direction: column; }
+.gr-technique { flex: 1; display: flex; flex-direction: column; justify-content: space-between; margin: 0; }
+.gr-technique div {
+    display: grid;
+    grid-template-columns: 22px 96px minmax(0, 1fr);
+    align-items: center;
+    gap: 8px;
+    padding-block: 10px;
+    border-bottom: 1px solid var(--line);
+    font-size: 15px;
+}
+.gr-technique div:last-child { border-bottom: 0; }
+.gr-technique svg { color: var(--accent); font-size: 18px; }
+.gr-technique dt { color: var(--muted); }
+.gr-technique dd { margin: 0; font-weight: 700; }
+
+/* L'histoire et l'equipe */
+.gr-corps { position: relative; overflow: hidden; padding-block: 30px 12px; }
+.gr-art {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: min(42vw, 640px);
+    height: min(100%, 700px);
+    background: var(--brand);
+    -webkit-mask-image: linear-gradient(90deg, #000 18%, transparent 92%), linear-gradient(180deg, #000 62%, transparent 100%);
+    mask-image: linear-gradient(90deg, #000 18%, transparent 92%), linear-gradient(180deg, #000 62%, transparent 100%);
+    -webkit-mask-composite: source-in;
+    mask-composite: intersect;
+    opacity: var(--art-opacity);
+    pointer-events: none;
+}
+.gr-art img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 78% center;
+    transform: scaleX(-1);
+    filter: grayscale(1) contrast(1.15);
+    mix-blend-mode: luminosity;
+}
+.gr-grille { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 40px; align-items: start; }
+.gr-grille.sans-equipe { grid-template-columns: minmax(0, 1fr); }
+.gr-histoire .gr-titre { margin-bottom: 10px; }
+.gr-histoire .gr-titre::after { content: ""; flex: 1; height: 2px; background: linear-gradient(90deg, var(--marque-a), var(--marque-b) 45%, transparent); }
+.gr-chapitres { padding-left: 120px; }
+.gr-chapitre {
+    display: grid;
+    grid-template-columns: 50px minmax(0, 1fr);
+    gap: 18px;
+    padding-block: 18px;
+    border-bottom: 1px solid var(--line);
+}
+.gr-chapitre:last-child { border-bottom: 0; }
+.gr-pastille {
+    display: grid;
+    place-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 13px;
+    border: 1px solid var(--line-strong);
+    background: var(--surface-raised);
+    color: var(--accent);
+    font-size: 24px;
+    box-shadow: var(--panel-glow);
+}
+.gr-chapitre h3 {
+    margin: 0 0 6px;
+    color: var(--brand-bright);
+    font-size: 19px;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+.gr-chapitre p { margin: 0; color: var(--text-soft); }
+.gr-aside { position: sticky; top: 16px; }
+.gr-equipe { display: grid; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.gr-equipe a {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 8px 12px;
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    background: var(--surface-raised);
+    text-decoration: none;
+}
+.gr-equipe a:hover { border-color: var(--brand); }
+.gr-equipe b { font-size: 14.5px; }
+.gr-equipe span { font-size: 13px; color: var(--muted); text-align: right; }
+
+/* Le materiel */
+.gr-materiel { position: relative; overflow: hidden; padding-block: 26px 44px; }
+.gr-materiel-art {
+    position: absolute;
+    inset: 0 0 0 auto;
+    width: 50%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 70% 20%;
+    filter: var(--fanart);
+    opacity: calc(var(--art-opacity) * 0.5);
+    -webkit-mask-image: linear-gradient(270deg, #000 10%, transparent 90%);
+    mask-image: linear-gradient(270deg, #000 10%, transparent 90%);
+    pointer-events: none;
+}
+.gr-materiel .gr-wrap { position: relative; }
+.gr-rail-zone { position: relative; }
+.gr-rail {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(250px, calc((100% - 3 * 16px) / 4));
+    justify-content: start;
+    gap: 16px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+}
+.gr-rail::-webkit-scrollbar { display: none; }
+.gr-piece {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    padding: 14px;
+    border: 1px solid var(--line-strong);
+    border-radius: 14px;
+    background: var(--surface);
+    box-shadow: var(--panel-glow);
+    scroll-snap-align: start;
+}
+.gr-piece img {
+    width: 100%;
+    height: 210px;
+    object-fit: contain;
+    filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.4));
+}
+.gr-piece figcaption { margin-top: 10px; font-size: 14px; font-weight: 700; text-align: center; }
+.gr-fleches { display: flex; gap: 8px; }
+.gr-fleches button {
+    display: grid;
+    place-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    border: 1px solid var(--line-strong);
+    border-radius: 50%;
+    background: var(--surface);
+    color: var(--text);
+    font-size: 17px;
+    cursor: pointer;
+}
+
+/* Page d'accueil de la Game Room */
+.gr-accueil { padding-block: 26px 12px; }
+.gr-accueil h1 {
+    margin: 0;
+    font-family: var(--titre);
+    font-style: var(--titre-style);
+    font-weight: var(--titre-graisse);
+    font-size: var(--titre-page);
+    line-height: 0.95;
+}
+.gr-accueil > .gr-wrap > p { margin: 6px 0 18px; max-width: 760px; font-size: 18px; color: var(--text-soft); }
+.gr-une { display: grid; grid-template-columns: minmax(0, 1fr) 290px; gap: 14px; }
+.gr-une-carte {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 10px;
+    min-height: 430px;
+    padding: 26px;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 18px;
+    background: var(--bg);
+    color: var(--text);
+    text-decoration: none;
+}
+.gr-une-carte > img:first-child {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: right center;
+    filter: var(--fanart);
+}
+.gr-une-carte::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(90deg, rgba(11, 10, 30, 0.9) 0, rgba(11, 10, 30, 0.55) 42%, transparent 66%);
+}
+.gr-une-carte > :not(img:first-child) { position: relative; z-index: 2; }
+.gr-une-carte .gr-logo { max-height: 130px; max-width: 320px; }
+.gr-une-carte p { max-width: 460px; margin: 0; text-shadow: 0 1px 10px rgba(0, 0, 0, 0.8); }
+.gr-etiquette.or { background: var(--gold-room); color: #20150a; }
+.gr-etiquette.violet { background: var(--brand); }
+.gr-etiquette.vert { background: #0f9a62; }
+.gr-etiquette.bleu { background: #1f6fd6; }
+.gr-cote { display: grid; gap: 14px; }
+.gr-cote-carte {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 4px;
+    min-height: 208px;
+    padding: 16px;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 16px;
+    background: var(--bg);
+    color: var(--text);
+    text-decoration: none;
+}
+.gr-cote-carte img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: var(--fanart); }
+.gr-cote-carte::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    background: linear-gradient(0deg, rgba(11, 10, 30, 0.92) 12%, transparent 72%);
+}
+.gr-cote-carte b, .gr-cote-carte span { position: relative; z-index: 2; }
+.gr-cote-carte b { font-size: 17px; text-transform: uppercase; letter-spacing: 0.03em; }
+.gr-cote-carte span { font-size: 14px; color: var(--text-soft); }
+
+.gr-bloc { padding-block: 24px 6px; }
+.gr-machines { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; }
+.gr-machine {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    min-height: 176px;
+    padding: 12px;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 14px;
+    background: radial-gradient(90% 80% at 50% 30%, var(--teinte), #0b0a1e 90%);
+    color: #fff;
+    text-align: left;
+    cursor: pointer;
+}
+.gr-machine img {
+    position: absolute;
+    top: 8px;
+    left: 8%;
+    width: 84%;
+    height: 112px;
+    object-fit: contain;
+    filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.6));
+}
+.gr-machine b { position: relative; font-size: 15px; text-transform: uppercase; }
+.gr-machine span { position: relative; font-size: 13px; color: #d7d9ea; }
+.gr-envies { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; }
+.gr-envie {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 14px 8px;
+    border: 1px solid var(--line-strong);
+    border-radius: 14px;
+    background: var(--surface);
+    color: var(--text);
+    text-align: center;
+    cursor: pointer;
+}
+.gr-envie svg { font-size: 30px; color: var(--brand-bright); margin-bottom: 4px; }
+.gr-envie b { font-size: 14px; text-transform: uppercase; }
+.gr-envie span { font-size: 13px; color: var(--muted); }
+
+.gr-cartes { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px; }
+.gr-carte {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 12px;
+    background: var(--surface);
+    text-decoration: none;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.gr-carte:hover { transform: translateY(-3px); border-color: var(--brand); }
+.gr-carte-visuel {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    background: linear-gradient(145deg, #2a1f6b, #0b0a1e);
+}
+.gr-carte-visuel .fond { width: 100%; height: 100%; object-fit: cover; filter: var(--fanart); }
+.gr-carte-visuel .boite { width: 100%; height: 100%; object-fit: contain; padding: 8px; }
+.gr-carte-visuel .logo {
+    position: absolute;
+    inset: auto 6% 8%;
+    width: 88%;
+    max-height: 48%;
+    object-fit: contain;
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.8));
+}
+.gr-carte-visuel .gr-etiquette { position: absolute; top: 8px; left: 8px; font-size: 10.5px; }
+.gr-carte-visuel .nom {
+    display: grid;
+    place-items: center;
+    height: 100%;
+    padding: 12px;
+    color: #fff;
+    font-weight: 800;
+    text-align: center;
+}
+.gr-carte-texte { padding: 8px 10px 10px; }
+.gr-carte-texte b { display: block; font-size: 14px; line-height: 1.25; }
+.gr-carte-texte span { display: block; margin-top: 2px; font-size: 12.5px; color: var(--muted); }
+
+.gr-trio { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.gr-rayon { padding: 14px; border: 1px solid var(--line-strong); border-radius: 14px; background: var(--surface); }
+.gr-rayon h3 { margin: 0; font-size: 16px; text-transform: uppercase; letter-spacing: 0.03em; }
+.gr-rayon p { margin: 0 0 10px; font-size: 13.5px; color: var(--muted); }
+.gr-rayon-jeux { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
+.gr-rayon-jeux a { display: block; aspect-ratio: 3 / 4; overflow: hidden; border-radius: 8px; background: linear-gradient(145deg, #2a1f6b, #0b0a1e); }
+.gr-rayon-jeux img { width: 100%; height: 100%; object-fit: cover; }
+
+.gr-createurs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.gr-createur {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 14px;
+    border: 1px solid var(--line-strong);
+    border-radius: 14px;
+    background: var(--surface);
+    text-decoration: none;
+}
+.gr-createur:hover { border-color: var(--brand); }
+.gr-createur b { font-size: 16px; line-height: 1.2; }
+.gr-createur span { font-size: 13px; color: var(--muted); }
+.gr-createur-jeux { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; min-height: 40px; }
+.gr-createur-jeux img { height: 34px; width: auto; max-width: 30%; object-fit: contain; }
+
+.gr-catalogue { display: grid; grid-template-columns: 240px minmax(0, 1fr); gap: 16px; align-items: start; }
+.gr-filtres { position: sticky; top: 12px; padding: 14px; border: 1px solid var(--line-strong); border-radius: 14px; background: var(--surface); }
+.gr-filtres input[type="search"] {
+    width: 100%;
+    min-height: 42px;
+    padding: 0 12px;
+    border: 1px solid var(--line-strong);
+    border-radius: 10px;
+    background: var(--surface-raised);
+    color: var(--text);
+    font: inherit;
+    font-size: 14px;
+}
+.gr-filtres fieldset { margin: 12px 0 0; padding: 0; border: 0; }
+.gr-filtres legend { margin-bottom: 4px; font-size: 13px; font-weight: 800; color: var(--brand-bright); text-transform: uppercase; }
+.gr-filtres label { display: flex; align-items: center; gap: 7px; font-size: 14px; line-height: 1.7; cursor: pointer; }
+.gr-filtres label em { margin-left: auto; font-style: normal; font-size: 12.5px; color: var(--muted); }
+.gr-resultats .gr-cartes { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); }
+.gr-compte { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
+.gr-plus {
+    display: block;
+    margin: 16px auto 0;
+    padding: 10px 26px;
+    border: 1px solid var(--line-strong);
+    border-radius: 12px;
+    background: var(--surface);
+    color: var(--text);
+    font-weight: 800;
+    cursor: pointer;
+}
+
+/* La une de la page d'accueil */
+.gr-accueil { padding-block: 18px 12px; }
+.gr-accueil > .gr-wrap > p.gr-visiteur {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px 18px;
+    flex-wrap: wrap;
+    max-width: none;
+    margin: 0 0 14px;
+    font-size: 19px;
+    font-weight: 600;
+}
+.gr-visiteur a { display: inline-flex; align-items: center; gap: 6px; color: var(--brand-bright); font-size: 15px; font-weight: 800; text-decoration: none; }
+.gr-une { grid-template-columns: minmax(0, 1fr) 300px; }
+.gr-une-carte { justify-content: center; min-height: 460px; padding-right: 310px; }
+.gr-une-carte::before { background: linear-gradient(90deg, rgba(11, 10, 30, 0.92) 0, rgba(11, 10, 30, 0.72) 48%, rgba(11, 10, 30, 0.2) 78%); }
+.gr-une-tags { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 10px; font-size: 14px; font-weight: 700; }
+.gr-une-record { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; font-size: 15px; }
+.gr-une-record svg { color: var(--gold-room); font-size: 19px; }
+.gr-une-record b { color: var(--gold-room); }
+.gr-une-carte .gr-btn { min-height: 46px; padding: 6px 15px; font-size: 14.5px; }
+.gr-une-carte .gr-btn svg { font-size: 18px; }
+.gr-une-carte > a.gr-capsule {
+    position: absolute;
+    top: 50%;
+    right: 26px;
+    width: 262px;
+    aspect-ratio: 3 / 4;
+    overflow: hidden;
+    border: 2px solid rgba(169, 139, 255, 0.6);
+    border-radius: 14px;
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.6);
+    transform: translateY(-50%);
+}
+.gr-capsule img { width: 100%; height: 100%; object-fit: cover; }
+.gr-capsule span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: grid;
+    place-items: center;
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background: rgba(11, 10, 30, 0.82);
+    color: #fff;
+    font-size: 24px;
+    transform: translate(-50%, -50%);
+}
+.gr-cote { grid-template-rows: 1fr auto; }
+.gr-direct {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    padding: 18px;
+    border: 1px solid var(--line-strong);
+    border-radius: 16px;
+    background: radial-gradient(90% 90% at 50% 0, rgba(134, 93, 255, 0.34), transparent 72%), var(--surface);
+    color: var(--text);
+    text-decoration: none;
+}
+.gr-direct img { width: 100%; max-width: 230px; height: auto; margin-inline: auto; }
+.gr-direct-off { color: var(--text-soft); font-size: 14.5px; text-align: center; }
+.gr-direct-on { display: none; align-items: center; justify-content: center; gap: 8px; color: #ff8fa3; font-weight: 800; }
+.gr-direct .gr-btn { justify-content: center; min-height: 46px; }
+.gr-compteur {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 18px;
+    border: 1px solid rgba(255, 180, 0, 0.5);
+    border-radius: 16px;
+    background: var(--surface);
+    color: var(--text);
+}
+.gr-compteur b { color: var(--gold-room); font-family: "Jersey 15", Inter, sans-serif; font-size: 58px; font-weight: 400; line-height: 1; }
+.gr-compteur span { color: var(--text-soft); font-size: 14px; }
+
+@media (max-width: 1080px) {
+    .gr-une { grid-template-columns: minmax(0, 1fr); }
+    .gr-cote { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
+    .gr-une-carte { padding-right: 26px; }
+    .gr-une-carte > a.gr-capsule { display: none; }
+}
+
+@media (max-width: 760px) {
+    .gr-liens { order: 3; width: 100%; gap: 14px; overflow-x: auto; flex-wrap: nowrap; }
+    .gr-liens a { white-space: nowrap; }
+}
+
+@media (max-width: 620px) {
+    .gr-cote { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* La une : video de fond, degrade transparent a droite */
+.gr-une { grid-template-columns: minmax(0, 1fr) 410px; }
+.gr-une-carte { padding-right: 26px; }
+.gr-une-carte::before { background: linear-gradient(90deg, rgba(11, 10, 30, 0.92) 0, rgba(11, 10, 30, 0.76) 52%, transparent 76%); }
+.gr-une-carte > :not(img):not(.gr-actions):not(.gr-une-video) { max-width: 460px; }
+.gr-une-carte > div.gr-une-video {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    width: 64%;
+    max-width: none;
+    height: 100%;
+    overflow: hidden;
+    container-type: size;
+    opacity: 0;
+    transition: opacity 0.8s ease;
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 26%);
+    mask-image: linear-gradient(90deg, transparent 0, #000 26%);
+    pointer-events: none;
+}
+.gr-une-carte > div.gr-une-video.is-playing { opacity: 1; }
+.gr-une-video iframe {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* Comme sur l'accueil actuel : le lecteur deborde du cadre, ce qui sort l'habillage de YouTube de la vue. */
+    --haut: calc(max(100cqh, calc(100cqw / var(--ratio))) + 260px);
+    width: calc(var(--haut) * var(--ratio));
+    height: var(--haut);
+    border: 0;
+    transform: translate(-50%, -50%);
+}
+
+/* Le filtre CRT de la video de la une : les trois couches de .crt-tube, celles du site. */
+.gr-une-video iframe { filter: saturate(1.55) contrast(1.22) brightness(1.03); }
+.gr-une-video::before,
+.gr-une-video::after { content: ""; position: absolute; inset: 0; z-index: 2; pointer-events: none; }
+.gr-une-video::before {
+    /* 2 px : une ligne de 1 px disparait sur une video agrandie et avec une mise a l'echelle de l'ecran. */
+    background: repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.42) 0, rgba(0, 0, 0, 0.42) 2px, transparent 2px, transparent 4px);
+}
+.gr-une-video::after {
+    background:
+        linear-gradient(118deg, rgba(255, 255, 255, 0.10) 0%, rgba(255, 255, 255, 0.03) 26%, transparent 44%),
+        radial-gradient(120% 80% at 50% 45%, rgba(150, 200, 255, 0.07), transparent 60%),
+        radial-gradient(135% 105% at 50% 50%, transparent 62%, rgba(0, 0, 0, 0.34) 100%);
+}
+.gr-une-carte > span.gr-une-scan {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 0;
+    width: 64%;
+    max-width: none;
+    height: 22%;
+    opacity: 0;
+    background: linear-gradient(to bottom, transparent, rgba(255, 255, 255, 0.05), transparent);
+    animation: gr-balayage 7s linear infinite;
+    pointer-events: none;
+}
+.gr-une-video.is-playing + .gr-une-scan { opacity: 1; }
+@keyframes gr-balayage { from { transform: translateY(-100%); } to { transform: translateY(460%); } }
+@media (prefers-reduced-motion: reduce) { .gr-une-carte > span.gr-une-scan { animation: none; opacity: 0; } }
+
+/* Le direct : le lecteur d'origine de /lives */
+.gr-direct { gap: 8px; padding: 10px; justify-content: flex-start; }
+.gr-direct .record-live { width: 100%; margin: 0; }
+:root .gr-direct .record-live__logo { display: none; }
+.gr-direct-lien { display: inline-flex; align-items: center; justify-content: flex-end; gap: 4px; color: var(--brand-bright); font-size: 13.5px; font-weight: 700; text-decoration: none; }
+
+/* La TV au repos : aucun lecteur tant que la une joue sa video */
+.gr-tv-repos { display: flex; flex: 1; flex-direction: column; align-items: center; justify-content: center; gap: 12px; min-height: 260px; padding: 14px; text-align: center; }
+.gr-tv-repos[hidden] { display: none; }
+.gr-tv-repos img { width: 100%; max-width: 250px; height: auto; }
+.gr-tv-repos p { margin: 0; color: var(--text-soft); font-size: 15px; }
+.gr-tv-repos .gr-btn { min-height: 46px; cursor: pointer; font-size: 15px; }
+
+/* Les modes */
+/* Les 4 cases forment un panorama : chacune a la largeur de sa scene, donc la meme hauteur et aucune deformation. */
+.gr-defis { display: grid; grid-template-columns: 562fr 520fr 480fr 610fr; gap: 12px; }
+.gr-defi {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 4px;
+    height: 400px;
+    padding: 16px;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 16px;
+    background: #0b0a1e;
+    color: #fff;
+    text-decoration: none;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+}
+.gr-defi:hover { transform: translateY(-3px); border-color: var(--brand); }
+.gr-defi img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.gr-defi::before { content: ""; position: absolute; inset: 0; z-index: 1; background: linear-gradient(0deg, rgba(11, 10, 30, 0.95) 14%, rgba(11, 10, 30, 0.62) 30%, transparent 48%); }
+.gr-defi > :not(img) { position: relative; z-index: 2; }
+.gr-defi-icone { display: grid; place-items: center; width: 42px; height: 42px; margin-bottom: 4px; border-radius: 12px; background: linear-gradient(135deg, var(--marque-a), var(--marque-b)); font-size: 22px; }
+.gr-defi b { font-size: 19px; letter-spacing: 0.01em; line-height: 1.15; }
+.gr-defi > span:last-child { color: #d7d9ea; font-size: 14px; line-height: 1.4; }
+
+@media (max-width: 1080px) {
+    .gr-une { grid-template-columns: minmax(0, 1fr); }
+    .gr-une-carte > div.gr-une-video { display: none; }
+    .gr-une-carte::before { background: linear-gradient(90deg, rgba(11, 10, 30, 0.88) 0, rgba(11, 10, 30, 0.5) 60%, transparent 100%); }
+    .gr-defis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .gr-defi { height: 380px; }
+}
+
+/* Le CRT du header d'une fiche, sur le fanart seulement */
+.gr-hero::before {
+    content: "";
+    position: absolute;
+    inset: 0 0 0 auto;
+    z-index: 1;
+    width: 72%;
+    pointer-events: none;
+    background:
+        repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0, rgba(0, 0, 0, 0.3) 1px, transparent 1px, transparent 3px),
+        linear-gradient(118deg, rgba(255, 255, 255, 0.08) 0%, transparent 40%),
+        radial-gradient(135% 105% at 50% 50%, transparent 62%, rgba(0, 0, 0, 0.34) 100%);
+    -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 42%);
+    mask-image: linear-gradient(90deg, transparent 0, #000 42%);
+}
+
+.gr-hero .gr-wrap { z-index: 2; }
+
+/* Le lecteur NelfePlay TV dans la home : il tient dans son bloc, sans rien pousser */
+.gr-une { height: 520px; align-items: stretch; }
+.gr-une-carte { min-height: 0; }
+.gr-cote { min-height: 0; grid-template-rows: minmax(0, 1fr) auto; }
+.gr-direct { min-height: 0; overflow: hidden; }
+.gr-direct .record-live { flex: 1 1 auto; min-height: 0; }
+.gr-direct .tv { padding: 10px; gap: 0.4rem; border-radius: 18px; }
+.gr-direct .tv__logo { width: auto; max-width: none; height: 24px; margin: 0; }
+.gr-direct .tv__pastille:empty { display: none; }
+.gr-direct .tv__son { width: 30px; height: 30px; padding: 0; justify-content: center; }
+.gr-direct .tv__son > span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.gr-direct .tv__plein { width: 30px; height: 30px; }
+.gr-direct .tv__pastille { padding: 5px 13px; font-size: 13.5px; line-height: 1.2; }
+@media (max-width: 1080px) { .gr-une { height: auto; } .gr-une-carte { min-height: 430px; } }
+
+/* Games */
+.gr-onglets { display: flex; flex-wrap: wrap; gap: 8px; }
+.gr-onglet { padding: 8px 16px; border: 1px solid var(--line-strong); border-radius: 999px; background: var(--surface); font-size: 14.5px; font-weight: 700; text-decoration: none; }
+.gr-onglet.is-active { border-color: transparent; background: linear-gradient(90deg, var(--marque-a), var(--marque-b)); color: #0b0a1e; }
+.gr-tete a { display: inline-flex; align-items: center; gap: 4px; }
+a.gr-machine, a.gr-envie { text-decoration: none; }
+
+@media (max-width: 1080px) {
+    .gr-media, .gr-media.sans-vignettes, .gr-grille, .gr-une, .gr-catalogue { grid-template-columns: minmax(0, 1fr); }
+    .gr-vignettes { flex-direction: row; }
+    .gr-vignettes button { width: 120px; }
+    .gr-chapitres { padding-left: 0; }
+    .gr-aside, .gr-filtres { position: static; }
+    .gr-art { width: 100%; height: 520px; opacity: calc(var(--art-opacity) * 0.35); }
+    .gr-hero-bg { width: 100%; opacity: 0.38; -webkit-mask-image: none; mask-image: none; }
+    .gr-rail { grid-auto-columns: calc((100% - 16px) / 2); }
+    .gr-machines, .gr-envies, .gr-cartes { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .gr-createurs { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .gr-trio { grid-template-columns: minmax(0, 1fr); }
+    .gr-cote { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 620px) {
+    :root { --gutter: 16px; --titre-taille: 38px; --titre-page: 64px; }
+    :root[data-titres="italique"] { --titre-taille: 28px; --titre-page: 48px; }
+    .gr-hero .gr-wrap { min-height: 0; }
+    .gr-actions, .gr-btn { width: 100%; }
+    .gr-chapitre { grid-template-columns: minmax(0, 1fr); gap: 8px; }
+    .gr-pastille { width: 42px; height: 42px; font-size: 20px; }
+    .gr-nav ul { display: none; }
+    .gr-rail { grid-auto-columns: 78%; }
+    .gr-machines, .gr-envies, .gr-cartes { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .gr-createurs, .gr-cote { grid-template-columns: minmax(0, 1fr); }
+    .gr-une-carte::before { background: linear-gradient(0deg, rgba(11, 10, 30, 0.94) 30%, transparent 86%); }
+}
+
+/* Le header d'une fiche : les boutons du jeu a gauche, Obtenir le jeu a droite */
+.gr-hero-boutons { display: flex; flex-wrap: wrap; align-items: stretch; justify-content: space-between; gap: 12px; width: 100%; }
+.gr-hero-boutons .gr-actions { margin: 0; }
+.gr-btn-achat { gap: 10px; }
+.gr-btn-achat img { width: 24px; height: 24px; filter: invert(88%) sepia(30%) saturate(600%) hue-rotate(350deg); }
+.gr-hero .gr-wrap { min-height: 470px; }
+
+/* La video dans l'ecran d'une fiche */
+.gr-ecran iframe { position: absolute; inset: 0; z-index: 3; width: 100%; height: 100%; border: 0; }
+.gr-lecture { border: 0; cursor: pointer; font: inherit; width: 100%; height: 100%; }
+.gr-vignettes button { position: relative; }
+.gr-vignettes button span { position: absolute; inset: 0; display: grid; place-items: center; background: rgba(11, 10, 30, 0.35); color: #fff; font-size: 22px; }
+.gr-texte p { margin: 0 0 8px; color: var(--text-soft); }
+.gr-texte p:last-child { margin-bottom: 0; }
+.gr-citation { margin: 14px 0 0; padding-left: 14px; border-left: 3px solid var(--marque-a); }
+.gr-source { margin: 12px 0 0; color: var(--muted); font-size: 13.5px; }
+.gr-page .gr-chapitres > p { color: var(--text-soft); }
+
+/* Le bas d'une fiche : le materiel, et le top des records en bas a droite */
+.gr-bas { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 24px; align-items: start; padding-block: 0; }
+.gr-bas.sans-top { grid-template-columns: minmax(0, 1fr); }
+.gr-bas-materiel { min-width: 0; }
+.gr-bas .gr-rail { grid-auto-columns: minmax(210px, calc((100% - 2 * 16px) / 3)); }
+.gr-bas.sans-top .gr-rail { grid-auto-columns: minmax(230px, calc((100% - 3 * 16px) / 4)); }
+.gr-top ol { margin: 0; padding: 0; list-style: none; }
+.gr-top li { display: grid; grid-template-columns: 30px minmax(0, 1fr) auto; align-items: center; gap: 8px; padding-block: 8px; border-bottom: 1px solid var(--line); font-size: 15px; }
+.gr-top li:last-child { border-bottom: 0; }
+.gr-top b { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gr-rang { display: grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: linear-gradient(135deg, var(--marque-a), var(--marque-b)); color: #0b0a1e; font-size: 13px; font-weight: 800; }
+.gr-top-lien { display: inline-flex; align-items: center; gap: 4px; margin-top: 10px; color: var(--brand-bright); font-size: 14px; font-weight: 700; text-decoration: none; }
+
+/* Pages du compte, setup et fin de page */
+.gr-fin { padding-bottom: 50px; }
+.gr-duo { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.gr-setup { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; margin-top: 16px; }
+.gr-setup .gr-panneau { display: block; text-decoration: none; }
+.gr-setup h3 { margin: 0 0 6px; font-size: 19px; }
+.gr-setup p { margin: 0 0 8px; color: var(--text-soft); }
+.gr-setup span { color: var(--brand-bright); font-weight: 700; }
+.gr-sans-script { columns: 3; }
+.rk-video { margin-bottom: 0; }
+@media (max-width: 1080px) { .gr-bas { grid-template-columns: minmax(0, 1fr); } .gr-duo { grid-template-columns: minmax(0, 1fr); } .gr-bas .gr-rail { grid-auto-columns: minmax(210px, 46%); } }
+.gr-logo-mode { width: min(100%, 460px); height: auto; margin-bottom: 8px; }
+.gr-page .gr-logo-mode[hidden] { display: none; }
+
+.gr-t-arcade { --teinte: #a3222e; }
+.gr-t-neogeo { --teinte: #8a5a10; }
+.gr-t-megadrive { --teinte: #1c4fa8; }
+.gr-t-snes { --teinte: #5b34d6; }
+.gr-t-nes { --teinte: #a02a48; }
+.gr-t-gb { --teinte: #2c7a55; }
+
+/* Le visiteur : le bloc Setup, a la place de NelfePlay TV */
+.gr-setup-cta { align-items: center; justify-content: center; gap: 10px; padding: 20px; text-align: center; }
+.gr-setup-cta-icone { display: grid; place-items: center; width: 62px; height: 62px; border-radius: 18px; background: linear-gradient(135deg, var(--marque-a), var(--marque-b)); color: #0b0a1e; font-size: 34px; }
+.gr-setup-cta h2 { margin: 0; color: var(--text); font-size: 22px; font-weight: 800; line-height: 1.2; }
+.gr-setup-cta p { margin: 0; color: var(--text-soft); font-size: 15px; }
+.gr-setup-cta .gr-btn { width: 100%; justify-content: center; }
+.gr-materiel > .gr-wrap.gr-source { margin-inline: auto; }
+
+/* La police pixel ne descend jamais en petit : les titres de panneaux restent en Inter. */
+.gr-page .gr-panneau h2,
+.gr-page .gr-setup-cta h2 { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; font-style: normal; font-weight: 800; }
+.gr-page .gr-chapitre h3,
+.gr-page .gr-rayon h3,
+.gr-page .gr-setup h3 { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; font-weight: 800; }
+.hero.rk-video { min-height: 0; padding: 0; }
+.rk-video .hero-stage { margin: 0; }
+
+/* Le filtre CRT de la une : au niveau du bloc, sous le texte, par-dessus la video et le fanart. */
+.gr-une-carte::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    background:
+        repeating-linear-gradient(to bottom, rgba(0, 0, 0, 0.36) 0, rgba(0, 0, 0, 0.36) 2px, transparent 2px, transparent 4px),
+        linear-gradient(118deg, rgba(255, 255, 255, 0.08) 0%, transparent 42%),
+        radial-gradient(135% 105% at 50% 50%, transparent 62%, rgba(0, 0, 0, 0.34) 100%);
+}
+
+/* Ma communaute */
+.gr-reseau { display: grid; grid-template-columns: minmax(0, 1fr) 96px minmax(0, 1fr); align-items: center; gap: 8px 0; padding: 18px 20px; border: 1px solid var(--line-strong); border-radius: var(--radius); background: var(--surface); box-shadow: var(--panel-glow); }
+.gr-reseau h2 { margin: 0 0 6px; color: var(--brand-bright); font-family: Inter, ui-sans-serif, system-ui, sans-serif; font-size: 17px; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; }
+.gr-reseau-case { display: flex; align-items: center; justify-content: space-between; gap: 10px; min-height: 44px; padding: 6px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface-raised); font-weight: 700; }
+.gr-reseau-case.is-vide { border-color: transparent; background: transparent; }
+.gr-reseau-case a { min-width: 0; overflow: hidden; text-decoration: none; text-overflow: ellipsis; white-space: nowrap; }
+.gr-reseau-lien { display: flex; justify-content: center; position: relative; }
+.gr-friend { display: inline-flex; align-items: center; gap: 5px; padding: 3px 9px; border-radius: 999px; background: linear-gradient(90deg, var(--marque-a), var(--marque-b)); color: #0b0a1e; font-size: 12.5px; font-weight: 800; }
+.gr-suivre { flex: none; padding: 4px 10px; border: 1px solid var(--line-strong); border-radius: 8px; background: transparent; color: var(--muted); font: inherit; font-size: 13px; font-weight: 600; cursor: pointer; }
+.gr-suivre.is-suivre { border-color: var(--brand); color: var(--brand-bright); }
+.gr-suivre:hover { border-color: var(--brand); color: var(--brand-bright); }
+.gr-setup-machines { margin-bottom: 26px; }
+@media (max-width: 760px) {
+    .gr-reseau { grid-template-columns: minmax(0, 1fr); }
+    .gr-reseau > span, .gr-reseau-lien:empty, .gr-reseau-case.is-vide { display: none; }
+}
+
+/* Certified scoring : le logo du scoring certifie, en bas a gauche du header. */
+.gr-certifie { display: inline-flex; align-items: center; gap: 9px; min-height: 46px; padding: 6px 14px 6px 8px; border: 1px solid rgba(34, 211, 238, 0.6); border-radius: 12px; background: rgba(11, 10, 30, 0.72); color: #fff; font-size: 14.5px; font-weight: 800; letter-spacing: 0.02em; text-decoration: none; white-space: nowrap; }
+.gr-page .gr-certifie img { width: 30px; height: 30px; }
+a.gr-certifie:hover { border-color: #22d3ee; }
+
+/* La une : le haut reste en haut, le record et les boutons en bas, quelle que soit la hauteur du bloc. */
+.gr-une-carte { justify-content: flex-start; }
+.gr-une-carte > .gr-une-record { margin-top: auto; }
+.gr-une-carte > .gr-actions:not(.gr-une-record + .gr-actions) { margin-top: auto; }
+
+/* Le player de la home tient dans son bloc : le titre du direct est deja dans le lien du jeu. */
+.gr-direct .record-live__title { display: none; }
+.gr-direct .tv__bord--haut .tv__texte { display: none; }
+.gr-direct .record-live { display: flex; flex-direction: column; justify-content: center; }
+.gr-direct .tv { max-height: 100%; }
+
+/* Comment ca marche */
+.mp-logo-how { display: block; width: min(100%, 460px); height: auto; margin: 0 0 12px; }
+.mp-how-visuel img { display: block; width: 100%; height: auto; border-radius: 18px; }
+
+/* Comment ca marche (07/11) : la video, les facons de jouer ; Games : lien vers l'explication, vote du prochain jeu */
+.gr-yt { position: relative; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 18px; background: #000; }
+.gr-yt iframe, .gr-yt-facade { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.gr-yt-facade { padding: 0; cursor: pointer; background: none; }
+.gr-yt-facade img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.gr-yt-lecture { position: absolute; left: 50%; top: 50%; width: 76px; height: 76px; margin: -38px 0 0 -38px; border-radius: 50%;
+    background: rgba(10, 8, 30, 0.72); box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.85); }
+.gr-yt-lecture::after { content: ""; position: absolute; left: 30px; top: 22px; border-style: solid; border-width: 16px 0 16px 26px;
+    border-color: transparent transparent transparent #fff; }
+.gr-yt-facade:hover .gr-yt-lecture, .gr-yt-facade:focus-visible .gr-yt-lecture { background: var(--brand, #6d4aff); }
+.gr-modes { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+.gr-modes article { scroll-margin-top: 96px; padding: 18px; border: 1px solid var(--line, rgba(127, 127, 127, 0.25)); border-radius: 16px; background: var(--surface, transparent); }
+.gr-modes article:target { border-color: var(--brand-bright, #8f7bff); box-shadow: 0 0 0 2px var(--brand-bright, #8f7bff); }
+.gr-modes h3 { margin: 0 0 8px; }
+.gr-modes p { margin: 0 0 10px; }
+.gr-modes-note { margin: 16px 0 0; opacity: 0.85; }
+.gr-compte-ligne { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin: 0 0 12px; }
+.gr-compte-ligne .gr-compte { margin: 0; }
+.gr-comment { font-weight: 700; }
+.gr-vote { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; margin: 0 0 16px; }
+.gr-vote-titre { font-weight: 700; }
+.gr-vote ol { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.gr-vote li a { display: inline-flex; align-items: baseline; gap: 6px; padding: 6px 12px; border: 1px solid var(--line, rgba(127, 127, 127, 0.3)); border-radius: 999px; text-decoration: none; color: inherit; }
+.gr-vote li em { font-style: normal; opacity: 0.75; font-size: 0.9em; }
+
+/* Le voile CRT reste sur la video d'une fiche (07/11) : au-dessus du lecteur, sans prendre ses clics. */
+.gr-ecran:has(iframe)::before,
+.gr-ecran:has(iframe)::after,
+.gr-ecran:has(iframe) .gr-ecran-scan { z-index: 4; }
+.gr-ecran iframe { filter: contrast(1.08) saturate(1.15) brightness(1.02); }
+
+/* /setup sans compte : le profil d'abord (07/11) */
+.setup-profil { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 16px; align-items: start; margin: 0 0 24px; padding: 20px; border: 2px solid var(--brand-bright, #8f7bff);
+    border-radius: 16px; background: linear-gradient(135deg, rgba(34, 211, 238, 0.08), rgba(143, 123, 255, 0.12)); }
+.setup-profil h2 { margin: 0 0 6px; }
+.setup-profil p { margin: 0 0 10px; }
+.setup-profil p:last-child { margin-bottom: 0; }
+
+/* /setup : ce que permet NelfePlay (07/11) */
+.setup-apport { margin: 0 0 24px; padding: 18px 20px; border: 1px solid var(--line-strong, rgba(127, 127, 127, 0.3)); border-radius: 16px; background: var(--surface, transparent); }
+.setup-apport h2 { margin: 0 0 12px; font-size: 1.25rem; }
+.setup-apport ul { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 8px 16px; margin: 0; padding: 0; list-style: none; }
+.setup-apport a { display: grid; grid-template-columns: 24px minmax(0, 1fr); gap: 2px 10px; padding: 8px; border-radius: 10px; color: inherit; text-decoration: none; }
+.setup-apport a:hover, .setup-apport a:focus-visible { background: rgba(143, 123, 255, 0.10); }
+.setup-apport svg { grid-row: span 2; width: 22px; height: 22px; color: var(--brand-bright, #8f7bff); }
+.setup-apport span { font-size: 0.93em; opacity: 0.85; }
+
+/* Games : le filtre par defaut des jeux NelfePlay (07/11) */
+.gr-seulement { display: flex; align-items: center; gap: 8px; margin: 10px 0 4px; font-weight: 700; cursor: pointer; }
+.gr-seulement em { margin-left: auto; font-style: normal; font-weight: 400; opacity: 0.7; }
+
+/* Games : « En tete du vote : » et ses jeux sur la meme ligne (07/11) */
+.gr-vote-tete { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; }
+.gr-filtres label[hidden] { display: none; }

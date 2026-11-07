@@ -1,0 +1,81 @@
+/* Les contests.
+ *
+ * La page reprend le dessin des classements : meme tableau, memes filtres,
+ * memes onglets. Ce qui lui est propre tient en trois choses : l'etat d'un
+ * contest, son origine, et le nom de son organisateur.
+ */
+
+.ct-lead {
+    max-width: 62ch;
+}
+
+/* L'etat commande la lecture : « en cours » est ce qu'on peut encore
+   rejoindre, et il doit se voir avant le reste. */
+.ct-state {
+    display: inline-block;
+    margin-left: 10px;
+    padding: 2px 10px;
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    color: var(--muted);
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: lowercase;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.ct-state-live {
+    border-color: color-mix(in srgb, var(--danger) 55%, transparent);
+    background: color-mix(in srgb, var(--danger) 14%, transparent);
+    color: var(--danger);
+}
+
+.ct-state-open {
+    border-color: color-mix(in srgb, var(--success) 45%, transparent);
+    background: color-mix(in srgb, var(--success) 12%, transparent);
+    color: var(--success);
+}
+
+.ct-origin {
+    /* L'icone porte l'origine ; le mot serait redondant dans un tableau. */
+    font-size: 0.94rem;
+}
+
+.ct-name {
+    color: var(--text);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.ct-name:hover {
+    color: var(--brand-bright);
+}
+
+.ct-host {
+    color: var(--brand-bright);
+    text-decoration: none;
+}
+
+.ct-host:hover {
+    text-decoration: underline;
+}
+
+.ct-back {
+    color: var(--muted);
+    text-decoration: none;
+}
+
+.ct-back:hover {
+    color: var(--text);
+}
+
+/* Les elements de la ligne de resume, sur la page d'un contest. */
+.ct-meta {
+    margin-left: 14px;
+    color: var(--text-soft);
+}
+
+.ct-table td:first-child {
+    white-space: normal;
+}

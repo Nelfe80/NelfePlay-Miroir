@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "miniature-golf",
+ "title": "Miniature Golf",
+ "source": "screenscraper",
+ "ss_game_id": 44452,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44452,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Miniature Golf",
+   "genre": "Sport / Golf",
+   "synopsis": "Le prototype du jeu inédit de Steve Baker pour Atari 5200. Cependant, il est terminé et entièrement jouable. En raison du mode haute résolution utilisé, le jeu propose d'étranges options de couleurs, mais c'est aussi très bien fait et simule très bien le golf miniature.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Miniature Golf",
+   "genre": "Sports / Golf",
+   "synopsis": "Unreleased prototype game by Steve Baker for the Atari 5200. However it was completed and is fully playable. Due to the Hi-Res mode used the game has some odd choices for colors but other than that is quite well done and simulates Miniature Golf very well. \r\n\r\nControl is handled entirely by the keypad, so the non-centering 5200 joystick doesn't hinder the gameplay.  Pushing the # and * keys changes the direction the ball will be hit (represented by an arrow) and the 1-9 keys are used to indicate the power of the swing (1=lowest and 9=highest).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bc750ce7fb716dc8be6fb76d207c71fc4cb68eec0b728a3508dc1a388aa799c5",
+   "width": 600,
+   "height": 233,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44452&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T18:48:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "16222e15682664bc2c98d8e26820a983ce1bfefaa6e84c09959749af2ba37289",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44452&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T18:48:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e86e647d67258fea56182e7486641c280d788683289b143fb6450df7beb91c1d",
+   "width": 600,
+   "height": 552,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44452&media=support-2D%28cus%29",
+   "fetched_at": "2026-11-06T18:48:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "26e3ca2ec77a5971c20c2e89a28edd5a78be96340a5079f664a041f7c2397c1f",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44452&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T18:48:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b7e9de213d3dd43422109db62a54e7f318129b2bfe943677ffe5f24ea8629929",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44452&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T18:48:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:48:14+00:00",
+ "status": "done"
+}

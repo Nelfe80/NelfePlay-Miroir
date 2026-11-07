@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "wwfwfest",
+ "title": "WWF WrestleFest",
+ "source": "screenscraper",
+ "ss_game_id": 44147,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44147,
+  "release_year": 1991,
+  "publisher": "Tecmo",
+  "developer": "Technos Japan",
+  "players": "1-4",
+  "system_label": "Technos"
+ },
+ "text": {
+  "fr": {
+   "name": "WWF Wrestlefest",
+   "genre": "Sport / Combat",
+   "synopsis": "WWF WrestleFest est un jeu d'arcade de catch professionnel développé et commercialisé par Technos en 1991, mettant en scène les superstars de la société américaine World Wrestling Federation.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "WWF Wrestlefest",
+   "genre": "Sports / Fighting",
+   "synopsis": "WWF WrestleFest is the sequel to the 1989 arcade game WWF SuperStars and is based on the World Wrestling Federation allowing you to control famous wrestlers from the late 80s like Hulk Hogan, Ultimate Warrior and Earthquake. Whereas SuperStars only let you compete in Tag-Team, WrestleFest allows you to compete in the Battle Royal: Royal Rumble as well as Saturday Nights Main Event: Tag Match.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "72c2c9d0fb24acec25c695c880227ccb657710e7cb170483f9247a346a422511",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=fanart",
+   "fetched_at": "2026-11-06T23:46:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "813c8c9260f7e035d152d104ed2c6b82cb2a8865eccee7744e647ed1242258cc",
+   "width": 400,
+   "height": 95,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:46:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9bfe667c1b36b1ba84e82836a1ef2fac1cacf73ae4e84ee49835df4f5d476206",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:46:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3295c642da67c77ed69646aef5e23178c1b43edbfb94a9cfe4d44ad1cbe6353e",
+   "width": 545,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:46:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8e5bb59852ef5a61492e2b0d4b4132bacd3db9d25f678d0533ce55cfedba0d08",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:47:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "efcfd543e072c7f1cf045b1e42a4fc07ff159ce0ba4c03472dfbe3a43ab49499",
+   "width": 850,
+   "height": 1089,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:47:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "37aab52c0bbfa5cda84b2da4eff04ec4813fa8b2a6b7b202d02ee732045140b6",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=44147&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:47:04+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:46:54+00:00",
+ "status": "done"
+}

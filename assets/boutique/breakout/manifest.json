@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "slug": "breakout",
+ "title": "Breakout",
+ "source": "screenscraper",
+ "ss_game_id": 421140,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 421140,
+  "release_year": null,
+  "publisher": "Nice Code Software",
+  "developer": "Nice Code Software",
+  "players": "1-4",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Breakout",
+   "genre": "",
+   "synopsis": "In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Breakout",
+   "genre": "",
+   "synopsis": "In the game, a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward, keeping it in play.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "549f3ed6b02c85dac8bdf1662ceb2aa87682f8ae4b0e7093db921ef55b651997",
+   "width": 600,
+   "height": 90,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=421140&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T18:46:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4c5229e6d61b3f5d6f2a0a35d8370d5346370a0c21310b0492eee98b9a31ec4f",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=421140&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T18:46:37+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d6fc83745c2935ec4e226dad77fe4448b30a46a5f9a960109c5a48c2209d2af3",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=421140&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T18:46:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "d759a2321668ec5501e5108c5c69591209858bc246eef552a17e08611cc79f25",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=421140&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T18:46:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "support-2d",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:46:35+00:00",
+ "status": "done"
+}

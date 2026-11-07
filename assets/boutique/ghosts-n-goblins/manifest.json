@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ghosts-n-goblins",
+ "title": "Ghosts 'n Goblins",
+ "source": "screenscraper",
+ "ss_game_id": 1273,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1273,
+  "release_year": 1986,
+  "publisher": "Capcom",
+  "developer": "Micronics",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Ghosts'n Goblins",
+   "genre": "Plateforme",
+   "synopsis": "Ghosts'n Goblins est un jeu d'action/plates-formes sur Nes. Arthur le brave chevalier doit sauver sa princesse bien-aimée des griffes du démon King Astaroth. Différents challenges l'attende au fil des niveaux remplis de créatures malfaisantes à abattre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ghosts 'n Goblins",
+   "genre": "Platform",
+   "synopsis": "Ghosts'n Goblins is a sideways scrolling action platformer spread over six levels, each of which must be completed within three minutes (or a life is lost), taking in forest, village, mountain and cavern settings with increasing difficulty.\n\nArthur the brave knight must rescue his beloved Princess from the Demon King Astaroth and his forces - amongst them are the various undead (ghosts, zombies), bats, ogres and goblins. Other challenges include moving platforms, ladders and water/fire hazards. \n\nAs in most games in this genre, the player can pick up power-ups such as daggers and bombs during the course of the game, giving the player greater firepower.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "88533b722ab32d6029501392372f4413f6de278cc3a0dda441d4bf93debb7753",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1273&media=fanart",
+   "fetched_at": "2026-11-06T17:16:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "36400c52076e3ed486e8d4cefc683b986cdb55f57b596bb887294bc3d02d4352",
+   "width": 600,
+   "height": 110,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1273&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:16:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "07772a0034262a9b06f60ff01f9c4fc6bb6214efc04d3d4d87942b49d2cf0e13",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1273&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:16:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ca7c8dada13b8bec8985eeb988740c26458f6de67bc78af892e816638cdad997",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1273&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:16:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "49bd4383916e3fabe231990e370ddbe9da3ea9a8af23e353035782662ac2bae7",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1273&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:16:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8b17656871f97956e9eee1b9a086d4bffb597ffa557c790dc635a02e81a3bf38",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1273&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:16:28+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:16:20+00:00",
+ "status": "done"
+}

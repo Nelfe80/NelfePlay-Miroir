@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-ii-the-world-warrior",
+ "title": "Street Fighter II: The World Warrior",
+ "source": "screenscraper",
+ "ss_game_id": 247097,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 247097,
+  "release_year": 2013,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Wii U"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter II: The World Warrior",
+   "genre": "Combat / Versus",
+   "synopsis": "Street Fighter™ II defined gaming in the 1990s by revolutionizing the fighting game genre. Street Fighter™ II: The World Warrior was the first release of the original Street Fighter II series, featuring the original eight world warriors. Each of the characters has their own fighting skills, speed, special moves, and unique ending to make for a truly unique fighting game experience. Choose your own character and become a hero in Street Fighter universe.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Street Fighter II: The World Warrior",
+   "genre": "Fighting / Versus",
+   "synopsis": "Street Fighter™ II defined gaming in the 1990s by revolutionizing the fighting game genre. Street Fighter™ II: The World Warrior was the first release of the original Street Fighter II series, featuring the original eight world warriors. Each of the characters has their own fighting skills, speed, special moves, and unique ending to make for a truly unique fighting game experience. Choose your own character and become a hero in Street Fighter universe.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0de4102a1797f5e85ffe64c73e9ef0e7f2e560a53d4060e5bbdf6888793c0ddd",
+   "width": 400,
+   "height": 199,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=18&jeuid=247097&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:47:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "890fbb01a4f17cb7e97b5bd82f395538b96783cf8a87d3107adf6251fc8b3770",
+   "width": 486,
+   "height": 680,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=18&jeuid=247097&media=box-2D%28cus%29",
+   "fetched_at": "2026-11-06T15:47:33+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d61fa2f8b1aaefd290de04d1bbc9cd935940646d233d1411e8665f76e5ba6dde",
+   "width": 682,
+   "height": 979,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=18&jeuid=247097&media=support-2D%28cus%29",
+   "fetched_at": "2026-11-06T15:47:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "256a2e1fc06b1045272723318bd22a2298bdcd96e891ff7aadf16834f093ff49",
+   "width": 1280,
+   "height": 720,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=18&jeuid=247097&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:47:35+00:00"
+  },
+  "ss": []
+ },
+ "absent": [
+  "fanart",
+  "flyer",
+  "ss"
+ ],
+ "fetched_at": "2026-11-06T15:47:31+00:00",
+ "status": "done"
+}

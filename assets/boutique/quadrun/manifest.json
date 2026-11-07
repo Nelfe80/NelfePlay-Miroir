@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "quadrun",
+ "title": "Quadrun",
+ "source": "screenscraper",
+ "ss_game_id": 37818,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37818,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Quadrun",
+   "genre": "",
+   "synopsis": "Quadrun est un jeu d'action de style arcade pour un joueur. La planète Quad a été envahie et tous les \"Runts\" sont emprisonnés; votre but est de les sauver ! L'écran est divisé en quatre secteurs (un sur chaque bord de l'écran), avec la prison au centre. Votre personnage est équipé de trois boules de phaseur; sur l'écran, vous verrez les ravisseurs monter et descendre verticalement, et vous devez les frapper avec une boule de phaseur. Une fois touché, le ravisseur sera détruit et l'un des Runts pourra s'échapper. Les Runts vont et viennent horizontalement et vous devez les attraper avant qu'ils ne heurtent le mur mortel au bord de l'écran.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Quadrun",
+   "genre": "",
+   "synopsis": "Quadrun is an arcade style action game for one player. The planet of Quad has been invaded, and all of the \"Runts\" are imprisoned; your goal is to rescue them! The screen is broken up into four sectors (one on each edge of the screen), with the prison in the center. Your character is equipped with three phaser balls; on the screen you will see the captors running up and down vertically, and you need to hit them with a phaser ball. When hit, the captor will be destroyed and one of the Runts will be able to escape. The Runts will run back and forth horizontally, and you need to catch them before they run into the deadly wall at the edge of the screen. To make the game more challenging, you are only equipped with three phaser balls! This means after firing a phaser ball, you will need to quickly run around to the other side of the screen and catch it before it disappears. You will also lose a phaser ball if one of the captors collides with your character. Lose all three phaser balls, and the game is over. Also, there is a critter counter at the top of the screen; if you fail to destroy one of the captors or if one of the escaped Runts runs into a wall, the critter counter will decrease. If the critter counter runs out, the game ends.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a748bc8205d9b68d289d61c7858ddfa29cba9eea7ac296d67560ad5227e30df1",
+   "width": 400,
+   "height": 100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37818&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:59:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ec1c1f8fa8b19ac2355f7bba042f541dd7e1b8cbe75630fe641b61124a121f70",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37818&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:59:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "97117a7bae26877b777ef312fe33fa0439edc1e9bb3df481162894efde9cd6b3",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37818&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:59:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d152141c90a69d096aa441b78ca18376562762cdc69bf30befbb25d8a9770011",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37818&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:59:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "89f6961c810f98be735772fd0eb50046248dcb071df471ae776a2ea48462c7f3",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37818&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:59:15+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:59:08+00:00",
+ "status": "done"
+}

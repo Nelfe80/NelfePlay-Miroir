@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "gradius-ii",
+ "title": "Gradius II",
+ "source": "screenscraper",
+ "ss_game_id": 1662,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1662,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Gradius II",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Gradius II est un shoot'em up sur NES. Le joueur est aux commandes du légendaire Vic Viper, un vaisseau spatial qui lutte contre la flotte de l'Empire Bacterion, menée par un certain Gofer. Un total de neuf niveaux accompagné de musique frénétique constitue cette grande aventure de l'espace.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Gradius II",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Gradius II is a sequel to Gradius, and Life Force, and is a horizontal space shooter composed of 7 levels.\nLike it's predecessor, you can collect power up from enemies and chose which ones to use when. This time, this system is enhanced because you can chose between 4 different power-up sequences, allowing you to use differents types of weapons against your enemies. There is also the possibility to gain options, which are mysterious balls of fire that follows your spaceship closely and mimic all its movements (including shots). While you only could have 2 of them in Gradius, you now can have up to 4 of them.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6a07f36d81a616587d2dc7d507b3b251ce6d0d5be3ed8153f6b8c4b9523097a2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1662&media=fanart",
+   "fetched_at": "2026-11-06T18:02:54+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b640a265fe7f6cd40b0d01031b9065ccbbb46fa6c8d8ad0e28adfeb4274bc23e",
+   "width": 600,
+   "height": 220,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1662&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T18:02:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "97a63bdeb544acb02dba6b4c2a6afd12047531bc58fcdaba9462547a6712b79e",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1662&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T18:02:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "385a18db5930f7ad84057baaa13c62895c1bdf569e33a9bcf3c433d80928417d",
+   "width": 600,
+   "height": 400,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1662&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T18:02:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "cb0ef59d2231afa6a869791513fef859366ae25921ee43364c3ea8e2df6661b1",
+   "width": 256,
+   "height": 224,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1662&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T18:03:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f591fc86773bb6f3dcc7ffd6dabf29d02163f94892d508d6216d01f52bc557ac",
+    "width": 256,
+    "height": 240,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1662&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T18:03:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T18:02:53+00:00",
+ "status": "done"
+}

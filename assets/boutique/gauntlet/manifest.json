@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "gauntlet",
+ "title": "Gauntlet",
+ "source": "screenscraper",
+ "ss_game_id": 145730,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 145730,
+  "release_year": 1985,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-4",
+  "system_label": "Atari Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Gauntlet",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Gauntlet est un jeu vidéo développé et édité par Atari Games en 1985 sur borne d'arcade. Considéré comme un classique du jeu d'arcade, Gauntlet est un jeu d'action qui a la particularité d'être jouable à quatre en simultané. \r\n\r\nDans un labyrinthe vu du dessus, vous avez la possibilité de jouer jusqu'a 4 personnes et de choisir d'incarner un ogre, un elfe, un guerrier ou un magicien.\r\nVous devez récupérer des clefs pour permettre d'ouvrir les portes vers d'autres niveaux, vous devez faire attention aux ennemis et les détruire avant que ceux-ci ne vous touchent et ne fassent baisser vos points de vie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Gauntlet",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b85ecb74a6716dfa301a7b3fc1d6e3acb39d62e9a1184f63878e5f4143d7cff9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=fanart",
+   "fetched_at": "2026-11-06T23:51:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "555837a09973e3ef36b89fdd48df0b6384a1b2903e01f8a8682d7d16a9bc076a",
+   "width": 600,
+   "height": 150,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:51:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5df78223183aaec800d5f52b45439db267c4a53c7d0982dfd0481e8edd6b72b7",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:51:06+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c48606eec111877540e4219a5bc909f65f9f6ce3c526a6cb866627a9d6574d4b",
+   "width": 514,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:51:07+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "fd2c684bed0cac1c6b09d77ba98ebf63db2ddf2dd822e8513c20a4ad319cbac9",
+   "width": 336,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:51:08+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "de8988495aa868ba501b7149d78ad1d905d260fd1a921668dbc7a77010104896",
+   "width": 850,
+   "height": 1108,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:51:10+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4395046c5f52a9d44274dfe7a538b640f2ca97e88ac2a23da1dbc69d4fc400a7",
+    "width": 336,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=145730&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:51:11+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:51:01+00:00",
+ "status": "done"
+}

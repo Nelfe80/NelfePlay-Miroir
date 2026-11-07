@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-breakout",
+ "title": "Super Breakout",
+ "source": "screenscraper",
+ "ss_game_id": 14055,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14055,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Turner, Nick / Shaw, Carol",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Breakout",
+   "genre": "Action / Casse briques",
+   "synopsis": "Super Breakout propose un gameplay similaire à l'original, mais avec de nouvelles variantes. Votre objectif est de marquer le plus de points possible en détruisant les briques situées en haut de l'écran. Pour ce faire, vous devez utiliser la raquette située en bas de l'écran pour maintenir une balle rebondissante à l'intérieur du terrain de jeu. Quatre variantes de jeu sont incluses. La première est \"Breakout\" et se joue comme le jeu original.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Breakout",
+   "genre": "Action / Breakout games",
+   "synopsis": "Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to use the paddle at the bottom of the screen to keep a bouncing ball within the playfield. There are four different game variations included. The first is 'Breakout', and plays the same as the original game. \n\nThis leaves three new gameplay concepts. In 'Progressive' the brick walls will slowly drop towards the bottom of the screen and the ball moves progressively faster and faster. When there's room, a new layer of bricks will appear at the top. \n\nThe other two games add a second paddle. In 'Double Breakout' you have two balls to keep in play and score with. In 'Cavity' there is a single ball in play when you start, but two additional balls trapped within the bricks. These are freed when their surrounding bricks are destroyed.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3cb379a80b54363855ae22592268be778d8276c5ff630ed49ee5827cb0bc5cba",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14055&media=fanart",
+   "fetched_at": "2026-11-06T17:05:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8c324e7314d75aad469422a7ca5ee789f8bfa3a6c66707f79ceb131299c78ea1",
+   "width": 400,
+   "height": 120,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14055&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:05:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d2a2bdba5920225fe28a9009dfcd3e93a3aeb2766a41996cc4dda4e85da7f4ee",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14055&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:05:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "afda19b2f05b2dcb855eb68b2f9f1efcd25728df975f28d28a7973e87842ddae",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14055&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:05:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f4101262f01cfe1e7d451779120b14005ec7637529c9aeaaf36b58f51f86a111",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14055&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:05:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cbba978e7f9eaad8a3352d3a780eca7186a8c7cdfb30ee8ae8f84f126c151ee8",
+    "width": 272,
+    "height": 234,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14055&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:05:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:05:44+00:00",
+ "status": "done"
+}

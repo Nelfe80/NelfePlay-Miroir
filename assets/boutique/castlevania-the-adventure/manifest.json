@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania-the-adventure",
+ "title": "Castlevania: The Adventure",
+ "source": "screenscraper",
+ "ss_game_id": 3021,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3021,
+  "release_year": 1989,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania : The Adventure",
+   "genre": "Plateforme",
+   "synopsis": "Castlevania : The Adventure est un jeu d'action/plates-formes sur Gameboy. Le comte Dracula a encore évolué, assoiffé de vengeance. Vous devez traverser quatre niveaux de donjons, chambres et cryptes pour le vaincre une nouvelle fois. Pour arriver à vos fins, votre seule arme à disposition est un grand fouet métallique.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania : The Adventure",
+   "genre": "Platform",
+   "synopsis": "A challenge you can't walk away from!\r\n\r\nAfter getting his wings clipped in Castlevania and Simon's Quest, the death defying Count has risen again.\r\n\r\nDesiring revenge even more than blood, he'll descend upon your Game Boy, with fangs glistening by the light of the silvery full moon.\r\n\r\nTo survive his maze of torture chambers and vampire crypts, you must unlock the castle's secrets by locating hearts, crystals and crosses. You must also possess the strength to master the Mystic Whip, which wards off unearthly evils like the She Worm.\r\n\r\nSo risk your neck and accept Drac's challenge. Because if you fail to destroy him now, he will rule the night forever.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ac60b395f8e85a2aeea457df261d7b1f314498875623275b03b62a4a27700633",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3021&media=fanart",
+   "fetched_at": "2026-11-06T16:21:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b15bc35038027de512d95fb1526ee0d2bc071b91684e054064717ed0faf3a7f6",
+   "width": 600,
+   "height": 260,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3021&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:21:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "78015816527bd6f831df2e8ee0df0cab129231c9c7a1437e7e69e485b3ab7ef7",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3021&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:21:37+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c49120710743b1e7fffd008bb8d0884f680f23639367a2c0bbbb3bdd70e1a62e",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3021&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:21:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "67f3abd53efb157db5534761aa31ef9a837d38e5daefcf898df7d08b10717737",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3021&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:21:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "29c4678fad9f11482d53eedc78b2475e126705eaf9e72b1f77315b8ab1d7cf5a",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3021&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:21:41+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:21:32+00:00",
+ "status": "done"
+}

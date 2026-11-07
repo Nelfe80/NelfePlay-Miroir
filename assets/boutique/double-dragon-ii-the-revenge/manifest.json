@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "slug": "double-dragon-ii-the-revenge",
+ "title": "Double Dragon II: The Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 218151,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 218151,
+  "release_year": null,
+  "publisher": "",
+  "developer": "",
+  "players": "",
+  "system_label": "Xbox One"
+ },
+ "text": {
+  "fr": {
+   "name": "Double Dragon II: The Revenge",
+   "genre": "Beat'em All",
+   "synopsis": "",
+   "synopsis_lang": ""
+  },
+  "en": {
+   "name": "Double Dragon II: The Revenge",
+   "genre": "Beat'em Up",
+   "synopsis": "",
+   "synopsis_lang": ""
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ba497eba590d8faf378434f954b94472ec2dd1f440b98028a72a05cacc878315",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=34&jeuid=218151&media=fanart",
+   "fetched_at": "2026-11-06T16:34:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "13de0ad4511b5e83e4ba888635a15b1a9f5517665ef4a870165547265e8b7f0d",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=34&jeuid=218151&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:34:22+00:00"
+  },
+  "ss": []
+ },
+ "absent": [
+  "box-2d",
+  "support-2d",
+  "sstitle",
+  "flyer",
+  "ss"
+ ],
+ "fetched_at": "2026-11-06T16:34:20+00:00",
+ "status": "done"
+}

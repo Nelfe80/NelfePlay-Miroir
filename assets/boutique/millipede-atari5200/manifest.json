@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "millipede-atari5200",
+ "title": "Millipede",
+ "source": "screenscraper",
+ "ss_game_id": 44451,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44451,
+  "release_year": 1984,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Millipede",
+   "genre": "Tir",
+   "synopsis": "Un prototype de la conversion inédit du jeu d'arcade Millipede. Il a été achevé mais n'a jamais été distribué car Atari a abandonné la production de la 5200.\r\n\r\nLe but est de survivre vague après vague de divers insectes tout en essayant de détruire un mille-pattes qui descend son écran vers votre joueur. Bien que très similaire à Centipede, il ajoute quelques nouvelles bizarreries telles que de nouveaux insectes à combattre et des bombes DDT qui, une fois abattues, détruiront ce qui les entoure.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Millipede",
+   "genre": "Shooter",
+   "synopsis": "An unreleased prototype conversion of the arcade game Millipede. It was completed but never released due to Atari abandoning the 5200 near it's completion.\r\n\r\nThe goal is to survive wave after wave of various insects while trying to destroy a Millipede that makes its way down the screen towards your player. While very similar to Centipede it adds quite a few new quirks such as new insects to contend with and DDT bombs that when shot will destroy what is around them.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4b492b3076f16f77c0f9d76fee1df453e7fc0c6ca7a81ee9c0f8e58616152537",
+   "width": 600,
+   "height": 194,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44451&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:56:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "695ce9a10b70bfbf917c7141c1522b21183ab019e5703f61553cd90300df2145",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44451&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:56:37+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "67f469074fa2f3cf3a1f842d9705e67cf91f52342c20d8a64512659ec9f75552",
+   "width": 600,
+   "height": 552,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44451&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:56:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0274ffd30f3d7a5e2f75626aa8e922f00c3414904e083977a0ee84e36d9b62ed",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44451&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:56:40+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5ae2f40c2fefb6a89919c606f80b672a6efdf7daa72dfb8f4e54c386ca6efd5a",
+    "width": 336,
+    "height": 225,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44451&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:56:41+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:56:35+00:00",
+ "status": "done"
+}

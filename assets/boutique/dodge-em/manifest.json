@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dodge-em",
+ "title": "Dodge 'Em",
+ "source": "screenscraper",
+ "ss_game_id": 14132,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14132,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Dodge 'Em",
+   "genre": "Course, Conduite",
+   "synopsis": "Dodge 'Em pour Atari VCS 2600 est un jeu de course / action développé par Atari. Le but du jeu est de récupérer tous les points dispersés sur le circuit, tout en restant dans sa voie. Il est possible de changer de voie, mais uniquement à des endroits bien précis. Une voiture roulant dans le sens inverse (contrôlée par l'ordinateur ou un autre joueur) essaiera de vous barrer la route.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dodge 'Em",
+   "genre": "Racing, Driving",
+   "synopsis": "You control a race car on a four lane track, and your goal is to collect all of the dots in order to earn points and advance to the next level! The race track is broken up into four quadrants; your racecar must remain in the lane it is in except where there is a break in the lanes between quadrants. Trying to stop you is a second car which travels in the opposite direction. This car will always be trying to get into the same lane as you, causing a crash, so you need to make sure you switch to any lane it isn't in! To help out, your racecar has the ability to travel at a fast or slow speed. You begin the game with three racecars, and the game ends when all three cars have crashed. A two player game variation is also available where one player controls a car trying to collect the dots, and the second player controls the crash car trying to stop the first player.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "60ad8838e9eb1bac8f43053e0241576e79dcc641a8816730efa167528e29ddd0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14132&media=fanart",
+   "fetched_at": "2026-11-06T16:53:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3ec2f9aad1a1861937dbb0f74dd9022a51bda579c02464ca51da4522be9340f0",
+   "width": 400,
+   "height": 61,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14132&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:53:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6b92c48489cfa8172a276e52557127bbd259b7546fffff0866d72685d574fa56",
+   "width": 600,
+   "height": 824,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14132&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:53:06+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3374d3ad7697993ace51f4d168bfb237caf45b71af983148148231684a83441e",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14132&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:53:08+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c7d880f69b16bb1a8af4bb669b2c68370b9fee15e42f46f086a185eae9404918",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14132&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:53:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2bed5309fdd77e97d26f848831ee14365ad2411b79473dce64a8fd68f0abb174",
+    "width": 320,
+    "height": 180,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14132&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:53:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:53:02+00:00",
+ "status": "done"
+}

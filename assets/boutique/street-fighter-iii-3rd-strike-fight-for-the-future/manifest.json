@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-iii-3rd-strike-fight-for-the-future",
+ "title": "Street Fighter III 3rd Strike: Fight for the Future",
+ "source": "screenscraper",
+ "ss_game_id": 452489,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 452489,
+  "release_year": 1999,
+  "publisher": "Capcom",
+  "developer": "Capcom Production Studio 2",
+  "players": "1-2",
+  "system_label": "TeknoParrot"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter III 3rd Strike : Fight for the Future",
+   "genre": "Combat / 2D",
+   "synopsis": "Alors que le monde se remet des événements du Second World Warrior Tournament, Gill, le chef de l'organisation secrète Illuminati, lance un nouveau tournoi pour attirer les meilleurs combattants de la planète. Son objectif : recruter des guerriers d'élite pour son armée et étendre son influence. Parmi les participants, Chun-Li revient après une longue absence, déterminée à protéger sa fille adoptive Li-Fen et à transmettre son art martial à la nouvelle génération. Autour d'elle, des visages familiers comme Ryu, Ken, et Akuma, ainsi que de nouveaux combattants comme Makoto, Remy, ou le mystérieux Q, s'affrontent pour des raisons aussi variées que la vengeance, la quête de puissance, ou simplement l'honneur.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter III 3rd Strike : Fight for the Future",
+   "genre": "Fighting / 2D",
+   "synopsis": "As the world recovers from the events of the Second World Warrior Tournament, Gill, the leader of the secret Illuminati organization, launches a new tournament to attract the planet's best fighters. His goal: to recruit elite warriors for his army and expand his influence. Among the participants, Chun-Li returns after a long absence, determined to protect her adopted daughter Li-Fen and pass on her martial art to the new generation. Around her, familiar faces like Ryu, Ken, and Akuma, as well as new fighters such as Makoto, Remy, or the mysterious Q, battle for reasons as varied as revenge, the quest for power, or simply honor.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b53ac8ef04609d0a1a7bf43254da056660e32e6f840e09b029a90028fb00de87",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=452489&media=fanart",
+   "fetched_at": "2026-11-06T15:26:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "60f9e724ad5d9f7b41661179ce23515eef2517039ada7c4e63a26e00962165cc",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=452489&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:26:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d0a4745f9d48f690ef3ff9e8329f7712cddd99be6279dad41e6a1c5185121591",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=452489&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:26:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9acd21af4446f4dc2ec91cbcfec1462ee002a92ce1f1673dcfba3628922445db",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=452489&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:26:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "fa9e7414c7331ee4f4070841012aad27c71f27b36ab38d72f38d38aef1c792f4",
+   "width": 910,
+   "height": 1200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=452489&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:26:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "887d8e790843b6a9ec7836c65dd9ff35c07fa5ea4afe5dd50f0b4a452653f1a8",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=269&jeuid=452489&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:26:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:26:24+00:00",
+ "status": "done"
+}

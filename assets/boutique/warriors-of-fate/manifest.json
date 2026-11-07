@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "warriors-of-fate",
+ "title": "Warriors of Fate",
+ "source": "screenscraper",
+ "ss_game_id": 44111,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44111,
+  "release_year": 1992,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Warriors of Fate",
+   "genre": "Beat'em All",
+   "synopsis": "Un beat' em up qui vous plonge dans la Chine médiévale.\r\n\r\nL'action n'est pas très rapide mais le nombre d'ennemis est suffisament important pour rendre le jeu intense et fun.\r\n\r\nSympa.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Warriors of Fate",
+   "genre": "Beat'em Up",
+   "synopsis": "Warriors of Fate is a side-scrolling beat 'em up produced by Capcom, first released as a coin-operated arcade game in 1992 and later ported to the Sega Saturn and Sony PlayStation. It is Capcom's third game based on the Tenchi wo Kurau manga, following Dynasty Wars and Destiny of an Emperor.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2260a54d3d9e941fb6df34ea4ed944dcde2238b9b46119becc6d105068c49453",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=fanart",
+   "fetched_at": "2026-11-06T15:55:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1a4d0e99ea490ede899e12b5fc5bfdbda4dacad56f351d9dc5726fbba764b9f2",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:55:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6ce01a73dec621ce20e26a86a4235fc40daf4fa156152dd636ea4c078a8f3eff",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:55:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a8a4cc8f4c44d0637c664c936a110630f6eda5389c56cbb719bf8c2d45cdd4f1",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:55:44+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bb15b09247396ce10ad22e11a747979d460b8251f07f220db35de2f33a5439fa",
+   "width": 850,
+   "height": 1213,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:55:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1d679d98ce1020d35f14e5db22cb48f5d7f88768f30d549813d0f1dfe5b56fae",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:55:47+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "e54a2e9d4058e9c3c2b00ccf473160fc3aa95e6e64630225657b233cbbb821cb",
+    "width": 384,
+    "height": 224,
+    "region": "cn",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=44111&media=ss%28cn%29",
+    "fetched_at": "2026-11-06T15:55:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:55:39+00:00",
+ "status": "done"
+}

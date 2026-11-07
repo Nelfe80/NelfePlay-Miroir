@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "contra-spirits",
+ "title": "Contra Spirits",
+ "source": "screenscraper",
+ "ss_game_id": 136579,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 136579,
+  "release_year": 1995,
+  "publisher": "J.Y. Company",
+  "developer": "Ei-How Yang",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Contra Spirits",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Contra Spirits (également appelé Super Contra 3) est un portage pirate de Contra III: The Alien Wars (Contra Spirits au Japon) de la SNES sur NES, fabriqué par Ei-How Yang (et éventuellement d'autres) en 1995 et rediffusé en 1996.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Contra Spirits",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Contra Spirits (also named Super Contra 3) is a pirated Famicom port of Contra III: The Alien Wars (Contra Spirits in Japan) for the SNES, made by Ei-How Yang (and possibly others) in 1995 and rereleased in 1996.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8856a0235ddb005a3865b81eedb16c20ff1f90b912cdfb747f338653f11a6c29",
+   "width": 600,
+   "height": 271,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=136579&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T17:51:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "57b76e24bcea197dfc2dd950a2738b57a6b121ca6cc35a50e0f24037be9dca1e",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=136579&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T17:51:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ebff910e7a28d7e694763f1bb13e97ac05e2f012f155b5374314ef0848098024",
+   "width": 600,
+   "height": 400,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=136579&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:51:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f55643503d755099c3f444a3443de8b7a47e647cfdf1f5faa4492570cb679dd5",
+   "width": 256,
+   "height": 224,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=136579&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T17:51:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "39517dc37c844bb556c31e5158f870533803d265f1991fe0f23924684e73b835",
+    "width": 1022,
+    "height": 896,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=136579&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T17:51:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:51:07+00:00",
+ "status": "done"
+}

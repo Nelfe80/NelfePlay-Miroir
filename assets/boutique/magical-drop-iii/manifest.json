@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "magical-drop-iii",
+ "title": "Magical Drop III",
+ "source": "screenscraper",
+ "ss_game_id": 13883,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13883,
+  "release_year": 1997,
+  "publisher": "Data East",
+  "developer": "Data East",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Magical Drop III",
+   "genre": "Puzzle-Game",
+   "synopsis": "Dans Magical Drop III sur Neo Geo, vous contrôlez un clown qui attrape et lance des ballons. Vous devez les rassembler par couleurs identiques pour qu'ils explosent et libèrent de la place. Le mode deux joueurs vous permet d'affronter le CPU ou un ami, et cette fois-ci, vous pouvez choisir votre personnage, doté d'attaques qui lui sont propres.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Magical Drop III",
+   "genre": "Puzzle",
+   "synopsis": "This is the third installment in the puzzle frenzy series Magical Drop. In the game you control a clown who throws marbles up on the screen into the cluster of multi-colored marbles, rocks and crystals. The goal is to get three or more of the same color to remove marbles, but you can also grab more than one at the time to create long chain combos and gain better \"special\" blocks at the top of the screen.\n\nYou can play the game in single player modes or versus a friend in versus mode. In versus mode you get to pick your character, much like in a fighting game, each with their own counter attacks and abilities.\n\nFor the PSX version, the first Magical Drop was included on a separate disc.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "52ad033c25a80a795b19f6ece05646a5d31b50643e8fe29ceddeafd8064150a5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=fanart",
+   "fetched_at": "2026-11-06T15:33:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2e25b38ba100597eb33f300fc9c4592c33a5a04944b47f8f588b467a8c6807ef",
+   "width": 600,
+   "height": 274,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T15:33:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "93e3eb386fcc11fabb7332bb3c2bb1f88f8e7aebf34b9e9badfce973e5268600",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:33:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "663caae48c9798a767c06cc4a7bf39cfaef666ee306d926a4a1f78592322221e",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:34:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e65c534295c9261ad6a40394738dd5925d4f7af84637a5b646a38a30a5bf8bcb",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:34:02+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "2b88cba52eeb1d9a5b48147ffca791336df828b883488626dd9a42bc033d5005",
+   "width": 850,
+   "height": 1202,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:34:04+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6611d528642213b6be618d9d8a6b7ec9e5b0978ee1b2b629eeb9e8bb304a7a81",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13883&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:34:05+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:33:55+00:00",
+ "status": "done"
+}

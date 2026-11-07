@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sparkster",
+ "title": "Sparkster",
+ "source": "screenscraper",
+ "ss_game_id": 219,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 219,
+  "release_year": 1994,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Sparkster",
+   "genre": "Plateforme",
+   "synopsis": "Sparkster est la suite sur Megadrive de Rocket Knight Adventures sorti en 1993. La fille du Roi a été enlevée après une attaque ennemie. Seul Sparkster, jeune opossum leader du clan Rocket Knight, peut aller la retrouver. En plus de son habilité au combat, Sparkster possède un propulseur accroché sur son dos qui lui permet de flotter quelques secondes dans les airs. Il sera également amené à piloter différents engins pour arriver jusqu'aux kidnappeurs de la princesse.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sparkster",
+   "genre": "Platform",
+   "synopsis": "This sequel to Rocket Knight Adventures continues immediately after the first game. After defeating Axel Gear, Sparkster rescues Princess Cherry, only for her to be kidnapped again by the reformed Axel who serves the evil Empire of Gedol. Sparkster must now restore peace to the Kingdom of Zebulos, save the princess, and dismantle the empire once more.\r\n\r\nIn this 2D side-scrolling platformer, players control Sparkster the opossum across 6 levels, using his sword, jumps and a versatile rocket pack to navigate and attack. The rocket system features a dual-meter design that allows for successive air strikes and wall ricochets as the meters refill.\r\n\r\nAlong the way, Sparkster collects bonus and power-ups to enhance his abilities, including a unique level where he pilots a giant robot to defeat airborne enemies.\r\n\r\nPlayers can find 7 hidden swords across the levels to transform the hero into Golden Sparkster for an extra challenge. The game also features a password system.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "28746db027994d0971ad5ddb3bdc885eaf184d859293ee53fd8dbdb581a0c1e9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=219&media=fanart",
+   "fetched_at": "2026-11-06T16:07:52+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0a171dab9d6e47fd0e6a86fdd61bf2e1f0f4d53b0d4bd5513c76a069cdfd99ee",
+   "width": 600,
+   "height": 230,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=219&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:07:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a9c15701e81f40ee3bfdc7d364c89143aa0f21d1980868619b8bdd63f20c5af0",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=219&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:55+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "80b24de69c70a4c4c71282fdb78a463764fd2739180a26fac5801ef39cb66341",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=219&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3f1f1bfd537b60f808962bd0d1c789011a6d78e4dc9e3eb612ba97f83319a7e5",
+   "width": 256,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=219&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T16:07:58+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "dc737f0e18e01545ddfb519ca49ab9c8097987351b4b230e1cea3b650fe9766d",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=219&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:07:59+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:07:51+00:00",
+ "status": "done"
+}

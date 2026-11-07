@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "probotector",
+ "title": "Probotector",
+ "source": "screenscraper",
+ "ss_game_id": 189425,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 189425,
+  "release_year": 1990,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Probotector",
+   "genre": "Plateforme",
+   "synopsis": "Vous devez vous mesurer aux plus féroces ennemis de la galaxie. Soyez vigilant, soit vous gagnez, soit le monde est perdu.\r\nNous sommes en l'an 2633 de notre ère. La technologie a atteint un niveau si avancé que la nature et la science coexistent désormais harmonieusement, et que la paix règne sur le monde... mais sous le calme rôde une menace pour l'humanité défiant l'imagination.\r\nAlors qu'ils travaillent à une recherche ultra-secrète, une équipe spéciale de scientifiques découvrent qu'un extra-terrestre de la Galaxie de l'Apocalypse prépare l'élimination de la race humaine.\r\nPour protéger la Terre et son peuple, deux robots de combat (Probotector), RD008 et RC011, ont été mis au point. Leur mission, atteindre la forteresse des extra-terrestres dans les Îles Galga, et veiller à ce qu'ils soient exterminés.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Probotector",
+   "genre": "Platform",
+   "synopsis": "In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.\n\nAs either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bc4ea61eade633301f6530d3f1e6c1b1c51840439226ca126abb62710e9d8989",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=189425&media=fanart",
+   "fetched_at": "2026-11-06T17:52:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a872d7c65ef8a0714bb6c1ffcf3f05a02544f6a78f419204ef5b2cfc4fe0c5a8",
+   "width": 600,
+   "height": 250,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=189425&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T17:52:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c8a9bb8580e1e969d6def9b257cf76c2991c7ccc18fce00ae1d056f4a48f585b",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=189425&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:52:06+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3ffe84db4e29df80223ca17af6611463671166dd4454bd35ef5582749f8da841",
+   "width": 543,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=189425&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:52:07+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "de696b92b9da56f2d6925d1855647ebf4649cef7078c9400536e899e8a10c4c3",
+   "width": 256,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=189425&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T17:52:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b77bb295a4f0217be5528200a22ded05050b2a8fef7cde17aca9ebd40a9218a0",
+    "width": 256,
+    "height": 224,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=189425&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T17:52:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:52:02+00:00",
+ "status": "done"
+}

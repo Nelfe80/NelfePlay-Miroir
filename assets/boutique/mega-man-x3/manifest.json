@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-x3",
+ "title": "Mega Man X3",
+ "source": "screenscraper",
+ "ss_game_id": 2191,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2191,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man X3",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Après la défaite des Mavericks dans les épisodes précédents, les robots vivent en paix avec les humains. Mais les Mavericks d'origine reviennent à la charge et menacent l'équilibre. Mega Man et Zero sont rappelés sur le devant de la scène pour contrer la nouvelle attaque. Mega Man X3 sur Super Nes propose 8 niveaux d'action plates-formes qui conduisent tous vers un boss différent à affronter.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man X3",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "A Reploid scientist named Dr. Doppler begins creation of a new city for Reploids, which will bring a new era of peace to the Reploids and humans. But something goes terribly wrong, and now Mavericks have begun to appear everywhere! It's up to X and Zero to find out who is behind this Maverick revolt and bring them down for good!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "882f79affb4737880fbb41f263b97f54218b7f08053d7e63199c973e11827b1d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2191&media=fanart",
+   "fetched_at": "2026-11-06T16:04:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5bdeef7ed939d52cf94819859b8731e69b1331fde4e1ae2ea363951236131fb9",
+   "width": 600,
+   "height": 200,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2191&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:04:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ecfd726449a76bb5618cc0121b3c7d4139c14f690bd619c5cfcf06990c1d7698",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2191&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:04:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b6bf1873f93d380694f96c144a8dede3750e2a6c8245b3be2016ed2be948820a",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2191&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:04:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "99086d61d14b6033e68f5e50dad89ac971703050e422eed8839a8476eaf349a8",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2191&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:04:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d229fed2ad4669b1e0fbe76b86463e216125c63c7a682bc971ba84089a8920d7",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2191&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:04:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:04:44+00:00",
+ "status": "done"
+}

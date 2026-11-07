@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonson",
+ "title": "SonSon",
+ "source": "screenscraper",
+ "ss_game_id": 1811,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1811,
+  "release_year": 1986,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Son Son",
+   "genre": "Plateforme",
+   "synopsis": "SonSon est un jeu d'action qui propose au joueur d'incarner un garçon-singe dont le but est de rejoindre la statue de Bouddha. Son parcours initiatique est bien entendu semé d'embûches, et c'est à coups de boules de feu et autres prises de karaté que le jeune garçon va devoir se battre contre ses ennemis, rats et chauves-souris. Le jeu, en deux dimensions à défilement horizontal, peut aussi être jouer à deux en coopération.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Son Son",
+   "genre": "Platform",
+   "synopsis": "In this game, you play the role of either Son Son or Ton Ton as you try to rescue your three friends from the clutches of a random bad guy who kidnapped them right in front of you. This game is a side scrolling adventure, where the game field advances automatically, and the screen is divided in six different floors, all of which are populated by enemies or obstacles that will kill you if you touch them; but both Son Son and Ton Ton attack their enemies by shooting small bullets at them out of their weapons (a magic cane and a pitchfork, respectively). Their attack can also stop many enemy projectiles! Your chosen character must jump from floor to floor, evading hunters, bats, fish, statues, insects, skull coins, and mad bombers! As you advance, you can pick up several food items to increase your score. Clearing the screen of enemies will also net you several hefty bonuses.\n\nThe story is heavily based upon \"Journey To The West\"; the player characters as well as the kidnapped ones are based upon the main characters in the story. This game is also a port of Capcom's original arcade game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5b7f948c9d77e1c52cdae4874a372574d0f2e167a210516f77de305c12ec4dc1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1811&media=fanart",
+   "fetched_at": "2026-11-06T17:15:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8a5df549911fc0df9d7dabb7f46c0aa91aec1f0e5e0f4f9a2942b31e5ae4da02",
+   "width": 600,
+   "height": 270,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1811&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T17:15:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2bf891444ffad7ade6e9856993afa09e30f4c6c31dc18ed72b3a30ed0cd535b7",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1811&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:15:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8a53e6c51451cd21f41e3b14a62cfd2bfdc639f0a33a750ca6b3e63603fdd4a2",
+   "width": 600,
+   "height": 400,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1811&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:16:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f80caa3ad2e8f2dbb2fd080e30da5a56cb6ffa00b30ca1ece01a84b1f5b1fa02",
+   "width": 256,
+   "height": 224,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1811&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T17:16:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1299411c5af9573066a9e7db8b3b5e994b0f4eac4a889b9783ee195a999b93c0",
+    "width": 256,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1811&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T17:16:03+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:15:55+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "shinobi",
+ "title": "Shinobi",
+ "source": "screenscraper",
+ "ss_game_id": 150783,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150783,
+  "release_year": 1987,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Mega-Tech"
+ },
+ "text": {
+  "fr": {
+   "name": "Shinobi (mega-tech)",
+   "genre": "Plateforme",
+   "synopsis": "Vous contrôlez un shinobi, Joe Musashi, qui doit se frayer un chemin à travers chaque niveau à la recherche d'otages qui doivent être secourus. Vous avez des shurikens, des coups de pied et des coups de poing pour vous défendre, ainsi qu'une puissante magie ninja qui peut effacer l'écran des ennemis en une seule fois. Chaque niveau est divisé en scènes cinématiques plus petites et les otages sont gardés par de grands gars qui lancent des épées. Méfiez-vous des hommes de main et des ninjas ennemis armés. En atteignant la fin de chaque niveau, vous combattrez un boss. Celles-ci vont des géants de 8 pieds de haut aux hélicoptères de combat.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Shinobi (mega-tech)",
+   "genre": "Platform",
+   "synopsis": "You control a shinobi, Joe Musashi, who must fight his way through each level in search of hostages who need to be rescued. You have shurikens, kicks, and punches to defend yourself, as well as powerful ninja magic that can wipe out all enemies on the screen at once. Each level is divided into smaller cinematic scenes, and the hostages are guarded by big guys who throw swords. Watch out for henchmen and armed enemy ninjas. When you reach the end of each level, you'll face a boss. These range from 8-foot-tall giants to combat helicopters.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c5793e52b14afdbb1802abe45c9129cb14dd38c077ab47a7052f622a93085378",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=195&jeuid=150783&media=fanart",
+   "fetched_at": "2026-11-06T23:44:00+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "918b102670864c88c9264a4ecd052077a9d28bbfa4ea5e31140fcb6eee3d6360",
+   "width": 400,
+   "height": 208,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=195&jeuid=150783&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:44:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0d1705a66ea19668066132e688b7a8ef69e1defe2d472ea7b53bd5bf0b132a10",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=195&jeuid=150783&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T23:44:03+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5c1a6114582b64fb59ab52adde9855e67af5e43191b922998dcd9f351980e3e3",
+   "width": 256,
+   "height": 450,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=195&jeuid=150783&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:44:04+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "9c907c7f124ccd792bd107a4b32876d2c42759b115adf5e69e8ba809c6d10563",
+   "width": 820,
+   "height": 1092,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=195&jeuid=150783&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:44:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f088c4713647c4b069ae611d73e5d97a0c20ea0666dcbfbabff5ec1d6f122ce6",
+    "width": 256,
+    "height": 450,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=195&jeuid=150783&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:44:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:43:59+00:00",
+ "status": "done"
+}

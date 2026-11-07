@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "pac-mania",
+ "title": "PAC-MANIA",
+ "source": "screenscraper",
+ "ss_game_id": 60860,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 60860,
+  "release_year": 1987,
+  "publisher": "Namco",
+  "developer": "Namco",
+  "players": "1-2",
+  "system_label": "Namco Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Pac-Mania",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Une version 3-D du classique original. Un bouton de rebond permet à Pac-Man de sauter par-dessus les fantômes. De plus, il y a plus de fantômes, dont certains ont la capacité de sauter chaque fois que Pac-Man saute.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pac-Mania",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Pac-Mania is a 1- or 2-player game in which the player maneuvers Pac-Man through a world of 3-D mazes. He's back in action... but with a new twist, BOUNCE power! Ready for a new generation of Pac-Man players, he can't wait",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bcb56a89c8c44463aedc8d81ac1f866efd93da5170e826d8281b573ed9169431",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=fanart",
+   "fetched_at": "2026-11-06T17:12:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f533d9e03279a95ff93a9b959ae50470994f41d44f6e3ea991f399e55e732f75",
+   "width": 600,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:12:11+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e8978f82d5c40ef4595cf907b395b2b80c0d43a118420533efcac93b2fbb0c40",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:12:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "744ce5b47773fd11c4457c515f9759d52014853782aacf8d2623a12dece0868a",
+   "width": 487,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:12:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1ecf8f92eba0e591beed6b1f642b8a7daae14f14f9a9da7a5a441411bca1902b",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:12:15+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "2314a536e0da74fa93e8bbbd0fd511514cf04e7bfc633deac257fe304ad34dd5",
+   "width": 850,
+   "height": 1203,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:12:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "998d8c1274738b4ae51f9d05be968cc637e6fe43bd07f6ee4e55b6d144f79a51",
+    "width": 224,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60860&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:12:18+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:12:09+00:00",
+ "status": "done"
+}

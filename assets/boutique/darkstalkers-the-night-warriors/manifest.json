@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "darkstalkers-the-night-warriors",
+ "title": "Darkstalkers: The Night Warriors",
+ "source": "screenscraper",
+ "ss_game_id": 41049,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41049,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Darkstalkers: The Night Warriors",
+   "genre": "Combat / Versus",
+   "synopsis": "Un classique du jeu de baston ! En résumé, c'est un jeu de combat 2D à la Street fighter dans lequel vous incarnez un monstre célèbre (Dracula, la momie, une succube...), mais travaillé à la sauce \"manga\" (ah, Morrigan!...). chaque personnage ayant évidemment ses coups spéciaux et combos, aussi impressionnants visuellement que difficiles à obtenir, mieux vaut avoir une manette.\r\nTrès beaux graphismes, niveau de difficulté élevé, un must du genre !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Darkstalkers: The Night Warriors",
+   "genre": "Fighting / Versus",
+   "synopsis": "People tremble in fear of these monsters. A mysterious force awakens them from their long slumber. 'Arise and show your fangs!' The silence of the night is broken by the growls and roars of these evil spirits which have been summoned from beyond. They are coming... tonight! DarkStalkers - the warriors of the night!\r\n\r\nDarkStalkers features spectacular fighting between supernatural monsters with 4 TIMES the graphics of SFII (its 15,000 animation patterns put it way out in front of SSFII Turbo, resulting in realistic movement with smooth animation). With endless playability you'll never tire of, make sport of your opponent with incredible moves like the Special Attack and Death Blow which are humanly impossible. We're talking about unlimited varieties of attack!\r\n\r\nThe unimaginable secret power of the dark is unleashed!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "feb0cdfeac191778bf6de2134d46dbcdd5fdee74e444a24c286b74026a638915",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41049&media=fanart",
+   "fetched_at": "2026-11-06T15:50:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "352d6789c2fdc00a16517c075817d66af74210910fc1c8d1b7c5b3d93fccdf9f",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41049&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:50:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2941d41449e2122384fb45942ed7d53c4f5b742eb9659aa950171c52aab75982",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41049&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:50:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8959662ddf4e80e2f03493ef7c5caeb87f0e1eb0802146597d77478a82518025",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41049&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:50:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "836884952df801f5b8c42fc358975ef6d89b14255caa0a91f5309f5004c2c916",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41049&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:50:32+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "17377e043a6baf112f12425f08b93ef9ad07cc5e516fc17bcb522d300f0960ec",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41049&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:50:32+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:50:21+00:00",
+ "status": "done"
+}

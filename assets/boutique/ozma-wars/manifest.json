@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ozma-wars",
+ "title": "Ozma Wars",
+ "source": "screenscraper",
+ "ss_game_id": 79117,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 79117,
+  "release_year": 1979,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Ozma Wars",
+   "genre": "Tir",
+   "synopsis": "Ozma Wars est un shoot them up sorti sur borne d'arcade en 1979 (sur le système 68000). C'est le premier jeu développé par SNK.\r\nLe joueur contrôle un vaisseau spatial dont le but est de détruire un maximum d'OVNI, de météorites et de comètes apparaissant en haut de l'écran, avant que sa réserve d'énergie ne soit réduite à néant.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ozma Wars",
+   "genre": "Shooter",
+   "synopsis": "A great and pioneer fixed vertical space shoot'em up game. \r\n\r\nThe Ozma wars has begun, and the player controls a spacecraft which must fend off UFOs, spaceships meteors, and comets in a varied of space levels. Instead of lives, the player is given an energy reserve that is constantly diminishing; getting hit by the enemy causes gameplay to stop momentarily and a large amount of energy is depleted. Every so often, a mothership will appear and dock with the player's spacecraft, allowing the energy to be refilled. There are 3-4 recognizable stages as the game progresses and new enemies begin to appear. After these, the mothership will appear, and the cycle starts over; this continues indefinitely until the energy reaches zero.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "91a1fe93603567fd1c5235fcaab4a8b5adde3a6bdb51dc79eb955a4f1d672e0f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79117&media=fanart",
+   "fetched_at": "2026-11-06T16:00:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5d1a34dc131bdaab84eeeab58bc0d0d13fedd3fdd2465448b77ad4e5680b3cf1",
+   "width": 400,
+   "height": 156,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79117&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:00:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e3611e9805319e36774c68b17e5992a93fe1fd11e49bea7f14aa30a72037a7f8",
+   "width": 850,
+   "height": 1202,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79117&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:00:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e6fbc28909a660559ae161f22e93bb3fff63750b2d1258879b1fbccf438dd833",
+   "width": 224,
+   "height": 260,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79117&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:00:21+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d5bd2f634fee4dabfd3cc72f83ec299ac1fcd30d1ae094717e4478e3add7a492",
+   "width": 850,
+   "height": 1202,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79117&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T16:00:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6c6abf7fa3c95534dbb41733e657541f618bd49196d02606b9badc4f0e5782c2",
+    "width": 224,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79117&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:00:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:00:16+00:00",
+ "status": "done"
+}

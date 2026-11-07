@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "pac-and-pal",
+ "title": "PAC and Pal",
+ "source": "screenscraper",
+ "ss_game_id": 60861,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 60861,
+  "release_year": 1983,
+  "publisher": "Namco",
+  "developer": "Namco",
+  "players": "1-2",
+  "system_label": "Namco Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Pac & Pal",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Dans cette suite, Pac-Man ouvre les portes en retournant les cartes. Au lieu des pilules à moteur, Pac-Man assume les pouvoirs de deux cibles spéciales par tour. Les parties bonus consistent à retourner le plus de cartes possible avant de trouver le monstre rouge",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pac & Pal",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Pac-Man has a new friend named Miru, but she tries to steal stuff and take it to the ghost pen. Pac-Man now not only has to collect the stuff lying around the board, but he must also watch Miru to make sure she doesn't take the stuff for her own use.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a8bede90f3103b6182de2965109e8db348a8a1c45b412e609a11c2bdabcd3623",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=fanart",
+   "fetched_at": "2026-11-07T06:35:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b53ccf08c28275745e2077d73ae3664f3ef19327cca127fa21cf8dc0972c0b5b",
+   "width": 400,
+   "height": 88,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T06:35:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0448173b998b85f662bc19ab4f4199c3eec3dd7c2afb763bcbc81d1aa2ce151c",
+   "width": 496,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T06:35:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "837929ddcfaf5f8e759269ef5402a41765d103bfe0abab7561c561cc9a585afb",
+   "width": 515,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T06:35:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "81601c7e13d3007b74ba026c04d7a6dc5cbdfd149756d99aac49c565a72dfb1e",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T06:35:45+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "0ce70dc1986d657fe0e362c28c78f4a0cf692368b911bf0f0f709ac9b15203a3",
+   "width": 850,
+   "height": 1197,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-07T06:35:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e92c6c6cef16bce6515ba77fd2e10df2f93d7ab34317a1dc3db227c4dc4bb2a2",
+    "width": 224,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=60861&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:35:48+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T06:35:39+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mario-golf-advance-tour",
+ "title": "Mario Golf: Advance Tour",
+ "source": "screenscraper",
+ "ss_game_id": 4027,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4027,
+  "release_year": 2004,
+  "publisher": "Nintendo",
+  "developer": "Camelot Software Planning",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mario Golf : Advance Tour",
+   "genre": "Sport / Golf",
+   "synopsis": "Jouez au golf avec le célèbre Mario accompagné de toute sa bande dans Mario Golf : Tour Advance. Cet opus  sur Gameboy Advance se compose de plusieurs parcours, de nombreux modes de jeu et de différents personnages jouables pour des heures de plaisir seul ou entre amis, via le système link.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mario Golf : Advance Tour",
+   "genre": "Sports / Golf",
+   "synopsis": "Grab your clubs and start down the road to golfing perfection in this role-playing golf adventure! Chat up the locals at golf clinics, hone your skills in challenges like Club Slots and Go-Go Gates, and try to become the champ of all the country clubs! The Mushroom Kingdom residents take on only the very best.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "20939aefd082603e598fe6f5f11dd334f82b09b25bdc8bf69c272a4258ec6673",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4027&media=fanart",
+   "fetched_at": "2026-11-06T23:55:05+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9b115aafa796d099a72223a41c9506474bdabf5749f45e8c88ab3e60a820e582",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4027&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:55:06+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "04287dbc6d79b378a4c302db2ec4a65d9700ba07ba71954f5e43fb2ad8b03f94",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4027&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:08+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "00fdaf1a26170d05a0228477645b2ce9dde9caa0405d87322f5a30a4b8e33856",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4027&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "680aea2eed26a373418ff2d8968806c11c6d471af4eb32a34afed8f7b0657e3d",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4027&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:55:10+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "1b9cabba511644cd8c98533385e66176500dcbfff098efa98335035c95fff881",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4027&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:55:12+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:55:04+00:00",
+ "status": "done"
+}

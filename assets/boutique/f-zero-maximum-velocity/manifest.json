@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "f-zero-maximum-velocity",
+ "title": "F-Zero: Maximum Velocity",
+ "source": "screenscraper",
+ "ss_game_id": 3889,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3889,
+  "release_year": 2001,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "F-Zero : Maximum Velocity",
+   "genre": "Course, Conduite",
+   "synopsis": "F-Zero : Maximum Velocity est un jeu de courses futuriste développé sur Gameboy Advance. Avec une concentration sans faille, parcourez 5 tours de piste et gagnez une des quinzaines de courses proposées. Votre résistance à la vitesse est grandement mise à l'épreuve dans ce titre avec plus de 600 km/h dans la vue !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "F-Zero : Maximum Velocity",
+   "genre": "Racing, Driving",
+   "synopsis": "All galactic speed limits are about to be broken! F-Zero Maximum Velocity has arrived, and the future of racing has never looked so sweet. Brand-new vehicles and Game Boy Advance original tracks await, so whether you're a Super NES® veteran or a race rookies, you'll need some practice laps. And even if you do master the Grand Prix circuit, you'll still have to beat your friends to the finish line. That's right, race fans--with the Game Boy Advance Game Link® cable you can take on up to three rival racers, so put the pedal to the metal and get busy boosting, bumping and jumping your way to intergalactic glory!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8bc331bb3f4bc9c68e3d407e8a5d3bd52cefba8ee0806f30e43ffde3d35ea483",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3889&media=fanart",
+   "fetched_at": "2026-11-06T23:48:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "67a01c44193baa5aa40489dade1128a82c75400ccf6d2cba64d8b38870265fb4",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3889&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:48:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d132b17bf3a3803e3f3f391a16ef563913bf6dbcb3ee7ff852569226b697bd81",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3889&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3e623b635511a9edd367940afcec472fd83bd59ffe78f35560c38d5ba5d3e7d8",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3889&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "997102fb1958291a3c1f04790265b337b195025d62716dddc09bf0cc8bff02c1",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3889&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:48:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d443b733fbe582a20c09e1f56a667f183a4573ebf4c8fd3242363a9ba65b2a4c",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3889&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:48:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:47:59+00:00",
+ "status": "done"
+}

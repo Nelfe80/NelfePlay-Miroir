@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-ii-back-from-the-sewers",
+ "title": "Teenage Mutant Ninja Turtles II: Back from the Sewers",
+ "source": "screenscraper",
+ "ss_game_id": 70767,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 70767,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles II : Back from the Sewers",
+   "genre": "Plateforme",
+   "synopsis": "Teenage Mutant Hero Turtles II: Back from the Sewers est un jeu vidéo de type beat them all développé et édité par Konami sur Game Boy en 1991. Le jeu s'inspire des séries d'animation télévisée Les Tortues ninja.\r\n\r\nCette fois-ci, c'est Splinter qui s'est fait capturer par Krang. Leonardo, Michelangelo, Raphael et Donatello se mettent à la recherche de leur maitre jusqu'à arriver à Krang et Shredder.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles II : Back from the Sewers",
+   "genre": "Platform",
+   "synopsis": "Teenage Mutant Ninja Turtles II: Back from the Sewers is the second Teenage Mutant Ninja Turtles for the Game Boy. It is a sequel to Fall of the Foot Clan.\r\n\r\nThis time, Splinter was captured by Krang. Leonardo, Michelangelo, Raphael and Donatello go in search of their master until arriving at Krang and Shredder.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6220ac18a2275d5293146da730bd1399a7a0cb94c20b4b887cf13066e4f68ce5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70767&media=fanart",
+   "fetched_at": "2026-11-06T17:30:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bb388446da86119f06b7f0feba0debb726f50b3d74ac5d472f3ddaa114c9b31e",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70767&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:30:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a25350326fca678ad3dfbb4fcae56a9711d211ea772edd34d5ee416cad4cd8f3",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70767&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:30:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "84f4f76438d14df0bce660b8125cb37cbd19e8bba431d97fb83a33619b1f909c",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70767&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:30:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "39110ae5bf1c133af639e6dc8a9235954fcb6cf2541e77f2578ae37b6a7fa2ac",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70767&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:30:14+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "39a1a00ddf8547ac90f8c9262a58af1c954a70be45378b01999b8645b232bb3d",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70767&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:30:15+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:30:07+00:00",
+ "status": "done"
+}

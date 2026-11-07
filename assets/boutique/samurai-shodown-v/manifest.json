@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown-v",
+ "title": "Samurai Shodown V",
+ "source": "screenscraper",
+ "ss_game_id": 37633,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37633,
+  "release_year": 2003,
+  "publisher": "SNK",
+  "developer": "Yuki Enterprise",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown V",
+   "genre": "Combat",
+   "synopsis": "La célèbre licence de jeux de baston en 2D est de retour pour son cinquième opus. 27 personnages sont jouables dont neuf nouveaux venus. Un nouveau système de combat fait également son apparition.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown V",
+   "genre": "Fighting",
+   "synopsis": "Seven years after the fourth game in the series, Samurai Shodown returns. In the game's time frame, this is the earliest game, hence the Japanese title Samurai Spirits Zero. It takes place in 1786 from January through the later summer. The game is therefore considered a prequel to the series.\n\nThe overall gameplay was slightly altered. It is a little faster, and the Slash/Bust system has been removed. Each character now has only one version, or the Bust mode is simply replaced by a new character of very similar setup. Combo slashes, sidestepping and fatalities have also vanished. The basic moves have been modeled after the first games in the series. They consist of three types of slashes, a single kick, and various dodge maneuvers similar to Samurai Shodown II.\n\nThere are 24 characters, a familiar cast with some new faces. Unlike the previous games, it is not possible to kill your opponent.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d32ee4a3e449c1782dafd8546fdbcc18af08058639e336f80bbf948752f27c62",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=fanart",
+   "fetched_at": "2026-11-06T16:42:50+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2ffc4c5e14ae98f38286ce8cf8c03acd28f8e00d1f7e9e0a30ce487b08a094b9",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T16:42:51+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0431b4d12d81e5a715e6fa8f11c45394338f2b1d566b80621faaee3520032543",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:42:52+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "399f956cfecb05996fe27729cf641044505641750ed5966103ed9c170d723b20",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:42:54+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "800a648eba5b5cfb330b1a363d40c849a0a31357d0ee5c1d6cfc7fd5eee7e313",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:42:55+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a715a03a711fc1c8f462ba91737e6cae1ddce7bd32243a1f85762d84620e32a9",
+   "width": 1000,
+   "height": 1418,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:42:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "795a85735bba764c042c88c631edc77a7fbdc1a50840c0f79a778277c37f8267",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37633&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:42:58+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:42:48+00:00",
+ "status": "done"
+}

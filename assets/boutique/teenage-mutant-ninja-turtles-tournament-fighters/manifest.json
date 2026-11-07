@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-tournament-fighters",
+ "title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 1345,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1345,
+  "release_year": 1994,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles : Tournament Fighters",
+   "genre": "Combat",
+   "synopsis": "Teenage Mutant Ninja Turtles : Tournament Fighters est un jeu de combat sur NES se déroulant dans l'univers des Tortues Ninja. Retrouvez vos 4 tortues préférées ainsi que d'autres personnages de la série comme Shredder. Le jeu propose un mode histoire où vous choisissez un seul personnage et allez jusqu'au bout pour sauver April et Splinter. Un mode tournoi est également présent mais vous vous battez uniquement pour la gloire (et l'argent) dans celui-ci.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles : Tournament Fighters",
+   "genre": "Fighting",
+   "synopsis": "Teenage Mutant Ninja Turtles: Tournament Fighters is an NES fighting game set in the Ninja Turtles universe. Fight one-on-one battles as your 4 favorite Turtles, as well as other characters from the series such as Shredder, Casey Jones, and Hothead.\r\n\r\nThe game's single-player Story mode has the player taking control of one of the four Turtles as they hold a contest amongst themselves to see who is fit to take on Shredder's challenge. The game also has two Versus modes, a four-player Tournament mode, and options to adjust the game's difficulty, continues, and speed.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "703875156545ac0551a64b840fd06b014f6efc3eaeac57102e60a59c3a60657e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1345&media=fanart",
+   "fetched_at": "2026-11-06T17:27:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f42bd577cf6100959ce0b9b30466dd85bcee41e941c345900b43f1990c97ac4d",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1345&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:27:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5002b3813357f3e93a9adc0facf0ad59b029d159e4c649347ecbffa51609486d",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1345&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:27:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d512b9f13d960839846274899b662e41aa00d7f166881d771ddf829c1cb60ea8",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1345&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:27:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "63b56fdc775683950b614224b0682c94e55ac0ee45db066a53151c33cd9adf4c",
+   "width": 256,
+   "height": 240,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1345&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T17:27:29+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "453f61de3fae767c88bfb705aebe0da9279a71e61b7d3cd20a6592b6eaae3d41",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1345&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:27:30+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:27:22+00:00",
+ "status": "done"
+}

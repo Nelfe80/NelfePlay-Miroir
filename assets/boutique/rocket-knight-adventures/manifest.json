@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "rocket-knight-adventures",
+ "title": "Rocket Knight Adventures",
+ "source": "screenscraper",
+ "ss_game_id": 72,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 72,
+  "release_year": 1993,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Rocket Knight Adventures",
+   "genre": "Plateforme",
+   "synopsis": "Sparkster, le seul espoir d'une nation désespérée.\nLe Chevalier noir et son armée de soldats-robots psychotiques ont apporté mort et destruction au pays autrefois tranquille d'Elhorn. Est-ce que Sparkster pourra vaincre le seigneur de la guerre dépravé et rendre la paix à son pays?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Rocket Knight Adventures",
+   "genre": "Platform",
+   "synopsis": "Rocket Knight Adventures is the first side-scrolling action game starring Sparkster.  He lives in the kingdom of Zebulos, and is the bravest of all the Rocket Knights.  One day, an army of pigs comes down to invade the kingdom and capture the princess.  It is up to Sparkster to set things right again.\n\nMost of the gameplay in Rocket Knight Adventures involves using Sparkster's rocket pack and sword.  Sparkster has to fight off many bosses and survive many precarious situations.  The levels are interspersed with a variety of elements, like shooting stages, and giant robot combat.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c9e3eee24aa23e657bff1944c1f97ae844a5bf5bedaff655d07ecc5269a9e25c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=72&media=fanart",
+   "fetched_at": "2026-11-06T16:07:30+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "fe48727bb5abcf5ab160040ceadd9c028d31c685fd900b53c63baf537548c11b",
+   "width": 600,
+   "height": 260,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=72&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:07:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f71e200d2b55df71aad5ae30b1b6cc4c5d60336559d432d538db39e4e74d0e23",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=72&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ce725573ec4faa39e1dc6e5a05f319883b8a7f70500b8055199482ad101533f9",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=72&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "27ae955716b3ec07d9e8c47d534619f4815582e610757d02e2f479e6631d7dcd",
+   "width": 320,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=72&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T16:07:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0d5bb042cdf880bcaf8bc3aaa7d879ab3c365b688a0403d1797c7ea9228d651c",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=72&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:07:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:07:29+00:00",
+ "status": "done"
+}

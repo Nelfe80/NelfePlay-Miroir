@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "realsports-football",
+ "title": "RealSports Football",
+ "source": "screenscraper",
+ "ss_game_id": 87547,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87547,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Football",
+   "genre": "Sport / Football Américain",
+   "synopsis": "RealSports Football est une simulation de football à un ou deux joueurs qui se joue sur un terrain avec défilement horizontal, avec cinq joueurs dans chaque équipe. Comme dans le vrai football, l'objectif est de parcourir un terrain de 100 mètres en combinant jeux de passes et de courses.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Football",
+   "genre": "Sports / Football (American)",
+   "synopsis": "RealSports Football is a one or two-player football simulation played on a horizontal scrolling field, with five players on each team. As in real football, the goal is to march down a 100-yard field using a combination of passing and running plays. There are three ways to score: crossing the defensive team's goal line is a touchdown worth seven points, kicking the ball through the defense's goal post is a field goal worth three points, and tackling the ball carrier inside the end zone is a safety worth two points.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bce7233b7b533b0d95a3b293ca5db6f2bf9bfdbe4a96fdae0574eb044f9de461",
+   "width": 400,
+   "height": 127,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87547&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:00:55+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7318b8de1acf3b6f7e3e4bfe452a562d9a5f855b934bc8f731da9ebd47c9bcaa",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87547&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ab048e9113a63ca3419bac40f7d4890bb8792d441e935c399df9f136f81e86e5",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87547&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "e6a1e5f9913268ca4ccd71fade41c718fc351ff85e6ed97849d684a9ccb2f96e",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87547&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:01:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8fe64d00aa5b761edfe2cd59a7f15549d1ab440c7a6d9ee79e0a625a0412d5e6",
+    "width": 304,
+    "height": 200,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87547&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:01:01+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:00:54+00:00",
+ "status": "done"
+}

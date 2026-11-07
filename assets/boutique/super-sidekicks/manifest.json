@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "super-sidekicks",
+ "title": "SUPER SIDEKICKS",
+ "source": "screenscraper",
+ "ss_game_id": 37644,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37644,
+  "release_year": 1993,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Sidekicks",
+   "genre": "Sport",
+   "synopsis": "Super Sidekicks sur Neo Geo est une simulation de football permettant de prendre les commandes de 12 équipes internationales et de la super team, une sélection réputée imbattable. Le titre se penche sur l'essentiel avec uniquement deux boutons permettant de faire des passes, frapper, ou le pressing selon la phase de jeu. Jonglez, dribblez, frappez et tentez de battre les redoutables gardiens de but.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Sidekicks",
+   "genre": "Sports",
+   "synopsis": "Experience the roar of the crowd and the thrills of the stadium. SNK's live-action soccer game is here! Along with your Ace Striker and his array of sliding, overhead, and diving shots, lead your team to victory and seize the prized SNK Cup. Watch players perform miraculous overhead and diving shots, dazzle your opponent with gravity-defying dribbling. Avoid sliding defense players and bone-crushing blocks. Be overwhelmed with in-your-face action so real, you'll be washing the grass stains off your clothing when you're finished!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "04280e5aa23ca082a02a839bb3ddd2f99a9d9b53b564c3cdce1d2e923224e259",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=fanart",
+   "fetched_at": "2026-11-06T15:39:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6aa4ce37aa6893fa6b8dfbb41292b5b3f9a6eafce63788f619f5e68429f79a6b",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:39:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4160ab96beb861708e2ff818d1e6aeb0ee520e98040b1aec76c6d3aa5ef80d1e",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "edc050b069974df27b03268923eab38c3e10911dd6fc8ef4007bcddbdc1d7abd",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3136bc917f73650cc1091566d03548bc565922d9877cb148cd78790117b42dc0",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:39:21+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "3f46c9a7049e74f5c60a244d99ac11a7ded2e18f0ed0883f8ecd0cd5b2344064",
+   "width": 563,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:39:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ed7a93d2b52b5432a3e9ef049b450d6e11268920d49d3caf9ae61dda2e5fa918",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37644&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:39:24+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:39:14+00:00",
+ "status": "done"
+}

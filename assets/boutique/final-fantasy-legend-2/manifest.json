@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "final-fantasy-legend-2",
+ "title": "Final Fantasy Legend 2",
+ "source": "screenscraper",
+ "ss_game_id": 3028,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3028,
+  "release_year": 1991,
+  "publisher": "Squaresoft",
+  "developer": "Squaresoft",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Final Fantasy Legend II",
+   "genre": "Jeu de rôles",
+   "synopsis": "Final Fantasy Legend II sur Gameboy est un jeu de rôle de la célèbre série de Squaresoft vous proposant de créer la totalité de votre équipe de quatre personnages en vous laissant choisir leurs races entre humains, monstres, mutants et robots. Partez ensuite à la course à l'expérience et aux pouvoirs !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Final Fantasy Legend II",
+   "genre": "Role Playing Game",
+   "synopsis": "The second in the Final Fantasy Legend series increases the amount of detail over the original in gameplay and graphics.\n\nThe major changes are in the character classes and party members. Similar to FFL, starting a game of Legends II allows you to choose your main character from Humans, Monsters, Mutants and a new class: Robots. From here, you build your party of 4 from the same character classes. During gameplay special side-characters will join you in battle to help defeat certain enemies. \n\nThe other improvement is in strategy. In FFL you gain experience points after each battle, increasing strength, etc. In FFLII, you gain different points and abilities depending on how you defeated the enemy. If you win by using a sword, your strength increases. If you use magic, your mana increases. This adds a more strategic approach to defeating enemies.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "996acefc22a68ec13e70ddec712f44f8c133dbeb39596af3ec51ba9777be69be",
+   "width": 1280,
+   "height": 720,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3028&media=fanart",
+   "fetched_at": "2026-11-07T01:03:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9397c38d3646586fc85ceebef694c8b4e724aebf6c46eadb7d1cffde41412a18",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3028&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:03:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1e2b2192e8ff2bcb8ab83c16b1bd41f472bbca931d36b1f48af38436c7a2cffc",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3028&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eaa5806e6d986fad6ce6d2c1eb3a1419a1ca824e330317e04bd7e52c4075a3d7",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3028&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "2b2ac6ee43bd4db43ea9e07bf30c3b4bc2fada25467df8e71257a1fcc7704aac",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3028&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:03:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7513b3de3f5234bc396a7564ef93b8741d4e19c551dc4e7026587dc7e8231165",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3028&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:03:08+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:03:00+00:00",
+ "status": "done"
+}

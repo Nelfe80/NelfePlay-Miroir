@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "trevor-mcfur",
+ "title": "Trevor McFur",
+ "source": "screenscraper",
+ "ss_game_id": 14186,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14186,
+  "release_year": 1993,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Trevor McFur in the Crescent Galaxy",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Trevor McFur in the Crescent Galaxy sur Jaguar est un shoot'em up spatial dans lequel vous incarnez un caporal de l'escouade de défense interplanétaire pour sauver la galaxie d'une entité alien Odd-It. Tout au long du jeu vous pourrez améliorer l'armement de votre vaisseau en détruisant certains types d'ennemis. Vous possédez aussi un bouclier à usage limité ainsi que des bombes dans les phases difficiles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Trevor McFur in the Crescent Galaxy",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "The Crescent Galaxy has been attacked by an entity known as Odd-it. This creatures goal is to make everything odd, like it. You play Trevor McFur, a corporal in the Crescent Galaxy's chapter of the Interplanetary Defense squad and are sent in along with your feline partner Cutter to defeat Odd-it. The game is a side scrolling shooter featuring a wide variety of worlds and enemies to conquer. Throughout the game you can power your ship with newer and better weapons by shooting certain enemies and collecting the bonuses left behind.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8d7003b437b685aeea31522e81bfdad358cb9bf300e822a74f50af21694d3ede",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14186&media=fanart",
+   "fetched_at": "2026-11-06T23:42:58+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f99dc2f7d24aeef238a3836df65d42000e5f70a94de8b8961f193e7ec63fa5d8",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14186&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:43:00+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a93778abf382e4b2b5c15864c805fe84980a4972c06dc58b4e440dbe2c5aebf9",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14186&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:43:02+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fcc940bd26e895ade2203237157df8a7e9f4c2579a63c6b4804c43fd507c32bd",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14186&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:43:03+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "cb2f28213b75a29a98b83b36537e4d0318d5182333e833e454e00dea22b572c1",
+   "width": 320,
+   "height": 227,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14186&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:43:05+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "42140a86aab2a06f03fb461277de3fdf065be886e9e987e593043badef9aae81",
+    "width": 320,
+    "height": 227,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14186&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:43:06+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:42:58+00:00",
+ "status": "done"
+}

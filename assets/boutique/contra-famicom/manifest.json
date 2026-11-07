@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "contra-famicom",
+ "title": "Contra (Famicom)",
+ "source": "screenscraper",
+ "ss_game_id": 18624,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 18624,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Contra",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Version japonaise & américaine de Probotector (donc sans armure). Bon jeu sur lequel on reste, à essayer. La version Américaine est bizaremment amputée de ses cinématiques et de quelques effets en jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Contra",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.\n\nAs either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c06016fb0b9b8779e4afa8e9092e524f4082776fe4b23a4c84afd6485cc750db",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=18624&media=fanart",
+   "fetched_at": "2026-11-06T23:16:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6f8f7850843b34c6387812c22428ce2fe15390cb48bbb9183cc01d7e6d07b725",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=18624&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:16:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4b8ab38309472697d54bcf415772264c9d4430d28ca32317543ab70db7709e29",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=18624&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:16:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1b81196b699fe53bb7fe39d8b452315eeea32c0a9dd9b1050e0acf4e1b3a51b1",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=18624&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:16:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6ab9c793230c192e60b799b4ea7df65645f7a6d3dd487025e5f2295717a811c8",
+   "width": 256,
+   "height": 240,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=18624&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:16:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fb78ea93522144528c3aa49e9e22eb042cc9a4ff7c179c6ba7a0391db1d56ae0",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=18624&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:16:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:16:44+00:00",
+ "status": "done"
+}

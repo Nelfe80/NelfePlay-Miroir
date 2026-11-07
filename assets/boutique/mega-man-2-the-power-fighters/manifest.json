@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-2-the-power-fighters",
+ "title": "Mega Man 2: The Power Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 78893,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 78893,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man 2: The Power Fighters",
+   "genre": "Combat / Versus Co-op",
+   "synopsis": "Quand Megaman devient un jeu de combat, on tient un titre fun et super plaisant à jouer. C'est ce que propose ce Megaman 2 : The Power Fighters, un jeu d'arcade court mais intense!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man 2: The Power Fighters",
+   "genre": "Fighting / Vs Co-op",
+   "synopsis": "Building upon the previous game, you must battle Dr. Wily's evil robot criminals with the help of Megaman, Protoman, Bass & Duo. Features cool 2-D graphics and the same tried & true Mega Man controls. Pay attention to Dr. Light's advice and you may reach Dr. Wily's fortress and come out victorious!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2d932607e442bc2923f0ae7342cf0950e954c4c019bab936e25f393f460e294d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=78893&media=fanart",
+   "fetched_at": "2026-11-06T17:24:54+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "87ce05c2cafe6ada7f4c23bdabdae72d820f6a3fc3a66c793afac16a11ce8126",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=78893&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:24:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6c0502179831da6a72c33ac78f72a0215e26339c00508775e6794746e62a98dc",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=78893&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:24:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "95ca58db0dedacaf7106150d37d1181842e2abcdc2a2488a59345586528aed04",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=78893&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:24:59+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "de372f399242e2b30a75bfc0950c962ad52f14b67fa555399e204edd19c3a69c",
+   "width": 850,
+   "height": 1184,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=78893&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T17:25:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b58b18687526d38b67b5adfc0690f03e11811595d268c086c308d8a2a730f049",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=78893&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:25:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:24:53+00:00",
+ "status": "done"
+}

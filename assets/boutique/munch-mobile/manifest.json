@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "munch-mobile",
+ "title": "Munch Mobile",
+ "source": "screenscraper",
+ "ss_game_id": 41912,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41912,
+  "release_year": 1983,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Joyful Road",
+   "genre": "Course, Conduite",
+   "synopsis": "Munch Mobile, connu au Japon sous le nom Joyful Road, est un jeu où vous conduisez une petite voiture équipée d'un bras extensible pour attraper fruits, poissons, sacs d'argent ou bidons d'essence faisant gagner des points ou refaire le plein, tandis que jeter les déchets dans les poubelles rapporte des bonus.\r\nLe jeu utilise deux sticks : un pour la voiture, l'autre pour le bras. Il faut collecter les bonus, gérer le carburant et atteindre la maison en fin de parcours, tout en évitant collisions et dangers de la route. \r\nAvec son concept atypique mêlant conduite, collecte et gestion du bras mécanique, Munch Mobile propose une expérience originale et typique des expérimentations arcade du début des années 80.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Munch Mobile",
+   "genre": "Racing, Driving",
+   "synopsis": "A weird driving game with a car that has long arms that reach out to grab a variety of edible items that appear along roadside.\r\n\r\nThe object is to drive safely down the road. Pick up enough fuel to stay alive while avoiding other vehicles that go by, grab as many bonus objects as possible including apples, cherries, bananas, acorns, live fish and money, and park your car in the garage. Driving while trying to pick up the goodies is difficult and you can crash very easily on the narrow roads. The pace of the game is frustrating because the hands move slowly while the car itself moves really fast, especially in the later rounds. If one of your hands hits a tree or any other foreign object in its quest for food, the car winces in pain for a few moments until it can use its hands again.\r\n\r\nYou can get a bonus for putting used-up food into garbage cans. Grabbing fish which leap out of surrounding rivers is a safe bet, but most other bonuses are placed, so you can crash if you try to grab them. The best strategy is only to go for the fuel, since the car is a big gas guzzler and you can also get a bonus for leftover fuel at the end of the drive.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ce3aba47c142e9375f9b9dbeda5f2602b0ed16ba98626239d66ea7b4791d184a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=fanart",
+   "fetched_at": "2026-11-06T16:00:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "42e4971aee3c2572112fcb601716d262ab7f87547fe7e5d50fc35b9a1b5ef947",
+   "width": 400,
+   "height": 150,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:00:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1bda0387b5ae8908c0a6630cecfbd1e0586637ac10ff7115abace0d5840bee4f",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:00:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9b856b6459cf4d336ed695dc9c230584ae523a4fb82db2cd3852ca1d449e68ee",
+   "width": 433,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:00:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "8ba7edd3743a27e43506f352ce3941beb3cc6f24e08b825ece3fe90e4615014d",
+   "width": 240,
+   "height": 320,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:00:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "3d6368040efc18a978f1e7d308f86e29d5b9258fe9172bc58b3ded0d1cc6e396",
+   "width": 850,
+   "height": 1200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:00:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e3a9aaa797f1e2a762053bc03b9ab7dbd79ffded2bc159fd272cd3f4dce0428c",
+    "width": 240,
+    "height": 320,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41912&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:00:10+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:00:01+00:00",
+ "status": "done"
+}

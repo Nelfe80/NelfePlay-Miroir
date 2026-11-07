@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "senjo-no-okami-ii",
+ "title": "Senjo no Okami II",
+ "source": "screenscraper",
+ "ss_game_id": 78903,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 78903,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Mercs",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Le président des Etats-Unis a été kidnappé pendant un voyage dans un pays d'Afrique Centrale. Pour éviter toute rupture diplomatique, on va faire appel à un corps d'élite spécial : Mercs.\r\nDans ce Run and Gun vous devrez faire le ménage et détruire les caisses pour trouver des armes plus puissantes ainsi que des trousses de premiers soins pour vous restaurer en cours de partie. A la fin de chaque niveau, vous serez confronté à un boss. Son énergie est représentée par des carrés rouges. Ils ont tous un point faible qui permet d'en venir à bout s'en trop s'exposer. A chaque série de coups encaissés, la puissance du boss diminuera jusqu'à son éradication. Les armes sont assez diversifiées, par exemple, après le simple M16, vous passerez à une arme de type inconnu dont le tir en éventail est fort efficace puis au lance-flammes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mercs",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "The US faces a grave crisis! The former president has been kidnapped by a group of revolutionaries while on a trip on Central Africa meant to promote world peace. Take control of three highly skilled anti-terrorist soldiers and venture through enemy lines to save the former president & annihilate the rebel army in the process. Features solid graphics & sound, plenty of weapons & vehicles to use and hulking bosses to defeat.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "805be0feeddaa8bb30da1d0ffe5cbc6acbcd7876e11e96414dee876374c95a7d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=fanart",
+   "fetched_at": "2026-11-07T06:36:06+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f6260308ae3850ac190706e1127e5cd72f09af411bfff009009c882581014916",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T06:36:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9f106b7b03160859fd1efacb7327e01c9528a2438c18978126ce10e0f7c137bb",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T06:36:09+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fbabba2b5ec08c5cfec3aa4dd79828a64f92df9fe4ec4d65fdda505196bae6f8",
+   "width": 545,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T06:36:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "62487aaff0a79c8f3a536652466181d9885648f5d0951c48ab27cc11b351c377",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T06:36:12+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a00e80ea2c0dc5923df182aa5ea3567d6be1332180ece849bdf34af47abf30ad",
+   "width": 850,
+   "height": 1091,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=flyer%28us%29",
+   "fetched_at": "2026-11-07T06:36:14+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "77b03e2c3af1bc5ddad94d022dd22b0cfe56d3b26714b149e3072db883decbeb",
+    "width": 224,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78903&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:36:15+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T06:36:06+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "asteroids",
+ "title": "Asteroids",
+ "source": "screenscraper",
+ "ss_game_id": 60280,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 60280,
+  "release_year": 1979,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Asteroids",
+   "genre": "Shoot'em Up",
+   "synopsis": "Le joueur contrôle un vaisseau spatial, représenté en vue de dessus et confronté à des champs d'astéroïdes et des soucoupes volantes. Le but est de survivre le plus longtemps possible en détruisant les astéroïdes et les soucoupes pour engranger les points. L'aire de jeu est intégralement représenté à l'écran; lorsqu'un élément sort du cadre de l'écran, il réapparaît du côté opposé (idem pour le vaisseau du joueur)\r\nLorsqu'un astéroïde est touché par un tir, il se divise en deux blocs de taille moyenne, lesquels peuvent à leur tour être divisés en deux plus petits blocs, lesquels peuvent enfin être détruits. Le programme original ne peut cependant afficher que 26 astéroïdes simultanément à l'écran (au-delà les astéroïdes ne se divisent donc plus et se contentent de réduire en taille). Une fois tous les astéroïdes détruits, le joueur passe au niveau suivant : le nombre d'astéroïdes présent au début du niveau varie de quatre (pour le 1er) à onze (pour le 5e et tous les suivants). Le nombre de points rapportés par la destruction d'un élément est dépendante de sa taille. Les soucoupes volantes sont de deux tailles : la plus imposante a la capacité de tirer.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Asteroids",
+   "genre": "Shoot'em Up",
+   "synopsis": "Asteroids is a legendary, genre defining game - in an era replete with genre-defining classics - in which a single player takes control of a spaceship trapped in the middle of an asteroid belt. A number of large, slow-moving asteroids drift randomly around the play area and must be shot by the player. When shot, the asteroids will break into a number of smaller pieces which must also be shot until eventually, all of the asteroids and fragments will be destroyed and the next wave begins. \r\n\r\nAsteroids introduced real-world physics to video games for the first time, with speed and inertia all adding to the player's problems. As well as the inertia of the player's ship - forcing the player to allow for the ship slowing down and speeding up whenever the Thrust button was utilized - shot asteroids would often send fragments flying in seemingly random directions, and at varying and unpredictable speeds. \r\n\r\nAs well as the ever-present asteroids, flying saucers also make a regular appearance. These move horizontally and diagonally around the screen, firing at the player's ship, and must be quickly destroyed. They are destroyed when hit by the player's shot, when hit by a saucer's shot or when they collide with an asteroid.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "20afce7e74ae58c8230c8866d507dbeabb3809cc6916ff3ad84e40ecffeca118",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=fanart",
+   "fetched_at": "2026-11-06T16:46:24+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e985a66cde4a077264b9ff18d0fedc8efade8bb2c18202be6e195d3469e93c60",
+   "width": 600,
+   "height": 120,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:46:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e1c1f285fe08d951c29861eb18c2ff385d2463d7071ff1f6eea9cc0cce0d9f5c",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:46:27+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4d201acc1e930de3cc51bdd9ec5c2e2fa822517864217c60dbe6104d00aab8cb",
+   "width": 635,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:46:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "59e0faf0c50816e1e1cfba96c81a0abe6c4bd0db0d1c2e362432b1285f196e5a",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:46:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d26171f662e343cadb00f6de6219a0e82a93b3d722674189c326f694d9377834",
+   "width": 524,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=flyer%28us%29%5B1%5D",
+   "fetched_at": "2026-11-06T16:46:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "904c25eb22f97ac4e7b84d823c5020ddad07bb94bb98f4f0c755e1ccb9c2f5a2",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=60280&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:46:33+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:46:22+00:00",
+ "status": "done"
+}

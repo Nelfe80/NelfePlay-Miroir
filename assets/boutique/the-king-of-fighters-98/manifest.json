@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "the-king-of-fighters-98",
+ "title": "The King of Fighters '98",
+ "source": "screenscraper",
+ "ss_game_id": 9541,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 9541,
+  "release_year": 2013,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "Wii"
+ },
+ "text": {
+  "fr": {
+   "name": "The King of Fighters '98",
+   "genre": "Combat / Versus",
+   "synopsis": "The King of Fighters'98 est un jeu de combat 2D sur Wii. Cinquième opus de la série, ce volet intitulé au Japon \"Dream Match Never Ends\" se déroule en réalité à l'intérieur d'un rêve du personnage Shingo. Le joueur a le choix d'incarner 36 combattants différents.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The King of Fighters '98",
+   "genre": "Fighting / Versus",
+   "synopsis": "The King of Fighters'98 is a 2D fighting game for Wii. Fifth opus of the series, this part titled \"Dream Match Never Ends\" in Japan actually takes place inside a dream reality of the character Shingo. The player has the choice of controlling 36 different fighters.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5619cc72049bf086d2b055ff9cebe4ca18b6b4294578be76172bf17c4322318e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9541&media=fanart",
+   "fetched_at": "2026-11-06T17:44:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "329632298113201d6b0ed4a949cf5acdfcb841607572f4c5090bf793bdce8fe2",
+   "width": 600,
+   "height": 237,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9541&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:44:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "692e3ee3eee6882259fa15a7a84eae66c8eccf944fd374a876b7f1fa07c88f6a",
+   "width": 486,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9541&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:44:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "cdd19f4d4ac43bde9547fbbe54164457b134792f297e22f741ef94da21e599be",
+   "width": 600,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9541&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:44:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c0f673a29e25bab92b194e23ee3c48249c3b8637502c82b921a9ec2c46ace0e5",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9541&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:44:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "4087e3ba57aba22740b29185c4499a1501d413a1acd65f34666051d82facaa3b",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=16&jeuid=9541&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:44:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:44:14+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "air-raiders",
+ "title": "Air Raiders",
+ "source": "screenscraper",
+ "ss_game_id": 107154,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 107154,
+  "release_year": 1983,
+  "publisher": "Telegames",
+  "developer": "Telegames",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Bogey Blaster",
+   "genre": "Tir / Véhicule, 1ere personne",
+   "synopsis": "Un simple jeu de simulateur de vol. Tirez sur les avions, évitez les tirs d'artillerie. Vous avez une quantité limitée de munitions et de carburant. Tirez sur 10 avions et vous pourrez atterrir pour faire le plein, mais vous risquez de perdre des munitions. On ne vous donnera que la quantité de munitions que vous avez utilisée avec succès pour abattre des avions la dernière fois.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Air Raiders",
+   "genre": "Shooter / Vehicle, FPV",
+   "synopsis": "A simple flight simulator and dogfighting game. Shoot the planes, avoid the flak. You have a limited amount of ammuntion and fuel. Shoot down 10 planes and you can land to refuel, but you may lose ammo. You'll only be given as much ammunition as you successfully used to shoot down planes the last time up.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "13744bebb7de6b7a2c37a3fca35a07a8c1ce7e5d472af63cf2d53a9a82021335",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=107154&media=fanart",
+   "fetched_at": "2026-11-06T16:44:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2283be061907b7f8c824f004b6aa91f9df71323874dacc3b04a1c32cfaba37d8",
+   "width": 400,
+   "height": 69,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=107154&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:44:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "823161f31613c0aaf0b513173bfa079b7fb7ff00a53f53d1702963ec2a5a5c11",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=107154&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:44:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "da90672cb61a0503bd16bc3417fd0506da7158330c84942bfdfef4c8ec10dac7",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=107154&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:44:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "33ca36f4b1a044e840cc09444ac890beed68f1b1c1004fb3c1abae67ed2c7bc3",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=107154&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:44:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "efe84be4190451a3b09281d28370ce2c4446b1b915948c7e22922115f53e563d",
+    "width": 320,
+    "height": 239,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=107154&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:44:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:44:47+00:00",
+ "status": "done"
+}
