@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "magic-sword",
+ "title": "Magic Sword",
+ "source": "screenscraper",
+ "ss_game_id": 57920,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 57920,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Magic Sword: Heroic Fantasy",
+   "genre": "Plateforme",
+   "synopsis": "Incarnez l'élu (\"Brave One\") et gravissez les 50 étages de la Tour du Dragon pour terrasser le seigneur des ténèbres, Drokmar. Ce dernier s'est emparé de l'Orbe Noir, un artefact maléfique capable de plonger le monde dans une nuit éternelle.\r\n\r\nLe jeu se distingue par son système d'alliés : au fil de votre ascension, vous libérez des prisonniers appartenant à 8 classes différentes (Amazon, Ninja, Sorcier, etc.) qui combattront à vos côtés. Gérez votre barre de magie pour déclencher des attaques à distance dévastatrices et choisissez sagement votre compagnon pour atteindre le sommet et décider du sort de l'Orbe !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Magic Sword: Heroic Fantasy",
+   "genre": "Platform",
+   "synopsis": "Magic Sword: Heroic Fantasy is a side-scrolling fantasy arcade game released by Capcom in 1990. The player can use a sword, an axe, or magic, and can also rescue and recruit potential allies from different character classes, each with their own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.\r\n\r\nMagic Sword is set in a nameless world threatened by the dark lord Drokmar, who is in control of an evil crystal known as the \"Black Orb\" that would allow him to rule the world. To prevent this from happening, the Brave Hero must climb to the top of the 50-story tower that Drokmar resides in, known as the Dragon Keep. After Drokmar is defeated, the player has the option of two endings: destroy the Black Orb, or take control of it and become the new Dark Lord.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3327d36ca9a247297a87544c4086cb3752cb3db7294061a20183f8da0d83e89f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=fanart",
+   "fetched_at": "2026-11-07T20:26:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "351b1cf2f460dff8c23f7cf46fd31e4e76bf432e5f4f81d350031b77ae1e7586",
+   "width": 600,
+   "height": 300,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=wheel-hd%28eu%29",
+   "fetched_at": "2026-11-07T20:26:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a3221734c19c048451ea228b6d82da3dbb061a13e929bcb6ce2461255ac47304",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:26:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "201286fe305d824efc32a8f228e21ad0f74b939fd4011dfe81bb6b93c51467d2",
+   "width": 459,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:26:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f6e2e8b93819347a519971952eac25ffd8ae59e89d782cb6fcbc64a018b65c7a",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:26:48+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "0a754a98be763b3f739252ee029a08c6b7e39b5691ce34ea46094c6fc2e47f38",
+   "width": 850,
+   "height": 1102,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=flyer%28us%29",
+   "fetched_at": "2026-11-07T20:26:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f4cef45869b6859ce16ae1d9ff2aaba7d5e6dad3584b71ceeb2c4597e8511ee0",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=57920&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:26:51+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:26:42+00:00",
+ "status": "done"
+}

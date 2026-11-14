@@ -1,0 +1,495 @@
+/* LES PAGES DES FONCTIONNALITES (12/11/2026) : /<langue>/features/<cle>, un gabarit pour les six.
+   La page reprend les composants des fiches de /games (room.css : gr-hero, gr-media, gr-chapitre, gr-panneau, gr-rail,
+   gr-top). Ce fichier n'ajoute que ce que la fiche n'a pas : l'accroche du hero, l'intro « c'est quoi ? » et son visuel
+   annote, la fiche d'angle, les jeux du carrousel en liens, les questions et l'espace presse. Tout passe par les jetons
+   du site et de la Game Room : le jour et la nuit suivent. Jersey 15 seulement dans les titres de room.css (46 px et
+   plus). */
+
+/* La couleur de chaque page : numeros, points du visuel annote, surtitres. Teintes de la Game Room et du site. */
+.fl { --fl-accent: var(--marque-b); --fl-accent-ink: #fff; --fl-accent-texte: var(--brand-bright); }
+.fl--multiplayer { --fl-accent: var(--magenta); --fl-accent-texte: var(--magenta); }
+.fl--speedruns { --fl-accent: var(--marque-a); --fl-accent-ink: #0b0a1e; --fl-accent-texte: var(--accent); }
+.fl--massrun { --fl-accent: var(--gold-room); --fl-accent-ink: #0b0a1e; --fl-accent-texte: var(--gold); }
+.fl--challenges { --fl-accent: var(--danger); --fl-accent-texte: var(--danger); }
+.fl--scoring { --fl-accent: var(--brand); --fl-accent-texte: var(--brand-bright); }
+
+/* L'accroche, sous le nom de la fonctionnalite. */
+.fl-accroche-titre {
+    max-width: 620px;
+    margin: 0;
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+    text-shadow: 0 2px 14px rgba(0, 0, 0, 0.6);
+}
+
+.fl .gr-accroche { text-shadow: 0 1px 10px rgba(0, 0, 0, 0.7); }
+
+.fl-kicker {
+    margin: 0 0 8px;
+    color: var(--fl-accent-texte);
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+/* « C'est quoi ? » : la definition a gauche, le visuel annote a droite, la legende dessous. */
+.fl-intro {
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+    gap: 18px 32px;
+    align-items: center;
+    padding-block: 34px 18px;
+}
+
+.fl-intro-texte .gr-titre { margin-bottom: 14px; }
+.fl-intro-texte p { margin: 0 0 12px; color: var(--text-soft); font-size: 16.5px; }
+
+.fl-annote { margin: 0; }
+
+.fl-annote-cadre {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--line-strong);
+    border-radius: 16px;
+    background: #000;
+    box-shadow: var(--panel-glow);
+}
+
+.fl-annote-cadre img { width: 100%; height: auto; }
+
+.fl-annote-points {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.fl-point circle {
+    fill: var(--fl-accent);
+    stroke: #fff;
+    stroke-width: 5;
+    filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.55));
+}
+
+.fl-point text {
+    fill: var(--fl-accent-ink);
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    font-weight: 800;
+    text-anchor: middle;
+}
+
+.fl-annote figcaption {
+    margin-top: 8px;
+    color: var(--muted);
+    font-size: 13.5px;
+}
+
+.fl-legende {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.fl-legende li {
+    display: flex;
+    gap: 12px;
+    padding: 12px 14px;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--surface);
+}
+
+.fl-legende-n {
+    display: grid;
+    flex: none;
+    place-items: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: var(--fl-accent);
+    color: var(--fl-accent-ink);
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.fl-legende b { display: block; font-size: 15px; }
+.fl-legende span:not(.fl-legende-n) { display: block; color: var(--text-soft); font-size: 14px; line-height: 1.45; }
+
+/* L'etat d'une fonctionnalite qui n'est pas encore ouverte a tous : dit franchement, des le hero. */
+.fl-statut {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+    padding: 6px 12px;
+    border: 1px solid var(--gold-room);
+    border-radius: 10px;
+    background: rgba(255, 180, 0, 0.12);
+    color: #ffd98a;
+    font-size: 14.5px;
+    font-weight: 700;
+}
+
+/* Une page sans ecran : la carte d'identite prend la largeur. */
+.gr-media.fl-sans-ecran { grid-template-columns: minmax(0, 1fr); }
+
+/* Le retour : « Accueil » par defaut, « Espace presse » quand feature-landing.js le montre. Un display d'auteur bat
+   l'attribut hidden : la regle le remet. */
+.gr-back[hidden] { display: none; }
+
+/* L'histoire sur toute la largeur (12/11) : les chapitres coulent sur deux colonnes en bureau, sans trou entre deux
+   chapitres de hauteurs differentes (des colonnes, pas une grille a rangees) ; citation et source sous les deux. */
+@media (min-width: 1081px) {
+    .fl-histoire-large .gr-chapitres { columns: 2; column-gap: 44px; }
+    .fl-histoire-large .gr-chapitre { break-inside: avoid; }
+    .fl-histoire-large .gr-chapitres > :not(.gr-chapitre) { column-span: all; }
+}
+
+/* La fiche d'angle, dans la carte de chaque fonctionnalite de /press : un bloc qui se deplie. */
+.fl-angle { margin-top: 4px; border-top: 1px solid var(--line); }
+.fl-angle summary {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    padding-block: 10px 6px;
+    color: var(--fl-accent-texte, var(--brand-bright));
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    list-style: none;
+    cursor: pointer;
+}
+.fl-angle summary::-webkit-details-marker { display: none; }
+.fl-angle summary::after { flex: none; font-size: 18px; font-weight: 400; line-height: 1; content: "+"; }
+.fl-angle[open] summary::after { content: "\2212"; }
+.fl-angle dl { margin: 0; }
+.fl-angle dl > div { padding-block: 8px; border-bottom: 1px solid var(--line); }
+.fl-angle dl > div:last-child { border-bottom: 0; }
+
+.fl-angle dt {
+    color: var(--muted);
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+
+.fl-angle dd { margin: 3px 0 0; font-size: 14.5px; font-weight: 600; }
+.fl-angle dd a { color: var(--brand-bright); }
+
+/* Le bas d'une page de fonctionnalite : une ligne pour les journalistes. */
+.fl-journaliste { padding-block: 22px 48px; }
+.fl-journaliste p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px 22px;
+    margin: 0;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+    color: var(--text-soft);
+    font-size: 15px;
+}
+.fl-journaliste b { color: var(--text); }
+.fl-journaliste a { display: inline-flex; align-items: center; gap: 6px; color: var(--brand-bright); font-weight: 700; }
+
+/* Le carrousel : la capture s'ouvre en grand (nelfe-shotbox), le titre mene a la fiche. */
+.fl-piece-image {
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    border-radius: 8px;
+    background: none;
+    cursor: zoom-in;
+}
+
+.fl-piece-image:focus-visible { outline: 2px solid var(--brand); outline-offset: 3px; }
+.fl-rail figcaption { display: grid; justify-items: center; gap: 2px; }
+.fl-rail a.fl-piece-titre { color: inherit; text-decoration: none; }
+.fl-rail a.fl-piece-titre:hover { color: var(--brand-bright); text-decoration: underline; }
+
+.fl-rail .gr-piece img {
+    height: auto;
+    aspect-ratio: 16 / 10;
+    border-radius: 8px;
+    object-fit: cover;
+    filter: none;
+}
+
+.fl-piece-titre { margin-top: 10px; font-size: 14px; font-weight: 700; text-align: center; }
+.fl-piece-machine { color: var(--muted); font-size: 12.5px; }
+
+/* Les questions de la presse. */
+.fl-faq { padding-block: 30px 10px; }
+.fl-faq .gr-titre { margin-bottom: 16px; }
+.fl-faq-liste { padding-block: 4px; }
+.fl-faq details { padding-block: 14px; border-bottom: 1px solid var(--line); }
+.fl-faq details:last-child { border-bottom: 0; }
+
+.fl-faq summary {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    font-size: 16px;
+    font-weight: 700;
+    list-style: none;
+    cursor: pointer;
+}
+
+.fl-faq summary::-webkit-details-marker { display: none; }
+
+.fl-faq summary::after {
+    flex: none;
+    color: var(--brand-bright);
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1;
+    content: "+";
+}
+
+.fl-faq details[open] summary::after { content: "\2212"; }
+.fl-faq details p { max-width: 860px; margin: 8px 0 0; color: var(--text-soft); }
+
+/* L'espace presse. */
+.fl-presse { padding-block: 26px 48px; }
+
+.fl-presse-carte {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 20px 32px;
+    align-items: center;
+    padding: 26px 28px;
+    background: linear-gradient(120deg, color-mix(in srgb, var(--marque-b) 14%, var(--surface)), var(--surface) 62%);
+}
+
+.fl-presse-carte { color: var(--text); }
+.fl-presse-carte h2.gr-titre {
+    margin: 0 0 10px;
+    color: var(--text);
+    font-family: var(--titre);
+    font-size: var(--titre-taille);
+    font-weight: var(--titre-graisse);
+    letter-spacing: normal;
+    text-transform: none;
+}
+
+/* Une note sous un bloc : dans la largeur de la page (la marge de gr-source effacait celle de gr-wrap). */
+.fl > p.gr-wrap.gr-source,
+.fl .gr-materiel > p.gr-wrap.gr-source { margin: 10px auto 0; }
+.fl-presse-carte p:not(.fl-kicker) { max-width: 640px; margin: 0; color: var(--text-soft); }
+.fl-presse-carte .gr-actions { justify-content: flex-end; }
+
+@media (max-width: 1080px) {
+    .fl-intro,
+    .fl-presse-carte { grid-template-columns: minmax(0, 1fr); }
+    .fl-presse-carte .gr-actions { justify-content: flex-start; }
+}
+
+@media (max-width: 620px) {
+    .fl-accroche-titre { font-size: 22px; }
+    .fl-point circle { stroke-width: 6; }
+}
+
+/* LA PAGE PRESSE : chiffres, cartes des six fonctionnalites, logos et captures a telecharger. */
+.fl-press-logo { width: 64px; height: 64px; }
+.fl-section-texte { max-width: 760px; margin: 0 0 16px; color: var(--text-soft); }
+.fl-chiffres { padding-block: 26px 4px; }
+.fl-chiffres dl { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 14px; margin: 0; }
+.fl-chiffres dl > div { display: flex; flex-direction: column-reverse; gap: 4px; }
+.fl-chiffres dt { color: var(--text-soft); font-size: 14.5px; }
+.fl-chiffres dd { margin: 0; color: var(--fl-accent-texte); font-family: var(--titre); font-size: 52px; line-height: 1; }
+.fl-cartes, .fl-logos, .fl-captures { padding-block: 30px 6px; }
+.fl-cartes .gr-titre, .fl-logos .gr-titre, .fl-captures .gr-titre { margin-bottom: 16px; }
+.fl-cartes-grille { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.fl-carte { display: flex; flex-direction: column; gap: 8px; border-top: 3px solid var(--fl-accent); }
+.fl-carte img { width: 100%; aspect-ratio: 16 / 10; border-radius: 10px; object-fit: cover; }
+.fl-carte h3 { margin: 4px 0 0; font-size: 20px; font-weight: 800; }
+.fl-carte p { margin: 0; color: var(--text-soft); font-size: 15px; }
+.fl-carte .fl-carte-etat { color: var(--fl-accent-texte); font-size: 13px; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; }
+.fl-carte .gr-top-lien { margin-top: auto; }
+.fl-logos-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
+.fl-logo { display: grid; gap: 10px; margin: 0; }
+.fl-logo img { width: 100%; height: 120px; object-fit: contain; }
+.fl-logo figcaption a { display: inline-flex; align-items: center; gap: 6px; color: var(--brand-bright); font-size: 14px; font-weight: 700; }
+.fl-captures-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+.fl-captures-grille .gr-piece img { width: 100%; height: auto; aspect-ratio: 16 / 10; border-radius: 8px; object-fit: cover; filter: none; }
+.fl-captures-grille figcaption { display: grid; justify-items: center; gap: 4px; margin-top: 10px; text-align: center; }
+.fl-captures-grille a.fl-piece-titre { color: var(--brand-bright); font-size: 14px; font-weight: 700; }
+
+@media (max-width: 1080px) { .fl-cartes-grille { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 620px) { .fl-cartes-grille { grid-template-columns: minmax(0, 1fr); } .fl-chiffres dd { font-size: 44px; } }
+
+/* Le visuel annote garde sa forme : une capture haute (un panneau) ne depasse pas 640 px, et les points restent
+   alignes parce que le cadre epouse l'image. */
+.fl-annote-cadre { width: fit-content; max-width: 100%; margin-inline: auto; }
+.fl-annote-cadre img { width: auto; max-width: 100%; max-height: 640px; }
+.fl-annote figcaption { text-align: center; }
+
+/* Une boite de jeu dans le carrousel : entiere, comme le materiel d'une fiche. */
+.fl-rail .fl-piece--boite img { aspect-ratio: auto; height: 210px; object-fit: contain; border-radius: 0; filter: drop-shadow(0 8px 12px rgba(0, 0, 0, 0.4)); }
+.fl-cartes-note { margin: 16px 0 0; font-size: 14.5px; }
+
+/* /press : le fond des collections Nelfe Play couvre tout le hero ; le degrade de .gr-hero::after garde le texte lisible. */
+.fl-hero-fond { width: 100%; object-position: center; -webkit-mask-image: none; mask-image: none; filter: none; }
+.fl-press .gr-hero::before { display: none; }
+
+/* La carte World Scoring prend deux cases en bureau : image a gauche, texte a droite. */
+.fl-carte-texte { display: flex; flex: 1; flex-direction: column; gap: 8px; }
+.fl-carte--large { grid-column: span 2; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 18px; align-items: stretch; }
+.fl-carte--large img { height: 100%; min-height: 230px; aspect-ratio: auto; }
+@media (max-width: 620px) {
+    .fl-carte--large { grid-column: auto; grid-template-columns: minmax(0, 1fr); }
+    .fl-carte--large img { height: auto; min-height: 0; aspect-ratio: 16 / 10; }
+}
+
+/* Les cartes de /press : la mention des donnees de demonstration, et le classement de la carte large cale en haut. */
+.fl-carte .fl-carte-demo { margin: 0; }
+.fl-carte--large img { object-position: top; }
+.fl-demo { display: inline-block; padding: 1px 8px; border: 1px solid var(--line-strong); border-radius: 999px; color: var(--muted); font-size: 11.5px; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; }
+/* Le classement de la carte large reste entier : marges et intitules visibles, quelle que soit la hauteur de la carte. */
+.fl-carte--large img { object-fit: contain; background: #111; }
+
+/* La legende longue des videos, sous le bloc media : elle dit ce qu'on voit (reconstitution comprise). */
+.fl > p.gr-wrap.fl-video-legende { margin-top: 12px; color: var(--text-soft); }
+.fl > p.fl-video-legende + p.gr-wrap.gr-source { margin-top: 4px; }
+
+/* L'EQUILIBRE DES GRILLES (12/11) : une grille au nombre de ses elements, centree, sans carte orpheline sur la derniere
+   ligne. La classe fl-n-<nombre> fixe les colonnes (5 = 5, 6 = 3 + 3, 7 = 4 + 3, 9 = 3 x 3) ; les lignes incompletes
+   se centrent. */
+.fl .fl-grille {
+    --gap: 12px;
+    --cols: 4;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: var(--gap);
+    margin: 0;
+    padding: 0;
+}
+.fl .fl-grille > * { flex: 0 0 calc((100% - (var(--cols) - 1) * var(--gap)) / var(--cols)); min-width: 0; box-sizing: border-box; }
+.fl .fl-n-1 { --cols: 1; } .fl .fl-n-2 { --cols: 2; } .fl .fl-n-3 { --cols: 3; } .fl .fl-n-4 { --cols: 4; }
+.fl .fl-n-5 { --cols: 5; } .fl .fl-n-6 { --cols: 3; } .fl .fl-n-7 { --cols: 4; } .fl .fl-n-8 { --cols: 4; }
+.fl .fl-n-9 { --cols: 3; } .fl .fl-n-10 { --cols: 5; } .fl .fl-n-12 { --cols: 4; }
+.fl .fl-captures-grille.fl-grille { --gap: 16px; }
+@media (max-width: 1080px) {
+    .fl .fl-n-5 { --cols: 3; }
+    .fl .fl-n-10 { --cols: 5; }
+}
+@media (max-width: 760px) {
+    .fl .fl-n-4, .fl .fl-n-7, .fl .fl-n-8, .fl .fl-n-12 { --cols: 2; }
+    .fl .fl-n-5, .fl .fl-n-6, .fl .fl-n-9, .fl .fl-n-10 { --cols: 2; }
+}
+@media (max-width: 620px) {
+    .fl .fl-grille > * { flex-basis: 100%; }
+}
+
+/* L'intro a image haute : texte et legende a gauche, l'image a droite, les deux colonnes alignees en haut. */
+.fl-intro--haute {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-areas: "texte image" "legende image";
+    align-items: start;
+}
+.fl-intro--haute .fl-intro-texte { grid-area: texte; }
+.fl-intro--haute .fl-annote { grid-area: image; }
+.fl-intro--haute .fl-legende { grid-area: legende; grid-column: auto; }
+@media (min-width: 1081px) { .fl .fl-intro--haute .fl-legende.fl-grille > * { flex-basis: 100%; } }
+@media (max-width: 1080px) {
+    .fl-intro--haute { grid-template-columns: minmax(0, 1fr); grid-template-areas: "texte" "image" "legende"; }
+}
+
+/* LA CARTE WORLD SCORING DE /press (12/11) : embleme, accroche, points cles, chiffres, capture mise en valeur, bouton. */
+.fl-carte--ws {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 0.95fr);
+    gap: 28px;
+    align-items: center;
+    padding: 26px 28px;
+    background:
+        radial-gradient(circle at 82% 40%, color-mix(in srgb, var(--fl-accent) 20%, transparent), transparent 58%),
+        var(--surface);
+}
+.fl-ws-texte { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.fl-carte--ws .fl-ws-surtitre { display: flex; align-items: center; gap: 12px; margin: 0; color: var(--fl-accent-texte); font-size: 13px; font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase; }
+.fl-carte--ws .fl-ws-surtitre img { width: 52px; height: 52px; aspect-ratio: auto; border-radius: 0; object-fit: contain; filter: drop-shadow(0 4px 12px rgba(255, 180, 0, 0.35)); }
+.fl-carte--ws h3 { margin: 2px 0 0; font-family: var(--titre); font-size: 46px; font-weight: 400; line-height: 1; }
+.fl-carte--ws .fl-ws-accroche { margin: 0; color: var(--text-soft); font-size: 16px; line-height: 1.5; }
+.fl-ws-points { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px 14px; margin: 4px 0 0; padding: 0; list-style: none; }
+.fl-ws-points li { display: flex; align-items: center; gap: 10px; font-size: 14px; font-weight: 700; line-height: 1.3; }
+.fl-ws-icone { display: grid; flex: none; place-items: center; width: 34px; height: 34px; border-radius: 10px; background: color-mix(in srgb, var(--fl-accent) 16%, var(--surface-raised)); color: var(--fl-accent-texte); font-size: 18px; }
+.fl-carte--ws .fl-ws-chiffres { margin: 0; color: var(--fl-accent-texte); font-size: 14px; font-weight: 800; }
+.fl-ws-btn { align-self: flex-start; margin-top: 6px; }
+.fl-ws-visuel { margin: 0; padding: 10px; }
+.fl-carte--ws .fl-ws-visuel img {
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    aspect-ratio: auto;
+    object-fit: contain;
+    border: 1px solid var(--line-strong);
+    border-radius: 14px;
+    background: #111;
+    box-shadow: 0 18px 40px rgba(var(--shadow-rgb), calc(0.3 * var(--shadow-k) + 0.1)), 0 0 42px color-mix(in srgb, var(--fl-accent) 38%, transparent);
+    transform: rotate(-2deg);
+}
+@media (max-width: 620px) {
+    .fl-carte--ws { grid-template-columns: minmax(0, 1fr); padding: 20px; }
+    .fl-ws-points { grid-template-columns: minmax(0, 1fr); }
+    .fl-carte--ws .fl-ws-visuel img { transform: none; }
+    .fl-carte--ws h3 { font-size: 40px; }
+}
+.fl-carte--ws .fl-ws-surtitre img { min-height: 0; height: 52px; background: none; transform: none; }
+
+/* Un carrousel de quelques jeux (Mass Run : deux) se centre au lieu de laisser la moitie droite vide. */
+.fl-rail.fl-rail--peu { justify-content: center; }
+
+/* L'INTRO (12/11, retour du user) : texte en haut de sa colonne, a la hauteur du haut de l'image ; image a 54 % environ,
+   plafonnee, pour que les deux colonnes aient des hauteurs proches. */
+.fl-intro { grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); align-items: start; }
+.fl-intro:not(.fl-intro--haute) .fl-annote-cadre img { max-height: 460px; }
+.fl-intro-texte .gr-titre { margin-top: 0; }
+.fl-intro--haute .fl-annote-cadre img { max-height: 760px; }
+.fl-legende.fl-legende--texte { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; margin: 18px 0 0; padding: 0; list-style: none; }
+/* En tablette, l'intro a image haute repasse sur une colonne (la regle des deux colonnes ci-dessus ne s'y applique pas). */
+@media (max-width: 1080px) {
+    .fl-intro.fl-intro--haute { grid-template-columns: minmax(0, 1fr); grid-template-areas: "texte" "image" "legende"; }
+}
+
+/* /press : la signature dans la moitie droite du hero (logo en grand, signature du site en typo display). Le hero reste
+   de nuit dans les deux themes (gr-nuit) : texte clair et ombre portee pour la lisibilite sur la photo. */
+.fl-press .gr-hero .gr-wrap { position: relative; }
+.fl-press-signature {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+    width: min(38%, 420px);
+    transform: translateY(-58%);
+    text-align: center;
+    pointer-events: none;
+}
+.fl-press-signature img { width: 150px; height: 150px; filter: drop-shadow(0 0 26px color-mix(in srgb, var(--fl-accent) 70%, transparent)) drop-shadow(0 6px 18px rgba(0, 0, 0, 0.6)); }
+.fl-press-signature p {
+    margin: 0;
+    color: #fff;
+    font-family: var(--titre);
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 1.02;
+    text-shadow: 0 2px 18px rgba(0, 0, 0, 0.85), 0 0 30px color-mix(in srgb, var(--fl-accent) 45%, transparent);
+}
+@media (max-width: 1080px) { .fl-press-signature { display: none; } }
+.fl-press-signature { width: min(44%, 500px); }
+.fl-press-signature p { font-size: 44px; }
+/* Le grand logo de la signature suffit en bureau : le petit logo au-dessus du titre ne revient qu'en tablette et mobile. */
+@media (min-width: 1081px) { .fl-press .fl-press-logo { display: none; } }

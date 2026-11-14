@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-ii-the-world-warrior",
+ "title": "Street Fighter II: The World Warrior",
+ "source": "screenscraper",
+ "ss_game_id": 42982,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42982,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter II : The World Warrior",
+   "genre": "Combat / Versus",
+   "synopsis": "Est-il bien nécessaire de presenter ce jeu mythique ? Street Fighter 2 est, à l'instar de Double Dragon pour le beat'em up, LE classique du jeu de combat qui a influencé des centaines d'autres production.\r\n\r\nUn grand choix de combattants ayant chacun une technique propre, une grande variété de prises et de coups spéciaux, et voilà une nouvelle catégorie de jeux vidéo !\r\n\r\nUn jeu indispensable, qui est toujours, depuis sa sortie en 1991, l'archétype de tout ce que l'on peut voir aujourd'hui.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter II : The World Warrior",
+   "genre": "Fighting / Versus",
+   "synopsis": "GET READY TO RUMBLE!\n\nFrom across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating \"Dragon Punch\"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!\n\nAnnihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "20365604809d82a5e9550d4d65b474ec72f5126001ab2b6e1e5584dbf8453cd5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=fanart",
+   "fetched_at": "2026-11-07T20:21:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6bec119f73d3c750edd0edb937fdbc24f2a99a4ecf8e4e9815bdf607999a7a9a",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:21:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "346c54e1d3b3d84824bbc5ce055eb91eb52defb25ad68886feff080f404bead2",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:21:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fcfadc88cce5a710728e32ba49338c00f14dfd358c865f03eba0ea8b87afee99",
+   "width": 464,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:21:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "74a326acd87930a337613aa565031524f657f03261ee16278798d9e2c0f1912a",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:21:39+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "2c010120c1b8194bc1bfe616f38f5dc59603c30bf582d55494c12102261e8893",
+   "width": 828,
+   "height": 1177,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:21:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b71cd7bbd287de65b182ed5717c085cfd66133c3f2830bd02d86fd087ee6da10",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=42982&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:21:42+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:21:33+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "basketbrawl-lynx",
+ "title": "Basketbrawl",
+ "source": "screenscraper",
+ "ss_game_id": 14253,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14253,
+  "release_year": 1992,
+  "publisher": "Atari",
+  "developer": "Hamilton and Associates",
+  "players": "1-2",
+  "system_label": "Lynx"
+ },
+ "text": {
+  "fr": {
+   "name": "Basketbrawl",
+   "genre": "Sport / Basketball",
+   "synopsis": "Basketbrawl est un jeu de sport très musclé sur Lynx. Il s'agit d'une simulation de basket combiné à un beat'em all. Le but du jeu est de marquer le plus de points à votre adversaire, soit en marquant des points au basket soit en les frappant.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Basketbrawl",
+   "genre": "Sports / Basketball",
+   "synopsis": "In a desperate attempt to stop inner-city gang wars, the city leaders organized a basketball league.  The league is scheduled to play on three courts: a street, a junkyard, and a rooftop.  The mayor figured that a friendly game of hoops would be a much more peaceful way to settle disputes. He was wrong.\n\nYou can choose 1-on-1 or 2-on-2 game modes. There are six characters to choose from (ten in Atari Lynx version); each with their own health, speed, and power attributes. Each player without the ball can jump to block a shot or punch there opponent to get the ball. There's also an option to perform a power throw on an opposing player. Players with the ball can shoot or pass. Power ups appear on the court at random instances. These power up one attribute for the player. For example, the lightning power up increases the player's speed. \n\nThe referee does not call fouls, but does hurl knives at the players.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ee2621aa4ce23165cd6d0f1eb5cb9ad6f55770f878174691c1e4b712796214cd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14253&media=fanart",
+   "fetched_at": "2026-11-06T16:48:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c04e433833eac526032024d801b8a1f5287c8f7b15908b2433583234c1b9841c",
+   "width": 600,
+   "height": 150,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14253&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:48:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "efab46cb0ca667b2fec7d07359992cf484cdbac2e2cc092c761f54c34939f952",
+   "width": 554,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14253&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:48:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "26a6e5af9e2f5d603c77bf270a55382dc0351a73d72b55a04a7136ded1fb3923",
+   "width": 576,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14253&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:49:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d56fc28edad8ed7f7e7aeb7f1cd8e02f99e3a2623f2438644f9b5846849c675c",
+   "width": 160,
+   "height": 101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14253&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:49:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "36c171a6cd7db4a89cf3bba036498828eab439186ade17b26b991e05a44f9f9a",
+    "width": 160,
+    "height": 102,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14253&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:49:03+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:48:54+00:00",
+ "status": "done"
+}

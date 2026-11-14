@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "scross",
+ "title": "Stadium Cross",
+ "source": "screenscraper",
+ "ss_game_id": 42933,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42933,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Stadium Cross",
+   "genre": "Course, Conduite",
+   "synopsis": "Stadium Cross est un jeu de course de motocross en salle où vous pilotez une moto dans des stades. Vous pouvez effectuer des wheelsies, des sauts et négocier des virages réalistes. Simple à prendre en main, il convient à tous les âges pour des sessions courtes et dynamiques.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Stadium Cross",
+   "genre": "Racing, Driving",
+   "synopsis": "Stadium Cross (c) 1992 Sega.  - TECHNICAL -  Sega System Multi 32 hardware  Main CPU : V70 (@ 20 Mhz), Z80 (@ 8.053975 Mhz) Sound Chips : YM3438 (@ 8.053975 Mhz), MultiPCM (@ 8.053975 Mhz)  Players : 2 Control : paddle Buttons : 3  - TRIVIA -  Released in",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2ac0ee6a978e1a2fea58bffe12cb5d50945c4ca17c8e17dfc9bf34c8f51469fd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=fanart",
+   "fetched_at": "2026-11-06T23:48:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9b184368cec1c5b61d485af6152d59014f4aa22382d5e829959bb87a01a10873",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:48:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "814a19b5127b8e10f6f6f38f7f59734dd92564334b4ecaeabf14f4db1b19d1bc",
+   "width": 498,
+   "height": 712,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:48:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c106220f52a6ce6c1ce9348df1bef7de7a8b11586fc64d59a1009d7f81f90ede",
+   "width": 954,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:48:31+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "af752a99ea5105edef168b8b7a6e4023e60b4da841b63a225a2be25c2b2ca672",
+   "width": 320,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:48:32+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "cfdd07a7876ebbd68c6a289758795b22f9d7dbdbd5144240c52ca55df60eb898",
+   "width": 1223,
+   "height": 850,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:48:34+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "7d480d577af187eba3db8fb3c89c73a873b38d7c754d8bceafcb55d91c1e1d67",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42933&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:48:35+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:48:25+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "battle-garegga",
+    "title": "Battle Garegga",
+    "source": "screenscraper",
+    "ss_game_id": 40207,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 40207,
+        "release_year": 1996,
+        "publisher": "Raizing",
+        "developer": "Raizing",
+        "players": "1-2",
+        "system_label": "Eighting / Raizing"
+    },
+    "text": {
+        "fr": {
+            "name": "Battle Garegga",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "Battle Garegga est un shoot'em up à défilement vertical. L'histoire se déroule dans une sorte de version diesel punk des années 1940.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Battle Garegga",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "Widely considered as both the origin of the bullet hell sub-genre and one of its standouts, Battle Garegga's true joy lies in unravelling the game's various complex systems.\r\n\r\nBattle Garegga is both loved and hated in hardcore communities as being highly punishing to the player. This is due to Garegga's usage of the concept of \"rank\" - the idea being that the game adapts its own difficulty to suit the level of the player, an idea commonly used to a minor degree in most shooters. The difference here is that the rank system is very unforgiving - Powering up the ship, collecting surplus powerups and collecting options all increase the rank, often drastically if the game is played like a typical shooter.\r\n\r\nIf the player does not carefully manage the constant invisible increase of rank, the last two levels may become physically impossible to complete - rank increasing bullet density and speed, as well as the behavior of enemies. The only way to decrease rank is to get shot down, meaning expert players will learn to commit suicide in key areas to manage their rank.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "8c374b9c2dc963c28e4fc9efa3a5dbccaaa6bc33b887c68e6eedbf487ba275fc",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=fanart",
+            "fetched_at": "2026-11-09T22:03:49+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "f50a56d0baef659b46b874cb94eeb6d47654e8a3fe7359d2def69367ae9cae83",
+            "width": 600,
+            "height": 300,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=wheel%28wor%29",
+            "fetched_at": "2026-11-09T22:03:51+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "397b7886639106ea8ffe6b7ca6118f1e2dba16f9bba375f4272fcb1b0ccc1be2",
+            "width": 776,
+            "height": 1100,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=box-2D%28wor%29",
+            "fetched_at": "2026-11-09T22:03:52+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "a70f5fd6a939dfc5d0acca6f494ff2138435420cb7d4d44949631243d7f96a84",
+            "width": 546,
+            "height": 900,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-09T22:03:54+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "80177ec0f184eb0024d8b2aee3d0776b7a7b1312edf915636673ca3278117a5c",
+            "width": 240,
+            "height": 320,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:03:55+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "71a8d38066fcab66c1da7d30809c915cf6ceaf3a4376f63761e36fa255d64922",
+            "width": 1000,
+            "height": 1417,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=flyer%28wor%29",
+            "fetched_at": "2026-11-09T22:03:57+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "7f62c3d41124a522ceb7a5527a0166a4f3197749356c8f4364e35a0f8db62720",
+                "width": 240,
+                "height": 320,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=152&jeuid=40207&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:03:58+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-09T22:03:48+00:00",
+    "status": "done"
+}

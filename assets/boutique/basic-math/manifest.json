@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "basic-math",
+ "title": "Basic Math",
+ "source": "screenscraper",
+ "ss_game_id": 14056,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14056,
+  "release_year": 1977,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Basic Math",
+   "genre": "Ludo-Educatif",
+   "synopsis": "Basic pour Atari VCS 2600 est un jeu ludo-éducatif développé par Atari. Le but du jeu est de résoudre une suite de 10 opérations simples. Le joueur peut choisir le type d'opérations qu'il désire (additions, soustractions, multiplications et divisions). Il peut également mettre un chrono pour augmenter la difficulté. Ce jeu est destiné aux enfants.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Basic Math",
+   "genre": "Educational",
+   "synopsis": "A very simple math game for kids.\n\nEach game of Basic Math gives the player a set of ten basic math problems (i.e. simple addition, subtraction, multiplication or division) to solve. The player is presented with two numbers and a function, and inputs the answer by cycling through numbers with the joystick. A timer option is available to ramp up the difficulty.  The game has eight primary game settings - basically two settings for each mathematical function.  Games 1 - 4 allow you to select one of the numbers you will be working with, while 5 - 8 give random questions.   \n\nHint: For division problems that have a remainder make sure to put a space between the whole number and the remainder, which goes to the right.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "82b0a0dbf91991ed4a71e2c1106ad5e1893a19dc33c7f657aac1859f01161e52",
+   "width": 400,
+   "height": 56,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14056&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:48:20+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2e36aeceece4bfbc6dd2c91c48d3a44b4f5c54d0315696f041726b24eeb3ceda",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14056&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:48:21+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2a80fa98a8a9c8ba4c361e121eeb25c3c4a0dbe09aa307a2c86882296a022fd1",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14056&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:48:23+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "368924fc5701e46c18485503b7e5cc3eafdf2abb6bb8291316ca2e8b65cd7ae5",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14056&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:48:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "a5efc0d0ce27a78a8230d529353345ca91ef92ec453160ccb01ebbeb7f74afcd",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14056&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:48:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:48:19+00:00",
+ "status": "done"
+}

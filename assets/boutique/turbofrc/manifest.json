@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "turbofrc",
+ "title": "Turbo Force",
+ "source": "screenscraper",
+ "ss_game_id": 43777,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43777,
+  "release_year": 1991,
+  "publisher": "Video System",
+  "developer": "Video System",
+  "players": "1-3",
+  "system_label": "Video System Co."
+ },
+ "text": {
+  "fr": {
+   "name": "Turbo Force",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Turbo Force est un prédécesseur encore plus direct de Sonic Wings que ne l'est Rabio Lepus. Il propose un gameplay à défilement vertical très similaire à celui de la série Sonic Wings, ainsi qu'un système de bonus pratiquement identique.\r\nLes principales différences concernent les bonus : le véhicule perd progressivement de sa puissance même lorsqu'il n'est pas endommagé, et l'arme spéciale, au lieu d'être conservée sous forme de bombe que le joueur peut déclencher à sa convenance, s'active automatiquement dès que son bonus est récupéré.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Turbo Force",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Turbo Force is even more of a direct predecessor to Sonic Wings than is Rabio Lepus: Turbo Force features vertical scrolling gameplay very similar to that of the Sonic Wings series along with a nearly identical power-up system. The only differences in power-ups are that the vehicle slowly loses power even if not damaged, and that instead of a bomb that can be deployed at the player's discretion, the special weapon detonates as soon as its power-up is touched.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "32ca69a959ab8ae26b459b4e23ae479ecd3d4370d2f84b471f05c6ab5a2954c4",
+   "width": 400,
+   "height": 142,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=175&jeuid=43777&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:51:59+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "260d648cc563af4d54420a322986079baa9332401b5cf064337a46127a0fa55f",
+   "width": 850,
+   "height": 1101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=175&jeuid=43777&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:52:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d88121a79358f56486469dbd57def1e7e6847aa90f5414fd7cff0df6bbc09304",
+   "width": 240,
+   "height": 352,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=175&jeuid=43777&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:52:02+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d41a9bc5502664903067873025aedae6b9ee35a4526f4ffc1102b7d306f3d119",
+   "width": 850,
+   "height": 1101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=175&jeuid=43777&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:52:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "458c37f8b8ee672789689f986c219c8c775dd7da8eb73bd04a39b3745fd6df13",
+    "width": 240,
+    "height": 352,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=175&jeuid=43777&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:52:05+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:51:58+00:00",
+ "status": "done"
+}

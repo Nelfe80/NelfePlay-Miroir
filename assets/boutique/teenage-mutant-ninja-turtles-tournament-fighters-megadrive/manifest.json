@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-tournament-fighters-megadrive",
+ "title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 122,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 122,
+  "release_year": 1993,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles : Tournament Fighters",
+   "genre": "Combat",
+   "synopsis": "Teenage Mutant Ninja Turtles : Tournament Fighters est un jeu de combat sur Megadrive se déroulant dans l'univers des Tortues Ninja. Retrouvez vos 4 tortues préférées ainsi que d'autres personnages de la série comme Shredder. Le jeu propose un mode histoire où vous choisissez un seul personnage et allez jusqu'au bout pour sauver April et Splinter. Un mode tournoi est également présent mais vous vous battez uniquement pour la gloire (et l'argent) dans celui-ci.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles : Tournament Fighters",
+   "genre": "Fighting",
+   "synopsis": "The game features the original 4 turtles from the previous games in the series, as well as other fighters.\n\nThe game is very much in the tradition of the Mortal Kombat or Street Fighter series, pitting you against opponents one at a time. Some fighters (besides the turtles) will be familiar, such as the Rat King, or even Shredder (now called \"Cyber-Shredder\" here).\n\nThough even people familiar with the turtles will see differences in them. They can now, for example, do moves involving projectiles, such as \"fireballs\".\n\nThe game's modes include a story mode, where you can only pick one of the turtles and go on fighting opponents in order to rescue April and Splinter, and a tournament mode, where you fight only for the fame and money.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "36da9028d96fd56d7c157b79335566bf4cdc3429474f373edd8b1f6aad8c78f6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=122&media=fanart",
+   "fetched_at": "2026-11-06T17:29:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "222f1b6a030357f45afb916a90b78b999b515da6ef09df0a99b7ead3547f9e8e",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=122&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:29:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c22363eb2b0c28a7319ed686e00c3c7e26bf99ac949372441adf4b9abc6d1b76",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=122&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:29:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d5fd9509708e2d4f57cbacb8c39de82077ca3b5396324e05406618e78583fb0d",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=122&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:29:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "15323808f73ae74f8ea98e1c3cfed4462fa71e611598c303dfd108c3c37dba23",
+   "width": 256,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=122&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T17:29:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3ded9508e1c01120af92d8736ebbebccb74a638acc18fd24d2246b39b5e1cbb9",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=122&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:29:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:29:10+00:00",
+ "status": "done"
+}

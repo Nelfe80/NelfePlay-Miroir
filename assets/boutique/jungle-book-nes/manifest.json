@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "jungle-book-nes",
+    "title": "Jungle Book",
+    "source": "screenscraper",
+    "ss_game_id": 71347,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 71347,
+        "release_year": 1994,
+        "publisher": "Virgin Interactive",
+        "developer": "Eurocom",
+        "players": "1",
+        "system_label": "NES"
+    },
+    "text": {
+        "fr": {
+            "name": "Le Livre de la Jungle",
+            "genre": "Plateforme",
+            "synopsis": "Le Livre de la Jungle sur NES est l'adaptation du film de Disney de 1967, lui-même inspiré du livre écrit par Rudyard Kipling. Vous incarnez Mowgli et devez ramasser des fruits, grimper aux arbres et combattre les ennemis de l'histoire comme Sher Khan. Le jeu permet de replonger dans l'univers d'un des classiques de Disney en retrouvant tous ses personnages et ses décors.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "The Jungle Book",
+            "genre": "Platform",
+            "synopsis": "Get down to the bare necessities of life... and escort Mowgli through the jungle to the safety of the human village. Fight the boggle-eyed snake, Kaa, and defeat Shere Khan the hungry tiger in this exciting adventure based on Disney's classic! It'll drive you ape crazy!",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "af7310856b1a4a49643f67b81b59c066076a1cbc4c995007bab64c429bc4e2b4",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71347&media=fanart",
+            "fetched_at": "2026-11-09T22:02:17+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "a92d0f71c6ea9d72cd6b32ebbc1be17729689dd466558fcb7abb7d3af1dda776",
+            "width": 600,
+            "height": 200,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71347&media=wheel%28us%29",
+            "fetched_at": "2026-11-09T22:02:18+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "a97c34043faa4a61a5f6242242af29d2d0e6f39e63a1d2b93638907cc38f839e",
+            "width": 497,
+            "height": 680,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71347&media=box-2D%28us%29",
+            "fetched_at": "2026-11-09T22:02:20+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "ab33d4aa1b90484d4a4de91dacaef52ec3aaa20a09fffbd1eddc2e6912436006",
+            "width": 543,
+            "height": 600,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71347&media=support-2D%28us%29",
+            "fetched_at": "2026-11-09T22:02:21+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "1275a3138e21f08fa914375ddc4e5b0c68eea680acf0fcad462a68d2601f854f",
+            "width": 256,
+            "height": 224,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71347&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:02:23+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "b910b7e1b2b226ed8189ec295175374735b1465617f85d5abc93e3b78396605f",
+                "width": 256,
+                "height": 240,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71347&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:02:24+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "flyer"
+    ],
+    "fetched_at": "2026-11-09T22:02:16+00:00",
+    "status": "done"
+}

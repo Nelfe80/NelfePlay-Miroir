@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "elevator-action-returns-s-tribute",
+ "title": "Elevator Action™ -Returns- S-Tribute",
+ "source": "screenscraper",
+ "ss_game_id": 13304,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13304,
+  "release_year": 1997,
+  "publisher": "Ving",
+  "developer": "Taito",
+  "players": "1-2",
+  "system_label": "Saturn"
+ },
+ "text": {
+  "fr": {
+   "name": "Elevator Action² : Returns",
+   "genre": "Tir",
+   "synopsis": "Elevator Action Returns sur Saturn est un jeu d'action dans lequel vous avez la possibilité d'incarner un des trois personnages disponibles, Kart Bradfield, Edie Burrett et Jad the Taff, chacun ayant ses forces et ses faiblesses. Votre mission est d'obtenir des donnés informatiques cachées dans 6 bâtiments différents.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Elevator Action² : Returns",
+   "genre": "Shooter",
+   "synopsis": "Elevator Action Returns, released as Elevator Action II in North America, is a side-scrolling action game by Taito Corporation originally released for the arcades in 1994 as a sequel to the 1983 arcade game Elevator Action. Elevator Action Returns retains the elevator-based gimmick from the original, but expands and improves on the gameplay system and replaces the spy motif with a new scenario involving a paramilitary team fighting against a terrorist group. The mostly well-received game was ported to the Sega Saturn and released only in Japan as Elevator Action² Returns in 1997, and later included in Taito Legends 2 compilation release for the PlayStation 2, Windows and Xbox in 2006.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a74658a829133245b9aab55bf4c4c82ff09b4d1a2c4d77eb83fcafa798044e84",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=22&jeuid=13304&media=fanart",
+   "fetched_at": "2026-11-07T11:06:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0c0f9599803d7d7e55744c317b24a8f4e6991c510c717f99e2e1acf2f8b73e5b",
+   "width": 600,
+   "height": 274,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=22&jeuid=13304&media=wheel%28jp%29",
+   "fetched_at": "2026-11-07T11:06:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "837a73fd3467c2c4224620e55ae13cc340486685971b7d956025455794ed6b2a",
+   "width": 680,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=22&jeuid=13304&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T11:06:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "cf713dbacd55e5bc68f445244f080bc50a9d4e3ad68887859b99d3aad6696331",
+   "width": 600,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=22&jeuid=13304&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-07T11:06:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c5d84cb827456b07c64e7a844028dca115a34f7301404a571d08b37b8648a444",
+   "width": 320,
+   "height": 240,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=22&jeuid=13304&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-07T11:06:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "1ecd894d6b06b18678734e61f1ff8e9f05ec4d4ba08f58fe791c230588cc7fc8",
+    "width": 320,
+    "height": 240,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=22&jeuid=13304&media=ss%28jp%29",
+    "fetched_at": "2026-11-07T11:06:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T11:06:15+00:00",
+ "status": "done"
+}

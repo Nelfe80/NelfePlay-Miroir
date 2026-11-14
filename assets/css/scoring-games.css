@@ -1,0 +1,53 @@
+/* LES JEUX DU SCORING (05/11) : la grille et les cartes de la vitrine MULTIPLAYER (multiplayer.css), plus les etiquettes
+   de ce qu'on peut faire sur chaque jeu. Couleurs lisibles de jour comme de nuit. */
+
+.sg-card-title {
+    color: inherit;
+    text-decoration: none;
+}
+
+.sg-card-title:hover,
+.sg-card-title:focus-visible {
+    text-decoration: underline;
+}
+
+/* Un jeu sans visuel (ouvert aux seuls speedruns, pas encore passe par la programmation) : son nom sur le fond sombre. */
+.sg-card-placeholder {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.05rem;
+    color: #f4f1ff;
+    background: radial-gradient(circle at 30% 20%, rgba(162, 89, 255, 0.35), transparent 60%), #0b0a16;
+}
+
+/* Les classements du World Scoring : le sigle en or sur fond sombre, comme le 1CC MULTI de la vitrine. */
+.sg-badge-world {
+    background: #1d1600;
+    border-color: #ffd23c;
+    color: #ffd23c;
+}
+
+.sg-badge-speedrun {
+    border-color: rgba(60, 200, 255, 0.6);
+    color: #1a8fc0;
+}
+
+.sg-badge-challenge {
+    border-color: rgba(255, 138, 61, 0.55);
+    color: #d4621f;
+}
+
+.sg-badge-massrun {
+    background: #a259ff;
+    border-color: #a259ff;
+    color: #fff;
+}
+
+:root[data-theme="nuit"] .sg-badge-speedrun { color: #6fd3ff; }
+:root[data-theme="nuit"] .sg-badge-challenge { color: #ff9a5c; }

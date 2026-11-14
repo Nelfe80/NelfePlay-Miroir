@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "fantasy",
+ "title": "Fantasy",
+ "source": "screenscraper",
+ "ss_game_id": 150438,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150438,
+  "release_year": 1981,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Fantasy",
+   "genre": "Action / Aventure",
+   "synopsis": "Fantasy, développé par SNK et sorti en 1981 sur borne Rock‑Ola, est un jeu d'action‑aventure, connu pour être le premier à introduire un système de Continue, permettant au joueur de poursuivre l'histoire plutôt que de viser le scoring. \r\nLe titre se compose de dix tableaux narratifs, un record pour l'époque, retraçant la quête de Tom pour sauver Sherry, enlevée tour à tour par des pirates, un rapace, un aborigène puis un hélicoptère. \r\nChaque scène propose une mécanique différente : vol en montgolfière, combat sur un bateau, esquive d'ennemis, escalade d'un arbre géant, poursuite par un tigre ou fuite jusqu'au Tower Bridge. \r\nCette approche narrative marquera durablement l'évolution du “Continue” dans les jeux d'arcade.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Fantasy",
+   "genre": "Action / Adventure",
+   "synopsis": "You must rescue your girlfriend from the bad pirate who has stolen her from your island love nest. Then, rescue her from other kidnappers until you are reunited with her for good.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "1d933480cb89d77f542c1661504e82974879705cbbc82b8e4c34fb3a798c72df",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=fanart",
+   "fetched_at": "2026-11-06T23:18:28+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "983f1032011008c8ee3fb8b337445ee83f2840a0ad456a6788ed58cb7322b1bf",
+   "width": 400,
+   "height": 102,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:18:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d86cc94dbd4a660ed636ca016f67c6f309463ea5013a0b3afc19caef20c1956e",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:18:31+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "66c17855e259a28ab99e657e52c7f1428485b657de905566cc3100d7d4cd0097",
+   "width": 492,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:18:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5f45dc23655da7e052796d066d1e36ce4e5754292aa63eb348fa0e6769464c16",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:18:34+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8bb901d0e45cf9ba7727c061c0dbb5fb5679c9208d1810706eefb34e0dc72afa",
+   "width": 997,
+   "height": 1400,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:18:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4ce867c147ed86c6eddda5cc14b306fe7defa92c05d48229e50fe5149d9451ba",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=150438&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:18:37+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:18:28+00:00",
+ "status": "done"
+}

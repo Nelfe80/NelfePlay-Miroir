@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "yars-revenge",
+ "title": "Yars' Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 13993,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13993,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Yars' Revenge",
+   "genre": "Shoot'em Up",
+   "synopsis": "Yars' Revenge sur Atari VCS 2600 est un shoot'em up où le joueur va devoir détruire le vaisseau géant ennemi sur le bord de l'écran. Il va donc falloir casser le bouclier avant de pouvoir tirer sur le vaisseau et l'éliminer.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Yars' Revenge",
+   "genre": "Shoot'em Up",
+   "synopsis": "In Yars' Revenge, your goal is to destroy the Qotile laser-base which is located on the right side of the screen behind a shield. You control the fly-like Yar, which can destroy the shield piece by piece by either shooting it or running into it. Once the shield is down, you will need to use the Zorlon cannon to destroy the Qotile. The Zorlon cannon is located on the left side of the screen, and when fired can destroy the Qotile with a direct hit. The Qotile isn't completely unarmed against your attacks, however. Wandering around the screen is a destroyer missile, which will constantly be homing in on your Yar. This missile can not be destroyed, however you can temporarily hide from it in a shield which runs vertically in the center of the screen. The Yar will be unable to fire when hiding in the shield so you can't stay there indefinitely! The Qotiles second weapon is a swirl which it will randomly fire at you and should be dodged. When you finally destroy the Qotile you can move on to the next, faster round of gameplay. Several game variations are included which control the difficulty and speed of the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bace0899c68d0c4a146c1768bcf008befdc9c1be15b3ce202fe96ade6aebb0e2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13993&media=fanart",
+   "fetched_at": "2026-11-06T17:09:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9314018c00d19f03645b6b6989325b85275c48e348b75bad6a21f8821a9b7a88",
+   "width": 400,
+   "height": 75,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13993&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:09:11+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f1c3053280e67cc8455d1446473b46e19b809c523dd6a9f1887c4c4414f3d918",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13993&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:09:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e154de801f17d403ce6e71b2754124938483ff1f0b1022010c6bcddfd9ef1922",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13993&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:09:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "87d76fd624798819c123211587d41e2572b98f7ff614d8bd5e970fbbd7447519",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13993&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:09:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "9a68a6b5f8cdda30e4a0ce824944fb8cf9a64a676be8bb58ead72741698e459c",
+    "width": 320,
+    "height": 200,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13993&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:09:17+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:09:09+00:00",
+ "status": "done"
+}

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480">
+  <!-- La texture du fond : des panneaux d'arcade vus de dessus (stick a boule, six boutons a la maniere d'une
+       Astro City, boutons start). Trait seul ; l'intensite se regle dans la feuille (body::before). -->
+  <defs>
+    <g id="bouton">
+      <circle r="17" stroke-opacity=".7"/>
+      <circle r="12.5" fill="#7c73b5" fill-opacity=".1"/>
+      <circle r="7.5" stroke-opacity=".45"/>
+      <path d="M-8.6 -3.2 A 9.2 9.2 0 0 1 -3.2 -8.6" stroke-opacity=".7"/>
+    </g>
+    <g id="stick">
+      <circle r="31" fill="#7c73b5" fill-opacity=".04" stroke-opacity=".45"/>
+      <circle r="24" stroke-opacity=".25"/>
+      <circle r="19" fill="#7c73b5" fill-opacity=".13"/>
+      <path d="M-12 -6 A 13.5 13.5 0 0 1 -5 -12.6" stroke-opacity=".75"/>
+    </g>
+    <g id="start">
+      <circle r="10.5" stroke-opacity=".7"/>
+      <circle r="6.5" fill="#7c73b5" fill-opacity=".1"/>
+    </g>
+  </defs>
+  <g fill="none" stroke="#7c73b5" stroke-width="1.3" stroke-linecap="round">
+    <g transform="translate(0 0)">
+      <use href="#stick" x="92" y="132"/>
+      <use href="#bouton" x="176" y="114"/>
+      <use href="#bouton" x="220" y="105"/>
+      <use href="#bouton" x="264" y="105"/>
+      <use href="#bouton" x="172" y="160"/>
+      <use href="#bouton" x="216" y="151"/>
+      <use href="#bouton" x="260" y="151"/>
+    </g>
+    <g transform="rotate(-9 330 370)">
+      <use href="#stick" x="236" y="372"/>
+      <use href="#bouton" x="320" y="354"/>
+      <use href="#bouton" x="364" y="345"/>
+      <use href="#bouton" x="408" y="345"/>
+      <use href="#bouton" x="316" y="400"/>
+      <use href="#bouton" x="360" y="391"/>
+      <use href="#bouton" x="404" y="391"/>
+    </g>
+    <use href="#start" x="402" y="62"/>
+    <use href="#start" x="434" y="62"/>
+    <use href="#bouton" x="392" y="214"/>
+    <use href="#start" x="58" y="292"/>
+    <use href="#bouton" x="112" y="438"/>
+  </g>
+</svg>

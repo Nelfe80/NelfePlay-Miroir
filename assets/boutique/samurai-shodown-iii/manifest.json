@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown-iii",
+ "title": "Samurai Shodown III",
+ "source": "screenscraper",
+ "ss_game_id": 37631,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37631,
+  "release_year": 1995,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown III",
+   "genre": "Combat / Versus",
+   "synopsis": "Samurai Shodown III sur Neo Geo est le troisième opus de la série produite par SNK. Ce jeu de combat se déroule au Japon, lors du moyen-Age. Zankuro Minazuki, surnommé le démon, terrorise les régions provinciales en attaquant et pillant tous les villages isolés. 12 samuraïs, experts dans le maniement de l'arme blanche réunissent leurs forces dans un seul but, neutraliser le démon.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown III",
+   "genre": "Fighting / Versus",
+   "synopsis": "The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The \"Slash\" techniques are the original moves of the most of the characters whereas the \"Bust\" techniques maybe the \"darker\" version of each character.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0d06591ee738e88ca85ce175c4b72f42997b9309408305286ceb05de3ca85f21",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=fanart",
+   "fetched_at": "2026-11-06T16:42:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "118ab23383647cc90a0a17ace9b5da60122144974d7fbc6bdb1c5168a4b7b0f8",
+   "width": 600,
+   "height": 265,
+   "region": "kr",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=wheel%28kr%29",
+   "fetched_at": "2026-11-06T16:42:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ad8ab162491ee3199b3684735b309d45a1c8d290e2ddbb171bea43bc7de91e7e",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:42:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "15d73677010cfef60880a9dd3afea1ba17656fb888965cc6bf034bd773b886ad",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:42:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "dd7aac02d44e50b3458ec1a102073f0389890ebc724be4b9e384a9aa7a47c478",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:42:27+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "3a156fcd11fa3d9ef61fb27cfa06d687e955a140a617ea8649bf6b808fd4ea21",
+   "width": 855,
+   "height": 1250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:42:29+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "db0d564c063a7b1a12bfc0d6782537fc9ff120639ac4f4f658f8882061438322",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:42:30+00:00"
+   },
+   {
+    "file": "ss2.webp",
+    "sha256": "fb8a113aa5169ea2d47d2ff89ea8aedd6158f3a3e38a12930c437bba632e5e4d",
+    "width": 304,
+    "height": 224,
+    "region": "kr",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37631&media=ss%28kr%29",
+    "fetched_at": "2026-11-06T16:42:32+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:42:21+00:00",
+ "status": "done"
+}

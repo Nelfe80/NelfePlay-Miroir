@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "xari-arena",
+ "title": "Xari Arena",
+ "source": "screenscraper",
+ "ss_game_id": 44461,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44461,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "2",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Xari Arena",
+   "genre": "",
+   "synopsis": "Un jeu prototype inédit pour l'Atari 5200.\n\nVotre but est de détruire tous les Xari qui sortent du puits au centre de l'écran avant qu'ils ne puissent détruire tous vos blocs. Vous pouvez utiliser le joystick ou le trackball.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Xari Arena",
+   "genre": "",
+   "synopsis": "An unreleased prototype game for the Atari 5200.\r\n\r\nYour goal is to destroy all the Xari's that come out of the well in the center of the screen before they can destroy all your blocks. You can use the joystick or the trackball controller.\r\n \r\nEach player resembles a hollow paddle (like a capsule), which you can move around your side of the screen.  Your paddle can catch and hold up to three fireballs (the little star looking things that the Xari's shoot), and each stored fireball allows you to destroy one Xari by running into it.  If you hit a Xari without any fireballs stored in your paddle, it is temporarily stunned and you cannot catch or deflect any shots for a few seconds.  If you already have three fireballs stored up, your paddle will start reflecting the fireballs back at the Xari's (a great tactic for those hard to reach guys that won't come near you) and at your partner (which is not so good).  You can choose to reflect shots even if you don't have three fireballs stored up by pressing the bottom controller button.\r\n \r\nIf things start to get out of control you can activate your fire extinguisher (using the top controller button) to temporarily protect your blocks.  The fire extinguisher coats your blocks with foam and will destroy any shots that touch it.  the foam moves quickly down your blocks and only lasts for a few seconds so you have to use it wisely (like when fireballs get behind your blocks).  You get one new fire extinguisher each level, which can be stored for later use.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5d9be3339dafbf8118606e0e1f172cc8e51a76c29da572ee3ca56095477e4f93",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44461&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:08:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "413d15c8e3ee156c35f2521aaff7405d3aaf96ebe1d837de6b6b68f946258ed4",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44461&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:08:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9724a789800100d9e05c9e366ad1a083fb82599942db64a5af0b95258883d5ea",
+   "width": 600,
+   "height": 552,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44461&media=support-2D%28cus%29",
+   "fetched_at": "2026-11-06T17:09:02+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d7fb23eabc6039109184a183461a2ecb7fdecb298aeddc9304e06bd5c36a4b1d",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44461&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:09:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5c8f3d67c922c4c226ad1f55611bbe138d46f9e0ec3cc3cb6f031272e19974a2",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44461&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:09:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:08:56+00:00",
+ "status": "done"
+}

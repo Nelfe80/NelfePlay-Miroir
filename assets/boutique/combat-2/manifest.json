@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "combat-2",
+ "title": "Combat 2",
+ "source": "screenscraper",
+ "ss_game_id": 59424,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 59424,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Combat Two",
+   "genre": "",
+   "synopsis": "Nous sommes en 2037. Les nations ne mènent plus de guerres monstres, tuant des millions de personnes. Au lieu de cela, deux combattants entrent dans une arène et se battent pour l'honneur de leur pays.\r\n\r\nIl s'agit d'une suite au jeu de combat de 1977, mais il n'y a pas d'avions, juste des chars et des missiles. Chaque joueur commence dans une base dans un coin, un en haut à gauche, l'autre en bas à droite. Vous devez rechercher votre adversaire et lui tirer dessus trois fois pour détruire son char. S'ils sont sous les arbres ou, dans une autre variante de jeu, derrière les murs, vous devez d'abord tirer sur les arbres / murs pour les atteindre. Chaque joueur dispose de trois chars. Le gagnant est le dernier debout.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Combat Two",
+   "genre": "",
+   "synopsis": "The year is 2037. Nations no longer fight monster wars, killing millions. Instead, two combatants enter an arena and fight for their countries honor.\n\nThis is a sequel to the 1977 game Combat however, there are no planes, just tanks and missiles. Each player starts in a base in a corner, one in the upper left, the other in the lower right. You must seek out your opponent and shoot them three times to destroy their tank. If they are under trees or, in another game variation, behind walls, you must shoot the trees/walls out of the way first to reach them. Each player has three tanks. The winner is the last one standing.\n\nIf you are still in your base, you can press the button to fire a homing missile that will seek out you opponent. When the homing missile hits, it counts as two shots. Missiles must reload between shots and the reloading time is several seconds. If a tank is not hit for several seconds, the 'crew' will affect repairs.\n\nThere are game variations for trees, which you can drive but not shoot through, walls, which you can neither drive nor shoot through   and versions where you can place the trees/walls where you would like them to be.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f7b31366c7bb3886d58aa3788813a6e437d4c546b31557d88792aebda37dd89f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59424&media=fanart",
+   "fetched_at": "2026-11-07T06:35:27+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0c366be3d1fb95f8ec5886d0d9dd8a380a55428c3e2f194a5fc2547daf64a0d3",
+   "width": 400,
+   "height": 156,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59424&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T06:35:30+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e01d125c3aa27d198a2169bfa7a0214ba71e9775fd5e37d1bed59e2fb1126772",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59424&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T06:35:31+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7b0fcb12eb9b724315f58355d533d5386030087c1a5ac9b65f0da4897d432761",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59424&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T06:35:31+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "5b1613bef1a82676a9501915cf8387dad03e88f91d378340a149450f372c2603",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59424&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T06:35:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3617f2b5eb5354dbf7e4f389273d2a025eb9e59034609fe902aa679f797e9ce3",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59424&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:35:34+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T06:35:27+00:00",
+ "status": "done"
+}

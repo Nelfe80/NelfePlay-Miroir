@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ninja-golf",
+ "title": "Ninja Golf",
+ "source": "screenscraper",
+ "ss_game_id": 38036,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38036,
+  "release_year": 1990,
+  "publisher": "Atari",
+  "developer": "BlueSky Software",
+  "players": "1",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Ninja Golf",
+   "genre": "Beat'em All",
+   "synopsis": "Ninja Golf est un jeu d'action d'arcade qui combine un jeu de golf avec un jeu de combat à défilement latéral. Vous êtes un ninja, et votre objectif est de survivre à neuf trous de golf ninja! Sur chacun des trous, vous alternez entre le golf et les parties d'action. D'abord vous frappez la balle en sélectionnant la direction et la distance de la vue aérienne au bas de l'écran; Ensuite, vous devrez courir jusqu'à l'endroit où votre balle a été touchée tout en vous défendant des nombreux ennemis. Selon le terrain que vous devez traverser, divers ninjas ennemis, grenouilles géantes, requins tueurs, serpents et autres ennemis se mettront en travers de votre chemin. Pour éliminer les ennemis, vous pouvez frapper, taper ou utiliser une étoile de lancer. Plusieurs bonus peuvent être trouvés de temps en temps; invincibilité temporaire, vie supplémentaire, restauration de la santé, ou transport magique vers le green peuvent apparaître sur l'écran. Une fois que vous avez atteint le green, vous devrez vaincre un dragon cracheur de feu qui garde le trou. Le parcours de neuf trous augmente progressivement en difficulté et comporte des parcours par 3, par 4 et par 5.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ninja Golf",
+   "genre": "Beat'em Up",
+   "synopsis": "Ninja Golf is an arcade action game which combines a golf game with a side scrolling fighting game. You are a ninja, and your goal is to survive nine holes of ninja golf! On each of the holes, you alternate between the golf and action parts. First you hit the ball by selecting the direction and distance from the overhead view on the bottom of the screen; next you will need to run to the location your ball was hit while defending yourself from the many enemies. Depending on the terrain you need to cross, various enemy ninjas, giant frogs, killer sharks, snakes, and other enemies will all get in your way. To eliminate the enemies, you can kick, punch, or use a throwing star. Several bonuses may be found from time to time; temporary invincibility, an extra life, health restoration, or a magic transport to the green may all appear on the screen. Once you have reached the green, you will need to defeat a fire breathing dragon which guards the hole. The nine hole course progressively increases in difficulty and features par 3,  par 4, and par 5 holes.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3604e5bac4a8e946b8a1eaad8cb671bf58c8e5e7a794478141cd3d6f960eb2ca",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38036&media=fanart",
+   "fetched_at": "2026-11-06T16:58:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "cd8228d525517693d349e30a88197df7e56c4d44c6d7f1884c17c0501823353c",
+   "width": 600,
+   "height": 163,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38036&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:58:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e213d4c186cca4993198e8e84f08d2801a772c676b5c2f868a86e2894104dbc7",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38036&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:58:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1f684f5a5fea7a380e5c36aacbf4e1aec727ffd2bf4364eeeff20d4dfb2ab589",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38036&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:58:37+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "bfa9ba6b9e09535ad2fd23d9489a572f13680bdc52662b60ed7ce79d6a8a1747",
+   "width": 320,
+   "height": 223,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38036&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:58:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e34a87145207c1961795871373c37f8c3d38d88fcc0f09e306d6193924a50172",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38036&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:58:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:58:31+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "toki",
+ "title": "Toki",
+ "source": "screenscraper",
+ "ss_game_id": 43656,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43656,
+  "release_year": 1989,
+  "publisher": "Tad",
+  "developer": "Tad",
+  "players": "1-2",
+  "system_label": "Mame"
+ },
+ "text": {
+  "fr": {
+   "name": "Toki",
+   "genre": "Plateforme",
+   "synopsis": "Si c'est pas malheureux ! Vous étiez tranquille avec votre petite amie puis tout à coup, un méchant arrive et l'enlève. Si ce n'était que ça, comme on dit, 1 de perdue 10 de retrouvées mais en plus, on vous transforme en singe cracheur de boules. Bizarre me direz-vous ? Hé bien, malgré une histoire loufoque, ce jeu de plates formes est une des légendes des jeux d'arcade. Quand on y a gouté, on ne peut plus s'en passer.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Toki",
+   "genre": "Platform",
+   "synopsis": "Toki features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth (described humorously as \"monkey-spit\" or \"monkey-vomit\" by some gamers). The ultimate goal is to destroy the evil wizard who cast a spell on you; therefore transforming yourself from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ff36c8b9309a53079bcdcd9216bc9173e773381776c00abdddb4a5a78f551652",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=fanart",
+   "fetched_at": "2026-11-06T23:44:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3dd0f0e86a3868631df5230632c6fec5bf36dda1322eead9f9f7000e358f7ce5",
+   "width": 600,
+   "height": 242,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:44:26+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fa94cbb44fb8d45e7d809e21f06d2c13e96955563383622bcfa1776dec67b820",
+   "width": 850,
+   "height": 1102,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:44:28+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "875a2ec62ae86ac823eb5e7060ae45b030755c451801894610a0df0bf860a085",
+   "width": 489,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:44:29+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0c2772662ac52cd8bd81d3de3a734fb1bb63ada050cd15132375828ebba64fb1",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:44:31+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "fb115d0c12461202044b63b53cf9ba453d3437599b3f48dedbe49e054259dd67",
+   "width": 850,
+   "height": 1102,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:44:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fdd12ad56da7a5c4e0bdd0045926a189d5596b5dc64591745e21303be22e3ad2",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=43656&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:44:34+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:44:25+00:00",
+ "status": "done"
+}

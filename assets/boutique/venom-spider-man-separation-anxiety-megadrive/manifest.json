@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "venom-spider-man-separation-anxiety-megadrive",
+ "title": "Venom/Spider-Man: Separation Anxiety",
+ "source": "screenscraper",
+ "ss_game_id": 277,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 277,
+  "release_year": 1995,
+  "publisher": "Acclaim Entertainment",
+  "developer": "Software Creations",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Venom & Spider-Man : Separation Anxiety",
+   "genre": "Beat'em All",
+   "synopsis": "Spider-Man & Venom : Separation Anxiety est une adaptation du comics de Marvel sur Megadrive. La Life Foundation a créé cinq clones de Venom et a projeté de faire une armée pour contrôler la ville. En contrôlant Spider-Man ou Venom, vous devrez les détruire tous les cinq et stopper leurs plans. Hormis les coups traditionnels et l'utilisation de la toile d'araignée, il est possible de faire appel à quelques autres super héros en récoltant des icônes spéciales.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Venom & Spider-Man : Separation Anxiety",
+   "genre": "Beat'em Up",
+   "synopsis": "Separation Anxiety is a side scrolling beat'em up game, featuring characters and stories taken from the Spiderman comics. The story is loosely based on a mini series of comics about Venom. In this game, the player(s) gets to choose between controlling Spider-Man, or his on and off again foe Venom. As Spiderman you must stop the life foundation who have removed five symbiotes from Venom. They plan to bond them with their soldiers, creating a dangerous army. Venom recovering from his wounds also realises he must destroy them.\n\nThe game lets you punch, kick, swing and do combos throughout streets, the woods and underground complexes towards your goal. Throughout the game the player can pick up superhero icons. This icons will help you by summoning help from some of Spiderman's greatest allies like Daredevil, Ghost Rider, Hawkeye and Captain America",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "18aef95b7c7b9ff3bd294a8a302fe6b8566ebac3eb46c20c783d6c68a53c092d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=277&media=fanart",
+   "fetched_at": "2026-11-07T06:36:29+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "38104025d195d891ee57e2f53633c090b65ca05b5f995e93b33aa07691708ca0",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=277&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T06:36:30+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "135dde3fb0369461e9d0c353464fba41de47b32fc9b1f3de2887906f42a6f916",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=277&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T06:36:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d283784f87bdb847639e5035e75ea277684761459205db95fbb022f389d39cd0",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=277&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T06:36:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "60a91986994e921149ad7f35660631377df55ea3caa401bd139b391d8c4ca3f0",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=277&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T06:36:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "e23fa398f6fa4bb757e3483d7597163678b961cb96ad0bf0a0f14f29e4b9a84f",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=277&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:36:36+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T06:36:28+00:00",
+ "status": "done"
+}

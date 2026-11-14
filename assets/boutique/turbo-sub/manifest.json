@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "turbo-sub",
+ "title": "Turbo Sub",
+ "source": "screenscraper",
+ "ss_game_id": 14263,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14263,
+  "release_year": 1991,
+  "publisher": "Atari",
+  "developer": "NuFX",
+  "players": "1-2",
+  "system_label": "Lynx"
+ },
+ "text": {
+  "fr": {
+   "name": "Turbo Sub",
+   "genre": "Shoot'em Up",
+   "synopsis": "Turbo Sub est un shoot'em up sorti sur Lynx. La Terre est à nouveau envahie, et cette fois-ci peut-être par des poissons aliens mutants car c'est à bord de votre sous-marin surpuissant que vous devrez les affronter.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Turbo Sub",
+   "genre": "Shoot'em Up",
+   "synopsis": "Turbo Sub released in 1985 as an arcade shooter game by Entertainment Sciences. Then later in 1991 for the Atari Lynx. The arcade version was a one player game set in the future where you control a submersible ship against a horde of aliens. The Atari Lynx version is the same but can be played with two players and tells us the story is set in the 28th century on Earth. The planet has been invaded and the goal of the game is that the player must destroy all the aliens.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "20e304b820471b9e27a0b87288797b9bd77d814ba3ce2ef2889afecdbfd8d9a5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14263&media=fanart",
+   "fetched_at": "2026-11-06T17:07:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2ab041ca1ee0892b6811c727c3886cac240c7f38ef5e99f2bcd11b9d3ba34710",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14263&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:07:55+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "988ff5b02be8662a8134d0511391f9483850fd257f210590cd158c15b531a4be",
+   "width": 554,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14263&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:07:56+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2aab24e272ead644b333447508edc157f89e441103d44981b4c0a7ea357a19f6",
+   "width": 576,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14263&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:07:57+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "bcdca2bc5cb7e9983b72cb2db38d7e86e7011d52462f4c1a24e415445400bdde",
+   "width": 160,
+   "height": 101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14263&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:07:59+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "edb48b88a13f0d06abc1b7d87b9689ac7ad8a60a77807bbe166e555d1b572368",
+    "width": 160,
+    "height": 102,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14263&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:08:00+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:07:52+00:00",
+ "status": "done"
+}

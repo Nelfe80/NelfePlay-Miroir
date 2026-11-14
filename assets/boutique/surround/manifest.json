@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "surround",
+ "title": "Surround",
+ "source": "screenscraper",
+ "ss_game_id": 14127,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14127,
+  "release_year": 1977,
+  "publisher": "Sears",
+  "developer": "Sears",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Surround",
+   "genre": "",
+   "synopsis": "Surround est un jeu d'arcade sorti sur Atari VCS 2600. Chaque joueur contrôle un serpent et gagne des points lorsque l'autre joueur lui fonce dessus.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Surround : Chase",
+   "genre": "",
+   "synopsis": "Welcome to the exciting and competitive world of SURROUND. Your basic objective is to surround your opponent, causing him to run out of space in which to move, and at the same time not running into anything yourself. You can set up a blockade, force him into a corner or wander off by yourself and hope that he runs into something on his own.\r\n\r\nAlong with the basic SURROUND game, we've added four game features to make things more interesting. Be sure to read Section 4 to learn more about these features.\r\n\r\nThen there's VIDEO GRAFFITI. It's just for fun without the competitive edge thrown in. VIDEO GRAFFITI actually allows you to draw on the screen.\r\n\r\nSurround was one of the nine Atari 2600 launch titles released in September 1977.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "03bf65069e395cf7fbb09a5744d31f9fafeba26afdc075ef72d3a350f38a0444",
+   "width": 400,
+   "height": 62,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14127&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:25:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c3efac53a5b4bba2e8104c6cd5656523269b7046b0cb56270a46f37ffb9dabbe",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14127&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "989fa9727fa32e7b49f058da5d36cc64c3c6d3bde7e15937403cb662fcfa3e5e",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14127&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-07T20:25:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "fd5c0fc6fbb9c91c75ecea2cbc092d7a4a5da805d11167c36deabed1229df8cb",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14127&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:25:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "768af8f8005a630dfae2532411d0f902c3b9bbe35f0cebd5c0420cab7ee6ac69",
+    "width": 320,
+    "height": 226,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14127&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:25:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:25:23+00:00",
+ "status": "done"
+}

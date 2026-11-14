@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-battle-fighters",
+ "title": "Mega Man Battle & Fighters",
+ "source": "screenscraper",
+ "ss_game_id": 87590,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87590,
+  "release_year": 2000,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "RockMan Battle & Fighters",
+   "genre": "Combat",
+   "synopsis": "Rockman Battle & Fighters est un jeu de combat qui reprend le gameplay des 2 titres de la serie sortie sur arcade, Mega Man: The Power Battle et Mega Man 2: The Power Fighters.\r\nOn choisi l'un des 4 protagonistes disponible (Mega Man, Proto Man, Bass, and Duo), puis l'un des 3 regroupements de Boss provenant des divers jeux de la serie Mega Man. \r\nOn enchaine les combats de Boss dans l'ordre choisi, chaque victoire donnant droit à une arme speciale, utilisable lors des prochains combats.\r\nChaque adversaire est doté d'une faiblesse à une arme en particulier, donc l'ordre des combats est à reflechir consciencieusement au préalable.\r\nLe transfert d'information est possible entre 2 NGPC et le cable adecquat, mais pas de mode de jeu pour 2 joueurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RockMan Battle & Fighters",
+   "genre": "Fighting",
+   "synopsis": "Rockman Battle & Fighters is a fighting game similar to the two arcade titles Mega Man: The Power Battle, and Mega Man 2: The Power Fighters. \r\nPlaying as one of four characters (Mega Man, Proto Man, Bass, and Duo), the player chooses between three sets of boss battles with various Robot Masters from the series.\r\nThe battles are fought linearly in any order, and after each boss is defeated, a special weapon is added to the player's arsenal. \r\nEach boss is weak to one specific weapon, so the player is encouraged to strategize the order in which the bosses are faced. \r\nTwo players can use a link cable to transfer database information between systems, but no co-op or versus play is supported.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "159d4964f754204b4ccddd43f9e5aaa405f3e598f686b595f1628e22d0a1b457",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87590&media=fanart",
+   "fetched_at": "2026-11-07T20:25:47+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "dab7183b39fdb3015f454a44bd35dcc8f514e52514457bea3386ba32e38a41ff",
+   "width": 474,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87590&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:25:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9d0a6d8f3d8f1dfb5520913158d3e899bf20b1af9f0590a5ea864a159936dc46",
+   "width": 599,
+   "height": 700,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87590&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T20:25:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "310fffae64e67cf8480a6a497f37b79168adc6bfc3e91c2b26e4eb49f09182d5",
+   "width": 600,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87590&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-07T20:25:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d38fa44b5b837bbdcddd185fd8c6203927b3dc48cd37e1acb3f45ecf0c3b7228",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87590&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:25:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "30f73a4e62b24cf3eb23ae5719cfd47c2ba9618bed9721ce15648e711893b290",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=87590&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:25:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:25:46+00:00",
+ "status": "done"
+}

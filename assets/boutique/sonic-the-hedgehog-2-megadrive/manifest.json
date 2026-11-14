@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-the-hedgehog-2-megadrive",
+ "title": "Sonic The Hedgehog 2",
+ "source": "screenscraper",
+ "ss_game_id": 3,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic The Hedgehog 2",
+   "genre": "Plateforme",
+   "synopsis": "Sonic est de retour et meilleur que jamais. Il est absolument super! Il déborde d'énergie! Sa nouvelle super attaque éclair est extraordinaire, comme son nouvel ami, \"Tails\", le renard. Vous n'en croierez pas vos yeux. Et, pris par le feu de l'action, vous ne lâcherez plus les commandes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic The Hedgehog 2",
+   "genre": "Platform",
+   "synopsis": "Sonic the Hedgehog 2 continues Sonic's fast-paced adventures and introduces his loyal sidekick Tails. You dash through diverse zones, collecting rings that serve as both protection and extra lives, and face Robotnik's machines at each zone's end. Reaching a checkpoint with enough rings unlocks the Special Stage, where you race through a half-pipe to gather Chaos Emeralds. New to the game is the Spin Dash – a quick burst of speed from a standstill, perfect for slopes and tricky areas. You can play solo or cooperatively with Tails, who has infinite lives and always stays close. There's also a versus mode where you race a friend through specially designed split-screen levels.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9638c7b70f7c9e171ec0f7a3777418621dbf18bc5d9c784f2027df5233e1b8fd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=3&media=fanart",
+   "fetched_at": "2026-11-07T20:26:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f5a93f8ecea26e592d51a4cdab6fd360d6f6150bb5fe82e4e6821f512669fb78",
+   "width": 600,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=3&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-07T20:26:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e14b44be9005a5ccfe0bbbb9ac177042c8f0b2a5bd985b9f98b540ab6836b095",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=3&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:26:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c65da889ccb017949292a96690f8bfee051ccd4a251c74f5c79380942876998e",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=3&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:26:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c8c62e9755e00f150fa227a8e2afba9ea2389a1e84fb7b93cbb166ce8560e6a7",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=3&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:27:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "dcb9f4fb99426969143e5c80dc188756d773b5cb26b39afe41af81d674b4c4dc",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=3&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:27:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:26:54+00:00",
+ "status": "done"
+}

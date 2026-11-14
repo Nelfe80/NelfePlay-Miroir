@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-nes",
+ "title": "Teenage Mutant Ninja Turtles",
+ "source": "screenscraper",
+ "ss_game_id": 1253,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1253,
+  "release_year": 1989,
+  "publisher": "Palcom",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles",
+   "genre": "Plateforme",
+   "synopsis": "Teenage Mutant Ninja Turtles sur Nes est un jeu d'action dans lequel vous dirigez les fameuses tortues ninja Donatello, Michelangelo, Leonardo et Rapahël. Vous pouvez alterner quand vous voulez pour profiter des armes et caractéristiques de chacune et ainsi défaire le maléfique Schredder.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles",
+   "genre": "Platform",
+   "synopsis": "Teenage Mutant Ninja Turtles on NES is an action game in which you control the famous ninja turtles Donatello, Michelangelo, Leonardo, and Raphael. You can switch between them whenever you want to take advantage of each one's weapons and characteristics and thus defeat the evil Shredder.\r\n\r\nGameplay takes place in two perspectives: a top-down view, which lets you run around and explore buildings, sewers and other places. When entering places from the top-down view, the perspective shifts to a side-scrolling view, where most of the battling takes place. In addition to each turtle's main weapon, sub-weapons (such as shuriken) can be acquired, to use at foes - these have a limited use.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "1cb7802afb33f6b6ea6fe2e2f58abcf858233ed27443142f5407e2c44537309f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1253&media=fanart",
+   "fetched_at": "2026-11-06T17:26:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "23e7259f558b69619becb131c248a29dc9d99d066f45d4e40c1aa05d0a0c08b4",
+   "width": 400,
+   "height": 147,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1253&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:26:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c8121d1b37e4829ffb18ad00c5193188d7f85e19dc9d43862bb92fe63ae9e1e1",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1253&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:26:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3b9645a2ffd319dcf5470ad9aba30db88add40cc430cfb35e052fda014f88d0b",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1253&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:26:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f5fe3235ae0520ff88fb2f035ea67c46fa6b0ea429d8a14c7c98b6d715d18135",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1253&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:26:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0b0ec8c9e507dc4f00c036c1cb425b37b3d37fd4b01b55701d4269748387af59",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1253&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:26:16+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:26:06+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "mega-man-the-power-battle",
+ "title": "Mega Man: The Power Battle",
+ "source": "screenscraper",
+ "ss_game_id": 78892,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 78892,
+  "release_year": 1995,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man: The Power Battle",
+   "genre": "Combat / Versus Co-op",
+   "synopsis": "Une fois de plus, le professeur Wily fait des siennes et c'est à Mega Man, Protoman et même Bass d'arrêter le savant fou.\r\n\r\nÀ la différence des épisodes plus conventionnels de la série, Mega Man: The Power Battle se concentre exclusivement sur les duels contre les robots de Wily. Il en résulte ainsi un jeu hybride, à mi-chemin entre le beat'em all et le Mega Man traditionnel.\r\n\r\nFace aux multiples adversaires proposés, tous issus de la série classique, le joueur a accès à trois personnages : Mega Man, Protoman et Bass. Comme dans tout bon Mega Man, le joueur peut récupérer les armes des robots vaincus et les utiliser pour faciliter sa progression.\r\n\r\nÀ l'instar de la plupart des jeux d'arcade, Mega Man: The Power Battle peut se jouer à deux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man: The Power Battle",
+   "genre": "Fighting / Vs Co-op",
+   "synopsis": "Have you ever pictured a Rockman or Megaman game that allows to skip all the platform elements and just grapple against the bosses? That's pretty much the main idea in this game! Choose from Rockman/Megaman, Protoman or Bass and battle against classic bosses in the series. Features great 2-D graphics, solid control, and a nice use of strategy (since the right order of weapons will rid you of specific enemies in no time!).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "aa8f32307885e362d2d96dfc68de8bacce672f43a8865ab93d87805218370d4e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=fanart",
+   "fetched_at": "2026-11-06T17:23:12+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "cc321ef6282d5f5cfd57aedbd4e4ed0d30d67aa92ab1231aadbb4943a444158b",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:23:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ff0a64f79b37c1dad9be60547adf41324cefae591643f3e6cd18ea210d3f5f52",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:23:15+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b1429cb4ef441a01e583eee16f1356c166ece679caa854b7d917eae24e141053",
+   "width": 466,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:23:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ad0f6eac7bdf24e6e702201981a811f951ccc207eef0f9b1c2a427462ce3f22b",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:23:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8d2fd020e81c6cef3d494dd6de38d8776465764eb4dfe6f236ee8bff79d3983b",
+   "width": 494,
+   "height": 700,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:23:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c91a39dadb76ab7f7a0d5f79d5ef94273b529773290926b9ef2f7332cfdf572e",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=78892&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:23:20+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:23:11+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "marvel-super-heroes",
+ "title": "Marvel Super Heroes",
+ "source": "screenscraper",
+ "ss_game_id": 37401,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37401,
+  "release_year": 1995,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Marvel Super Heroes",
+   "genre": "Combat",
+   "synopsis": "Marvel Super Heroes est un jeu de combat en 2D des plus classiques. Retrouvez tous les super-héros Marvel tels que Psylocke, Wolverine, Juggernaut, Magneto, Captain America, Spider-Man, Iron Man, Hulk et bien d'autres encore pour vous taper dessus dans des combats acharnés. utilisez vos super-pouvoirs pour défaire vos ennemis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Marvel Super Heroes",
+   "genre": "Fighting",
+   "synopsis": "Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a978173b400233537a73a6859fa9865461783dba134887454b7bf14c15466c35",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37401&media=fanart",
+   "fetched_at": "2026-11-06T15:52:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2774dedeacbd66ec30460c9eafcf397084ebca3c36061ac68eab16860c8fe785",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37401&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:52:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e53e7c2b916df7605ab463fd57270756cab4f01de8d6739403704aecd2730f53",
+   "width": 514,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37401&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:52:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e161e6f650a91ad9099f4190250b16b32fbf959dd8085fe449487473882d1085",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37401&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:52:44+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "9e3f78409754687e63e81cfc9c81fad7b5dc3f99aa7139ca26ba4c93f0cafb58",
+   "width": 786,
+   "height": 1100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37401&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:52:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4a08fd8796bf9e1c38cf94b9e04442f91e771e0a9b8134939b47b9d51fcfd21f",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37401&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:52:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:52:39+00:00",
+ "status": "done"
+}

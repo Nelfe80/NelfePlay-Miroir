@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "slug": "the-last-blade-2",
+ "title": "THE LAST BLADE 2",
+ "source": "screenscraper",
+ "ss_game_id": 37600,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37600,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "The Last Blade 2",
+   "genre": "Combat",
+   "synopsis": "The Last Blade 2 sur Neo Geo est un jeu de combat en 2D. Les affrontements se font à l'arme blanche, au club de golf et autres cannes à pêche. Le jeu recèle une très grande variété de mouvements et parades, et requiert donc une certaine technicité.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Last Blade 2",
+   "genre": "Fighting",
+   "synopsis": "The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d74559f35a57efeb6326eb17696072de51762ff4c0095bdc4c83124ea613b16f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=fanart",
+   "fetched_at": "2026-11-06T15:39:00+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7cbe9cefb2c0c5aca86f9c21b706f446d2cd62afc7416bef2bb7047d4d4bbcc0",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:39:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4d32abaa3ef918d7b862e608a8400bae633b0576648196c379dfecb68fc16186",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a7e54b97df16cf4543cea1d9bf57572699c378d18e489f5382382c55711e0cf1",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3fa6d095e9b13e361861d92516b2348e7d8e6366a3813b60f95eabbd29501319",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:39:06+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "b434c55a63122fdc6c0920f8bd636a5b982c5090ae61144c96dc26f008ae6580",
+   "width": 275,
+   "height": 334,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:39:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "4cc7c555e5e1f40adab7ff699393b0283296548909554a3e40a70adf80b12ecb",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:39:09+00:00"
+   },
+   {
+    "file": "ss2.webp",
+    "sha256": "4ff6e9d1a6add9fd05b4719e4623cd28b75ffd0b51021a0f3f6768cbebf701fb",
+    "width": 320,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37600&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T15:39:10+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:39:00+00:00",
+ "status": "done"
+}

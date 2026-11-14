@@ -1,0 +1,307 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Verify records - NelfePlay</title>
+<meta name="description" content="Independent, trustless verification of NelfePlay certified records: the index signature and its Bitcoin seal are recomputed in your browser.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='14' font-size='14'%3E%F0%9F%94%8E%3C/text%3E%3C/svg%3E">
+<style>
+  :root{--ink:#eaf0ff;--dim:#9fb0d6;--faint:#63739e;--panel:#0d1636;--panel2:#111d44;--line:#22336a;--line2:#2c3f78;
+    --sonic:#2a7de1;--ok:#39d353;--ok-lo:#1f8f3c;--bad:#ff5d5d;--wait:#ff9d3c;--gold:#ffd24a;--btc:#f7931a}
+  *{box-sizing:border-box}html,body{margin:0}
+  body{background:radial-gradient(1100px 640px at 50% -12%,#1a2c6015,transparent 60%),linear-gradient(180deg,#0a1030,#070c22 62%);
+    color:var(--ink);font-family:"Segoe UI",system-ui,-apple-system,Roboto,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;min-height:100vh}
+  .wrap{max-width:760px;margin:0 auto;padding:clamp(18px,4vw,44px) clamp(14px,4vw,26px) 72px}
+  .topbar{display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap}
+  .logo{display:flex;align-items:center;font-weight:700;font-size:16px}.logo b{font-weight:inherit;color:var(--sonic)}
+  .logo .tag{margin-left:10px;font-size:10px;letter-spacing:.22em;color:var(--ok);border:1px solid var(--ok-lo);border-radius:6px;padding:2px 7px;text-transform:uppercase}
+  .langs{display:flex;gap:2px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:3px}
+  .langs button{all:unset;cursor:pointer;font-size:12px;padding:5px 9px;border-radius:7px;color:var(--dim)}
+  .langs button[aria-current="true"]{background:var(--sonic);color:#fff;font-weight:700}
+  .langs button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+  h1{font-size:clamp(26px,5vw,40px);line-height:1.05;margin:.5em 0 .1em;font-weight:900;letter-spacing:-.02em;text-wrap:balance}
+  .lede{color:var(--dim);font-size:14px;max-width:62ch}
+  .verdict{margin:26px 0 14px;border:1px solid var(--line2);border-radius:16px;padding:20px;background:linear-gradient(180deg,var(--panel2),var(--panel));display:flex;gap:16px;align-items:center}
+  .verdict .icon{width:52px;height:52px;border-radius:50%;flex:none;display:grid;place-items:center;font-size:26px;background:#0b1330;border:1px solid var(--line2)}
+  .verdict.ok .icon{background:radial-gradient(circle at 35% 30%,#4be07a,#146b31);border-color:#7ef2a5;color:#062512}
+  .verdict.bad .icon{background:radial-gradient(circle at 35% 30%,#ff8a8a,#7a1414);border-color:#ffb3b3}
+  .verdict.wait .icon{background:radial-gradient(circle at 35% 30%,#ffc078,#8a4a00);border-color:#ffd7a8;color:#241300}
+  .verdict .lbl{font-weight:800;font-size:18px}.verdict .sub{color:var(--dim);font-size:13px;margin-top:2px}
+  .checks{display:flex;flex-direction:column;gap:10px;margin:8px 0 22px}
+  .check{display:flex;gap:13px;align-items:flex-start;border:1px solid var(--line);border-radius:12px;padding:13px 15px;background:var(--panel)}
+  .check .st{width:22px;height:22px;border-radius:50%;flex:none;display:grid;place-items:center;font-size:13px;font-weight:900;margin-top:1px}
+  .st.ok{background:#0e2a1a;color:var(--ok);border:1px solid var(--ok-lo)}
+  .st.bad{background:#2a0e0e;color:var(--bad);border:1px solid #7a1414}
+  .st.wait{background:#2a1d0a;color:var(--wait);border:1px solid #7a5410}
+  .st.run{background:#0b1330;color:var(--faint);border:1px solid var(--line2)}
+  .check .body{min-width:0;flex:1}.check .t{font-weight:700;font-size:14px}
+  .check .d{color:var(--dim);font-size:12.5px;margin-top:2px;word-break:break-word}
+  .check .d code{font-family:ui-monospace,Consolas,monospace;color:var(--ink);font-size:11.5px}
+  .meta{display:flex;flex-wrap:wrap;gap:8px 10px;margin:6px 0 20px}
+  .pill{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:5px 12px;font-size:12.5px;color:var(--dim)}
+  .pill b{color:var(--ink);font-weight:700}
+  .how{border-top:1px solid var(--line);margin-top:26px;padding-top:16px;color:var(--faint);font-size:12.5px}
+  .how b{color:var(--dim)}.how ol{margin:8px 0 0;padding-left:18px}.how li{margin:4px 0}
+  .btn{display:inline-flex;align-items:center;gap:8px;background:transparent;border:1px solid var(--line2);color:var(--dim);text-decoration:none;font-weight:700;font-size:13px;border-radius:10px;padding:9px 15px;margin-top:8px}
+</style>
+</head><body>
+<div class="wrap">
+  <div class="topbar">
+    <span class="logo" translate="no">Nelfe<b>Play</b><span class="tag">verify</span></span>
+    <div class="langs" role="group" aria-label="Language">
+      <button onclick="setLang('en',this)">EN</button><button onclick="setLang('fr',this)">FR</button>
+      <button onclick="setLang('es',this)">ES</button><button onclick="setLang('ja',this)">日本語</button>
+      <button onclick="setLang('zh',this)">中文</button><button onclick="setLang('ko',this)">한국어</button>
+    </div>
+  </div>
+  <h1 id="h1"></h1>
+  <p class="lede" id="lede"></p>
+
+  <div class="verdict run" id="verdict">
+    <div class="icon" id="vicon">⏳</div>
+    <div><div class="lbl" id="vlbl"></div><div class="sub" id="vsub"></div></div>
+  </div>
+
+  <div class="meta" id="meta"></div>
+
+  <div class="checks">
+    <div class="check"><div class="st run" data-k="root">·</div><div class="body"><div class="t" id="ct_root"></div><div class="d" data-d="root">…</div></div></div>
+    <div class="check"><div class="st run" data-k="sig">·</div><div class="body"><div class="t" id="ct_sig"></div><div class="d" data-d="sig">…</div></div></div>
+    <div class="check"><div class="st run" data-k="seal">·</div><div class="body"><div class="t" id="ct_seal"></div><div class="d" data-d="seal">…</div></div></div>
+  </div>
+
+  <div class="how">
+    <b id="how_t"></b>
+    <ol><li id="how1"></li><li id="how2"></li><li id="how3"></li></ol>
+    <a class="btn" id="wiki" href="https://nelfe80.github.io/NelfeScoringProtocol/" target="_blank" rel="noopener"></a>
+    <a class="btn" id="dlots" href="#" style="display:none"></a>
+  </div>
+</div>
+
+<script>
+// Source de l'API PUBLIQUE (CORS *). Fixe (pas location.origin) → la page reste
+// vérifiable même hébergée sur un autre domaine (voir « pack self-host » du wiki).
+const BASE = 'https://nelfeplay.com';
+const $ = id => document.getElementById(id);
+
+const I = {
+  en:{wiki:"Documentation",tag:"verify",h1:"Verify records",
+    lede:"This page <b>does not trust</b> NelfePlay: it recomputes everything <b>in your browser</b>. It re-derives the fingerprint of the records index, <b>verifies the cryptographic signature</b>, and reads the <b>blockchain seal</b> state. Nothing is taken at face value.",
+    run_lbl:"Verifying…",run_sub:"Recomputing and checking signatures.",
+    ok_sealed_lbl:"Authentic and sealed on the blockchain",ok_sealed_sub:"Fingerprint and signature recomputed here; Bitcoin anchor confirmed.",
+    ok_lbl:"Authentic - signature verified",ok_sub:"Fingerprint and signature recomputed here. Bitcoin sealing in progress.",
+    bad_lbl:"Verification failed",bad_sub:"A fingerprint or signature does not match.",
+    pill_records:"%N% certified record(s)",pill_issuer:"issuer",
+    ct_root:"Index fingerprint recomputed",ct_sig:"Issuer signature (ECDSA P-256)",ct_seal:"Blockchain seal (OpenTimestamps)",
+    d_root_pre:"Recomputed from raw data:",d_root_ok:"Matches the published fingerprint. ✓",d_root_bad:"<b>Differs from the published fingerprint - data tampered.</b>",
+    d_sig_ok:"Valid signature for the issuer's public key. ✓",d_sig_bad:"<b>Invalid signature.</b>",
+    d_seal_ok:"Sealed on Bitcoin - block <b>%B%</b>, generation %G%. Priority proven.",
+    d_seal_wait:"Fingerprint submitted to OpenTimestamps (generation %G%) - <b>awaiting Bitcoin confirmation</b> (a few hours). The proof becomes immutable on confirmation.",
+    d_seal_none:"Fingerprint not yet anchored on the blockchain. Signature already verifiable; Bitcoin anchoring will follow.",
+    how_t:"How to read this result",
+    how1:"The index is the full, signed list of records. Its SHA-256 fingerprint is <b>recomputed here</b> from the raw data.",
+    how2:"The <b>ECDSA P-256 signature</b> is verified with the issuer's public key - a fake cannot produce it.",
+    how3:"The fingerprint is <b>timestamped on the blockchain</b> (OpenTimestamps): once confirmed, it proves priority, immutably. The <code>.ots</code> proof is downloadable and verifiable with the standard OpenTimestamps client.",
+    dlots:"⬇ Download the .ots proof",
+    f_index_lbl:"Index unreachable",f_index_sub:"Could not fetch the records index.",
+    f_empty_lbl:"Empty index",f_empty_sub:"No records to verify yet."},
+  fr:{wiki:"Documentation",tag:"vérif",h1:"Vérifier les records",
+    lede:"Cette page <b>ne fait pas confiance</b> à NelfePlay : elle recalcule tout <b>dans votre navigateur</b>. Elle re-dérive l'empreinte de l'index des records, <b>vérifie la signature</b> cryptographique, et lit l'état de <b>scellement blockchain</b>. Rien n'est pris pour argent comptant.",
+    run_lbl:"Vérification en cours…",run_sub:"Recalcul et contrôle des signatures.",
+    ok_sealed_lbl:"Authentique et scellé sur la blockchain",ok_sealed_sub:"Empreinte et signature recalculées ici ; ancrage Bitcoin confirmé.",
+    ok_lbl:"Authentique - signature vérifiée",ok_sub:"Empreinte et signature recalculées ici. Scellement Bitcoin en cours.",
+    bad_lbl:"Échec de la vérification",bad_sub:"Une empreinte ou une signature ne correspond pas.",
+    pill_records:"%N% record(s) certifié(s)",pill_issuer:"émetteur",
+    ct_root:"Empreinte de l'index recalculée",ct_sig:"Signature de l'émetteur (ECDSA P-256)",ct_seal:"Scellement blockchain (OpenTimestamps)",
+    d_root_pre:"Recalculée depuis les données brutes :",d_root_ok:"Identique à l'empreinte publiée. ✓",d_root_bad:"<b>Différente de l'empreinte publiée - données altérées.</b>",
+    d_sig_ok:"Signature valide pour la clé publique de l'émetteur. ✓",d_sig_bad:"<b>Signature invalide.</b>",
+    d_seal_ok:"Scellé sur Bitcoin - bloc <b>%B%</b>, génération %G%. Antériorité prouvée.",
+    d_seal_wait:"Empreinte soumise à OpenTimestamps (génération %G%) - <b>en attente de confirmation Bitcoin</b> (quelques heures). La preuve devient immuable à la confirmation.",
+    d_seal_none:"Empreinte pas encore ancrée sur la blockchain. Signature déjà vérifiable ; l'ancrage Bitcoin suivra.",
+    how_t:"Comment lire ce résultat",
+    how1:"L'index est la liste complète et signée des records. Son empreinte SHA-256 est <b>recalculée ici</b> à partir des données brutes.",
+    how2:"La <b>signature ECDSA P-256</b> est vérifiée avec la clé publique de l'émetteur - un faux ne peut pas la produire.",
+    how3:"L'empreinte est <b>horodatée sur la blockchain</b> (OpenTimestamps) : une fois confirmée, elle prouve l'antériorité, de façon immuable. La preuve <code>.ots</code> est téléchargeable et vérifiable avec le client OpenTimestamps standard.",
+    dlots:"⬇ Télécharger la preuve .ots",
+    f_index_lbl:"Index injoignable",f_index_sub:"Impossible de récupérer l'index des records.",
+    f_empty_lbl:"Index vide",f_empty_sub:"Aucun record à vérifier pour l'instant."},
+  es:{wiki:"Documentación",tag:"verif",h1:"Verificar los récords",
+    lede:"Esta página <b>no confía</b> en NelfePlay: lo recalcula todo <b>en tu navegador</b>. Re-deriva la huella del índice de récords, <b>verifica la firma</b> criptográfica y lee el estado del <b>sello blockchain</b>. Nada se da por sentado.",
+    run_lbl:"Verificando…",run_sub:"Recalculando y comprobando firmas.",
+    ok_sealed_lbl:"Auténtico y sellado en la blockchain",ok_sealed_sub:"Huella y firma recalculadas aquí; anclaje Bitcoin confirmado.",
+    ok_lbl:"Auténtico - firma verificada",ok_sub:"Huella y firma recalculadas aquí. Sellado Bitcoin en curso.",
+    bad_lbl:"Verificación fallida",bad_sub:"Una huella o firma no coincide.",
+    pill_records:"%N% récord(s) certificado(s)",pill_issuer:"emisor",
+    ct_root:"Huella del índice recalculada",ct_sig:"Firma del emisor (ECDSA P-256)",ct_seal:"Sello blockchain (OpenTimestamps)",
+    d_root_pre:"Recalculada desde los datos brutos:",d_root_ok:"Idéntica a la huella publicada. ✓",d_root_bad:"<b>Distinta de la huella publicada - datos alterados.</b>",
+    d_sig_ok:"Firma válida para la clave pública del emisor. ✓",d_sig_bad:"<b>Firma inválida.</b>",
+    d_seal_ok:"Sellado en Bitcoin - bloque <b>%B%</b>, generación %G%. Anterioridad probada.",
+    d_seal_wait:"Huella enviada a OpenTimestamps (generación %G%) - <b>pendiente de confirmación Bitcoin</b> (unas horas). La prueba será inmutable al confirmarse.",
+    d_seal_none:"Huella aún no anclada en la blockchain. Firma ya verificable; el anclaje Bitcoin llegará después.",
+    how_t:"Cómo leer este resultado",
+    how1:"El índice es la lista completa y firmada de récords. Su huella SHA-256 se <b>recalcula aquí</b> desde los datos brutos.",
+    how2:"La <b>firma ECDSA P-256</b> se verifica con la clave pública del emisor - un falso no puede producirla.",
+    how3:"La huella se <b>sella en la blockchain</b> (OpenTimestamps): una vez confirmada, prueba anterioridad, de forma inmutable. La prueba <code>.ots</code> es descargable y verificable con el cliente estándar OpenTimestamps.",
+    dlots:"⬇ Descargar la prueba .ots",
+    f_index_lbl:"Índice inaccesible",f_index_sub:"No se pudo obtener el índice de récords.",
+    f_empty_lbl:"Índice vacío",f_empty_sub:"Aún no hay récords que verificar."},
+  ja:{wiki:"ドキュメント",tag:"検証",h1:"記録を検証",
+    lede:"このページは NelfePlay を<b>信用しません</b>。すべてを<b>ブラウザ内で</b>再計算します。記録インデックスの指紋を再導出し、<b>暗号署名を検証</b>し、<b>ブロックチェーン封印</b>の状態を読み取ります。何も鵜呑みにしません。",
+    run_lbl:"検証中…",run_sub:"再計算と署名の確認。",
+    ok_sealed_lbl:"本物・ブロックチェーンに封印済み",ok_sealed_sub:"指紋と署名をここで再計算、Bitcoin 記録が確認済み。",
+    ok_lbl:"本物 - 署名を検証",ok_sub:"指紋と署名をここで再計算。Bitcoin 封印は処理中。",
+    bad_lbl:"検証に失敗",bad_sub:"指紋または署名が一致しません。",
+    pill_records:"認証記録 %N% 件",pill_issuer:"発行者",
+    ct_root:"インデックス指紋の再計算",ct_sig:"発行者署名（ECDSA P-256）",ct_seal:"ブロックチェーン封印（OpenTimestamps）",
+    d_root_pre:"生データから再計算：",d_root_ok:"公開された指紋と一致。✓",d_root_bad:"<b>公開された指紋と相違 - データ改ざん。</b>",
+    d_sig_ok:"発行者の公開鍵で署名が有効。✓",d_sig_bad:"<b>署名が無効。</b>",
+    d_seal_ok:"Bitcoin に封印 - ブロック <b>%B%</b>、世代 %G%。先行性を証明。",
+    d_seal_wait:"指紋を OpenTimestamps に提出（世代 %G%）- <b>Bitcoin 確認待ち</b>（数時間）。確認で不変になります。",
+    d_seal_none:"指紋はまだブロックチェーンに未記録。署名は既に検証可能、Bitcoin 記録は後続。",
+    how_t:"結果の読み方",
+    how1:"インデックスは記録の完全な署名付きリスト。その SHA-256 指紋を生データから<b>ここで再計算</b>。",
+    how2:"<b>ECDSA P-256 署名</b>を発行者の公開鍵で検証 - 偽物には作れません。",
+    how3:"指紋を<b>ブロックチェーンに刻印</b>（OpenTimestamps）：確認後、不変に先行性を証明。<code>.ots</code> 証明はダウンロードでき、標準の OpenTimestamps クライアントで検証可能。",
+    dlots:"⬇ .ots 証明をダウンロード",
+    f_index_lbl:"インデックスに接続不可",f_index_sub:"記録インデックスを取得できませんでした。",
+    f_empty_lbl:"インデックスが空",f_empty_sub:"検証する記録がまだありません。"},
+  zh:{wiki:"文档",tag:"验证",h1:"验证记录",
+    lede:"本页<b>不信任</b> NelfePlay：一切都在<b>你的浏览器中</b>重新计算。它重新推导记录索引的指纹，<b>验证加密签名</b>，并读取<b>区块链封印</b>状态。绝不轻信。",
+    run_lbl:"验证中…",run_sub:"重新计算并核对签名。",
+    ok_sealed_lbl:"真实且已封印于区块链",ok_sealed_sub:"指纹与签名在此重算；Bitcoin 锚定已确认。",
+    ok_lbl:"真实 - 签名已验证",ok_sub:"指纹与签名在此重算。Bitcoin 封印进行中。",
+    bad_lbl:"验证失败",bad_sub:"某个指纹或签名不匹配。",
+    pill_records:"%N% 条认证记录",pill_issuer:"签发者",
+    ct_root:"索引指纹重算",ct_sig:"签发者签名（ECDSA P-256）",ct_seal:"区块链封印（OpenTimestamps）",
+    d_root_pre:"从原始数据重算：",d_root_ok:"与公布指纹一致。✓",d_root_bad:"<b>与公布指纹不符-数据被篡改。</b>",
+    d_sig_ok:"对签发者公钥签名有效。✓",d_sig_bad:"<b>签名无效。</b>",
+    d_seal_ok:"封印于 Bitcoin-区块 <b>%B%</b>，第 %G% 代。已证先后。",
+    d_seal_wait:"指纹已提交 OpenTimestamps（第 %G% 代）-<b>等待 Bitcoin 确认</b>（数小时）。确认后即不可变。",
+    d_seal_none:"指纹尚未锚定到区块链。签名已可验证；Bitcoin 锚定随后。",
+    how_t:"如何解读此结果",
+    how1:"索引是完整且已签名的记录清单。其 SHA-256 指纹在此<b>从原始数据重算</b>。",
+    how2:"<b>ECDSA P-256 签名</b>用签发者公钥验证-伪造者无法生成。",
+    how3:"指纹<b>盖时间戳于区块链</b>（OpenTimestamps）：确认后即以不可变方式证明先后。<code>.ots</code> 证明可下载，并用标准 OpenTimestamps 客户端验证。",
+    dlots:"⬇ 下载 .ots 证明",
+    f_index_lbl:"索引不可达",f_index_sub:"无法获取记录索引。",
+    f_empty_lbl:"索引为空",f_empty_sub:"暂无可验证的记录。"},
+  ko:{wiki:"문서",tag:"검증",h1:"기록 검증",
+    lede:"이 페이지는 NelfePlay를 <b>신뢰하지 않습니다</b>: 모든 것을 <b>브라우저에서</b> 다시 계산합니다. 기록 인덱스의 지문을 재도출하고 <b>암호 서명을 검증</b>하며 <b>블록체인 봉인</b> 상태를 읽습니다. 아무것도 곧이곧대로 받아들이지 않습니다.",
+    run_lbl:"검증 중…",run_sub:"재계산 및 서명 확인.",
+    ok_sealed_lbl:"진본이며 블록체인에 봉인됨",ok_sealed_sub:"지문과 서명을 여기서 재계산, Bitcoin 앵커 확인됨.",
+    ok_lbl:"진본 - 서명 검증됨",ok_sub:"지문과 서명을 여기서 재계산. Bitcoin 봉인 진행 중.",
+    bad_lbl:"검증 실패",bad_sub:"지문 또는 서명이 일치하지 않습니다.",
+    pill_records:"인증 기록 %N%건",pill_issuer:"발행자",
+    ct_root:"인덱스 지문 재계산",ct_sig:"발행자 서명 (ECDSA P-256)",ct_seal:"블록체인 봉인 (OpenTimestamps)",
+    d_root_pre:"원시 데이터에서 재계산:",d_root_ok:"게시된 지문과 일치. ✓",d_root_bad:"<b>게시된 지문과 상이 - 데이터 변조.</b>",
+    d_sig_ok:"발행자 공개키로 서명 유효. ✓",d_sig_bad:"<b>서명 무효.</b>",
+    d_seal_ok:"Bitcoin에 봉인 - 블록 <b>%B%</b>, 세대 %G%. 선후 증명됨.",
+    d_seal_wait:"지문을 OpenTimestamps에 제출 (세대 %G%) - <b>Bitcoin 확인 대기</b> (수 시간). 확인되면 불변이 됩니다.",
+    d_seal_none:"지문이 아직 블록체인에 앵커되지 않음. 서명은 이미 검증 가능; Bitcoin 앵커링은 이후.",
+    how_t:"결과 읽는 법",
+    how1:"인덱스는 완전하고 서명된 기록 목록입니다. 그 SHA-256 지문을 원시 데이터에서 <b>여기서 재계산</b>합니다.",
+    how2:"<b>ECDSA P-256 서명</b>을 발행자 공개키로 검증 - 위조는 만들 수 없습니다.",
+    how3:"지문을 <b>블록체인에 타임스탬프</b>(OpenTimestamps): 확인되면 불변으로 선후를 증명. <code>.ots</code> 증명은 다운로드 가능하며 표준 OpenTimestamps 클라이언트로 검증할 수 있습니다.",
+    dlots:"⬇ .ots 증명 다운로드",
+    f_index_lbl:"인덱스 접근 불가",f_index_sub:"기록 인덱스를 가져올 수 없습니다.",
+    f_empty_lbl:"빈 인덱스",f_empty_sub:"아직 검증할 기록이 없습니다."}
+};
+let LANG='en';
+const T=k=>(I[LANG]||I.en)[k] ?? (I.en[k]||k);
+
+// Résultats mémorisés (calculés une fois) pour re-rendre au changement de langue.
+let R=null;
+
+function paint(){
+  document.documentElement.lang=LANG;
+  document.querySelector('.logo .tag').textContent=T('tag');
+  $('h1').textContent=T('h1');
+  $('lede').innerHTML=T('lede');
+  $('ct_root').textContent=T('ct_root'); $('ct_sig').textContent=T('ct_sig'); $('ct_seal').textContent=T('ct_seal');
+  $('how_t').textContent=T('how_t'); $('how1').innerHTML=T('how1'); $('how2').innerHTML=T('how2'); $('how3').innerHTML=T('how3');
+  $('wiki').textContent='📖 '+T('wiki'); $('dlots').textContent=T('dlots');
+  if(!R){ $('vlbl').textContent=T('run_lbl'); $('vsub').textContent=T('run_sub'); return; }
+  renderResult();
+}
+
+function setCheck(k,state,html){
+  const st=document.querySelector(`.st[data-k="${k}"]`);
+  st.className='st '+state; st.textContent=state==='ok'?'✓':state==='bad'?'✕':state==='wait'?'!':'·';
+  document.querySelector(`.d[data-d="${k}"]`).innerHTML=html;
+}
+
+function renderResult(){
+  if(R.fail){
+    $('verdict').className='verdict bad'; $('vicon').textContent='✕';
+    $('vlbl').textContent=T(R.fail+'_lbl'); $('vsub').textContent=T(R.fail+'_sub');
+    ['root','sig','seal'].forEach(k=>setCheck(k,'bad','-')); $('meta').innerHTML=''; return;
+  }
+  $('meta').innerHTML=`<span class="pill">${T('pill_records').replace('%N%',R.count)}</span>`+
+    `<span class="pill">${T('pill_issuer')} <b translate="no">${R.issuer.slice(0,12)}…</b></span>`;
+  setCheck('root', R.rootOk?'ok':'bad',
+    `${T('d_root_pre')} <code translate="no">${R.rootCalc.slice(0,20)}…</code><br>`+(R.rootOk?T('d_root_ok'):T('d_root_bad')));
+  setCheck('sig', R.sigOk?'ok':'bad', R.sigOk?T('d_sig_ok'):T('d_sig_bad'));
+  if(R.block) setCheck('seal','ok', T('d_seal_ok').replace('%B%',R.block).replace('%G%',R.gen));
+  else if(R.gen!=null) setCheck('seal','wait', T('d_seal_wait').replace('%G%',R.gen));
+  else setCheck('seal','wait', T('d_seal_none'));
+
+  const v=$('verdict');
+  if(R.rootOk&&R.sigOk){
+    v.className='verdict ok'; $('vicon').textContent='✓';
+    $('vlbl').textContent=R.block?T('ok_sealed_lbl'):T('ok_lbl');
+    $('vsub').textContent=R.block?T('ok_sealed_sub'):T('ok_sub');
+  } else { v.className='verdict bad'; $('vicon').textContent='✕'; $('vlbl').textContent=T('bad_lbl'); $('vsub').textContent=T('bad_sub'); }
+}
+
+// ── crypto ───────────────────────────────────────────────────────────────────
+const enc=new TextEncoder();
+async function sha256hex(s){const b=await crypto.subtle.digest('SHA-256',enc.encode(s));return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('');}
+const jcs=o=>'{'+Object.keys(o).sort().map(k=>JSON.stringify(k)+':'+JSON.stringify(o[k])).join(',')+'}';
+function b64urlToBytes(s){s=s.replace(/-/g,'+').replace(/_/g,'/');while(s.length%4)s+='=';return Uint8Array.from(atob(s),c=>c.charCodeAt(0));}
+function pemToBytes(p){return Uint8Array.from(atob(p.replace(/-----[^-]+-----/g,'').replace(/\s+/g,'')),c=>c.charCodeAt(0));}
+function derToP1363(der){let i=0;if(der[i++]!==0x30)throw'DER';if(der[i]&0x80)i+=1+(der[i]&0x7f);else i++;
+  const rd=(()=>{if(der[i++]!==0x02)throw'DER';let l=der[i++];let v=der.slice(i,i+l);i+=l;return v;})();
+  const sd=(()=>{if(der[i++]!==0x02)throw'DER';let l=der[i++];let v=der.slice(i,i+l);i+=l;return v;})();
+  const fix=v=>{v=v[0]===0?v.slice(1):v;const o=new Uint8Array(32);o.set(v,32-v.length);return o;};
+  const out=new Uint8Array(64);out.set(fix(rd),0);out.set(fix(sd),32);return out;}
+
+async function run(){
+  let idx;
+  try{ idx=await (await fetch(BASE+'/api/v1/scores/index',{cache:'no-store'})).json(); }
+  catch(e){ R={fail:'f_index'}; renderResult(); return; }
+  if(!idx||!idx.records){ R={fail:'f_empty'}; renderResult(); return; }
+
+  const rootCalc=await sha256hex(idx.records.map(jcs).join('\n'));
+  const rootOk=rootCalc===idx.root;
+  let sigOk=false;
+  try{
+    const key=await crypto.subtle.importKey('spki',pemToBytes(idx.issuer_public_key),{name:'ECDSA',namedCurve:'P-256'},false,['verify']);
+    sigOk=await crypto.subtle.verify({name:'ECDSA',hash:'SHA-256'},key,derToP1363(b64urlToBytes(idx.signature)),enc.encode(idx.root));
+  }catch(e){ sigOk=false; }
+  let anchor=null;
+  try{ const a=(await (await fetch(BASE+'/api/v1/scores/anchors',{cache:'no-store'})).json()).anchors||[]; anchor=a.find(x=>x.root_sha256===idx.root); }catch(e){}
+
+  R={count:idx.count,issuer:idx.issuer_key_id||'',rootCalc,rootOk,sigOk,
+     gen:anchor?anchor.generation:null,block:anchor?anchor.bitcoin_block:null};
+  renderResult();
+  if(anchor) showOts(anchor.generation);
+}
+
+function showOts(gen){
+  const a=$('dlots'); a.style.display='inline-flex'; a.href='#';
+  a.onclick=async(e)=>{e.preventDefault();
+    const d=await (await fetch(BASE+'/api/v1/scores/anchor-proof?generation='+gen)).json();
+    if(!d.ots_b64)return;
+    const bytes=b64urlToBytes(d.ots_b64.replace(/\+/g,'-').replace(/\//g,'_'));
+    const u=URL.createObjectURL(new Blob([bytes],{type:'application/octet-stream'}));
+    const t=document.createElement('a');t.href=u;t.download=`records-index-gen${gen}.ots`;t.click();URL.revokeObjectURL(u);};
+}
+
+function setLang(l,btn){LANG=l;document.querySelectorAll('.langs button').forEach(b=>b.removeAttribute('aria-current'));if(btn)btn.setAttribute('aria-current','true');location.hash=l;paint();}
+LANG=(location.hash||'#en').replace('#','')||'en';if(!I[LANG])LANG='en';
+const cur=[...document.querySelectorAll('.langs button')].find(x=>x.getAttribute('onclick').includes("'"+LANG+"'"));
+if(cur)cur.setAttribute('aria-current','true');
+paint();
+run();
+</script>
+</body></html>

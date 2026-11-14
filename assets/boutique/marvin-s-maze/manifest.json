@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "marvin-s-maze",
+ "title": "Marvin's Maze",
+ "source": "screenscraper",
+ "ss_game_id": 78863,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 78863,
+  "release_year": 1983,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Marvin's Maze",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Un jeu de labyrinthe où vous affrontez les Robonoïds tout en essayant de récupérer toutes les pastilles. Deux façons de terminer un niveau : ramasser toutes les pastilles ou atteindre le nombre de Robonoïds à détruire indiqué en bas de l'écran. Pour détruire un Robonoïd : tirer dessus ou faire un trou sous lui à certains endroits du labyrinthe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Marvin's Maze",
+   "genre": "Action / Labyrinth",
+   "synopsis": "A maze game where you fight against Robonoids while trying to clear the maze of dots. Two ways to finish each rack: Eat up all the dots, or destroy a certain number of Robonoids (listed at the bottom of the screen). Two ways to destroy the Robonoids: Shoot them, or remove the ground from under them at certain points of the maze (the 'Trick').",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "357639a9706246eb5515aee3d9a4efd4710e8ddc430c4b702081c07dd9b83593",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=fanart",
+   "fetched_at": "2026-11-06T15:59:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "30cb2bcfca31a85837ae2e03c048c1f50c3ac4b89e77e3a4a8c2721d0fee0c7b",
+   "width": 400,
+   "height": 173,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:59:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "aa3863bf6b4f1746f5140bea39ca9e7bd45c782ee496151d63590b9ff944b55a",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:59:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "edfedf0e106fa2ddc53cea760f0b34bc18e18998cccfbd4261223a8f2bd9d310",
+   "width": 297,
+   "height": 615,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:59:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "493b9baea7412fa082c3840da0f3beb74693219d9fd2ddbae21265c25508ae06",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:59:51+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "b0c08700f5937cfad7d8d5b2d704ae6ec7f5f96c5f8dbf8f366194fb4a8b8b01",
+   "width": 850,
+   "height": 1124,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:59:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f20672a57715107e4e00bb1c7724f3388449ec62b6f6d66726d9cee8f7559f26",
+    "width": 216,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=78863&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:59:54+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:59:44+00:00",
+ "status": "done"
+}

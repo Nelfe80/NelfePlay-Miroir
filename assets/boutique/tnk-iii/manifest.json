@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "tnk-iii",
+ "title": "TNK III",
+ "source": "screenscraper",
+ "ss_game_id": 43650,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43650,
+  "release_year": 1985,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "T.N.K III",
+   "genre": "Tir",
+   "synopsis": "Le joueur commande un tank qui peut tirer avec des mitraillettes et des canons pour détruire toute opposition en route vers la destination du joueur, en passant par l'infanterie ennemie, les missiles, les tanks et les emplacements de canon sur le chemin. Dispersés dans le jeu , des bonus peuvent être récupérés.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "T.N.K III",
+   "genre": "Shooter",
+   "synopsis": "During the final days of World War II, the allied forces sends special forces member Colonel Ralf to penetrate an enemy base and destroy a secret weapon by driving a new prototype tank.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "030f78d7af68c0cc720b5b2e701a5972ec25733e9c9eb4ca7ca34bb7f45696fa",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43650&media=fanart",
+   "fetched_at": "2026-11-06T23:18:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "aeb8a71481380a3310056b3ee7662547eccdf955c304637dc945f29e6c54740d",
+   "width": 400,
+   "height": 154,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43650&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:18:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c7e76c0a09aee8a1c06ae9f392f34257400567939be559e69724bdf75e876410",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43650&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:18:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ac0d4b6e04cb3d8d109df12da1b4c4663b5b35fe08a9eec5d7b973f513882808",
+   "width": 216,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43650&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:18:44+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8da95d4ebbc8cfa0e304d1b08aa69e577060869a886558abb26f3a90e43c3e94",
+   "width": 850,
+   "height": 1111,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43650&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:18:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5f411997bfc043112aa42bc778f95f8175814a5dd336afd74f600a680610b436",
+    "width": 216,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43650&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:18:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:18:39+00:00",
+ "status": "done"
+}

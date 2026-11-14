@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown-iv-amakusa-s-revenge",
+ "title": "SAMURAI SHODOWN IV: AMAKUSA'S REVENGE",
+ "source": "screenscraper",
+ "ss_game_id": 37632,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37632,
+  "release_year": 1996,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown IV : Amakusa's Revenge",
+   "genre": "Combat / Versus",
+   "synopsis": "Samurai Shodown IV : Amakusa's Revenge sur Neo Geo est un jeu de combat se déroulant en 1789 au Japon. Anéanti lors du troisième opus, Amakusa est ressuscité et bien décidé à prendre sa revanche. Ce titre apporte quelques modifications au système de jeu, en ajoutant notamment la possibilité de se suicider durant le combat et des combos de fatalités pour achever votre adversaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown IV : Amakusa's Revenge",
+   "genre": "Fighting / Versus",
+   "synopsis": "Bringing a new breath to SNK's swordsman fighting series, this 4th installment marks the return of 3 classic characters (Yagyu Jubei, Charlotte and Tam Tam, now with updated stuff), introduces 2 newcomers for the pantheon (the brothers Sogetsu Kazama and Kazuki Kazama) and brings some new backgrounds.\n\nIn spite of these little improvements, the game preserved (and improved a lot) many elements that did the previous one (Samurai Shodown III: Blades of Blood) a quite popular title, like the dodge move and the chance to choose between two versions of the fighter: the standard one and an alternative dark-styled one (SLASH and BUST, respectively).\n\nWith the intention to provide more action in the battles, the \"No Contest\" Moves were introduced: working in similar way (and under certain conditions) to the many games of Mortal Kombat Series, your fighter will execute an ultimate-slaughter move in a stunned opponent.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9ef771294b550eeeb998a7f6b69f75c99f47fe1d4ba1ed19aeddcd30a66573c5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=fanart",
+   "fetched_at": "2026-11-07T20:19:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d589cc0935e2b2b257cc233b80fcbe6b3b84356c27459bae4a6c5e99e4079c46",
+   "width": 600,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:19:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "94bda957151ca937c5f8998f589b822ecdea793a2b1f1f704459a68454c9506b",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eb7c0ab6d664158131309793aa6e88d58f7217d04b7f3397e4b191b9587d02a4",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9510be0e6dc915da4d1a6b013136274cc17581e3f7a30de61a037d9c8ec433fa",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:20:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "4635aee66b661e44c4f378a7ab78bb089549ffaad972f72772c1bafd816fa45c",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:20:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d0194945a4a80cbd6a40b29264f415a677b210948380da1423602f4ddd2977e9",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:20:04+00:00"
+   },
+   {
+    "file": "ss2.webp",
+    "sha256": "e107ecd5df416ed0be315c138b8cd0ff31c7d877e8edb352c808541d06b765e1",
+    "width": 304,
+    "height": 224,
+    "region": "kr",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37632&media=ss%28kr%29",
+    "fetched_at": "2026-11-07T20:20:05+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:19:55+00:00",
+ "status": "done"
+}

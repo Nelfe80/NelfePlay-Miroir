@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "cyberbots-fullmetal-madness",
+ "title": "Cyberbots: Fullmetal Madness",
+ "source": "screenscraper",
+ "ss_game_id": 37391,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37391,
+  "release_year": 1995,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Cyberbots : Fullmetal Madness",
+   "genre": "Combat",
+   "synopsis": "Le joueur a le choix d'incarner six différents pilotes pouvant contrôler l'un des douze mechas disponibles. Le but du jeu est d'affronter en duel d'autres robots. Chaque mecha dispose de coups spéciaux et d'une furie réalisable lorsque la jauge power est remplie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Cyberbots : Fullmetal Madness",
+   "genre": "Fighting",
+   "synopsis": "Near the end of the 21st century, Earth begins to become overpopulated, leading to many people living in man-made space colonies. The primary army of Earth called \"Earth Corps\", has been conducting nefarious experiments and their work, along with the actions of the playable characters, will determine Earth's future.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "acb6dd763f7851f81f448bf671691510e437ae6cd92d77e209bd048e770dee9a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=fanart",
+   "fetched_at": "2026-11-06T15:50:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6c5272446a1a05a2059b0015c5fde8612fe6e13be2ac42652ad50e1c1048cc11",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:50:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d7e4e0646f05d1157b4c5df5ae53d26be24606d04399704dbd4dbc685c1f6274",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:50:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f514f5f3e74fafc69ae4ed0bbfeea405c0577bb9b8564cb66b3910e485981ec0",
+   "width": 425,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:50:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "eb70881fc42e5d183fcd22ef39ca862c946fcaa8ee0189e8eee2e976519b61c6",
+   "width": 384,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:50:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d0448e97225bb402c5015e336e9a6ffae9bece7ea19e6c2bde8e983fbbe0dc3a",
+   "width": 850,
+   "height": 1205,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:50:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0f20265656ad72cbd282a8b11293131c2964241bf6547b7a9c8f3be044c7df45",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37391&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:50:10+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:50:00+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "paddle-mania",
+ "title": "Paddle Mania",
+ "source": "screenscraper",
+ "ss_game_id": 79170,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 79170,
+  "release_year": 1988,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-4",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Paddle Mania",
+   "genre": "Sport",
+   "synopsis": "Paddle Mania is a top-down tennis game with an Olympic twist. When playing through the game's single-player and cooperative modes, players will alternate between taking on fellow tennis players on gimmicky courts and competing against athletes from other sports. Despite the tennis theming, scoring works more similarly to air hockey, with a goal on both sides of the court that the teams need to defend and aim for. The Olympic athletes you face off with range from a volleyball team to surfers to a single sumo wrestler, while the gimmicks against the tennis players include things such as a goal that opens and shuts periodically, one that has a barrier preventing you from standing inside it, and one where parts of the goal is blocked by a moving wall. By swinging your racket right and left you need to get more points than your opponent to move onto the next athlete. There is a multiplayer option where you compete against each other instead of cooperate, and while you both play as tennis athletes still, you can select from the different gimmick courts featured in the single player mode.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Paddle Mania",
+   "genre": "Sports",
+   "synopsis": "Paddle Mania is a top-down tennis game with an Olympic twist. When playing through the game's single-player and cooperative modes, players will alternate between taking on fellow tennis players on gimmicky courts and competing against athletes from other sports. Despite the tennis theming, scoring works more similarly to air hockey, with a goal on both sides of the court that the teams need to defend and aim for. The Olympic athletes you face off with range from a volleyball team to surfers to a single sumo wrestler, while the gimmicks against the tennis players include things such as a goal that opens and shuts periodically, one that has a barrier preventing you from standing inside it, and one where parts of the goal is blocked by a moving wall. By swinging your racket right and left you need to get more points than your opponent to move onto the next athlete. There is a multiplayer option where you compete against each other instead of cooperate, and while you both play as tennis athletes still, you can select from the different gimmick courts featured in the single player mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "43c7b6e3d817319afbd799b339cf216eedd5783f8ee6ebb0dde5d9a969d074ae",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79170&media=fanart",
+   "fetched_at": "2026-11-06T16:01:06+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f45b351e430182749a47d26d175ebe90b4f94be93354f36bab47797f96a35653",
+   "width": 600,
+   "height": 111,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79170&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T16:01:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d5c0d2e5dde18b01d291703646f3c7483c95aa2e37dc6339af7d44de91e7e505",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79170&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:01:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "509a3cf80d5d228a96200320d856542276ed5e0f00d49f2b2aced911f61909d1",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79170&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:01:11+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d16d31ad212fbebcc0ab3f0e2dddc92e7b228ad874d597755bb60c502bf85aad",
+   "width": 850,
+   "height": 1207,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79170&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T16:01:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ee86827196a1eb1baa47a467350950dc5f2ff266a96c1fa7b101c89b9bc41f36",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=79170&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:01:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:01:06+00:00",
+ "status": "done"
+}

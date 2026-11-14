@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "motorodeo",
+ "title": "MotoRodeo",
+ "source": "screenscraper",
+ "ss_game_id": 14126,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14126,
+  "release_year": 1990,
+  "publisher": "Atari",
+  "developer": "Axlon",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "MotoRodeo",
+   "genre": "Course, Conduite / Moto",
+   "synopsis": "MotoRodeo est un jeu sur Atari VCS 2600 de Monster Truck en écran splitté. Le but est de finir la course premier et avec le plus de points. Pour en gagner, il faudra faire des figures.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "MotoRodeo",
+   "genre": "Racing, Driving / Motorcycle",
+   "synopsis": "This is a monster truck race that features true split screen action on an Atari 2600.\n\nFirst, you move the joystick(s) up or down to select if this opponent will be a human player or computer, a blazer or a truck and whether it will have tires or trax. Tires allow you to go over obstacles easier, trax make you bounce higher. Then on the next screen, you select weather you are going to do a competition at hard, medium or easy or whether you are going to practice one of the obstacles in the game.\n\nPress the joystick button to accelerate. Move the joystick down to do a wheelie when on the ground. Move the joystick left and right when in the air to control your spin. Move the joystick left and right quickly to escape mud bogs. Press the joystick button and push forward to use a nitro burst if you collected them.\n\nDifficulty switches\nOnly the left switch is used.\n Set it to A for a scoring game in which the player with the most points at the end of the race wins.\nSet it to B for a timing race in which the first player across the finish line wins.\n\nScoring\nIf the difficulty switch is set to A, the scoring is as follows:\nLanding upright and flat from a jump=5 points\nHit a wall=10 points\nCrush a car=20 points\nBounce on truck tires on the platform=25 points\nJump to a collapsed ramp=25 points\nTouching 50 on the screen=50 points\nFinish the race first=100 points",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e4910cefc6dcfcf7a956f812daedd6ea8eaa56adda3eeaabca66199b33211356",
+   "width": 400,
+   "height": 132,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14126&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:58:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bd31a4457d2e883dc64bbe61f2df859ab29e8d8536e4a7c8309871310a42243c",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14126&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:58:23+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "35d3f8b188a8fad1ca20758dd8adc097c54f1925e249bd55265df8c8793cce31",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14126&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:58:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "295c37d55537e994068d7eb5c0d7ff2a57b969c0189076f126da2ff45e2b985a",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14126&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:58:26+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "608c08a98dea8da42302db543d98b6dae5d292bcecb6544ddb8ca7834d144436",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14126&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:58:27+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:58:21+00:00",
+ "status": "done"
+}

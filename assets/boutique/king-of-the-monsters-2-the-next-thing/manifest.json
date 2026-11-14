@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "king-of-the-monsters-2-the-next-thing",
+ "title": "KING OF THE MONSTERS 2: THE NEXT THING",
+ "source": "screenscraper",
+ "ss_game_id": 37598,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37598,
+  "release_year": 1992,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "King of the Monsters 2 : The Next Thing",
+   "genre": "Beat'em All",
+   "synopsis": "King of the Monsters 2 : the Next Thing sur Neo Geo est un jeu d'action dans lequel vous incarnez des créatures géantes. Contrairement au premier épisode, vous ne devez pas semer terreur et la destruction sur votre passage mais défendre les humains d'une invasion de monstres extraterrestres. Les combats se déroulent dans les 4 coins du monde : France, Etats-Unis, Grand Canyon, Volcans, etc.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "King of the Monsters 2 : The Next Thing",
+   "genre": "Beat'em Up",
+   "synopsis": "The object of King of the Monsters 2 is similar to its predecessor. Choose from three monsters which include a large lizard, a large robotic ape, and a huge mutant human. Then walk through each city, making sure to destroy everything in site, including planes, buildings, and other creatures. When smashed, some buildings reveal power-ups that make your character more powerful. At the end of each city, you go head-to-head with the boss creature. There are small stages in between where you fight a second monster for bonus points, or you fall from the sky and land underwater where you try to collect points and power-ups while falling.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4afbd70af79e8285ddf6c185fcea50d43fb9c0f4d1bfcc0083d3fa8d1855e281",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=fanart",
+   "fetched_at": "2026-11-07T20:19:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1b1211ef078c79309ff17897ba57d8979488ebb8b2369ea141bc52eff80c4252",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=wheel%28jp%29",
+   "fetched_at": "2026-11-07T20:19:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9768df769e6d7cd7b03a1c9fc3d5ede9050d71025f1b20d49c59161ad2dd4eec",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:19:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4d66bff4a2619e876ac680cf7281024e64a4a7297418359807b8f25d2558d8bd",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c63f84c04c70c30bd15512390ddba72eb47f52e70581a3463a54a675705cb15a",
+   "width": 304,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:19:46+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1c88230011867668b50929cee7c8afc9feacf5a6be76e85ec53966eb05a0e13c",
+   "width": 846,
+   "height": 1200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=flyer%28jp%29",
+   "fetched_at": "2026-11-07T20:19:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c3de468febf7009bb7eb552fce8d10e7d08e34b5dbeec19d845012a6ecbca11d",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37598&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:19:49+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:19:39+00:00",
+ "status": "done"
+}

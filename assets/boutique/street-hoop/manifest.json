@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-hoop",
+ "title": "Street Hoop",
+ "source": "screenscraper",
+ "ss_game_id": 37649,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37649,
+  "release_year": 1994,
+  "publisher": "SNK",
+  "developer": "Data East",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Hoop",
+   "genre": "Sport",
+   "synopsis": "Dans ce jeu de basket de rue en trois contre trois, choisissez une équipe issue de l'un des dix pays en lice et tentez de vous imposer comme la meilleure équipe au monde. Les règles du basketball sont considérablement allégées. Les mouvements se montrent bien complets : feinte, dribble, charge, dunks divers et variés, interceptions, combinaisons... Par exemple, on peut faire semblant d'amorcer un dunk et au dernier moment, on passe le ballon. Ces techniques étant exposées entre chaque match, il est préférable de ne pas les passer quand on débute. En plus des nombreuses techniques disponibles, la puissance peut être chargée et libérée pour effectuer d'impressionnants super dunks.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Slam",
+   "genre": "Sports",
+   "synopsis": "Which team is the best at 3-on-3? Choose from ten countries to find out. Shots vary according to the shooting distance. Fake dunk, aloof - a variety of techniques to choose from! Speedy! Powerful! Move your body to hip hoppin' rap music. When the power gauge reaches its max, Super Dunk sparks!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "937da1fb6842f737ce3b30ebee77375f4750a66cebfad00fc5ba4b798133f9c4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=fanart",
+   "fetched_at": "2026-11-07T20:19:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f067fe30113ee6e917df5478d725fa30c4487296ac567e9462ff694753888344",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=wheel-hd%28us%29",
+   "fetched_at": "2026-11-07T20:19:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "256af7029f20267f51db8369adc1cae30f57b19cf37a114e1de42b634dba7db1",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c57346c233d7567a81a69d43f8b150d92058cf519367a688c824e38f20371f9c",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b4adc17d219c7ca1218399f259170583c68b1b7d6843c1a9f874bf2b1a57c4b3",
+   "width": 304,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:19:21+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8bd94b4dfd3d8fd1ea8da7e18340a325b29594a2c161047d5ab4e9f5c5afaafe",
+   "width": 800,
+   "height": 980,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=flyer%28us%29",
+   "fetched_at": "2026-11-07T20:19:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2b077f18099d3a2d6c4939bc4c9866649e8cbbbed2d6d3c12cdae0c48c3650b2",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37649&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:19:24+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:19:14+00:00",
+ "status": "done"
+}

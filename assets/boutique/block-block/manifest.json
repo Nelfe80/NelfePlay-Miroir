@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "block-block",
+ "title": "Block Block",
+ "source": "screenscraper",
+ "ss_game_id": 40273,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40273,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Block Block",
+   "genre": "Action",
+   "synopsis": "Une balle traverse l'écran et rebondit sur les parois supérieures et latérales de l'écran. Quand une brique est frappée, la balle rebondit et la brique est détruite. Le joueur perd un tour quand la balle touche le bas de l'écran. Pour éviter que cela ne se produise, le joueur a une barre mobile pour faire rebondir la balle vers le haut et la renvoyer dans le jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Block Block",
+   "genre": "Action",
+   "synopsis": "A ball travels across the screen, bouncing off the top and side walls of the screen. When a brick is hit, the ball bounces away and the brick is destroyed. The player loses a turn when the ball touches the bottom of the screen. To prevent this from happening, the player has a movable paddle to bounce the ball upward and back into play.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d97c5e8a4a63ce995411814e8e2b480a50b3132a51920fd3ef9c678de9ca419b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40273&media=fanart",
+   "fetched_at": "2026-11-06T17:24:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bc0e7669e321d55e2b86e874b13029fd64cf6fefde928e36e750cc5c00696941",
+   "width": 600,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40273&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:24:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b3da2e5f03241dc352570920e0e2a8c8c0e62c3840562b5a50f04b7bcc4c8223",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40273&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:24:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "756374018ee15777f41164ff53d977995d8d8e978f0a479df7262ace0e584ec9",
+   "width": 240,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40273&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:24:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "be3dbb0e204425423c3f43e4588a4ad06a5dbc0e63aa68de3757ec17e8d0b8b4",
+   "width": 850,
+   "height": 1210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40273&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:24:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c32c176e1c51ef28bf56d335684e328062c4819973f7a53124772338f7a06e5e",
+    "width": 240,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40273&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:24:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:24:42+00:00",
+ "status": "done"
+}

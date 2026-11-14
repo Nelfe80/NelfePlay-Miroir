@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-turtles-in-time",
+ "title": "Teenage Mutant Ninja Turtles: Turtles in Time",
+ "source": "screenscraper",
+ "ss_game_id": 43646,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43646,
+  "release_year": 1991,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-4",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
+   "genre": "Beat'em All",
+   "synopsis": "April, la journaliste préférée des Tortues Ninja vient de se faire enlever, nos 4 combattants, vont devoirs traverser plusieurs époques pour la délivrer.\r\n\r\nTrès bon beat them all, jouable à quatre, de l'humour bien présent tout au long du jeu (faut voir les tortues se tenir le pied en sautillant lorsqu'elles se brulent), des niveaux variés. Un très bon jeu en somme.\r\n\r\nA savoir : très bonne adaptation sur Super Nintendo.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles: Turtles in Time",
+   "genre": "Beat'em Up",
+   "synopsis": "The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. \r\n\r\nYet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d6efb9a5d276b6faf5f1f91a24feede0a4265fd2862841b06bc0e3e4b33aee51",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43646&media=fanart",
+   "fetched_at": "2026-11-06T15:32:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3bcdd13487b897c74f4039d4592a09f25d9d32550c56165a3543a233e9e0e6e8",
+   "width": 400,
+   "height": 159,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43646&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:32:43+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0951516d30882da509ae526a70800ad7eb9ec2d0f7188d2eff8394f33e6ddbea",
+   "width": 850,
+   "height": 1122,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43646&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:32:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "48681e5bf48f2edfce7605479d7f9c18fe1d5640353353ff2bbfa41f045927b6",
+   "width": 288,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43646&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:32:46+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "699d52aa256c896b03c999187c70f304bc3e766d39f1315f2074ff98f4879cad",
+   "width": 850,
+   "height": 1122,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43646&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:32:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d225c1c76d64562314209e9f93dc106067843d8892046b1a3aee4bf549a90f09",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43646&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:32:49+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:32:40+00:00",
+ "status": "done"
+}

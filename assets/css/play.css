@@ -1,0 +1,216 @@
+/* Jouer en salle.
+ *
+ * La page reprend le dessin du site : hero, sections alternees, boutons. Ce
+ * qui lui est propre tient en deux objets - la sequence des trois etapes, et
+ * les cartes qui portent le reste.
+ */
+
+.pl-lead {
+    max-width: 62ch;
+}
+
+.pl-accent {
+    color: var(--brand-bright);
+}
+
+/* Les trois etapes SONT une sequence : on ne joue pas avant de s'etre
+   identifie. Le numero porte donc une information, il ne decore pas. */
+.pl-steps {
+    display: grid;
+    gap: 14px;
+    margin: 24px 0 0;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 760px) {
+    .pl-steps {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.pl-steps li {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-areas: "n titre" ". texte";
+    gap: 4px 12px;
+    align-items: center;
+    padding: 18px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: var(--surface);
+}
+
+.pl-step-n {
+    grid-area: n;
+    display: grid;
+    place-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: color-mix(in srgb, var(--brand-bright) 16%, transparent);
+    color: var(--brand-bright);
+    font-size: 0.86rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+}
+
+.pl-steps b {
+    grid-area: titre;
+    font-size: 1rem;
+}
+
+.pl-steps span:not(.pl-step-n) {
+    grid-area: texte;
+    color: var(--text-soft);
+    font-size: 0.92rem;
+}
+
+.pl-cards {
+    display: grid;
+    gap: 16px;
+    margin-top: 22px;
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 700px) {
+    .pl-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 1040px) {
+    .pl-cards {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+.pl-card {
+    padding: 20px;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    background: var(--surface);
+}
+
+.pl-card h3 {
+    margin: 0 0 8px;
+    font-size: 1.04rem;
+}
+
+.pl-card p {
+    margin: 0;
+    color: var(--text-soft);
+    font-size: 0.94rem;
+}
+
+.pl-note {
+    max-width: 68ch;
+    margin-top: 20px;
+    color: var(--muted);
+    font-size: 0.92rem;
+}
+
+.pl-cta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 0;
+}
+
+/* La capture d'une borne. Une image de 1280 de large sur une page de texte :
+   elle prend la largeur du contenu et pas un pixel de plus, et garde son
+   rapport pour ne pas faire sauter la mise en page pendant son chargement. */
+.pl-shot {
+    margin: 24px 0 0;
+}
+
+.pl-shot img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+}
+
+/* La sortie d'une section : discrete, mais toujours a la meme place - en bas a
+   gauche du bloc, ou l'oeil arrive apres avoir lu. */
+.pl-more {
+    margin: 18px 0 0;
+}
+
+.pl-more a {
+    color: var(--brand-bright);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.pl-more a:hover {
+    text-decoration: underline;
+}
+
+/* Les plaquettes de prospection reprennent les cartes de cette page. Deux
+   ajouts leur sont propres : une grille a deux colonnes pour opposer ce qui
+   tourne a ce qui se construit, et des listes lisibles dans une carte. */
+.pl-cards--two {
+    grid-template-columns: 1fr;
+}
+
+@media (min-width: 700px) {
+    .pl-cards--two {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.pl-list {
+    margin: 0;
+    padding-left: 1.15em;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    color: var(--text-soft);
+    font-size: 0.94rem;
+}
+
+.pl-list li::marker {
+    color: var(--brand-bright);
+}
+
+/* La signature du positionnement : une seule phrase, traitee comme une
+   affirmation et non comme un paragraphe. Elle porte la page entiere, donc
+   elle prend la taille d'un titre sans en etre un dans le document. */
+.pl-signature {
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+
+.pl-signature-line {
+    max-width: 24ch;
+    margin: 0;
+    font-size: clamp(1.5rem, 3.4vw, 2.1rem);
+    font-weight: 700;
+    line-height: 1.22;
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+    color: var(--brand-bright);
+}
+
+.pl-signature .pl-note {
+    margin-top: 16px;
+}
+
+/* Les listes des deux colonnes du Jour 1 reprennent le corps des cartes. */
+.pl-card ul {
+    margin: 0;
+    padding-left: 20px;
+    color: var(--text-soft);
+    font-size: 0.94rem;
+}
+
+.pl-card li + li {
+    margin-top: 7px;
+}
+
+.pl-card li::marker {
+    color: var(--brand-bright);
+}

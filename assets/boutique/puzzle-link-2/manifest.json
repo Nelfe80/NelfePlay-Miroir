@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "puzzle-link-2",
+ "title": "Puzzle Link 2",
+ "source": "screenscraper",
+ "ss_game_id": 47047,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47047,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "Yumekobo",
+  "players": "1",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Puzzle Link 2",
+   "genre": "Puzzle-Game",
+   "synopsis": "The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.\n\nThere are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Puzzle Link 2",
+   "genre": "Puzzle",
+   "synopsis": "The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.\n\nThere are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "3566499cfec344b57d1807af2907725e4d6e667ab64c1be49a987911eeb956c4",
+   "width": 400,
+   "height": 74,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47047&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:13:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9dd3a146df6574a965e80dfee0d9fe3533729f5bcc87d3383f6e9ec1cf357c1c",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47047&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:13:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d7ef337b08905fa80ebd69af3b09ec93f66d91d87f0fc776daebcf39404116d4",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47047&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:13:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "8ca51a5e9ad87dcaedade860f1f7276770ebb255d54b7bc6bbbc423b66593bcf",
+   "width": 160,
+   "height": 152,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47047&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:13:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c419ae1e7665314a23b1b1167bb27ed8c5c5b69f949e2d592b70d96bfa3be378",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47047&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:13:42+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:13:35+00:00",
+ "status": "done"
+}

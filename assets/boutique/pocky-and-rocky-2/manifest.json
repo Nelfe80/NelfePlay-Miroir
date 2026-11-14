@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "pocky-and-rocky-2",
+ "title": "Pocky & Rocky 2",
+ "source": "screenscraper",
+ "ss_game_id": 2342,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2342,
+  "release_year": 1994,
+  "publisher": "Ocean",
+  "developer": "Natsume",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Pocky & Rocky 2",
+   "genre": "Shoot'em Up",
+   "synopsis": "Pocky & Rocky 2 est la suite des aventures de la petite prêtresse et de son raton laveur sur Super Nintendo. La princesse Luna est kidnappée par un personnage étrange nommé Impy. Pocky et Rocky se mettent alors à les poursuivre pour la sauver. Ils sont accompagnés cette fois-ci de deux autres personnages : une petite ninja et un spécialiste des bombes. Lorsque vous choisissez une partie en solo, l'autre personnage est contrôlé par l'ordinateur pour vous aider.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pocky & Rocky 2",
+   "genre": "Shoot'em Up",
+   "synopsis": "The sequel to Pocky & Rocky brings back the cooperative shooter action to the SNES with enhanced gameplay mechanics. Princess Luna has been kidnapped by a gang of evil demons and its up to Shinto priestess Pocky and her raccoon buddy Rocky to rescue her.\n\nAs in the previous game, the gameplay involves taking control of either character to clear stage after stage of enemies in classic top-down shooter manner by blasting them with your magic cards or other collectable unique powers. New for the sequel is the ability to play with optional AI-controlled partners that add team-up special moves required to beat certain bosses as well as unique abilities that take the game in different directions (opening locks, or digging to get to the underworld sections of each stage for instance).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "905b75a098bbfca02793dc9a3e84019c96101607cafb69fcc1634f53ce01cbae",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2342&media=fanart",
+   "fetched_at": "2026-11-06T23:56:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0c04d5c2cf3e191e428c5990aac252f9755395a4cd114f27ce175aad174790f7",
+   "width": 600,
+   "height": 210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2342&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:56:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e29fbb8f1dd9ad8af4b77d94bf1bab812b5b5e4ec78ab2ee15487384fd13e54a",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2342&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:56:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "96de5a3ab2a910c1dba0ab400e872e79260f73a9161dba1c10e7ddf30fd76a0c",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2342&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:56:48+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a9c6674e1fb0cba2c9dca309bb646d9f287f332df0fac374cbc09b632b2fe7be",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2342&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:56:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "20ab25eaf201fc7fde7800e4f1f8a2558236b129718c75fe0a9a8d04025a4f51",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2342&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:56:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:56:43+00:00",
+ "status": "done"
+}

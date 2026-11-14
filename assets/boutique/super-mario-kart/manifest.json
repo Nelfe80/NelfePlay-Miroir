@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-mario-kart",
+ "title": "Super Mario Kart",
+ "source": "screenscraper",
+ "ss_game_id": 2153,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2153,
+  "release_year": 1992,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Mario Kart",
+   "genre": "Course vue 3eme pers.",
+   "synopsis": "Mesdames et Messieurs... faites chauffer vos moteurs!\r\nUn plaisr intense vous attend sur les circuits de Super Mario Kart! Adoptez la conduite exceptionnelle de Mario, Luigi et de la Princesse! Mesurez-vous à un adversaire de poids: Donkey Kong Jr! Percutez le Roi des Koopas! Frottez-vous au pare-chocs de Yoshi! Les graphismes exceptionnels, obtenus grâce au Mode 7, et le double affichage à l'écran, vous permettent de découvrir la joie de la compétition, contre un ami ou l'ordinateur. Avez-vous les qualités nécessaires pour gagner le trophée d'or dans la Coupe des Étoiles? En tout cas, il est aussi amusant de participer que de gagner!\r\nSi vous avez plus envie de stratégie que de vitesse, tentez votre chance en Mode Combat! Sur quatre circuits différents, vous aurez à votre disposition toute une série d'armes loufoques (Carapaces de Koopa, Peaux de Banane, Supers Eclairs, etc) pour faire éclater les ballons de vos adversaires et triompher!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Mario Kart",
+   "genre": "Racing TPV",
+   "synopsis": "A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. \n\nThere are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "293a894e2bfb75c801b2a1232487258106421e58325ae4deef506e7a69c1b8e1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2153&media=fanart",
+   "fetched_at": "2026-11-07T00:09:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "aa91a040746b0029fec2b05204b3cc020a5d5811c41bedba8324057c6741fe8d",
+   "width": 600,
+   "height": 190,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2153&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T00:09:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ed56385915c936a14663b3b0bcb28a4ac6446013357712f4ba25e5769b4b37ed",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2153&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T00:09:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e37feaecf2505f2a88fb8d45399b48083dc85d576c02642589b5e986de8cc594",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2153&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T00:09:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "971aae4fe71a41a88bc66e04ab82cbb7402d0c573cb04409af857978d2ece0fe",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2153&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T00:09:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d5f0033937ac6ed0a69d00bc43d870a3c3c0e7c7eb1abf73a585e5ebe7bead2c",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2153&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T00:09:54+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:09:32+00:00",
+ "status": "done"
+}

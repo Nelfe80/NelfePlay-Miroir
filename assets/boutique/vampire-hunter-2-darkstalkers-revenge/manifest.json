@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "vampire-hunter-2-darkstalkers-revenge",
+ "title": "Vampire Hunter 2: Darkstalkers' Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 37415,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37415,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Vampire Hunter 2: Darkstalkers' Revenge",
+   "genre": "Combat",
+   "synopsis": "Vampire Hunter 2 : Darkstalkers' Revenge est le quatrième jeu de la série Darkstalkers qui reprend exactement le même casting que Night Warriors. La seule différence quant aux personnages provient surtout des combattants secrets que l'on trouve ici et pas dans l'autre : un John Talbain sous acides, encore plus stressant que le personnage secret de Vampire Savior, et un Oboro Bishamon identique, par contre. À ceux-là s'ajoutent également les quatre personnages de Vampire Savior : Lilith, Jedah, Q. Bee et B.B. Hood, à débloquer également.\r\n\r\nEn fait Vampire Hunter 2, c'est un Night Warriors avec le système de jeu de Vampire Savior. Du coup on retrouve les personnages et l'histoire du premier, mais avec le gameplay du second. Lors du choix du personnage, on peut décider de jouer en normal ou en turbo (vitesse de jeu accélérée), et avec ou sans garde automatique (votre personnage se protège de lui-même des coups de base si vous ne touchez à rien).\r\n\r\nLe jeu se pratique à six boutons et implémente toutes les spécificités des précédents épisodes : les super sauts (bas puis haut), les dash (deux fois avant ou arrière), les gardes aériennes, les Guard Cancels (manipulations visant à supprimer le temps de latence qui suit une parade en déclenchant un coup spécial), les attaques ES (des coups spéciaux plus puissants qu'à l'accoutumée, réalisés au moyen de deux boutons de coups au lieu d'un), les EX Specials qui correspondent à des super coups spéciaux de la mort qui tue la vie, etc.\r\n\r\nEt puis on a droit également aux deux principales nouveautés de Dark Savior. Tout d'abord le nouveau système de jauge de vie : les coups font perdre à l'adversaire une portion de vie de manière définitive, et une autre de manière momentanée, si bien que s'il n'est pas touché pendant un moment, cette portion se recharge d'elle-même. Et au deuxième round, le perdant de la première reprise regagne toute sa vie alors que le vainqueur reste là où il en était.\r\n\r\nQuant à l'autre nouveauté, il s'agit de la \"Dark Force\". Si vous appuyez sur les boutons de pied et de poing de même puissance, vous passerez en mode Dark Force. Votre personnage prend alors la pose un instant (vous êtes vulnérable durant cette période, et si vous vous faites toucher la Dark Force est annulée), puis le décor passe en mode psychédélique. Une clepsydre apparaît sous votre barre de vie, vous indiquant combien il vous reste de temps pour profiter de ce mode. Chaque personnage y gagne un avantage propre : par exemple, Morrigan se dédouble et attaque son adversaire en sandwich.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Vampire Hunter 2: Darkstalkers' Revenge",
+   "genre": "Fighting",
+   "synopsis": "Fourteen well-animated creatures from Hell rip, tear and otherwise fight for control of the nether-realms.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "27d09d5524a0399b1987b03c5f9169ae85d71f61090c4a50d3101f42fa2c380d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37415&media=fanart",
+   "fetched_at": "2026-11-06T15:51:51+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6e52e1bf8d4e0cb3094642d24c7156e8fd6054f8dab2b33260209baf45785318",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37415&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:51:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ec7c6a84d58448234ad354b72f5aadb1b3a73c656baa89b85456c84882455f3c",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37415&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T15:51:54+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "90d2fbf27591232202efc828ee05e7655daa7e420443ab4e07104a8c947eaa0a",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37415&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:51:55+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "faac4af6877006ce4d0575a8395b58e8a2d326acccb094439f5e05585c8c6578",
+   "width": 360,
+   "height": 500,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37415&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T15:51:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "955a4d99e5c230e8bccfbb08e986ca46ac5c150cb4372ff16433e56d19d3896a",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37415&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:51:58+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:51:50+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "guerrilla-war-nes",
+ "title": "Guerrilla War",
+ "source": "screenscraper",
+ "ss_game_id": 1935,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1935,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Guerrilla War",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Une île tropicale est opprimée par un dictateur, mais heureusement un ou deux braves soldats américains sont là pour rétablir la justice. Marchez à travers les rivières, les marais et les forêts pour renverser le dictateur.\r\nLe jeu se déroule verticalement et vous vous déplacez vers le haut de l'écran en tirant sur les ennemis, en trouvant de bons points de tir stratégiques et en collectant des bonus. Comme les soldats ennemis viennent vers vous en groupes, vous devez faire preuve de prudence lorsque vous les éliminez, que ce soit à l'aide de votre arme ou de grenades. Certains soldats transportent également des otages, vous gagnerez des points si vous ne les abattez pas et que vous tirez sur leurs ravisseurs. Chaque niveau se termine par un boss.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Guerrilla War",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "A tropical island (specified as Cuba in the Japanese original) is being oppressed by a dictator, but fortunately one or two brave US soldiers (Ernesto \"Che\" Guevara in the Japanese version) are on hand to restore justice. March through the rivers, swamps and forests to overthrow the dictator (specified as Batista in Japan) in this evolution of the Commando style.\n\nThe game scrolls vertically, as you move up the screen shooting enemies, finding good strategic firing points and collecting powerups. As the enemy soldiers come towards you in groups, some care is required when picking them off, either using your gun or the grenades. There are also hostages carried by some soldiers, with points bonuses for not shooting these but shooting their captors. Each level ends with a boss.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d02fa672d1bac0a78870d45de103c8822cf18dcfd326b2e7092f00b0af1ca660",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1935&media=fanart",
+   "fetched_at": "2026-11-06T15:58:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d058af6ad52cb1fad00eda85b8e6e3ad1945a310fd632d612ae592e7c84de6e8",
+   "width": 600,
+   "height": 210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1935&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:58:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "885b5224dcbd065dfa5acfc9f069cfcd060e288778f84e2c086865c58cce227e",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1935&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:58:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a01f85311a0e79d634ce50010915bef9e07dbc646fff3705a29e9fc6adfef098",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1935&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:58:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "10802993e97ef2910921022cc9ceef47476c4167c2ba97e09f6d15b768287fa3",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1935&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:58:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b037ab6bc6af2a8029fc17926c1c65710695428d4e307175c36f326876114331",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1935&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:58:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:58:07+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-alpha-warriors-dreams",
+ "title": "Street Fighter Alpha: Warriors' Dreams",
+ "source": "screenscraper",
+ "ss_game_id": 42986,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42986,
+  "release_year": 1995,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter Alpha : Warriors' Dreams",
+   "genre": "Combat / Versus",
+   "synopsis": "Cet épisode est un renouveau dans la franchise : pour la première fois depuis Street Fighter II: The World Warrior (sorti en 1991), malgré les multiples versions sorties, les graphismes ont été entièrement refaits. Ainsi, les personnages comme Ryu, Ken, Chun-Li, Sagat et Bison voient leurs corps et tenues redessinés ; et le jeu accueille des nouveautés de gameplay comme l'apparition des furies à trois niveaux de puissance, l'amélioration de la maniabilité, l'introduction de nouveaux personnages et le retour d'anciens protagonistes du premier Street Fighter.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter Alpha : Warriors' Dreams",
+   "genre": "Fighting / Versus",
+   "synopsis": "It's Street Fighter as you always remember it, with some new moves, characters and combo systems, as well as a more polished look and feel.\n\nThe new moves available for each fighter, called Super moves, allow them to fire off very powerful moves. A bar at the bottom of the screen represents the power that you have to use for the moves. You start the first round on 0, and each attack that you make adds power to the bar. Once you reach level 3, you can unleash the special attacks, that can sometimes KO the opponant.\n\nThe other major change over the Street Fighter 2 series are the Alpha counters. These can be used to counter an on-coming attack after blocking.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "47244243a9c2c641a019de0fa91a049e0093a30fd48b49012988c0bc1385e657",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=fanart",
+   "fetched_at": "2026-11-07T20:21:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "db086d74771e1fa80193d67520a388911fca529d113cd1a296c675653f2872e9",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:21:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b6bf5462f4895b484a791eafdc6a0947566870ca1b5baeb210143edc56604b25",
+   "width": 514,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:21:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "70715263d4463814f14848266b70619a799b1ed0ff73647be2845b8884f8c89d",
+   "width": 505,
+   "height": 964,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:21:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a8c0f5790fdd96b8aaf2134e1f5ad76f65e95435ca621c1324332a13caf98a10",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:21:16+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "21b41c1326b9514be7ed08378e3c61228f8f4daea4a1e685c39b3378012d47d7",
+   "width": 850,
+   "height": 1102,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:21:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fb6282f1ca538c09241d68d40f571210b89663b5f677a2feae08a4d9dddcc145",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=42986&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:21:19+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:21:10+00:00",
+ "status": "done"
+}

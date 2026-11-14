@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "sfiii3",
+ "title": "Street Fighter III: 3rd Strike",
+ "source": "screenscraper",
+ "ss_game_id": 37424,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37424,
+  "release_year": 1999,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 3"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter III : 3rd Strike - Fight for the Future",
+   "genre": "Combat",
+   "synopsis": "Street Fighter III: 3rd Strike est la troisième version de Street Fighter III, succédant logiquement à Street Fighter III : 2nd Impact.\r\nLe jeu propose une galerie de personnages conservant les figures de proue de la série comme Ryu, Ken, Chun-Li et Akuma tout en y ajoutant bon nombre de visages inédits. Remy, remplaçant de Guile, est par exemple le premier combattant français de la série.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter III : 3rd Strike - Fight for the Future",
+   "genre": "Fighting",
+   "synopsis": "3rd Strike increased the character roster by adding five new characters, notably including the legendary Chun-Li. New characters Remy, Makoto, Q, and Twelve were also added, bringing the total number of playable fighters to twenty. Also re-introduced was the fan-favourite 'Destroy the Car' bonus stage. \r\n\r\nOne of the new gameplay mechanics introduced in \"3rd Strike\" is the Guard Parry, also known as the 'Red Parry', which allows players to parry during guard stun, providing the timing is correct. Another new feature is after-match player evaluations in which the winner of a two-person match is graded in Offense, Defence, Tech and Extra. In single-player Arcade mode the player will always be evaluated, even in event of a loss. The grades range from E (lowest) to MSF, or Master Street Fighter (highest).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a207c1044a9c65f5ebfc7614d837e0e717b7f41658defcaa69077de076c14a77",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=fanart",
+   "fetched_at": "2026-11-06T23:49:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "685048b6e9a31e1aaeb0bbb3107f23468388bd58ca5c9b8a519020217e62fe1a",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:49:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d3b1f4e81d6d632e9fc2d0d518bd5899f1fcfe24aa1f82a14962fdc79499fcd3",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:49:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f0476d8d92ba241fa32ac1df8d2b4a94748669f115c975e502c1443e1e01b52b",
+   "width": 584,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:49:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "354b25ddbbe9129b787d1b0621b7be7fb2f59caecd5c1bb8db7012f0cd06b7e5",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:49:31+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6db0de11d75f9e4d936793724bffdfc62c1c3864646f2f09f682aa2142561d13",
+   "width": 1201,
+   "height": 1608,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:49:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "e5411ac1b5c3123f4a4be9db0b796155bbaf3247dcd2544d55f1d16a52af8f21",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37424&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:49:34+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:49:25+00:00",
+ "status": "done"
+}

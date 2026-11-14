@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "iridion-ii",
+ "title": "Iridion II",
+ "source": "screenscraper",
+ "ss_game_id": 83900,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 83900,
+  "release_year": 2003,
+  "publisher": "Vivendi Universal Games",
+  "developer": "Shin'en Multimedia",
+  "players": "1",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Iridion II",
+   "genre": "Tir / Avion, 3eme personne",
+   "synopsis": "Il est la suite d'Iridion 3D. Il délaisse le shoot 3D pour être un shoot them up à défilement vertical classique.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Iridion II",
+   "genre": "Shooter / Plane, TPV",
+   "synopsis": "This sequel to Iridion 3D is different in gameplay, but twice as much action. Piloting in Kiloblaster Style mechanics from a 3D perspective, you fight through 15 \nlevels of pulse-pounding action that will keep you up all night. Six different weapons with upgrade ability will give you awesome firepower to stop your foes. \n The storyline goes that a hundred years have passed since the Earth was attacked by the vicious IRIDION forces. Wanting revenge over their lost systems, they attack once more. Earth is too far away to send help, and you're the only one that could stop them.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0fbe0a58d9224d860975c140d819b7ac6cecf1d68179d0bc8036dc237e565729",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=83900&media=fanart",
+   "fetched_at": "2026-11-06T15:40:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1e400ae1a48e6623b44428aba766a3f0d23aae782fe6ff8848cd0a927b587201",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=83900&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:40:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "df07438fd1148171acacc797bd0c03d3f7f0b4e68a21da148125b6c34b9c219d",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=83900&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:40:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c870ab31ea7424ac5da6cf2f3cf9229bc13038fb7beedd94c8cbf191b4a7a565",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=83900&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:40:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "1270da07ebc4c2f483879d344b7540a8ee0314d2b37234cc280e315c62f5e912",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=83900&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:40:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c09e16772d87166ee47aaf3c66e9858283d9f3379dbb033210ca84dc3166c079",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=83900&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:40:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:40:15+00:00",
+ "status": "done"
+}

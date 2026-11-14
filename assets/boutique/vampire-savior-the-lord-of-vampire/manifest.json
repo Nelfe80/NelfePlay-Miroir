@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "vampire-savior-the-lord-of-vampire",
+ "title": "Vampire Savior: The Lord of Vampire",
+ "source": "screenscraper",
+ "ss_game_id": 37417,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37417,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Vampire Savior: The Lord of Vampire",
+   "genre": "Combat / Versus",
+   "synopsis": "Le troisième jeu de la série Darkstalkers.\r\n\r\nDu côté des petits nouveaux, on découvre B.B. Hood (Bulleta au Japon), un petit chaperon rouge qui planque des lance-roquettes sous ses jupons ; Q. Bee, la reine des abeilles capable de planer un instant, un peu comme Huitzil précédemment ; Lilith, l'âme damnée de Morrigan ; et Jedah, le seigneur des démons à l'allonge spectaculaire. En plus de ces quatre-là, on découvre aussi trois personnages cachés : un Lord Raptor en mode tronçonneuse/même pas mal (vous comprendrez en le voyant) ; un Bishamon version curé, et un John Talbain clignotant encore plus pénible que l'original.\r\n\r\nAu total il y a donc dix-huit personnages, et vous devrez, après avoir fait votre choix, décider de jouer en mode Normal ou Turbo, ce dernier augmentant la vitesse du jeu, comme on pouvait s'y attendre. Le but du jeu consiste comme toujours à vider la jauge de vie adverse, mais ceci dit ça risque de durer un peu plus longtemps que d'habitude. En effet, quasiment tous vos coups font perdre à l'adversaire une portion de vie de manière définitive, et une autre \"en sursis\" : s'il n'est pas touché pendant un moment, cette portion se recharge d'elle-même. L'autre truc sympa c'est qu'au deuxième round, le perdant de la première reprise regagne toute sa vie alors que le vainqueur reste là où il en était.\r\n\r\nLe jeu se pratique à six boutons : trois pour les coups de pied (faibles, moyens et forts) et trois pour les coups de poing (itou). Comme d'hab', vous pouvez réaliser toute une panoplie d'attaques normales, de projections, d'enchaînements et de coups spéciaux en manipulant correctement les boutons et le joystick.\r\n\r\nEt puis, parce que c'est comme ça dans les jeux de baston post-Super Street Fighter II Turbo, vous disposez d'une jauge de spécial qui peut être remplie sur neuf niveaux. Pour ce faire, il suffit de frapper l'adversaire. Une fois que cette jauge est remplie sur au moins un cran, vous pouvez déclencher des attaques ES, ou coups spéciaux améliorés, en appuyant sur plus d'un bouton lors de la manip. Un exemple, hein, ça va faire du bien. Mettons que vous sortiez une boule de feu par un quart de tour avant plus poing (la puissance du poing détermine celle de la boule), eh bien en faisant à la place quart de tour avant plus deux boutons de poing, vous sortez la même boule de feu en version ES, donc plus méchante. Vous pouvez aussi choisir de réaliser des attaques EX. Il s'agit de coups spéciaux uniques, généralement plus compliqués à réaliser qu'un spécial de base, et aux effets (tant visuels que sur la jauge de vie adverse) remarquables.\r\n\r\nEnfin, Vampire Savior introduit une petite nouveauté pas forcément indispensable, mais pas dégueu non plus : la \"Dark Force\". Ouaip, comme dans Star Wars mais en version bad boy. Si vous appuyez sur les boutons de pied et de poing de même puissance, vous passerez en mode Dark Force. Votre personnage prend alors la pose un instant (vous êtes vulnérable durant cette période, et si vous vous faites toucher la Dark Force est annulée), puis le décor passe en mode psychédélique. Une clepsydre apparaît sous votre barre de vie, vous indiquant combien il vous reste de temps pour profiter de ce mode. Chaque personnage y gagne un avantage propre : par exemple, Morrigan se dédouble et attaque son adversaire en sandwich (et si ça ne faisait pas aussi mal, je suis sûr que l'adversaire ne s'en plaindrait pas !).",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Vampire Savior : World of Darkness",
+   "genre": "Fighting / Versus",
+   "synopsis": "Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b1ebc5d3820f3139b145295bb91dfd3e554ebd03a22af951faa64199ae36464f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37417&media=fanart",
+   "fetched_at": "2026-11-06T23:18:05+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "07174c991f805b89334821c2d35a73fc573423523d7025c324a0fd13b18847f2",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37417&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:18:07+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "47073be8389ca7972f64cb1d42a4c01caca450e6818e630c28cec32f0ea1d77a",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37417&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:18:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e5d49ac5d4afa4838d3252251e25cd9f7181d3fa81aecdcb8d6523e3852f6d77",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37417&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:18:10+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "33a82abffdd859084ea149f80051cf5af44b9bc52cdf4d3bebc853429f5ea5be",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37417&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:18:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5d5d4fc428ca0a392003a0c814abc497bf60ca59750be711b49d91943c8039ef",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37417&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:18:13+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:18:04+00:00",
+ "status": "done"
+}

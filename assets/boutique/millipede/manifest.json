@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "millipede",
+ "title": "Millipede",
+ "source": "screenscraper",
+ "ss_game_id": 14077,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14077,
+  "release_year": 1984,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Millipede",
+   "genre": "Tir",
+   "synopsis": "Votre jardin a été envahi par de petits insectes rampants et vous devez vous en débarrasser! \r\nMais faites attention! Le MILLIPEDE, cousin du fameux CENTIPEDE, est l'insecte le plus répugnant! Servez vous de votre commande TRACK-BALL pour agir avec rapidité et efficacité.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Millipede",
+   "genre": "Shooter",
+   "synopsis": "Millipedes, cousins of the Centipede, are all over the garden. This will ruin anything trying to grow there unless they are stopped. But there are other insects as well; spiders, bees, dragonflies and earwigs. Nature is dangerous. Luckily, there's a bug zapper that can shoot arrows at these insects and destroy them.\n\nMillipede is the sequel to Centipede, and features similar gameplay, but with a new swarm of insects! The goal is to destroy the multi-segmented millipede as it traverses its way through the mushroom forest towards the bottom of the screen. When all millipede segments have been destroyed, the player will progress to the next, more difficult level. Millipedes and other creatures are all worth a different amount of points. Occasionally dynamite will appear on the screen, which will explode if shot by the bug zapper. With a well timed shot, numerous millipede segments (and other insects as well) can be taken out as they pass by.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cf8b252b603015a8b15f846d29147b91806e78a82f0c94087b5bd6c0d7f2be0d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14077&media=fanart",
+   "fetched_at": "2026-11-06T16:56:22+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a4907ffb7c74cb82743975f326e1bde8d45ca6482594b5f9c6b0659a55cc7b8c",
+   "width": 400,
+   "height": 95,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14077&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:56:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "693207f8936db4a43d2723a97b56ea9df8c55aec92e75c6e830cd529f8922bba",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14077&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:56:25+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "591c79d07809024ca0af7a8680140d836a7182669f938d55b4c3b2e8292c6d48",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14077&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:56:27+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4950fb8db2e069e3d29d509ae197f8daa873bbfe07556174a29555f815054304",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14077&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:56:28+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b32a5dbf44b957fb4db817ef2ce51394891d01d6093d9441bc37b05f76edee9a",
+    "width": 288,
+    "height": 192,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14077&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:56:30+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:56:21+00:00",
+ "status": "done"
+}

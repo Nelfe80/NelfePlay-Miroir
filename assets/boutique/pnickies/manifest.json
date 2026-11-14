@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "pnickies",
+ "title": "Pnickies",
+ "source": "screenscraper",
+ "ss_game_id": 37374,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37374,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Pnickies",
+   "genre": "Puzzle-Game",
+   "synopsis": "Pnickies est un jeu de puzzle similaire à Puyo Puyo, dans lequel vous empilez des blocs de gelée de couleurs différentes et créez des réactions en chaîne. La différence avec Puyo Puyo est que les blocs ne disparaissent pas une fois qu'un certain nombre de blocs de même couleur sont connectés, mais qu'il y a des blocs étoilés qui sont également de la même couleur que les blocs normaux. Pour faire disparaître les blocs, le joueur doit former un groupe connecté de blocs de même couleur contenant deux blocs étoilés. Dès que le deuxième bloc étoile est ajouté, le groupe concerné disparaît et tous les blocs qui se trouvaient sur les parties de ce groupe tombent.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pnickies",
+   "genre": "Puzzle",
+   "synopsis": "Pnickies is a puzzle game similar to Puyo Puyo, where you stack differently coloured jelly blocks and ideally form chain reactions. The difference to Puyo Puyo is that the blocks do not disappear once a certain number of same coloured ones are connected, but instead there are star blocks which also come in the same colours as the normal blocks. To make blocks disappear the player has to form a connected group of same coloured blocks that contain two star blocks. As soon as the 2nd star block is added the affected group goes away and any blocks that were on top of parts of this group will fall down.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8db25b5e4b7857cc7e1c2591bcfb4dbeffe6e886c60c19df2dd294a3ea73168d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37374&media=fanart",
+   "fetched_at": "2026-11-06T17:22:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bd245ca12d1ed8da97349aa9e2c8ef55af9213a45949cab9753abcc981fb176e",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37374&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T17:22:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a58e2edf0e245772c5ac511840cba039b568393a34c49add8dd5ba631f33803f",
+   "width": 888,
+   "height": 1248,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37374&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:22:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0735ac867be4aeaf223ca72613ea33acaa8caca5037028f1b712dfee368fc86b",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37374&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:22:59+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "7c5ef55931950cfbced2702d024015e86b90e69ca251aa55828bd830a6c2c771",
+   "width": 888,
+   "height": 1248,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37374&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T17:23:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "33b938e7313eca09aa553783dd5f1734cde0719cabbc87ba6fffe213399b1233",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37374&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:23:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:22:54+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sasuke-vs-commander",
+ "title": "Sasuke vs. Commander",
+ "source": "screenscraper",
+ "ss_game_id": 42894,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42894,
+  "release_year": 1980,
+  "publisher": "SNK",
+  "developer": "TOSE",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Sasuke Vs. Commander",
+   "genre": "Tir",
+   "synopsis": "Un excellent jeu de tir vertical. Vous incarnez Sasuke, un guerrier ninja aux cheveux roux, dans le Japon féodal, plus précisément dans la magnifique ville de Kyoto. Vous devez protéger votre maître le Shogun, en vainquant tous les commandants ninjas maléfiques. Le personnage Sasuke se trouve toujours en bas de l'écran ; il ne peut se déplacer que vers la gauche ou vers la droite et lancer de petits shurikens. Il affronte de nombreux ninjas qui bondissent furtivement depuis les arbres, ainsi que plusieurs boss surpuissants dotés chacun de leurs propres pouvoirs magiques tels que Henshin, Bunshin, Kaen et Hiryuken. Vous devez éliminer tous les ennemis et esquiver leurs cadavres qui tombent pour terminer le niveau.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sasuke Vs. Commander",
+   "genre": "Shooter",
+   "synopsis": "A great vertical shoot'em up game. \r\n\r\nYou, controls a redheaded ninja warrior named Sasuke, set in feudal Japan in the beautiful city of kioto must protect your master the Shogun, by defeating all the villains ninja Commander. \r\n\r\nThe player Sasuke is always at the bottom of the screen can only move left or right and shoot tiny shuriken, he faces off against multiple ninjas stealthily jumping from trees and several powerfull bosses each equipped with their own magics capabilities such as Henshin, Bunshin, Kaen and Hiryuken you must eliminate all the enemies and dodge his falling corpses, to complete the stage.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "701a81f0a38c5facc285354d6d4798ea4c4e5ac4c5b4c982d969721c26e7c058",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42894&media=fanart",
+   "fetched_at": "2026-11-06T16:02:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "048a6a5b84c53c124136c09623c35e4b5813147f99c9d5051184333d0de0a870",
+   "width": 400,
+   "height": 61,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42894&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T16:02:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "24b7a6618bb207b8bad642ab2784a51f316d6594006c0fe850b47cd3cadb0adf",
+   "width": 850,
+   "height": 1192,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42894&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:02:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5b1ce7df0a912790035f4b4b6722a186c5d20f03c0153be220dbab2f32180d91",
+   "width": 224,
+   "height": 256,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42894&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T16:02:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "7f8f7a95e9444974adaacb3e0b7d2bc9b20b2a8e3f7ce89bf2c74bd3698d9d24",
+   "width": 850,
+   "height": 1192,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42894&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T16:02:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "dc33bbc736c0f62658ad48bf71c8bfb9ce3bf63081bf1b10a1b121e8d5411782",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42894&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:02:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:02:02+00:00",
+ "status": "done"
+}

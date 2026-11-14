@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "hissatsu-buraiken",
+ "title": "Hissatsu Buraiken",
+ "source": "screenscraper",
+ "ss_game_id": 40115,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40115,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Avengers",
+   "genre": "Combat",
+   "synopsis": "Avenger se déroule à Paradise City, où le méchant, \"Geshita\", a capturé six filles de la ville. L'objectif du joueur (Ryu ou Ko) est de bannir \"Geshita\" de Paradise City une fois pour toutes. Pendant le jeu, le joueur peut ramasser des bonus comme le \"Speed ??Up\", le Super Punch, les Grenades, les Shurikens, le Nunchaku et de la santé supplémentaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Avengers",
+   "genre": "Fighting",
+   "synopsis": "Avenger takes place in Paradise City, where the villain, \"Geshita\", has captured six girls from the city. The player's objective (as Ryu or Ko) is to banish \"Geshita\" from Paradise City once and for all. During the game, the player can pick up powerups like the \"Speed Up\", the Super Punch, Grenades, Shurikens, Nunchaku and extra health.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a2429778a01139c4685e18a513d35b054c5754e84594dedea9cb419efd8d01dd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=fanart",
+   "fetched_at": "2026-11-06T23:24:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7e6a9aee5823d054a8fb8f28095b0c76c130887fa9de740bdff833297723636a",
+   "width": 600,
+   "height": 167,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:24:37+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "93ba533161139818df0349f840b27769ca83630ecd31f529d7ca44a8312bbad7",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:24:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "66c506dda3979c4efc357e6920f3c413951e0d1a8d6da7a515a5f4b56d63a0cd",
+   "width": 452,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:24:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7709330d149c54b100acbd834e411075a0e61b7d9ee7648e3e94fdcb45d1c23c",
+   "width": 240,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:24:41+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "18650fbcafbb0d1d8ccc6a5d2e72d5616d0f77ffdb5b330e16e21ca6164d192f",
+   "width": 850,
+   "height": 1118,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:24:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "11b204bea805bf8c113093ae795f1a42b2a006dfdb623fd4cfbf8d480cc741bc",
+    "width": 240,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40115&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:24:44+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:24:34+00:00",
+ "status": "done"
+}

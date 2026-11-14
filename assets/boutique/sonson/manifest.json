@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonson",
+ "title": "SonSon",
+ "source": "screenscraper",
+ "ss_game_id": 43179,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43179,
+  "release_year": 1984,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Son Son",
+   "genre": "Plateforme",
+   "synopsis": "Son Son est un jeu de plate-formes 2D à scrolling automatique, inspiré du roman classique \"Journey to the West\", qui a inspiré d'innombrables jeux, films et mangas.\r\n\r\nL'écran ne s'arrête de défiler que lors des affrontements contre les ennemis importants. Il comporte six plate-formes continues avec parfois des trous. Sonson et Tonton marchent automatiquement sur ces plate-formes, et appuyer sur haut et bas les fait sauter sur la plate-forme au-dessus ou en-dessous. Appuyer sur droite ou gauche les fait ralentir ou accélérer.\r\n\r\nLe duo n'a qu'une seule attaque: tirer des missiles d'énergie depuis leurs bâtons. Toucher un ennemi ou un projectile fait perdre une vie. Si le joueur possède encore des vies, il reviendra en chevauchant un nuage, qui lui donne une invincibilité temporaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Son Son",
+   "genre": "Platform",
+   "synopsis": "Son Son is a 2-D sidescrolling platformer. The screen scrolls automatically, only stopping to fight major enemies. The screen features six continuous platforms that occasionally feature small gaps. Sonson and Tonton walk automatically across these platforms. Pressing up or down will cause them to jump up or down to the next platform. Pressing left causes them to move more slowly than the screen scrolls, and right, faster. The duo have only one attack - the ability to fire energy blasts from their staves. Touching an enemy or an unfriendly projectile causes the player to lose a life. If a player has any additional lives, they will return to the screen riding on a cloud that will give them temporary invincibility. If the player presses the control stick in any direction, the cloud will disappear and the character will resume its usual walking mode. The cloud will eventually disappear on its own if the control stick is not used.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "260d12858609b0ef35c24b15e1ae75131dbcb8ab673c8e3673eaa7ea6135dbec",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43179&media=fanart",
+   "fetched_at": "2026-11-07T20:25:59+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5377ea2681c8990d67eeec48130a6c80f66d6afaa6b0f9d08186cb27a3d7bf79",
+   "width": 600,
+   "height": 257,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43179&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-07T20:26:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "de3079495d281044b0c416a0f1930407981cea3832338a7282f08b76354df929",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43179&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T20:26:03+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7aec0b50303e74a340d734ff079d56457c25a91465b739ea566152b3773b94cd",
+   "width": 240,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43179&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:26:04+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "802e72a16994555a6d2139fa4666e7a9405c49b81429778adea6c4b27ec19a94",
+   "width": 850,
+   "height": 1204,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43179&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:26:05+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "854efd0e419e30e0dad11f41dd5335228ac1a74674c8fc5f3b935df756b23da8",
+    "width": 240,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43179&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:26:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-07T20:25:59+00:00",
+ "status": "done"
+}

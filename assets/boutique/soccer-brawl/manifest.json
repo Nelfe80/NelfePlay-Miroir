@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "soccer-brawl",
+ "title": "SOCCER BRAWL",
+ "source": "screenscraper",
+ "ss_game_id": 37640,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37640,
+  "release_year": 1992,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Soccer Brawl",
+   "genre": "Sport",
+   "synopsis": "Soccer Brawl sur Neo Geo est jeu de football futuriste. La seule règle de ce sport est de marquer plus de buts que son adversaire. Tous les coups sont permis : il est possible d'électrocuter son adversaire et de lui tirer dessus pour récupérer la balle. En phase de possession, le joueur doit charger une barre d'énergie avant de décocher une imparable frappe au but .",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Soccer Brawl",
+   "genre": "Sports",
+   "synopsis": "The Cybernetic players use special kick shots and built-in arm phasers to destroy other players. Make sure your power meter is FULL when exercising these brutal tactics. Both stadiums, which are magnetically enclosed, enable you to kick or pass... off the wall! There are no fouls in this league, so watch your back or you'll get pulverized by the opposing team! You'll find here the most advanced sport in the world of soccer... SOCCER BRAWL!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ff124fd4eaae41c8bc50b4289461ee585d46d90177ea94a1bc71a087bd6d6b29",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=fanart",
+   "fetched_at": "2026-11-06T15:39:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f8f9d708dc09e9e34a9dc896972a8921360f9f06cfd40ef52f27cf4d5d7cdecd",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:39:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "59afacab7ab31282ad7861672db89828a0fddea42f3fdefc084e9121b5d1b607",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:34+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fc0cfbed305d36305ac28c304984d52904ac9e9edbf13f0c7bb21bd5ad6afeb9",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1acbd09d3ab59361da0378c9e1372bb105afbbf5c3fb8b25bb51b4363543236c",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:39:37+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "3eecf5a8007583d38999c14aedde7e76cc307f822ca46f722ea35fc63cca3712",
+   "width": 574,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:39:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "856026f049b66774f66905274458a2c2324892cfcbacb60e4480b67b8ade55b8",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37640&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:39:40+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:39:30+00:00",
+ "status": "done"
+}

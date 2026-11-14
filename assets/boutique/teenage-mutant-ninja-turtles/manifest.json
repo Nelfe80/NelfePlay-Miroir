@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles",
+ "title": "Teenage Mutant Ninja Turtles",
+ "source": "screenscraper",
+ "ss_game_id": 149955,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 149955,
+  "release_year": 1989,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-4",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Ninja Turtles",
+   "genre": "Beat'em All",
+   "synopsis": "Teenage Mutant Ninja Turtles est un beat them all à défilement latéral dans lequel jusqu'à quatre joueurs peuvent choisir de jouer avec l'une des 4 tortues, soit «Leonardo» (bandana bleu, katana), «Raphael» (bandana rouge, 2 saïs), «Michaelangelo» (bandana orange, nunchakus) ou «Donatello» (bandana pourpre, Bo) contre la puissance de l'armée de Shredder pour tenter de sauver April O'Neil et Splinter, avant une confrontation finale avec leurs ennemis jurés Krang et Shredder.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles",
+   "genre": "Beat'em Up",
+   "synopsis": "Teenage Mutant Ninja Turtles is a side-scrolling beat 'em up released by Konami in 1989. It is based on the first Teenage Mutant Ninja Turtles animated series which began airing in the winter of 1987. The player chooses from one of the four Ninja Turtles: Leonardo, Michelangelo, Donatello, and Raphael. After Shredder kidnaps the Turtles' friend April O'Neil and their mentor Splinter, they must give chase, save their comrades, and defeat the evil Shredder. Up to four players (two in some versions) can take control of any of the Turtles. Donatello has slower attacks but a longer range, Michelangelo and Raphael have faster attacks but a shorter range, and Leonardo is a well-rounded Turtle with average range and speed. Most of the enemies the Turtles face are the Foot Soldiers, all color-coded to indicate their attack patterns and weapon of choices. Some enemies, such as the standard purple-clad Foot Soldiers and Roadkill Rodney robots, have the ability to restrain the Turtles' mobility and drain their health, leaving the player open to attack for other enemies. The bosses in the game include Rocksteady and Bebop (individually at first in that order, and later the two of them together), Baxter Stockman, Granitor, General Traag, Krang, and Shredder himself.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "50a3a4d540b94adcf0f96cf9427e33cb3ca3875ce222c8ef883890a9ac2aeb74",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=fanart",
+   "fetched_at": "2026-11-06T17:25:47+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "23e7259f558b69619becb131c248a29dc9d99d066f45d4e40c1aa05d0a0c08b4",
+   "width": 400,
+   "height": 147,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:25:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "65afcc05debe89ddc7602f7fa86d35fa1ceb8af573b76ab320bd588824a441e6",
+   "width": 516,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:25:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6679f81bd6b4e10ba5065c3d604cc7812bbc9f93fadd869b89abce88d2f7a7f6",
+   "width": 601,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:25:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c0901840c964e7e0973d17077ee8ed1b625f660ed486773b5467256b2ee27c94",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:25:53+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1c889f384bc80b24d9cdff8e4dadc7c5a784d32dd3a2c231f45acd6df38ba721",
+   "width": 850,
+   "height": 1196,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T17:25:55+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1d5247d60dc45975b0060d1e9735d7ab85419437814e8ba213803579b5cf2321",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149955&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:25:56+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:25:47+00:00",
+ "status": "done"
+}

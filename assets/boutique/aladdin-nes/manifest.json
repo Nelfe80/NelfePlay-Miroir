@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "aladdin-nes",
+ "title": "Aladdin",
+ "source": "screenscraper",
+ "ss_game_id": 1319,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1319,
+  "release_year": 1994,
+  "publisher": "Virgin",
+  "developer": "NMS Software",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Aladdin",
+   "genre": "Plateforme",
+   "synopsis": "Reprenant les différentes séquences du film d'animation de Disney, Aladdin sur NES permet de retrouver tous les personnages de l'histoire. Ce jeu de plates-formes propose effectivement de suivre Aladdin des rues d'Agrabah aux couloirs du palais royal en passant bien sûr par la célèbre caverne aux merveilles. Le Génie est aussi de la partie et permet de gagner des bonus.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Aladdin",
+   "genre": "Platform",
+   "synopsis": "The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer.\n\nThe player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.\n\nThe game's humorous animations were created by Walt Disney Feature Animation.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0f900b312d288702dbf38c910c9fa4b3964a777da3a372d6426a84a409839a89",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=fanart",
+   "fetched_at": "2026-11-06T16:14:24+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "73a7dac3202ff63f032e291d2aac8382d6423b3adde26d14d15f1df0cb969bff",
+   "width": 600,
+   "height": 200,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T16:14:26+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a22888bdf55a54587a0bde5c0d1332d02db91c1c26c3ce132ac35ebc50730a1d",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:14:27+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2c58e22541b4d200c954f36c14bb387ad2549c14f1af4a40491a2d72eb449e51",
+   "width": 543,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:14:29+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "04efb1e8b8c17beed7d9098fee9f058d75fb86242c72d669f9720dc20538f5d2",
+   "width": 256,
+   "height": 240,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T16:14:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9abd8438bba0aaa6840defbb48b933f7dca689aa38db3ec149030a3d9a5971eb",
+    "width": 256,
+    "height": 240,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T16:14:32+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "9abd8438bba0aaa6840defbb48b933f7dca689aa38db3ec149030a3d9a5971eb",
+    "width": 256,
+    "height": 240,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1319&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T16:14:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:14:24+00:00",
+ "status": "done"
+}

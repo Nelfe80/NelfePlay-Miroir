@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "malibu-bikini-volleyball",
+ "title": "Malibu Bikini Volleyball",
+ "source": "screenscraper",
+ "ss_game_id": 14229,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14229,
+  "release_year": 1993,
+  "publisher": "Atari",
+  "developer": "Hand Made Software",
+  "players": "1-4",
+  "system_label": "Lynx"
+ },
+ "text": {
+  "fr": {
+   "name": "Malibu Bikini Volleyball",
+   "genre": "Sport / Volleyball",
+   "synopsis": "Malibu Bikini Volleyball est un jeu de sport sur Lynx. Vous êtes aux commandes d'une équipe de jolies filles assez dénudées qui luttent courageusement pour le titre de championnes de volley. Mais attention, ne vous laissez pas distraire par des Bikinis et concentrez-vous plûtot sur votre seul objectif : la victoire !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Malibu Bikini Volleyball",
+   "genre": "Sports / Volleyball",
+   "synopsis": "Welcome to Malibu: Volleyball capital of the world. This is where the best come to play--and show off their tans. If you want in, sign up. But keep your eyes on the ball...there'll be plenty of time for bikini-watching after the match!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "57682201bb7012197fa71b1cd49a66fdeb76ffdb3e43dc6d4433d7a6fa1e8ae3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14229&media=fanart",
+   "fetched_at": "2026-11-06T16:55:59+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "46c6a859a8a848d5839648d9f0e56cb79ba2b03660dca2e0ca410fd3207f7641",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14229&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:56:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c64d4829d1950c2d031a3693afc3fa1a015a57668ac982b1e390450e58f8d380",
+   "width": 554,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14229&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:56:02+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "609b756d4b23a42e662ed9a5fa9bc23747e343ef1792c310f9de9efc519848c7",
+   "width": 576,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14229&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:56:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ba90093b3182ea96600458b2bdef3f18b9438335d09156be3a48d72131a503a7",
+   "width": 160,
+   "height": 102,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14229&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:56:05+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "763806ab4afcf4ee07a2b6072d4e2ac585863a40e43850e9912fab65abc7ef8d",
+    "width": 160,
+    "height": 102,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14229&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:56:06+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:55:59+00:00",
+ "status": "done"
+}

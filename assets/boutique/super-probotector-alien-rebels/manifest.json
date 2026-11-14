@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-probotector-alien-rebels",
+ "title": "Super Probotector: Alien Rebels",
+ "source": "screenscraper",
+ "ss_game_id": 97413,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 97413,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Probotector : Alien Rebels",
+   "genre": "Tir",
+   "synopsis": "Le combat est sur le point de recommencer! Nous sommes en 2636 et la Terre est confrontée à la menace d'une invasion massive d'extra-terrestres.\r\nCes rebelles mutants, méchants et déments, sont de retour et veulent se venger en détruisant la race humaine! Ils ont récupéré leurs forces et disposent de toute une armée composée, en partie, d'Extra-terrestres métalliques, de Motards de l'enfer, de Fusées Ninja et même de Chiens mutants pour les aider à vaincre. Ils sont bien décidés à ne pas subir une autre défaite humiliante et sont prêts, une fois de plus, à livrer bataille contre les Probotectors les plus puissants, RD008 et RC011.\r\nQui sera le vainqueur de ce combat à mort?\r\nProbotector peut-il encore une fois sauver la mise?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Probotector : Alien Rebels",
+   "genre": "Shooter",
+   "synopsis": "Welcome to 2636, the year the Notorious One gets even, with an unprecendented alien onsalught orchestrated to push 16-bit technology and its commandos to their ultimate reaches.\r\nPlunge through a molten hot massacre on a high speed voyage to the guts of the archenemy alien. Scope out the side and top perspectives and backgrounds that do a 360 to engulf you in 3-D sensation. Pick off solar slimedogs like the Mutant Megasquitos and the Psycho Cyclers while you scale over walls, swing from girders and ropes, hitch rides on a missile, whatever it takes. Sweat through six gut splitting stages, including the Battle of the Blazing Sky and the Mucho Grande Badlands.\r\nThe graphics are so real the explosions will nearly knock you off your feet. And the Boss Enemies are so gigantic, your screen can hardly hold them. You'll need to wrap both hands around artillery powerful enough to make today's weapons look like squirt guns. The Contra legacy is alive and dangerous!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0027c155ea5650fc2286414e7cfd425f97e12e81c1256016d7909f811059d597",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=97413&media=fanart",
+   "fetched_at": "2026-11-06T23:17:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7e1db01654830bb9cb37d349a90f1e1242abb3ffa818a50b0a5ae1ceb43518eb",
+   "width": 600,
+   "height": 270,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=97413&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T23:17:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7df1a96fdd2429971fd88fa164680fe256146aca64bf4ce406372727a2f58b64",
+   "width": 680,
+   "height": 497,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=97413&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:17:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8a55a30f20886482815c576a15b17f126d8b10e7626f050a42d974af25ed4af0",
+   "width": 600,
+   "height": 420,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=97413&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:17:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "71beb5a09553bfdee7d805be44534722a8862b3a7577b4ee4dad36f9a420b293",
+   "width": 256,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=97413&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T23:17:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6a23fe4d8db34527a4bff94501d443e7740d5bf682ba96fb7a5d693ecff993e9",
+    "width": 256,
+    "height": 224,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=97413&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T23:17:49+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:17:41+00:00",
+ "status": "done"
+}

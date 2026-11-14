@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "1943-kai-midway-kaisen",
+ "title": "1943 Kai: Midway Kaisen",
+ "source": "screenscraper",
+ "ss_game_id": 39876,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 39876,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "1943 Kai : Midway Kaisen",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Troisième jeu de la série des 1940.\r\nIl s'agit en réalité d'une mise à jour de \"1943 : The Battle of Midway\" avec pour différences des armes améliorées, moins de niveaux, une nouvelle bande-son et une difficulté accrue.\r\nL'avion que vous pilotez n'est pas votre P-38 régulier mais un biplan Boeing Stearman. Les sprites des ennemis ont aussi été modifiés.\r\nCette mise à jour n'est sortie uniquement que dans les salles d'arcade au Japon.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "1943 Kai : Midway Kaisen",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "An update of 1943 with tweaked weapons, fewer levels, and a new soundtrack.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ddf5ac1e159be4c9529ae28b760e1d15bcdac22ed9fa7f013e4eee7a28d0cbb9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=fanart",
+   "fetched_at": "2026-11-06T17:23:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3ca06ae857a4ee2d8291a33db43977bb1e1e9abb5a3ad8ec301e13590c5aa1f6",
+   "width": 600,
+   "height": 153,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:23:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7ef1f5449db02907a67e1c4c5486aec79f1119770bed1bfcb3b2ed18d2ac9b48",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:23:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0de1936b5d191e60ff2c30cbded39bcd62128b17c75cd06b4a21367757564437",
+   "width": 460,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:23:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7e3926caeea2ce6de6cccf9ae7b6784342af3c4d4d34a66eae659666378ce5a1",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:23:50+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "728c4d1a6499d64c8a4581e83dd43e65b8b71fbdd76c1c0c277ca4f03c8d5491",
+   "width": 222,
+   "height": 285,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:23:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c05b11b81a51b2f687c65842c6f2fc077ee329e71ac60a7d937c8e839ea311ab",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39876&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:23:53+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:23:44+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "rayforce",
+    "title": "RayForce",
+    "source": "screenscraper",
+    "ss_game_id": 41591,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 41591,
+        "release_year": 1993,
+        "publisher": "Taito",
+        "developer": "Taito",
+        "players": "1-2",
+        "system_label": "Taito Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Gunlock",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "Gunlock est un shoot them up vertical plutôt sympathique. Vous tirez sur tout ce qui bouge devant vous, et vous promenez votre viseur sur les vaisseaux se trouvant au second plan pour verrouillez des cibles que vous détruirez simultanément. Il faut donc apprendre à gérer les deux modes de tirs, et les utiliser à bon escient. Les graphismes ne sont pas forcément super mais c'est quand même genial de voir partir tous ces lasers dans tous les sens. A essayer donc.\r\n\r\n2ème avis: un très très bon shoot, bien technique, qui présente l'originalité de ne pas avoir de \"coupures\" entre les niveaux: on part de l'espace pour arriver progressivement au centre de la \"méchante\" planète!! L'ambiance est excellente, il fait partie des mes shoots préférés (mais j'y joue plutôt sur Saturn, pour avoir un niveau de difficulté plus conséquent, crédits limités oblige..) Plus amusant à jouer que sa fameuse suite, RAYSTORM, pourtant bien plus beau caravec une excellent 3D.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Gunlock",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "Vertically scrolling shoot 'em up released in 1993 as Rayforce in the Arcade. The subsequent home versions released in 1995 for Sega Saturn were titled 'Layer Section' in Japan, and 'Galactic Attack' in the US and Europe.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "09ea47455ac742d279452508345da0efa4fb73038326ea913ab254c306cd49ea",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41591&media=fanart",
+            "fetched_at": "2026-11-09T22:11:14+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "9e9ecf105915fc85eca2ca434bbb1bd1730fe3458c05b0e5225735f9c6785866",
+            "width": 400,
+            "height": 91,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41591&media=wheel%28wor%29",
+            "fetched_at": "2026-11-09T22:11:15+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "d5cf629722f1ad55f7c289bb2cfa252bc10848884a9f4172c5270a9757d32d7f",
+            "width": 837,
+            "height": 1176,
+            "region": "eu",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41591&media=box-2D%28eu%29",
+            "fetched_at": "2026-11-09T22:12:26+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "a2da37dc6d865bdd45241f5ea31f0289c7a7486eaf02826699209966a7d80311",
+            "width": 224,
+            "height": 320,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41591&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:12:27+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "44b2e0f603d11b28f933e152640620e237758414954155e88e9e1cf629614a8b",
+            "width": 837,
+            "height": 1176,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41591&media=flyer%28wor%29",
+            "fetched_at": "2026-11-09T22:12:29+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "1e100bd7a221d89de2a208f725b6dceb63e9173e6a32b4971918b97cdc5efbde",
+                "width": 232,
+                "height": 320,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41591&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:12:30+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-09T22:12:25+00:00",
+    "status": "done"
+}

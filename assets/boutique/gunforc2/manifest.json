@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "gunforc2",
+ "title": "GunForce II",
+ "source": "screenscraper",
+ "ss_game_id": 41588,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41588,
+  "release_year": 1994,
+  "publisher": "Irem",
+  "developer": "Irem",
+  "players": "1-2",
+  "system_label": "Irem Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "GunForce II",
+   "genre": "Plateforme",
+   "synopsis": "Un jeu de tir sur plateforme qui offre des graphismes incroyables et un gameplay d'une solidité à toute épreuve.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "GunForce II",
+   "genre": "Platform",
+   "synopsis": "Gun Force II is a 2D side-scrolling science fiction themed run and gun game and sequel to GunForce. The game plays very similar to the later game Metal Slug.\r\n\r\nThe player controls a special soldier with two heavy guns that can jump an climb platforms. While playing the player encounters and has to kills or destroy various enemies including mutants, soldiers, vehicles and aliens. Additional weapons like flamethrowers and lasers can be picked up while playing. While making progress it is possible to mount vehicles, like mechs, motorbikes, tanks and flying crafts. Some music in this game is directly recycled (and remixed) from the earlier shoot 'em up game Air Duel, another Irem game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e8fc50b44bc08c8c3ad7d7a6e27bde1ff075e2fa0795da89afe4cafe524dcf8e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=fanart",
+   "fetched_at": "2026-11-06T23:52:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f23680bda886b6e9e9c952528a0f82f29e1bd24a120edb2e160419e7741b634a",
+   "width": 400,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:52:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e1e71382fd35eade2a3d069cd61f6ad0260f93c2df12877611b018d638dec9cf",
+   "width": 850,
+   "height": 1201,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:52:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1be9e5c94b157fc7269bc055feb3dced9fc066a3f8dcb2ffbbb3e6c7228ae76f",
+   "width": 510,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:53:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "12049dd046081d5f29ae6eadc7db0ea7d90cdf68a5ba6748af59dc9251ca1a79",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:53:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6349d99589faa36550705b4752b6316d10272a309c72408c91f9d288091b4809",
+   "width": 850,
+   "height": 1201,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:53:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "db2fbf62beeb68e791edba2382954f5fcd29debc31bbd23294ce1d62916dbcb4",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41588&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:53:04+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:52:54+00:00",
+ "status": "done"
+}

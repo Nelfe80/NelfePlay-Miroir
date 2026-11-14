@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-ii-champion-edition",
+ "title": "Street Fighter II': Champion Edition",
+ "source": "screenscraper",
+ "ss_game_id": 37377,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37377,
+  "release_year": 1992,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter II' : Champion Edition",
+   "genre": "Combat",
+   "synopsis": "Une année déjà s'est écoulée, presque jour pour jour, depuis la sortie du légendaire Street Fighter II: nous sommes donc en Mars 1992 lorsque Capcom publie la première séquelle de son méga-hit, rebaptisée \"Champion Edition\". Et l'éditeur réalise tout simplement le rêve de l'ensemble des fans du premier épisode: les quatre Boss du jeu sont désormais jouables! Et je peux vous dire qu'à l'époque, dans les salles d'arcade, ce fût une incommensurable jouissance vidéo-ludique (oui, c'est dégueulasse). C'était bien la première fois que la suite d'une production aussi connue exauçait le souhait de millions de joueurs. Disposant désormais d'un roster de douze personnages, la saga de Capcom conserve sa position de leader dans ce domaine sur le marché du jeu vidéo. Des concurrents redoutables on vu le jour, mais Street Fighter II' Champion Edition de Capcom a de l'avance et semble pouvoir rester le roi sur son trône encore un moment.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter II' : Champion Edition",
+   "genre": "Fighting",
+   "synopsis": "From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f02255883bda8e4f79f4c92fd1872f96739a346864f0f08b0795addf92aba806",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=fanart",
+   "fetched_at": "2026-11-06T15:29:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d7830530f6b4e64007c434432c613382f2db7915eaaba61e6e808a0c39ad2e47",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T15:29:11+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1594ea75d9833936bd9cad9e3c7a9263a8c52b9566f9bbd2a9b1a71fbe6dbf05",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:29:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5d3fd751aecc2f06853408ae6df89f1dfed9248508aa8a1b277815f9c78d2979",
+   "width": 440,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:29:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0da84cf348bd4982fcb2a9ebf267f4d716d8c6ca6a44c72296286d20864fe2d6",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:29:15+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "14281576a2254ca3f6e6098956522a6775502c4e3dfe1cefc6e7fa867acc0b3b",
+   "width": 850,
+   "height": 1100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:29:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9f3e4cc048a0484ee4be7e8b69f38f20f884c99855838dfe4cdf636bfdc4d4c2",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37377&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:29:18+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:29:09+00:00",
+ "status": "done"
+}

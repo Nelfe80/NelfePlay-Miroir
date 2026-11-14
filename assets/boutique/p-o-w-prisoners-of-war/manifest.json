@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "p-o-w-prisoners-of-war",
+ "title": "P.O.W.: Prisoners of War",
+ "source": "screenscraper",
+ "ss_game_id": 42487,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42487,
+  "release_year": 1988,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "P.O.W.: Prisoners of War",
+   "genre": "Combat",
+   "synopsis": "L'histoire banale d'un prisonnier militaire s'échappant de sa geôle pour se sortir du bourbier, tout cela étant prétexte à  moults coups de poings et de pieds dans la tronche des adversaires qui sont ici très agressifs, rapides et précis, également résistants, ce qui fit de ce jeu le beat them all le plus difficile que j'ai pu rencontrer dans ma vie videoludique.\r\névidemment, on peut prendre des armes pour faire un peu plus de vide autour de soi.\r\nles graphismes sont supérieurs à  la moyenne de l'époque et le son est également bien supérieur.\r\nbref du tout bon surtout à  deux puisque, comme je l'ai dit plus haut, la difficulté relevée du jeu n'en fait pas un beat them all où vous êtes toujours en danger.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "P.O.W.: Prisoners of War",
+   "genre": "Fighting",
+   "synopsis": "Prisoners of War is a horizontally-scrolling run 'n' gun platform game for one or two players in which Special Forces soldiers escape from a POW camp and must fight their way through enemy territory to reach the extraction point and rescue. \r\n\r\nThe escaping POWs fight primarily using hand-to-hand combat, but limited-use knives and sub-machine guns can be retrieved from fallen enemy soldiers. The game consists of three action buttons for punching, kicking and jumping. There are also three special attacks performed by pressing two buttons simultaneously: a jump kick (jump, then kick), a back punch (jump and punch simultaneously) and a headbutt (punch and kick simultaneously).\r\n\r\nThe controls change when wielding a weapon; the knife is thrown by pressing the punch button, but can preserved by using kicks. When wielding the machine gun, players can fire it by pressing the kick button, or can conserve its ammo by pressing the punch button to gun-whip enemies from close-range.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8bec18dd58b1887fd98c391da72633746076bf5f62302f5b72a521705689fd45",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=fanart",
+   "fetched_at": "2026-11-06T16:00:36+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "da64dc89ed62534fb6bd8a71be771179a6a3fd7a7cbfd47146d71e3df13f2c35",
+   "width": 600,
+   "height": 230,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:00:38+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "67baa60f58b860b1c63d520eeb27fe3e3bb79e20cfb565bc87b110c0ec98bbe7",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:00:39+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fc18d13d7328173eb54f485e9ee0bdd3708783a9b85cb21ec62c8eaada2164ec",
+   "width": 503,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:00:41+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "602f7ea9136c38a282ae31e1815b8b816554b9cddc5fee0942579314d59e7466",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:00:42+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "52c3749c78c5f1ff0ebd83de1da3c8318cfefc222596a5882cdcf756fe4f8368",
+   "width": 850,
+   "height": 1101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:00:44+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7f4eb9ff7621cce76b88f64a488dc3da4189dab9dbc8d64644da52b7b432a540",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42487&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:00:45+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:00:36+00:00",
+ "status": "done"
+}

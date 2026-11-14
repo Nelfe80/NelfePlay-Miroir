@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "asteroids-atari2600",
+ "title": "Asteroids",
+ "source": "screenscraper",
+ "ss_game_id": 13987,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13987,
+  "release_year": 1981,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Asteroids",
+   "genre": "Shoot'em Up",
+   "synopsis": "Dans Asteroids sur Atari VCS 2600, vous pilotez un vaisseau au milieu d'un nuage d'astéroïdes que vous allez devoir éviter et détruire. Une fois tout le nuage détruit, vous passez au niveau suivant. Le jeu comprend plusieurs modes dont un multijoueur à 2.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Asteroids",
+   "genre": "Shoot'em Up",
+   "synopsis": "Asteroids is a conversion of the arcade game of the same name.\n\nPlay the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the play can them move to the next round. In addition to asteroid, the player will also face an Alien Robot Saucer which shoots randomly across the screen.\n\nThe player using the controller may rotate the ship (left or right) to any direction or move the ship forward. Shots will be fired according to the ship direction. The player has three reserved ships available to replace a destroyed spaceship. The spaceship is destroyed if an asteroid collides with the spaceship or is shot by an Alien Robot Saucer. Additionally, the player may opt to use the hyperspace warp to avoid collision. The warp however, may also destroy the spaceship in the process.\n\nAsteroids when shot will break-up into smaller pieces or be destroyed.. There are three types of asteroids: large asteroids, medium asteroids, and small asteroids. Large asteroids and medium asteroids when shot, will break-up into two smaller sized asteroids. Small asteroids when shot will be destroyed. \n\nAlien Robot Saucers come in two sizes: small and large. Both use photon lasers to shoot and will explode when destroyed. Alien Robot Saucers will not appear at the Novice Level.\n\nGame Difficulty and Variations\nThere are 4 available difficulty settings: Novice, Intermediate, Advanced, and Expert. \n\nThe game also offers three different game variations:\n\n1. Standard Play - For one or two players, taking turns when a player's ship is destroyed.\n\n2. Competition Asteroids - Two players appear on the screen at the same time. Friendly fire is in affect, which means shots fired from one player's spaceship will destroy the other player's spaceship. Each player has separate ship reserves.\n\n3. Team Asteroids - Two players on the screen at the same time. Friendly fire is disabled, which means shots fired from one player's spaceship will not destroy the other player's spaceship and just pass through. Ship reserves for both players are combined.\n\nScoring\nThe score of the Player 1 is viewable on the upper left side of the screen, while Player 2 on the opposite upper right side. A player will be awarded a new reserve ship for every 10,000 points.\n\n1. Small saucer - 1,000 points\n2. Other player's ship - 500 points\n3. Large saucer - 200 points\n4. Small asteroid - 100 points\n5. Medium asteroid  - 50 points\n6. Large asteroid - 20 points",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "22158c454ba8211868ccac9f20e142218ef48881fbba30a8d3e7138a38bd60d8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13987&media=fanart",
+   "fetched_at": "2026-11-06T16:46:41+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "185a7b934fb94b57c57c8af3ec1169973b2a64f805d806329bbd6e50e615bee2",
+   "width": 600,
+   "height": 120,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13987&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:46:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e75246dc5caef1383bf14c15364c4dca3689a7bc9a20a0dc5c571f197e053bf6",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13987&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:46:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2f112e1a296aa5f64f07b92858015d8da9c1f495044f15da564fa40969356eae",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13987&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:46:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "6078474996a1a571aa7dc18a76e177229b60977c39585203f3c599e13c9dfc6f",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13987&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:46:47+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5f72ce304c25ddc25fecf1e52feeda5b9e28f53a98016413f6735eb617c454eb",
+    "width": 320,
+    "height": 192,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13987&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:46:49+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:46:40+00:00",
+ "status": "done"
+}

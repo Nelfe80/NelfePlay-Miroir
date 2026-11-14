@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-spinball",
+ "title": "Sonic Spinball",
+ "source": "screenscraper",
+ "ss_game_id": 12917,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12917,
+  "release_year": 1994,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Spinball",
+   "genre": "Flipper",
+   "synopsis": "Accompagné de son ami Tails, Sonic le hérisson bleu le plus rapide de la galaxie doit à nouveau affronter le Dr Robotnik dans Sonic Spinball sur Game Gear. Le quartier général ennemi est installé en haut d'un volcan, et le mécanisme qui le protège est similaire à celui d'un flipper. Mettez-vous en boule et escaladez le Mont Mobius pour libérer les animaux transformés en robots par votre pire ennemi.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Spinball",
+   "genre": "Pinball",
+   "synopsis": "The evil doctor Robotnik has a new plan to take over the world. He has built a new weapon, the Veg-O-Fortress on Mount Mobius and with it, he is transforming all creatures into robots. Sonic sneaks into the fortress and tries to stop Robotnik.\n\nUse Sonic as a pinball in 4 dangerous levels. Score points, get rings, collect Chaos Emeralds and destroy the boss at the end of each level.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "dc77af164da2a9c12ef41802bea19e7e4a9d6277714ac95c0f2684c55bb906c6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12917&media=fanart",
+   "fetched_at": "2026-11-06T16:10:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "124c60ff42a57aea6936d7b8094e524788fc5f36d6a52bd2aaf9cd3618144336",
+   "width": 600,
+   "height": 150,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12917&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:10:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "097d483549a1aaa67bd5320bc13a93c6f835ab9aaf0cf70e59dfd3d383cb649d",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12917&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:10:41+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b3849425462d7c8011be120f6db81184c880cb4e0bc03daf6a35d7fcbb14da5d",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12917&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:10:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "a8a8b50e679dbcf04c1166de79fc8bf434115116569ac3a3326512bdd4489356",
+   "width": 160,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12917&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:10:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "03c144b9f27a274002eced0446bba2ae8809e7ae71918cd853890fc02d0a6414",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12917&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:10:46+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:10:38+00:00",
+ "status": "done"
+}

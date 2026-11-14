@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "atari-karts",
+ "title": "Atari Karts",
+ "source": "screenscraper",
+ "ss_game_id": 14160,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14160,
+  "release_year": 1995,
+  "publisher": "Atari",
+  "developer": "Miracle Designs",
+  "players": "1-2",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Atari Karts",
+   "genre": "Course, Conduite",
+   "synopsis": "Atari Karts sur Jaguar est un jeu de courses vous permettant d'incarner des pilotes tous plus farfelus les uns que les autres au volant de karts survitaminés ! Le jeu possède 4 modes de difficulté ayant chacun 3 coupes respectives. Quand vous remportez les trois coupes d'un même mode de difficulté, vous faites une course face à un boss. Si vous remportez la victoire, ce dernier sera alors jouable !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Atari Karts",
+   "genre": "Racing, Driving",
+   "synopsis": "Atari Karts is a character-based go-kart racing game. It plays very similarly to Super Mario Kart. The emphasis in this game, like most kart games, is on making use of pick-up items found around the track to knock out your opponents.\n\nThere is only one game mode, a points based cup series.  There are four difficulty levels, each with 3 cups to race for. After completing all the cups for a difficulty level, you get to challenge a \"boss\" kart in a single race match.  If you beat the boss, he becomes a playable character.  The various cup races can be played in either single player or two player split screen modes.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f691eaf3611b2d0091d3c16e94fef89fe8ffd4caae9d7ae57361b916a7a33a4e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14160&media=fanart",
+   "fetched_at": "2026-11-06T16:47:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "35222b377f116b1cbf163cf183d09d464d8a028f1dc943afc88e099005109fcb",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14160&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:47:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "066492d1a90898bd3e18e54997f04c37ed95e35068abaddc7c60d9c52d188495",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14160&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:47:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "404dc5875d2ab9f4ff9121bdefcdbcc12a55458cb68fa070c987c1a7479fd38b",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14160&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:47:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "76a7a28c68fb966c45b91618a55d5c76212ddecaf32bf617e7efafc9cfc7d596",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14160&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:47:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "0fb44220a22f405d798b7f39a45ecaefbc1806a8ae5c091f20ee766e04b89b44",
+    "width": 320,
+    "height": 227,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14160&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:47:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:47:38+00:00",
+ "status": "done"
+}

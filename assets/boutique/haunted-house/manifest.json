@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "haunted-house",
+ "title": "Haunted House",
+ "source": "screenscraper",
+ "ss_game_id": 13998,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13998,
+  "release_year": 1981,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Haunted House",
+   "genre": "Aventure",
+   "synopsis": "Vous êtes pris au piège dans un sombre manoir hanté et poussiéreux. Pour vous échapper, trouvez les morceaux de l'urne magique. Vous rencontrerez des tarentules poilues géantes, des chauves-souris vampires et un fantôme menaçant. Pouvez-vous trouver l'urne et vous échapper du manoir avant même \"d'avoir peur de mourir\"?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Haunted House",
+   "genre": "Adventure",
+   "synopsis": "Hidden throughout a haunted mansion are three pieces of a magical urn, and your goal is to enter the mansion and retrieve all three before you lose your nine lives! The game is played from an overhead point of view where you see only your eyeballs as you explore the  four floors of the maze-like mansion. To make your mission even more difficult, there are various creatures wandering throughout. Tarantulas, giant vampire bats, and one fast moving ghost will all cause you to lose a life if encountered too closely. As a defense against the creatures, a magical scepter can be found in the mansion which will make you immune to its inhabitants.\n\nThe mansion contains many doors, some of which may be locked; to explore all the rooms, you will first need to find the master key which is hidden somewhere. The mansion is very dark, and you will not be able to see any of the objects in it (and in more difficult game variations, you can't see the walls either). To reveal objects and the mansion walls, you need to light one of your unlimited supply of matches which will light up a small area around you. Don't be surprised if a swift wind or passing creature blow out your match, though!\n\nYou are only allowed to carry one object at a time so you will need to create a strategy for exploring the mansion; to unlock a door or move a piece of the urn, you will need to put down the scepter so be careful! You win the game when all three pieces of the urn are assembled and you make it out of the mansion. The game keeps track of how many matches you have used on your mission, and the fewer matches the better the score!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0bb6b16b1747851a47f109488b5d2721118f1899d8f63714733a32e9a6b99a75",
+   "width": 400,
+   "height": 43,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13998&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:55:37+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "71aa4fcd7af08ad42c721ae74cf39ccb219b83864bbc5c6f8ac57b69d64a78a9",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13998&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:55:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d69a9d79f840c4dcbb072f02a0c88e7dbe39ada6b0453a574afd3bd575552211",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13998&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:55:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "a280b8104f28d4c8a7ae76f977fc2e3b1561f0df2813e04d1539d28e1105f6fd",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13998&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:55:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "acccde6b262c6ccd59cba15bea4975570d1d2f1430ce223b1864a846a8e07751",
+    "width": 304,
+    "height": 184,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13998&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:55:43+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:55:36+00:00",
+ "status": "done"
+}

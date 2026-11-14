@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "psycho-soldier",
+ "title": "Psycho Soldier",
+ "source": "screenscraper",
+ "ss_game_id": 42533,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42533,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Psycho Soldier",
+   "genre": "Plateforme",
+   "synopsis": "Le personnage principal est une fille nommée Athéna. Elle tire des explosions d'énergie psychique comme arme principale. Elle peut collecter des orbes qu'elle peut contrôler par télépathie.\r\nCes orbes la protègent de certains projectiles et peuvent également être lancées sur des cibles. Les orbes exploseront à l'impact. Son compagnon, un garçon nommé Kensu, peut l'aider avec ses propres pouvoirs. Ensemble, ils nettoient une ville en ruine pleine de monstres et de mutants.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Psycho Soldier",
+   "genre": "Platform",
+   "synopsis": "Psycho Soldier is a side-scrolling shooter featuring two-player simultaneous play. \r\nThe major character is a girl named Athena. She fires blasts of psychic energy as her main weapon. She can collect orbs which she can control telepathically. \r\nThese orbs protect her from some projectiles and can also be launched at targets. The orbs will explode on impact. Her companion, a boy named Kensu, can help her with his own powers. Together they clean up a ruined city full of monsters and mutants.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bee282258d6a7486ae3f3de2c2bbaad823265bab080a002b1f1d7d8fc5f4d6e8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42533&media=fanart",
+   "fetched_at": "2026-11-06T16:01:36+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5f08e1a561e8707c5cc513f7dec817df92844618e4e54c0f6436d0c39425be83",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42533&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:01:38+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4ff0b99fc2a4fae60cf9d4ea54bdc904e6cdaf343bbcc83771f91fcb1af6e131",
+   "width": 850,
+   "height": 1104,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42533&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:01:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3758da27e16feadc47a38a8279f126658ae09ebba10f85881f7253fe74f7d24d",
+   "width": 400,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42533&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:01:41+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a0db9ae1bbd801c051888d563fc21f28bb6ee6b2aea5afce674d98e1b3ab6f38",
+   "width": 850,
+   "height": 1104,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42533&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:01:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f0f5d07c3fc969827f90cefe85f62ba5e98c66dec4b45f9808c4f01b33160fdd",
+    "width": 368,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42533&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:01:44+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:01:35+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ga2",
+ "title": "Golden Axe: The Revenge of Death Adder",
+ "source": "screenscraper",
+ "ss_game_id": 41322,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41322,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-4",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Golden Axe: The Revenge of Death Adder",
+   "genre": "Beat'em All",
+   "synopsis": "Death Adder est revenu et hante la région avec ses sbires. Heureusement quatre valeureux guerriers (un nain sur un géant, une centaure, un jeunot avec un trident et l'éternel guerrier en bleu du premier golden axe) vont s'imposer contre le tyran. A vous de choisir l'un d'entre eux et de vous frayer un chemin jusqu'à Death Adder et sa hache. Pour cela, vous disposez de divers coups d'épée et de crétures géantes (scorpions, mantes religieuses,...) pour hacher vos ennemis.\r\n\r\nAllez, et sauvez le monde!!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Golden Axe: The Revenge of Death Adder",
+   "genre": "Beat'em Up",
+   "synopsis": "Like its legendary prequel, 1989's \"Golden Axe\"; 'Revenge' is sideways scrolling beat-em-up set in a traditional fantasy world, in which the evil 'Death Adder' has arisen to take over the lands. The game supports simultaneous four-player gameplay, with each player taking on one of the game's characters. The four available characters are 'Sternblade' (a barbarian warrior), 'Dora' (a female centaurian), 'Goah' (a giant with a dwarf sitting atop his shoulders) and 'Little Trix' (an agile, oriental-style warrior).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e6248c233f3f2a3ff9f3ad56004872ff6294b6585fd3216d2bfa7dbed84d484a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=fanart",
+   "fetched_at": "2026-11-06T23:51:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "aa69d9579e7cb9cbf46d2f2bb3625f121d1e64ab332db30c9b79e1bd217fc131",
+   "width": 400,
+   "height": 104,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:51:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ef3d7a269a3310e0f3a870f415170a1836b625933d894666a28e5101f2dbe455",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:51:20+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b8a356e94468e8a6898ca22c0c8834866b3b9fa2a3e6016956ff518bb8f52b34",
+   "width": 536,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:51:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a78aa434ada5f0ae932afe1051c3836a87dff180f13c025c3ff458535ed2caac",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:51:22+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "4edd0da471a0de1a9259fff5f2e3e6b9f3ea8daf5d1c9ebf5111e36adcaede2b",
+   "width": 850,
+   "height": 1215,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:51:24+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d6561506b0bf9c19b9fb9f2407909e66c2347e583e9bd658f1fb85e64cfdbd4a",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41322&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:51:25+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:51:16+00:00",
+ "status": "done"
+}

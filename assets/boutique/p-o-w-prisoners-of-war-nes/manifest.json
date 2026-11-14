@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "p-o-w-prisoners-of-war-nes",
+ "title": "P.O.W.: Prisoners of War",
+ "source": "screenscraper",
+ "ss_game_id": 1806,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1806,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "P.O.W. : Prisoners of War",
+   "genre": "Beat'em All",
+   "synopsis": "P.O.W. : Prisoners of War sur NES est un jeu d'action qui vous amène à incarner un prisonnier de guerre dans sa fuite du camp d'emprisonnement. Vous aurez à votre disposition nombre d'armes et d'attaques de mêlée pour y parvenir.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "P.O.W. : Prisoners of War",
+   "genre": "Beat'em Up",
+   "synopsis": "The enemy is unstoppable. They maintain vigilant guard over their front lines! The only way to defeat them is to get behind their lines. But how? By allowing a soldier to get captured, perhaps he could escape and single-handedly defeat the enemy forces in his way. \n\nIn P.O.W., the player is a soldier who has been imprisoned in a Prisoner of War camp and must escape. In order to accomplish this, he must defeat a variety of enemies.  The foes will attack you hand-to-hand, with knives, guns, and from helicopters. Boss enemies will guard the end of each level.\n\nTo fight back, you can use hand-to-hand, and pick up weapon power-ups, found on the ground, in rooms, or dropped by enemies. These weapons include a knife, which can be used to stab or be thrown, guns and grenades.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a8d6ccb2f74f6984a4ce9cf441d65062f57a0999f2bcde620387e7abed66e5e2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1806&media=fanart",
+   "fetched_at": "2026-11-07T20:22:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7dfa123767bc26ee36c253ea3456b4591f4b7006a323e0cdc7ca0ca9f6755b7c",
+   "width": 600,
+   "height": 210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1806&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:22:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ecc321f732413ba34a065519f848d6da5bee6e20b4ac66f150d891a8bb97f7a4",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1806&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:22:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d54bb40f06c4b9d7dfed5201d2f6bbe2382f385bdc08da09b5c105d74a5f33d8",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1806&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:22:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "80a7b39b72551fde06078565b780946e7068f7ee8ef4245c5f8e13dbd1c2525e",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1806&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:22:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "df5b1bb797d4a0d18307c870fc026d38220fbb4fd0303c869c2ac9c8d4042176",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1806&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:22:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:22:09+00:00",
+ "status": "done"
+}

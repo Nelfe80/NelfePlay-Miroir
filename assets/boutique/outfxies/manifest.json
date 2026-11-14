@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "outfxies",
+ "title": "The Outfoxies",
+ "source": "screenscraper",
+ "ss_game_id": 79110,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 79110,
+  "release_year": 1994,
+  "publisher": "Namco",
+  "developer": "Namco",
+  "players": "1-2",
+  "system_label": "Namco Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "The Outfoxies",
+   "genre": "Plateforme",
+   "synopsis": "Dans The Outfoxies, le joueur peut choisir l'un des sept assassins (John Smith, Betty Doe, Bernard White, Lisa « Eve » Price, le professeur Hon Ching, Dweeb, Danni Fritz et Demi Fritz), avec pour objectif d'éliminer les autres adversaires avant d'affronter le boss final, M. et Mme Acme. Les environnements de combat regorgent de pièges, d'armes et d'objets que le joueur peut utiliser pour attaquer ses adversaires.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Outfoxies",
+   "genre": "Platform",
+   "synopsis": "A platform 'versus' shoot'em up in which either one player (playing against the computer) or two players (playing against each other) attempt to destroy each other by any means necessary. The levels themselves are interesting and varied, with airships, planes etc. providing a detailed and highly interactive backdrop in which the players do battle. That interactivity is increased further with the introduction of destructible sections which, when blown up, can often open up new areas or rooms. Each level is littered with a variety of weapons that can be picked up and utilized by the player(s). Graphically, Outfoxies employed superb sprite scale and rotation techniques that elevated the already fun gameplay still further. The aeroplane level, for instance, dips and sways, bringing problems of inertia and gravity to the platform action. Also; the in-game camera zooms in and out of the level, depending on how far away the two opponents are from each other. Playable characters range from a monkey to a pair of psychotic school children, with each character choice offering the player different aptitudes (the monkey can jump higher, for example). A fun enough game in one-player mode, Outfoxies really came into its own when two human protagonists took part.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bb9349991a2b35ada3a615d402d5c74abdee13e42c128098b54f87c5aec13710",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=79110&media=fanart",
+   "fetched_at": "2026-11-06T23:49:50+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0c603a644963d8d837508abbdda2a1391d5e8fc42683926e42ad18e098df9397",
+   "width": 400,
+   "height": 156,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=79110&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:49:51+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9a3d456e8fbbc38bac99460cbf38e3ecb6092a76ffed86fdc8a0cadc88a6bf76",
+   "width": 841,
+   "height": 1400,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=79110&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:49:53+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "045f2831a1888c886141cfa67568dc4d2ffc5bec8a1d4513fb41d59904d094c3",
+   "width": 288,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=79110&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:49:54+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "ca124277533212c4d97c6fbe2f29967cd88e632d5d78404948761989806f1fb2",
+   "width": 841,
+   "height": 1400,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=79110&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:49:56+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cd4690595cce3dddd9465b58688ab9a04fb3c51a86fd1ea17b4adf5ca01e161e",
+    "width": 288,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=79110&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:49:57+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:49:48+00:00",
+ "status": "done"
+}

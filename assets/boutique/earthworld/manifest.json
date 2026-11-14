@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "earthworld",
+ "title": "EarthWorld",
+ "source": "screenscraper",
+ "ss_game_id": 51305,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 51305,
+  "release_year": 1987,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "SwordQuest : EarthWorld",
+   "genre": "Aventure",
+   "synopsis": "SwordQuest: EarthWorld était un jeu d'aventure produit pour l'Atari 2600. Le jeu se résume à marcher d'une pièce à l'autre, à trouver et à laisser tomber des objets, à battre les étapes de l'action pour trouver plus d'objets et à voir le nombre impair de chiffres clignoter à vous si vous obtenez la bonne combinaison d'articles dans les bonnes chambres.\r\n\r\nLes ensembles de nombres, par exemple 16-4, étaient en fait une combinaison d'un numéro de page et d'un numéro de panneau dans la bande dessinée fournie avec le jeu. Sur la page indiquée par le jeu, vous trouverez un mot caché quelque part dans le panneau numéroté. Lorsque tous les mots corrects ont été trouvés, vous pouvez les envoyer à Atari dans l'espoir de gagner le concours SwordQuest pour lequel ce jeu a été conçu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "SwordQuest : EarthWorld",
+   "genre": "Adventure",
+   "synopsis": "SwordQuest: EarthWorld was an adventure game produced for the Atari 2600. The game play boils down to walking from room to room, finding and dropping items, beating the action stages in order to find more items, and seeing the odd set of numbers flash at you if you get the right combination of items in the right rooms. \n\nThe sets of numbers, for instance 16-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "563c7d58f26a25efb7a569f3b581cc78139ea339e3748dd976167a0ddda5fcf8",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51305&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:03:37+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2641802c06e34aa7ee8f12b9a21945ca59f1147e70c997de237630c4ec41ed52",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51305&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:39+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "48f423e27f9ef5cbd951a2dafb39b37a10ccf784967feac364f1087fd5af7be7",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51305&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "19345e155660a6c2bcc89c85265c38957126db1d84daca56e7ea4c2dcc33f6ae",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51305&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:03:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "aa073cd09b67dad06f59366b832cd3cdaea50cf69f7de4001a211c8417f53ad5",
+    "width": 320,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51305&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:03:43+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:03:36+00:00",
+ "status": "done"
+}

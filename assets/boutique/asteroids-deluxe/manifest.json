@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "asteroids-deluxe",
+ "title": "Asteroids Deluxe",
+ "source": "screenscraper",
+ "ss_game_id": 46384,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 46384,
+  "release_year": 1981,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Asteroids Deluxe",
+   "genre": "Shoot'em Up",
+   "synopsis": "Les graphismes ont été affinés (le blanc vire au bleu clair et un calque illustré égaye le noir intersidéral) et la bande-son est plus attrayante. Le gameplay présente quelques nouveautés.\r\n Tout d'abord, un bouclier temporaire est implémenté en lieu et place du téléporteur; il permet de se protéger temporairement contre les collisions et les tirs des soucoupes. Par ailleurs, un nouveau type de danger, les killer satellite (satellite tueur), fait son apparition. Lorsqu'un satellite, forme hexagonale inerte dérivant dans l'espace, est heurté par un tir, il libère trois \"vaisseaux traqueurs\" qui pourchassent inlassablement le vaisseau du joueur.\r\n Si un \"traqueur\" est touché, il se divise en deux missiles, plus petits et rapides, qui peuvent être détruits pour de bon. Par ailleurs, les soucoupes volantes sont plus dangereuses (même les petites peuvent faire feu) et leur tirs répondent à un motif précis. Par exemple, la plus grosse envoie d'abord trois tirs sur les astéroïdes et killer satellite environnant puis un quatrième en direction de vaisseau. La difficulté de jeu a été sensiblement revu à la hausse.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Asteroids Deluxe",
+   "genre": "Shoot'em Up",
+   "synopsis": "Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. \r\n\r\nPlayers can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. \r\n\r\nLarge asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. \r\n\r\nWhen shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. \r\n\r\nIn addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. \r\n\r\nAt any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). \r\n\r\nThe player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. \r\n\r\nAs an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "899fd9f7fa71700038f0becf3963b8e7630e49bc42a98a1c821a6369a1376c34",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=fanart",
+   "fetched_at": "2026-11-06T16:47:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "de95fba30ed687d5b6f85a8fc53e992bafaf5a233069a52949c83ae45ab23b5c",
+   "width": 600,
+   "height": 200,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:47:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d9b282c5eb83936bbbe22573ba94fe522b6cc1a95f48386b3e5954f9daa9c9ce",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:47:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "224a0c8425abb0a7faf159cf0a0c54f9015b738e9da326333bfa9687f022d60a",
+   "width": 518,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:47:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "2be1d29b6ea2a3adbf298e8b1bd886e25442bfc5fdc69bdc8ece9fa2fdcfeb5d",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:47:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bb49049578033165b3654575bb806ae8844a4161dc1ea7aa7d6f7931200f8bef",
+   "width": 619,
+   "height": 800,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T16:47:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "120451c9cbfee0713060225837ecc1a4ff30bd15636c3660b4d0d146dd6f00fe",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46384&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:47:21+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:47:10+00:00",
+ "status": "done"
+}

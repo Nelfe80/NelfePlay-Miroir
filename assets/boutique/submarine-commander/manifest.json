@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "submarine-commander",
+ "title": "Submarine Commander",
+ "source": "screenscraper",
+ "ss_game_id": 37862,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37862,
+  "release_year": 1982,
+  "publisher": "Sears",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Submarine Commander",
+   "genre": "Simulation",
+   "synopsis": "Vous êtes le commandant d'un sous-marin dans les eaux ennemies. Utilisez vos compétences, votre radar et votre chance pour abattre les navires ennemis. Avec 8 réglages de difficulté, il y a beaucoup de choses à maîtriser car vous devez commencer à garder un œil sur votre carburant, vos torpilles, votre radar et votre ennemi tout en évitant les charges de profondeur lorsque la difficulté augmente. Vous pouvez tirer jusqu'à deux torpilles à la fois. Le périscope peut tourner à 360 degrés et regarder à l'horizon ou près de votre sous-marin. Certains vaisseaux se déplacent plus lentement que d'autres, et l'un des vaisseaux se déplace si vite que la seule façon de le toucher est de le suivre par radar plutôt que visuellement.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Submarine Commander",
+   "genre": "Simulation",
+   "synopsis": "You're the commander of a submarine in enemy waters.  Use your skills, radar, and luck to take down the enemy ships.  With 8 difficulty settings there is a lot of the game to master as you must start to keep an eye on your fuel, torpedoes, radar, and enemy while avoiding depth charges as the difficulty rises.  You can fire up to two torpedoes at a time. While enemy shows go by your periscope sink as many as you can.  The periscope can turn 360 degrees and look off into the horizon or close to your sub.  Some ships move slower than others, and one of the ships moves so fast that the only way to hit it is by tracking it by radar instead of visually.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f5fa790f6b13626268650dc8b3cfdab9aa82dba0e4dfb4e743a2fea2af80a764",
+   "width": 400,
+   "height": 28,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37862&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:05:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "30e73094602a176b820dd5d875cbbba941a551faf0b0635fcab463306ba4db65",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37862&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:05:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "aff45ff365029ca6ba8d8dd6912a513c16c3245787d6d113c3cc223a31d70e2b",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37862&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:05:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "abb7916467a928a953987c601fe02694a7d93376125411bdc94ab09ca0bf16d7",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37862&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:05:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c6a567abaf5722fe7576eb5312154f7053441234fc17448141bf9ff1ff1aacd8",
+    "width": 320,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37862&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:05:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:05:14+00:00",
+ "status": "done"
+}

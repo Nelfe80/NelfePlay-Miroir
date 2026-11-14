@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "breakout",
+ "title": "Breakout",
+ "source": "screenscraper",
+ "ss_game_id": 14016,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14016,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Sears",
+  "players": "1-4",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Breakout - Breakaway IV",
+   "genre": "Action / Casse briques",
+   "synopsis": "Breakout pour Atari VCS 2600 est un jeu de casse-briques développé par Atari. Vous avez cinq essais pour casser des lignes de briques. Plusieurs variantes du jeu sont disponibles (briques invisibles, contre la montre, etc.)",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Breakout - Breakaway IV",
+   "genre": "Action / Breakout games",
+   "synopsis": "In Breakout, there is a wall of bricks along the top of the screen and your goal is to destroy the entire wall one brick at a time! To do this, you control a paddle at the bottom of the screen which is used to reflect a bouncing ball into the bricks. When the ball hits a brick, it will destroy it. You start with five balls, and the game ends when all five fall off the bottom of the screen. Also included are several game variations, including breakthru (the ball will go straight through bricks instead of bouncing back), timed breakout (you have a time limit to gain as many points as you can), and invisible breakout (the bricks are only visible for a short while after one of them is hit).  Other variations allow you to catch the ball or control the direction of the ball.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3cb379a80b54363855ae22592268be778d8276c5ff630ed49ee5827cb0bc5cba",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14016&media=fanart",
+   "fetched_at": "2026-11-07T20:24:51+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "26123d53ca00f6436f9f54b4379770e372b3ca701c66404ccd472d2ce2f66e13",
+   "width": 400,
+   "height": 66,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14016&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:24:52+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "43d34ded2c6c803d18472f0a059ff0960a425ba94e9731417b115075749dbcb3",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14016&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:54+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "cec884977afd2e908e0344fc239a55df60b3627b8bdb2a71cf93dbb178fc0438",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14016&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:55+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "0a20333e45e001e725fe86dbfed80612d4b1df533261bc76be39238988a027a0",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14016&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:24:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "a6166bfd10ac8ce5d8963b59aeab78d2de2f818450469c0a5d51ab9b1d1e6b6e",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14016&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:24:58+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:24:50+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "metal-slug-1st-mission-world-en-ja",
+ "title": "Metal Slug - 1st Mission (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47040,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47040,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "Ukiyotei",
+  "players": "1",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Metal Slug : 1st Mission",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "En tant que membre de l'Unité des Forces d'Elites \"Peregrine Falcons\", vous avez le devoir d'eliminer le diabolique Colonel Bildegaarn.\r\nC'est avec l'aide du tank multitache \"Metal Slug\" ainsi que du \"Slug Flyer\", de votre Blaster et de votre dexterite que vous pourrez vous frayer un chemin au travers des 17 missions qui vous permettrons de sauvez le monde de la tyrannie.\r\nLa contruction des stages et le gameplay invite a la rejouabilité par le biais d'une progression echelonné et de \"ranking\"\r\nLa sauvegarde en jeu laisse la possibilité au joueur d'eteindre la console et de reprendre sa partie sans perdre ses acquis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Metal Slug : 1st Mission",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "As a member of the elite forces squad \"Peregrine Falcons,\" your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7f6eaaf7aa8685443e96a52d30f98c05ba6b7b28d246b0da820c2638fa213904",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47040&media=fanart",
+   "fetched_at": "2026-11-06T16:38:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "48d650cd75c02cc5881038bf794650c95c01fa38a991b2a8819f0652d3857218",
+   "width": 413,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47040&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:38:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ac86c7ead17eb770ad572c8a79b411c41ada74e8dac603b92bb67fd7bfb78ddd",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47040&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:38:15+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e8e60ffa74314064d7307994d42c70aeb53ac78099d11d9f6f33251b4f003385",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47040&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:38:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "eb764234cd0d2877af83519c9a751f8a0688daf1e42b48c1163fdd1d0e66958d",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47040&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:38:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5893e48aa90dee4a11cb41a04aafb45dc2240b9cac2bd5dbdb08667560061f96",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47040&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:38:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:38:10+00:00",
+ "status": "done"
+}

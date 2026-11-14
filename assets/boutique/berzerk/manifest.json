@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "berzerk",
+ "title": "Berzerk",
+ "source": "screenscraper",
+ "ss_game_id": 37687,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37687,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Stern",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Berzerk",
+   "genre": "Tir",
+   "synopsis": "Le joueur contrôle un humanoïde dans des environnements labyrinthiques multi-tableaux en vue de dessus. Il doit progresser en éliminant une armée de robots belliqueux. C'est un précurseur du run and gun, qui a notamment influencé la conception de Robotron: 2084. Le jeu présente des caractéristiques innovantes de gameplay (notamment le tir multi-directionnel) et de réalisation avec des voix de synthèse.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Berzerk",
+   "genre": "Shooter",
+   "synopsis": "You are a prisoner on an alien planet that is made up of mazes. Robot gangs hunt you and you must shoot them before they hit you. Evil Otto, a grinning sinister face who is invincible, pursues you. If you can keep cool and not go bonkers, you'll eliminate robots, escape Evil Otto, and score big points.\r\n\r\nThe home video game version of a favorite Arcade game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0d739135e9fb0166482250f57de251d9fb941f2b05d0627cb34ef8896c7fd71d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37687&media=fanart",
+   "fetched_at": "2026-11-06T16:49:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6c46a18c407b5ce83c0e775e02b748a143e3f5c0945a2a0655188ac0fb98ad53",
+   "width": 400,
+   "height": 67,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37687&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:49:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9d8ecb27d194a41161fcfca74f120f385dbb997dd04d22f0d40b08b5450844fa",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37687&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:49:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2cf997634f32950fe21a94b5ef73ba8a3873ed7887f79b77dbebb3830f0a600c",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37687&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:49:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b839a1b63e605b67b5681302a352d6f9310d66075c8b857839f6ebfcb3baee48",
+   "width": 640,
+   "height": 480,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37687&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:49:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c04c76b141737a25a2ce4a2f701786dafef548031f9f312e8fdafbd452a602b8",
+    "width": 304,
+    "height": 191,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37687&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:49:16+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:49:07+00:00",
+ "status": "done"
+}

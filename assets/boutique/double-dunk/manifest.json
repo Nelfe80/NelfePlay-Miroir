@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "double-dunk",
+ "title": "Double Dunk",
+ "source": "screenscraper",
+ "ss_game_id": 59437,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 59437,
+  "release_year": 1989,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Double Dunk",
+   "genre": "Sport / Basketball",
+   "synopsis": "Jouez à un jeu rapide à deux contre deux sur un demi-terrain de basketball. N'utiliser que la moitié du terrain signifie que vous devez faire plus attention à ne pas perdre le ballon ou à manquer des coups faciles lorsqu'un adversaire est proche. Les tirs à 3 points et les fautes peuvent être activés ou désactivés. De plus, vous avez la possibilité de changer les couleurs des uniformes de chaque équipe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Double Dunk",
+   "genre": "Sports / Basketball",
+   "synopsis": "Play a fast paced two-on-two game of half court basket ball. Using only half the court means you need to be more careful not to lose the ball, or to miss easy shots when an opponent is close. With multiple game styles and possible plays each game is something different. 3-point shots and fouls can be toggled on or off. Also, you have the option to change the colors of each team's uniforms.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2e1f41379ac9f8caa7a9834b68c1b52d9c84380b3ae9c8daf3f3c43fa325637a",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59437&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:53:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a94488366352824ef6695ad0c6231f998d674535d7de06512297c720cebfbb84",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59437&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:53:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c0a75ea460bc760e74226315b2403d503897176ced02f2dcabffd6718f688146",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59437&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:53:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b81afba5873ad9483bb20e87b8f4fbbefa80ffb5f66e8da9dbe5820d0e2d4ca2",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59437&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:53:20+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "53248ad60af96584971554d66285fea4a5797ad2b9f865a282e2ef0722f48863",
+    "width": 320,
+    "height": 190,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59437&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:53:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:53:14+00:00",
+ "status": "done"
+}

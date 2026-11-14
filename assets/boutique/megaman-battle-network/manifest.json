@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "megaman-battle-network",
+ "title": "MegaMan Battle Network",
+ "source": "screenscraper",
+ "ss_game_id": 3907,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3907,
+  "release_year": 2001,
+  "publisher": "Ubisoft",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle Network",
+   "genre": "Jeu de rôles",
+   "synopsis": "Mega Man Battle Network sur GBA marque le point de départ d'une toute nouvelle série basée sur l'univers du robot. Dans celle-ci, le joueur incarne à la fois un petit garçon dans le monde réel et son double virtuel qui évolue dans son ordinateur. Dans ce jeu de rôle tactique, vous devez déjouer les plans du Dr. Wily qui propage des virus dans le réseau mondial. Les combats du titre se déroulent sur un quadrillage et exigent de votre part une grande dose de tactique.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle Network",
+   "genre": "Role Playing Game",
+   "synopsis": "In the future, a young net-battler named Lan, boots his 'personal information terminal'(PET) and prepares to hack into the network to battle net crime. Lan's PET is no ordinary network navigator. It is Mega Man.EXE, the cyber-identity, which infiltrates the crime-ridden network to battle destructive computer viruses. Defeat viruses in real time and collect Battle Chips program data, containing valuable weapons data and critical system info. Collect over 175 Battle Chips to help Netto and Mega Man.EXE restore peace and order to the network.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "376aec8cc831453db96f5da29e76a227e10337d51a13eb5861ed33b8cc3a7c8b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3907&media=fanart",
+   "fetched_at": "2026-11-06T23:20:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "52cd10742ac5d61f2275349398ce6a998898a1d79605e5fcdf3545f9358900bd",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3907&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:20:05+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "540abe12c4969f9245a9fcfe6baa70248409f0976c2778ce0e150026e58e3ed2",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3907&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:07+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fcb6a5594e74b86c1a3e658d8a8bc9cda2d029a477b49692ad1a940f531a0bff",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3907&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:08+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "1c3fc2e55e6a5a86155e550ab0ed8305667f43bd2f14e891238c08bd090107a6",
+   "width": 240,
+   "height": 160,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3907&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:20:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "285e0169b850bb46ae1ba6c855820dbe1cbec718d06704df56c85a7d17419008",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3907&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:20:11+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:20:02+00:00",
+ "status": "done"
+}

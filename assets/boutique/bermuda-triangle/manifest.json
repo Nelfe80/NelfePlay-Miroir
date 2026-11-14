@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "bermuda-triangle",
+ "title": "Bermuda Triangle",
+ "source": "screenscraper",
+ "ss_game_id": 40203,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40203,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Bermuda Triangle",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Un shoot them up de SNK. Assez original  dans le mode de jeu et avec des sprites énormes pour 1987 et le genre. Votre vaisseau va se transformer au fur et à mesure que vous collectez de l'énergie \"E\". Ce qui est surprenant, c'est que le tableau repart en arrière et vous ne pourrez shooter le boss qu'après avoir refait un aller et retour. Évidemment, pas moyen de tirer en arrière \r\nBon, vous n'explosez pas tant qu'il vous reste de l'énergie, ce qui est heureux parce que le slalom avec un paquebot n'est pas évident.\r\nPoint de vue ambiance, musique et jouabilité c'est plutôt dans la moyenne. C'était sans doute pas mal pour l'époque et en tout cas toujours jouable.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bermuda Triangle",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "The players control a ship on a vertically scrolling screen. Button One is used to fire while Button Two changes the option's formation. Options are small ships that add to the player's firepower and shield it from damage. Pressing the second button can set the options to the front, rear, and side of the player's ship. By destroying enemies the player can collect power-ups that change the ship's sprites. Instead of lives, the ship has a fuel bar that depletes when the player takes damage.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a3b8722845ac8b962df657872033fe2f004f054eb097bf27748b8d965d97ba84",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=fanart",
+   "fetched_at": "2026-11-06T15:56:47+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "669a99b7abb3af7bf0540751c62e97d90751432ab952eb709b0ffc6914492a7e",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:56:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2d17d775584f719f2df48f2bbf191e35cabc8cbd912ca719e43657f8db66a076",
+   "width": 850,
+   "height": 1096,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:56:50+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "96c7914587a4d54c1b989a32b91bdaac5a691926d11ba3bdf2b078048b48bfe3",
+   "width": 434,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:56:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1105b440ef59a431fe445a2b1ab89a3bd057879fde7ad5d05d13e3abbe54eda9",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:56:53+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "9ffb1774751253616cbaf1414283ba9c556ac210b13ebba046e3611563c7e749",
+   "width": 850,
+   "height": 1096,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:56:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1247faacc15c44a4775da61ed759cffb465b5fde7595e2e48b0d1c2ddcbfdd00",
+    "width": 224,
+    "height": 400,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40203&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:56:56+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:56:46+00:00",
+ "status": "done"
+}

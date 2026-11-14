@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "salamander",
+ "title": "Salamander",
+ "source": "screenscraper",
+ "ss_game_id": 42870,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42870,
+  "release_year": 1986,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Salamander",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Salamander, renommé Life Force en Amérique du Nord et pour sa réédition sur borne d'arcade au Japon, est un shoot them up développé et édité par Konami, sorti en 1986 sur borne d'arcade. Il a été adapté sur Amstrad CPC, Commodore 64, MSX, Nintendo Entertainment System, PC Engine, X68000 et ZX Spectrum.\r\n\r\nC'est un dérivé de la série Gradius qui a connu une suite, Salamander 2, sorti en 1996.\r\n\r\nLe joueur dirige le vaisseau Vic Viper à travers six stages alternant scrolling horizontal et scrolling vertical. Il est possible de récupérer des power-up pour améliorer l'armement du vaisseau, par exemple un tir multiple. Les boss doivent être vaincus en détruisant leur cœur.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Life Force",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Salamander is a 1 or 2 player sequel to 1985's superb shoot-em-up, \"Nemesis\". While it retained the same basic gameplay and feel of its predecessor (particularly the superb and innovative weapons system), Salamander featured both superior graphics and a more imaginative approach to level design. The earliest example of the latter appears towards the end of the very first level, in which imposing, organic obstructions grow before the players' eyes. The game's third level - the infamous 'lava' level - is another good example of Salamander's superb design; with huge solar flares constantly erupting both above and below the player's ship that must be carefully navigated to avoid instant loss of life. Salamander introduced further variety to the action with the introduction vertically-scrolling levels, which alternated with the standard side-scrolling levels.\r\n\r\nSalamander's weapon power-up system is as follows:\r\nSPEED UP: Five speed levels.\r\nMISSILE: Press missile button to launch.\r\nLASER: Your forward rockets turn into deadly lasers.\r\nRIPPLE LASER: Use shoot button to fire.\r\nFORCE FIELD: Protect your ship with barriers.\r\nMULTIPLE: Increase your fire power by up to four times.\r\n\r\nMultiple special powers can be obtained, but the LASER cannot be used in conjunction with the RIPPLE Laser.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "eb4483eee38fd01bd37172a6241254b9b70e06974065395287f677b44c14795b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=fanart",
+   "fetched_at": "2026-11-07T20:23:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0eb6c604c733916b98f031cc62643cece385b8651e13730ba907e0404e27ef92",
+   "width": 400,
+   "height": 176,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:23:05+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "af150b824b1a8750f0888e6f0a3d495d698eeaf2e0ec1ef61f136c95eec714bd",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:23:06+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3ed3452a052d95dcf640997da4bcac981b65ad5dc637c92b5c147bb48e58ce09",
+   "width": 434,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:23:08+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a85b5cd737deeeda2fb585e9ce2758e9eaaaf725a38abfe3bb42d831d1e90cd1",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:23:09+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "adc1aa3f2d7c2c5ff7800b5355a30003eca5e77d2ff463c4503b5ea3a1a4a4f6",
+   "width": 850,
+   "height": 1100,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=flyer%28us%29%5B1%5D",
+   "fetched_at": "2026-11-07T20:23:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7a09bc6b4d0ba3f582220931d80ebe889244dcc38cfed6f96044d3d4feb118ea",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42870&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:23:12+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:23:03+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "shadow-dancer",
+    "title": "Shadow Dancer",
+    "source": "screenscraper",
+    "ss_game_id": 43039,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 43039,
+        "release_year": 1990,
+        "publisher": "SEGA",
+        "developer": "SEGA",
+        "players": "1-2",
+        "system_label": "Sega Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Shadow Dancer",
+            "genre": "Beat'em All",
+            "synopsis": "Shadow Dancer est un jeu dans lequel vous contrôlez un Shinobi. Avec l'aide de votre chien, vous devez tuer vos ennemis tout en vous aventurant dans des lieux tels que des aéroports, des voies ferrées, des chutes d'eau, des égouts, etc. De plus, vous devez trouver et désamorcer plusieurs bombes en cours de route avant de quitter chacune de ces zones. Vous avez également la possibilité d'utiliser la magie contre les ennemis, qui peut consister en des tornades ou des boules de feu.\r\n\r\nIl y a plusieurs missions que vous devez accomplir, et chacune a des objectifs différents tels que la neutralisation d'un commando ennemi, la perturbation de la route d'approvisionnement de l'ennemi, le raid sur les unités industrielles de l'ennemi, l'attaque des forces souterraines de l'ennemi, et la libération et la sécurisation de la base de la navette. Chaque mission se compose de trois étapes et il y a un boss sur chacune des étapes finales de la mission.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Shadow Dancer",
+            "genre": "Beat'em Up",
+            "synopsis": "Shadow Dancer is a one-player game in which you control Shinobi. With the help of your dog, you must kill your enemies while you venture through locations such as airports, railroads, waterfalls, sewers, and more. Furthermore, you must find and disarm several bombs along the way before you leave each. You also have the option of using magic against enemies, which may consist of tornadoes or fireballs.\r\n\r\nThere are five missions you must complete; and each one has different objectives such as obstructing the enemies deadly mission, disrupting the enemy's supply route, raiding the enemy's industrial units, attacking the enemy's underground forces, and liberating and securing the shuttle's base. Each mission consists of three stages and there is a boss on each of the mission's final stages.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "b453dd0b45aa063fd5d68acd81bb56a85cc646f80c04e7e8fc54451c1f397a35",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43039&media=fanart",
+            "fetched_at": "2026-11-13T17:36:43+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "001ee732f0077d36b348f556f75b2eb5bf7c07432dcc7c377ac48613b838224a",
+            "width": 400,
+            "height": 148,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43039&media=wheel%28wor%29",
+            "fetched_at": "2026-11-13T17:36:45+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "912a1b6b0767b1fc1cefb04145aae47710f211454a144b401fd21aa18d0bf159",
+            "width": 497,
+            "height": 680,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43039&media=box-2D%28us%29",
+            "fetched_at": "2026-11-13T17:36:46+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "6ceadb533fc5255c201868cafb8d400b7bc8ca3df1287a96ff821a2dd5c2996b",
+            "width": 320,
+            "height": 224,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43039&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-13T17:36:48+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "165a3cf6c7f7ddc0c048becf96c15811260ab7fe62664b43fe3c5d0b413fe8cb",
+            "width": 850,
+            "height": 1104,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43039&media=flyer%28wor%29",
+            "fetched_at": "2026-11-13T17:36:49+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "6283eb237bf040666e7e6a1a8e5a19c4df3b6b9e3c58dda2c2c9c6a14af0eabe",
+                "width": 320,
+                "height": 224,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43039&media=ss%28wor%29",
+                "fetched_at": "2026-11-13T17:36:51+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-13T17:36:42+00:00",
+    "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "double-dragon-ii-the-revenge",
+ "title": "Double Dragon II: The Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 40863,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40863,
+  "release_year": 1988,
+  "publisher": "Technos Japan",
+  "developer": "Technos Japan",
+  "players": "1-2",
+  "system_label": "Technos"
+ },
+ "text": {
+  "fr": {
+   "name": "Double Dragon 2 - The Revenge",
+   "genre": "Beat'em All",
+   "synopsis": "Digne suite du premier opus avec un systeme de combat assez perturbant au premier abord. Un bouton sert à frapper a gauche et l' autres a droite. Ce systeme devient une seconde nature aprés quelques uppercut. Sinon pour le reste c' est du double dragon trés légèrement embelli. Si vous êtes fan du premier n' hesitez pas.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Double Dragon II - The Revenge",
+   "genre": "Beat'em Up",
+   "synopsis": "Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.\r\n\r\nThe sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game \"Renegade\". Many of the attacks and combos from the original \"Double Dragon\" are retained, as well as new techniques including the invincible Cyclone Kick.\r\n\r\nThe stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.\r\n\r\nMost of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:\r\nWilliams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.\r\nRowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.\r\nLinda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.\r\nOharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.\r\nBolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.\r\nJeff - Same as his original self, but now carries grenades.\r\nBurnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.\r\nAbore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.\r\nChin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.\r\nWilly - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.\r\nThe clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fe29be517e88bd868965494471b866b64b64da23a47d75be262d699786bdc21c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=fanart",
+   "fetched_at": "2026-11-07T20:24:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3af5d574314407ab684a70dbd38bef015bed1bbeb3b2e2a0a4fcc033098c8761",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:24:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "747f97708f94b299e185df996d4fe4c032f4b54e8592a4b3a5beb010872df5d9",
+   "width": 600,
+   "height": 785,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:24:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "63c9e06a61d2aa92ef57c414a3468c40345c1edd538e8555a9759dc36c7a488c",
+   "width": 476,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:24:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b535ae3e950786e5194790edd49fe08d2c087d7087373a5a8f1a40b20fd3043b",
+   "width": 256,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:24:19+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "39281556c76a735c879f4729e372f9e8eb091986f8055a663f1802fdeb4c808a",
+   "width": 600,
+   "height": 785,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:24:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "aba98a749cb4413b4ff96836acd2c458c210cd59372d2f358f6ca3f7d992e511",
+    "width": 240,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40863&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:24:22+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:24:12+00:00",
+ "status": "done"
+}

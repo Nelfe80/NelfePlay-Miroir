@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "silver-surfer",
+ "title": "Silver Surfer",
+ "source": "screenscraper",
+ "ss_game_id": 1546,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1546,
+  "release_year": 1990,
+  "publisher": "Arcadia Systems",
+  "developer": "Software Creations",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Silver Surfer",
+   "genre": "Shoot'em Up",
+   "synopsis": "Silver Surfer sur Nes un jeu de tir dans lequel vous incarnez le célèbre Surfeur d'Argent, héros de la galaxie. Afin de repousser le retour de Galactus, qui détruira toute vie, vous devez récupérer les pièces d'un dispositif cosmique disséminées sur plusieurs planètes et gardées par des créatures maléfiques. Arriverez-vous à sauver le monde à temps ?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Silver Surfer",
+   "genre": "Shoot'em Up",
+   "synopsis": "The Silver Surfer roams throughout space as herald to Galactus, looking for new planets for him to feed on. However his mission is interrupted by a summon from Galactus. Silver Surfer learns that creatures from the Magick Dimension are trying to break through into the universe and their coming will end all life. Vowing to stop them, Silver Surfer must assemble the pieces of a mysterious Cosmic Device and use it to push them back. The pieces of the Device are currently in the hands of some malicious creatures: Reptyl, Mephisto, Skrull Emperor, Possessor and Firelord. Silver Surfer must travel to their domains and defeat them in order to obtain pieces of the device.\n\nSilver Surfer is a shooter game, with some levels taking place vertically and some horizontally. The Surfer's only ability is to move around on the screen and to shoot directly in front of him. Power-ups that can be picked up include: the letter \"F\" (Firepower) which will increase the number and power of his projectiles, Smart bombs which destroy everything on the screen, the letter \"S\" (Speedup) which increases the surfer's movement and Orbs which will also fire the Surfer's weapon. Orbs are special in that two can be obtained (only 1 is shown on horizontal scrolling levels) and they can be positioned to fire forwards, backwards or sideways.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "db224936fc767f1422ad9d617034214ff08037a73058ca2eab99c4910a3757eb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1546&media=fanart",
+   "fetched_at": "2026-11-06T17:39:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f53df65dd22ab60675e3a84f005705f06fed773b7fab8c8a8d0e5fc466d956d8",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1546&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:39:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7ae91b1cf79c70cee930cb6b4b936e353b392265967752aee33a4744d3587fbd",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1546&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:39:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c8430fd039c2fa8692e4590b08054df05bfc52d519c7b040996e34a35b43a8cd",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1546&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:39:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8dd75f49df9535422793418eb288365732d2b42a80ed90350813d8ef5af3d1f0",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1546&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:39:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3ce5216ab3446d22286732c3ab74754bd80ea3fe2680ffd0de2972c880a77480",
+    "width": 256,
+    "height": 224,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1546&media=ss%28us%29",
+    "fetched_at": "2026-11-06T17:39:08+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:39:00+00:00",
+ "status": "done"
+}

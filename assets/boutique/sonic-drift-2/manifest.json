@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-drift-2",
+ "title": "Sonic Drift 2",
+ "source": "screenscraper",
+ "ss_game_id": 12899,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12899,
+  "release_year": 1995,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Drift Racing",
+   "genre": "Course, Conduite",
+   "synopsis": "Sonic Drift 2 sur Game Gear met en scène Sonic, Tails, Amy et Robotnik dans des courses de voitures. Vous avez maintenant un nouveau système de boss qui permet au dernier de rester dans la course !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Drift 2",
+   "genre": "Racing, Driving",
+   "synopsis": "Sonic Drift 2 is the sequel to Sonic Drift, also on the Game Gear and the first in the series to be released outside Japan. One of the new things in the sequel is a lag boost system, which means that anyone who is behind gets a boost to catch up again. This keeps the action in the game. Another new thing is that the gadgets touched while racing do not come into effect immediately. They need to be triggered manually by pressing up on the D-pad.\n\nThere are 3 GPs to compete in and each GP has 6 tracks. The names of the GPs are:\n\n1. Purple Chaos GP\n2. White Chaos GP\n3. Blue Chaos GP\n\nRacing skills can be improved in the Free Run mode on any of the tracks, or, with a Gear-to-Gear cable and a spare copy of the game, direct competition against another human player in the versus mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3ddd71512c7743b09cce5eb0059dccd87782d6a4d81900e143de9345a4556b5d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12899&media=fanart",
+   "fetched_at": "2026-11-06T16:10:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e8f7f90d2c919d5a8e01126ddba512d601a190987a7be717c219a301f4f5aa26",
+   "width": 600,
+   "height": 300,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12899&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T16:10:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a1fdbfe247f924d028e0e41982140ea48f46a8a07a2e88272ae36625f61f3fd7",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12899&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:10:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4be38488e461e4daefd233f0866e19d309ec5896ab8f15ad526a25886e8c523f",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12899&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:10:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "15c4122827eaf3501c3dee487948922b2d629d94f5d0c2f4f5fbb3bd718865ad",
+   "width": 159,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12899&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:10:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "651b059e1d611d30fdda72c4dbe61d2d7ac009beab0e7124330d8712402aaabf",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12899&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:10:15+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:10:07+00:00",
+ "status": "done"
+}

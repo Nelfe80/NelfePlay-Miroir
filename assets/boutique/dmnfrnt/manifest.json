@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dmnfrnt",
+ "title": "Demon Front",
+ "source": "screenscraper",
+ "ss_game_id": 40946,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40946,
+  "release_year": 2002,
+  "publisher": "IGS",
+  "developer": "IGS",
+  "players": "1-2",
+  "system_label": "IGS"
+ },
+ "text": {
+  "fr": {
+   "name": "Demon Front",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Demon Front est un Run'n' Gun jusqu'à quatre joueurs (deux simultanément) qui est très comparable à la série \"Metal Slug\" de SNK, bien qu'il y ait des ajouts significatifs au gameplay.\r\n\r\nÀ 20 années-lumière de la Terre se trouve la planète d'Andres, un endroit paisible et civilisé. Dans l'année A.C. 2016 Andres a connu une éclipse solaire qui a duré plus de trois mois. Toutes les créatures vivantes ont été exposées à une étrange lumière rouge sombre et beaucoup ont commencé à muter à la fois en apparence et en caractère. Peu d'habitants survivraient à la torture infligée par ces mutants fous.\r\n\r\nQuelques chanceux se sont échappés et ont vécu en exil. Quatre des survivants ont décidé d'unir leurs forces pour riposter et renverser le mal qui domine la planète.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Demon Front",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's \"Metal Slug\" series, although there are significant additions to the gameplay. \r\n\r\n20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. \r\n\r\nA lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "53e2f0ddb9e603f29c2e9835fbfd3abcf256e93a3e14e8c1454d4bd7f634fdac",
+    "width": 448,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=176&jeuid=40946&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T11:06:36+00:00"
+   }
+  ],
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e2defff0330cc1e4e7124108e7114c76a05fc5c540971340723f40aea1010766",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=176&jeuid=40946&media=fanart",
+   "fetched_at": "2026-11-07T11:06:28+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7b3a8fabe9075e895aeae7b97dc4ebe30f56e66fccd68a3bb787446cf9f61206",
+   "width": 450,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=176&jeuid=40946&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T11:06:30+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b623a17472a70b5453f6fdad65d3c4545873841c6d5e58f483ee81a70706a23b",
+   "width": 850,
+   "height": 1158,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=176&jeuid=40946&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T11:06:32+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "745d67045d12f0346f21676764c89e597c0ff17aa91ef90b416fb0f99e4b4cd3",
+   "width": 448,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=176&jeuid=40946&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T11:06:33+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "abe8c244fa390f1933acb80ee909a901ab63a4ed7d0ea5ca1ee93c8281fa8ef1",
+   "width": 850,
+   "height": 1158,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=176&jeuid=40946&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T11:06:35+00:00"
+  }
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-07T11:06:28+00:00",
+ "status": "done"
+}

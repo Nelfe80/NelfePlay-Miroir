@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "inthunt",
+ "title": "In the Hunt",
+ "source": "screenscraper",
+ "ss_game_id": 41814,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41814,
+  "release_year": 1993,
+  "publisher": "Irem",
+  "developer": "Irem",
+  "players": "1-2",
+  "system_label": "Irem Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "In the Hunt",
+   "genre": "Tir",
+   "synopsis": "Sans conteste, avec R-Type, l'un des meilleurs shoot them up de tous les temps.\r\nL'environnement subaquatique et la possibilité de tirer dans deux directions, sont les qualités qui ont permis de créer un jeu unique.\r\n\r\nPour info: In the hunt a germé dans l' esprit de ceux qui allaient être les futurs créateurs de... METAL SLUG, rien que ça!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "In the Hunt",
+   "genre": "Shooter",
+   "synopsis": "A 2D side scrolling shooter in which you take control of a small attack submarine and engage in underwater combat. The Dark Anarchy Society's forces threaten to destroy the earth's most important cities and only you can get past their defenses and destroy their secret underwater lair.\r\n\r\nIn the Hunt follows the classic template for 2D shooters, with the added feature of being able to control scrolling speed. Includes seven levels of underwater action (and keep an eye out for threats from above the surface), upgradeable weapons, and two player cooperative gameplay.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0fb4626922fe013f9f74821bbc3fbbb7b8ee19d927ece4b4897a8bae5355934d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=fanart",
+   "fetched_at": "2026-11-06T23:53:38+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4e55a05629fffecabc370ba98a4457f33646ebffdd86ea9b74b5cc51a6d3e940",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:53:39+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c1eb056328335cc9fb92258b4cabd5014d980e99ea4a8826bcae01371c7244ed",
+   "width": 850,
+   "height": 1118,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:53:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6b6b6d9e3c16a8ad6f0040cf67d9bf9bab73ae26664553ad691c50619ebbc4a1",
+   "width": 458,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:53:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6f7b8f3fad4e636399ace6c03dcc2dfafa69b1c4306bbc25bd17afba8e1ec7bc",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:53:44+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5e4b6f2a4147a043826e87f1f17bf53d34d926ce3c27403cb96b65f3510516a9",
+   "width": 850,
+   "height": 1118,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:53:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b32410b2540f53f8f2b87929a15a6771879a0bcca102821f33e7869756534e72",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=41814&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:53:47+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:53:37+00:00",
+ "status": "done"
+}

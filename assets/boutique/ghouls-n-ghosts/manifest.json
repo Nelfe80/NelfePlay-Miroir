@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ghouls-n-ghosts",
+ "title": "Ghouls 'n Ghosts",
+ "source": "screenscraper",
+ "ss_game_id": 41441,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41441,
+  "release_year": 1988,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Ghouls'n Ghosts",
+   "genre": "Plateforme / Fighter Scrolling",
+   "synopsis": "Trois années ont passé depuis les événements de \"Ghosts'n Goblins\" et le chevalier Arthur se retrouve une fois encore à affronter les horribles créatures de Demon World. Les démons ont cette fois-ci envahi le royaume et à son retour, Arthur est le seul survivant, sa bien-aimé Genièvre ayant été tuée par Lucifer. Arthur embarque une fois de plus dans une quète pour détuire les envahisseurs démoniaques et sauver l'âme de Genièvre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ghouls'n Ghosts",
+   "genre": "Platform / Fighter Scrolling",
+   "synopsis": "Three years have passed since the events of \"Ghosts'n Goblins\" and the knight Arthur finds himself once again facing the horrible creatures of Demon World. This time the demons have invaded the kingdom and upon his return, Arthur is the only survivor, his beloved Genever having been killed by Lucifer. Arthur embarks once again on a quest to defeat the demonic invaders and save Genever's soul.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6f68d697c18fe55d20f7468ce5b546d54918f7ff41b8ff109a9adf5daa5a2070",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=fanart",
+   "fetched_at": "2026-11-07T20:26:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e37ba96f2b73fff2cc38517876c68a4551a490e266bd37d78744d2eecc69385b",
+   "width": 600,
+   "height": 120,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:26:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "efdb17ec28cbfb92c4e0203f02b92ea44c684537b477a74f2127b423d9efc467",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:26:30+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "49bdb88c8ffc1158f9fba8a12816a55947eaad603206180833368db50ff1ed07",
+   "width": 382,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:26:31+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5a4ffe98aa20f111bcefcf17d98eb33fa22688521ff4d4e4f501c485d52bea31",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:26:32+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "796f806b6814c24e94a900f13de9012115804f0b82859ce387366bfc9e581dd3",
+   "width": 850,
+   "height": 1102,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=flyer%28us%29",
+   "fetched_at": "2026-11-07T20:26:34+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ee30852a19867a4ba218851139dbfb10a3ef6f9dce1f31265d760d4d007b68a6",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41441&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:26:35+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:26:26+00:00",
+ "status": "done"
+}

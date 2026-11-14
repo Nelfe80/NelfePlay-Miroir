@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "twinkle-star-sprites",
+ "title": "TWINKLE STAR SPRITES",
+ "source": "screenscraper",
+ "ss_game_id": 37652,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37652,
+  "release_year": 1997,
+  "publisher": "SNK",
+  "developer": "ADK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Twinkle Star Sprites",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Twinklestar Sprites sur Neo Geo est un shoot'em up dont l'action intense contraste avec un style graphique mignon et coloré. Séparés par une barre verticale, deux joueurs s'affrontent en duel (humain contre humain ou CPU) et doivent éliminer des séries d'ennemis le plus rapidement possible afin d'envoyer des boules de feu dans la zone adverse.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Twinkle Star Sprites",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Competitive shooter with flavors of Galaga, Fighting Games, and Sailor Moon.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "69ae313fcd0acff0caeb7c308416c931cb67718648c785eeb6a95497bd6a1c9c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=fanart",
+   "fetched_at": "2026-11-06T15:24:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "31dd0be17196e91a5db7e9423df3cfd4e3fb38da00f6e5d8374427f7507df634",
+   "width": 600,
+   "height": 278,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T15:24:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e704be94c1a7256d7a422410b5dc2c2914fa5f4588376e4aa9f7f1905ad18af6",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:24:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d9eb15b3613488bb28741e301abb5470a9d4e61c2016231adde5774a2808b8c9",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:24:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "2e120dcb3de0c8b1a6973f890e174150e6b4656c5b24072a3d536ec2a2674384",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:25:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6ee79c2426a04e31043b8d50719992686aed55c751fa1e66c1dfe3be64f58321",
+   "width": 983,
+   "height": 1399,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:25:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "21bfdf6e6a600d2233877cbb5bdc8b11521dc3ab7d0efe6087218b82745a0b73",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37652&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:25:04+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:24:54+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "talespin",
+ "title": "TaleSpin",
+ "source": "screenscraper",
+ "ss_game_id": 1477,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1477,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Disney's TaleSpin",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "On vole et on s'amuse!\r\nAttachez vos ceintures! Vous êtes en partance pour une bonne partie de rigolade avec Baloo dans son avion cargo, le Mini-Zingallo. Il doit livrer des marchandises à tous les habitants du cap. Mais Don Carnage et sa stupide bande de pirates le suivent de près pour s'emparer du fret!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Disney's TaleSpin",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Based on the Disney cartoon Talespin. Baloo's airline cargo company, Higher for Hire, makes deliveries all around the world. The air pirates, lead by the daring Don Karnage have increased their attacks against air travel. In order to foil the plans of the pirates, Baloo trades in his normal plane for a \"Mini Sea Duck\", designed to fly more maneuverably.To get his cargo delivered on time, Baloo must fly over many dangerous areas, and also pick up any cargo stolen  or scattered by the air pirates. Eventually, the fortress of the air pirates themselves must be destroyed for air travel to remain safe and profitable.\n\nTalespin is a side-scrolling shooter, moving left to right across the screen. The Mini-Seaduck can fire projectiles and switch direction, flying right-to-left while upside-down. The money you make from recovery of these cargo items can be used to purchase upgrades at the end of each level from Wildcat, the mechanic. Many strange boss creatures and devices will guard the final areas of most levels.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7982e872b812e05f6c8edc4db5ebbe4c87524ac6813004a7432599296880a323",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1477&media=fanart",
+   "fetched_at": "2026-11-07T20:24:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0cb17549d1a4688deabfb363ee0c68cd7a869d9bd4f3a21858a96bbb51ec65b7",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1477&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:24:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "aea57e0cd2e1db4cbea085760f415de5ecabda89cbc84853f7675a4d2d5a0f20",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1477&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:06+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9b81afe869f6df6bcb409275d3c7467c812cc20b3b6e4f93543a5d5d37a5efde",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1477&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:07+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e21be5d2b950f1e9cce892c766b3c7e2add463d288706848fcf7e110540cae91",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1477&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:24:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2b87f692f48d6626d4e37f26710d41e2af2bea787a9ad89ea9350028fa40752c",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1477&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:24:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:24:02+00:00",
+ "status": "done"
+}

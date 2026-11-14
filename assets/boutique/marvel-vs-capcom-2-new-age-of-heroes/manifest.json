@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "marvel-vs-capcom-2-new-age-of-heroes",
+ "title": "Marvel vs. Capcom 2: New Age of Heroes",
+ "source": "screenscraper",
+ "ss_game_id": 46788,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 46788,
+  "release_year": 2000,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Naomi"
+ },
+ "text": {
+  "fr": {
+   "name": "Marvel vs. Capcom 2: New Age of Heroes",
+   "genre": "Combat / Versus",
+   "synopsis": "Suite de Marvel vs. Capcom: Clash of Super Heroes .Le gameplay est  très similaire à celui du précédent volet. Et comme son prédécesseur, ce n'est pas le jeu le plus équilibré au monde, mais cela ne l'empêche pas d'être très amusant.Le style graphique du jeu a été mis à jour . Alors que les personnages sont encore composées de sprites 2D, les fonds sont en 3D, plein de mouvement et de couleurs vives.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Marvel vs. Capcom 2: New Age of Heroes",
+   "genre": "Fighting / Versus",
+   "synopsis": "The best of the best are back! Fight with 28 characters and unlock 28 extra fighters on 3 on 3 tag battles. Learn to master the new 'Delayed hyper combo system' to combine your 3 characters hyper moves and defeat the mighty Abyss.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "58774a445cf04c015f014b04b4396819933b4a9918be788a5f72fb2048697a48",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=56&jeuid=46788&media=fanart",
+   "fetched_at": "2026-11-06T15:53:58+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "50a460ed5eadadeb980e7aee9ea64552369742bdb090e9bee78d4386c40bd5b0",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=56&jeuid=46788&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:53:59+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d3cdbe6b46964dd16ace0349e3858db4062765dc913c1b953bc0f6efa0e7345f",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=56&jeuid=46788&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:54:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "aa7d06825ac17c1fbbc1b60fe2a04bdfc5614e5f842da57a688be98df00096e7",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=56&jeuid=46788&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:54:02+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "12669d8df3d0596625a3f28655846fec8ec25e23542da2e16ada1099f21c8842",
+   "width": 850,
+   "height": 1088,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=56&jeuid=46788&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:54:04+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "0e024338f234d67e2fa7f2d3ba268ff330b33bd890d43206c968f9b79128db73",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=56&jeuid=46788&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:54:05+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:53:57+00:00",
+ "status": "done"
+}

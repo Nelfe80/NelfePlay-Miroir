@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "jungle-book-megadrive",
+    "title": "Jungle Book",
+    "source": "screenscraper",
+    "ss_game_id": 75,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 75,
+        "release_year": 1994,
+        "publisher": "Disney Interactive",
+        "developer": "Virgin",
+        "players": "1",
+        "system_label": "Megadrive"
+    },
+    "text": {
+        "fr": {
+            "name": "Le Livre de la Jungle",
+            "genre": "Plateforme",
+            "synopsis": "Le Livre de la Jungle sur Megadrive est l'adaptation du film de Disney de 1967, lui-même inspiré du livre écrit par Rudyard Kipling. Vous incarnez Mowgli et devez ramasser des fruits, grimper aux arbres et combattre les ennemis de l'histoire comme Sher Khan. Le jeu permet de replonger dans l'univers d'un des classiques de Disney en retrouvant tous ses personnages et ses décors.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "The Jungle Book",
+            "genre": "Platform",
+            "synopsis": "Based on the famous animated movie, Walt Disney's The Jungle Book is a platform game where you control Mowgli, the boy who was raised by wild animals deep in the jungles. Your goal is to find the human village so you may you join your kin once again. \n\nMowgli is an athletic individual, and can jump, run, swing on vines or climb them without any problems. Most of the animals he comes upon, however, are inexplicably hostile, so he must defend himself with a variety of thrown weapons, such as bananas and boomerangs. \n\nTo complete each level, Mowgli must collect a number of crystals (how many - it depends on the difficulty levels) within a time limit. A compass in the corner of the screen helps him by showing the direction where the nearest crystal is.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "f1c38a55708067cdf84f2d859b7badeb00e76844eaa32ca2e5cb2c50a8739a0c",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=75&media=fanart",
+            "fetched_at": "2026-11-09T22:02:04+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "a92d0f71c6ea9d72cd6b32ebbc1be17729689dd466558fcb7abb7d3af1dda776",
+            "width": 600,
+            "height": 200,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=75&media=wheel%28us%29",
+            "fetched_at": "2026-11-09T22:02:05+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "1ac011e65ab8c96ba15d960c5e33a991634311e9d537f91b5065576e87168e9f",
+            "width": 484,
+            "height": 680,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=75&media=box-2D%28us%29",
+            "fetched_at": "2026-11-09T22:02:07+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "f7963d8f3d0a7e867279f7d1a1eef5e4cbba20357bff4ecbb7393a8fda09369a",
+            "width": 600,
+            "height": 407,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=75&media=support-2D%28us%29",
+            "fetched_at": "2026-11-09T22:02:08+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "c423296f2a899c6f8ba4a88f61eae56f3efb826e208ac9943d1dde993a6e1897",
+            "width": 320,
+            "height": 224,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=75&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:02:10+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "5afb6f57f9b4b56fd80243c817ec633d54d90b2b0f2645f50ff077809e72a14e",
+                "width": 320,
+                "height": 240,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=75&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:02:11+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "flyer"
+    ],
+    "fetched_at": "2026-11-09T22:02:03+00:00",
+    "status": "done"
+}

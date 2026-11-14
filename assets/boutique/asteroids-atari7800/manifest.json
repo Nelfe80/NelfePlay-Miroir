@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "asteroids-atari7800",
+ "title": "Asteroids",
+ "source": "screenscraper",
+ "ss_game_id": 37997,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37997,
+  "release_year": 1987,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Asteroids",
+   "genre": "Shoot'em Up",
+   "synopsis": "Asteroids est un shoot 'em up multidirectionnel au concept simple. Le joueur contrôle un vaisseau spatial, représenté en vue de dessus et confronté à des champs d'astéroïdes et des soucoupes volantes. Le but est de survivre le plus longtemps possible en détruisant les astéroïdes et les soucoupes pour engranger les points.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Asteroids",
+   "genre": "Shoot'em Up",
+   "synopsis": "Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon.  When all asteroids are destroyed, the play can them move to the next round. In addition to asteroid, the player will also face an Alien Robot Saucer which shoots randomly across the screen.\r\n\r\nThe player using the controller may rotate the ship (left or right) to any direction or move the ship forward. Shots will be fired according to the ship direction. The player has three reserved ships available to replace a destroyed spaceship. The spaceship is destroyed if an asteroid collides with the spaceship or is shot by an Alien Robot Saucer. Additionally, the player may opt to use the hyperspace warp to avoid collision. The warp however, may also destroy the spaceship in the process.\r\n\r\nAsteroids when shot will break-up into smaller pieces or be destroyed.. There are three types of asteroids: large asteroids, medium asteroids, and small asteroids. Large asteroids and medium asteroids when shot, will break-up into two smaller sized asteroids. Small asteroids when shot will be destroyed.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b9e35693b6f7ab7a2707577c2420dc193a3bfa804c766939650d768fe98debf1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=37997&media=fanart",
+   "fetched_at": "2026-11-06T16:46:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5a94f8a16371792b3df6b4e432d41bf0835c2d87257d12aa7ee27d76dafb9c10",
+   "width": 833,
+   "height": 222,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=37997&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:46:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "39c23ed5566a08e6a791133ea98b466255fb2842305eda4e2c460b7266c057c7",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=37997&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:47:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "bdeca66e88b54c1a23b96cd3e1579f2c2abb677bd2b5657c3ace7593cf075375",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=37997&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:47:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ad720b873c222ceee962807d424202643294b60ac5ce480597c4fd769ab4510d",
+   "width": 320,
+   "height": 223,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=37997&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:47:05+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6f6c6b5e8d97ccf009846e0bdb5f18ce940107eac0d4927607e03d300fec1d77",
+    "width": 250,
+    "height": 192,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=37997&media=ss%28us%29",
+    "fetched_at": "2026-11-06T16:47:06+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:46:55+00:00",
+ "status": "done"
+}

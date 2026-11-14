@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "wild-guns",
+ "title": "Wild Guns",
+ "source": "screenscraper",
+ "ss_game_id": 2252,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2252,
+  "release_year": 1995,
+  "publisher": "Titus",
+  "developer": "Natsume",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Wild Guns",
+   "genre": "Tir / 3eme Personne",
+   "synopsis": "Wild Guns sur Super Nintendo est un jeu de tir qui mélange un univers western avec de la science-fiction. Le joueur peut choisir entre Clint et Annie. L'histoire commence à Carson City et s'étalera sur six niveaux (qui sont divisés en trois sous-niveaux chacun). Il est possible de ramasser des bonus tout au long du jeu pour améliorer ses armes. Le joueur devra faire preuve d'adresse pour viser juste tout en évitant les tirs ennemis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Wild Guns",
+   "genre": "Shooter / TPV",
+   "synopsis": "Annie & Clint, two gunslingers, arrive at Carson City and get caught up in a gunfight. It's raining bullets and there are explosions everywhere. After an intense battle they enter the saloon where they dispose of every cowboy in sight while redecorating the interior. Our heroes flee the scene by climbing on the roof, but what's that sound? ... it's a HUGE robot!\r\nWild Guns is a shooter with a western & Sci Fi theme. Gameplay is somewhat similar to the Time Crisis & House of the Dead games, with the exception that the game isn't played from a first-person perspective but from a third-person perspective. You control your on-screen character as well as the aiming crosshair. Select either Clint or Annie and shoot down tons of enemies while dodging bullets and jumping over incoming rockets.\r\nAfter the Carson City level, the action continues in Desolation Canyon, an ammunition depot, a gold mine and a armored train . Finally there's a showdown with the big bad guy.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "68fa97779eabdab05bd1f92417443ea1cf340da3a752219b4d6235fd5966b6c0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2252&media=fanart",
+   "fetched_at": "2026-11-06T23:55:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "71bf9136a8e8205bb73c053512913ce65e0148fe5cc46559c44d1f6aca7b1d01",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2252&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:55:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a1a8ce3fa0ae39a7226ea3fadae223423828b7b9ecc82df4267e5a5d348251ab",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2252&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "89aef1f1f6aaf2b2a5bd2df2e9ed2cf9261c55d887ddfa11e53c38ec91197307",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2252&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7475415c8d7630dd9a37bd6b9449c053001ce4c9b7dcb9922744d8bd14a89836",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2252&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:55:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "654fb40ba75869188b78d63d605b1b79050a4ffbe845b616e6b491c466e18512",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2252&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:55:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:55:45+00:00",
+ "status": "done"
+}

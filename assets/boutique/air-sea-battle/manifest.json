@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "air-sea-battle",
+ "title": "Air-Sea Battle",
+ "source": "screenscraper",
+ "ss_game_id": 13999,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13999,
+  "release_year": 1977,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Air-Sea Battle",
+   "genre": "Shoot'em Up",
+   "synopsis": "Dans Air-Sea Battle, un jeu de tir paru sur Atari VCS 2600, vous êtes à bord d'un sous-marin, d'un bateau ou d'un avion de chasse et devez détruire toutes les cibles qui se présentent à vous.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Air-Sea Battle",
+   "genre": "Shoot'em Up",
+   "synopsis": "Air-Sea Battle is basically a target shooting game.  On most settings, you are positioned at the bottom of the screen and you shoot at targets at the top of the screen.  The various settings provide different targets and weapons with different characteristics.\n\nIn games 1-6, you are an anti-aircraft gun and you shoot, unsurprisingly, at aircraft.  You are stationary.   Your control is limited to selecting the time of firing, the angle at which your shot is fired and, on some settings, exertion of minor control over the direction of your missile.  \n\nIn games 7-12, you are a submarine and you shoot torpedoes at the ships above.  On these settings you are able to move your submarine back and forth across the bottom of the screen.  Your torpedoes, however, can only be fired directly above.  Some settings allow minor control over the direction of your torpedo once fired.\n \nIn games 13-15, you are apparently the anti-aircraft gun again.  This time, however, you are shooting at shooting gallery targets (clown faces, ducks, rabbits).  The controls are as in games 1-6.  \n\nIn games 16-18, you are a ship and you fire polaris missiles at jets flying above.  Your ship constantly moves on its own, you control only the speed.  When you fire, the angle of the missile and its speed are based on the speed your ship was traveling at the time of firing. Some settings restrict your ability to change speed once a missile is fired, others allow you to exert control over the missile by changing speed once the missile is fired.  \n\nIn games 19-21, the situation is reversed, you are the jet dropping bombs at the ships below.  The controls in this setting are the same as in games 16-18.  The difference, of course, is that you are dropping bombs from above at targets below.  \n\nIn Games 22-27, one player is the jet and the other is the ship.\n\nEach of the two player games is a matter of who can hit more targets in (oddly enough) 2 minutes and 16 seconds.  (The manual says that the game will also end if one player hits 99 targets.  I have yet to see this happen.)  In each of the single player games, the single player tries to outscore a computer opponent that simply constantly fires.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c5058842e194fe624efd131a162be272d5d23e553612e77774a030db79eded68",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13999&media=fanart",
+   "fetched_at": "2026-11-06T16:45:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "eea9a7a6929173c989a210f93b68f7711a840b585b6a5363946e8eef65c5c3d7",
+   "width": 400,
+   "height": 55,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13999&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:45:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a055c599906cfe9737b6ff7763240f35d69c0f67e4ea1ce7ab1858654df22af2",
+   "width": 498,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13999&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:45:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e4aba3039593eca67f9ee692d86064ecdd2ebcfe03419be018caf46a85825bc7",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13999&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:45:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9a2fbbd3c07068965ff5abe8ae9f2ec936d9fe79a633942221b6557b027d39ed",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13999&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:45:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "458c8a462e3487e0a88c2619843d120c7acaaf998fc49c5cedef438ead772d1a",
+    "width": 320,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13999&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:45:08+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:45:00+00:00",
+ "status": "done"
+}

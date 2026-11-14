@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "missile-command-atari5200",
+ "title": "Missile Command",
+ "source": "screenscraper",
+ "ss_game_id": 37958,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37958,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Missile Command",
+   "genre": "Tir / Missile Command Like",
+   "synopsis": "Des extraterrestres de la planète Krytol attaquent vos villes !!! En tant que commandant d'une base de missiles, il est de votre responsabilité de les défendre. Une variété d'armes et d'avions ennemis vont arriver pour tenter de détruire les six villes au bas de l'écran. Vous devez tirer des missiles pour détruire les armes qui arrivent. Si quelque chose parvient à passer, une de vos villes pourrait être détruite. Quand toutes les villes auront disparu, la partie sera terminée. A chaque niveau, vous avez une quantité limitée de munitions, alors assurez-vous que la plupart (sinon la totalité) de vos tirs sont précis ou vous pourriez manquer de munitions et laisser vos villes en danger ! Au fur et à mesure que les niveaux progressent, il y a de plus en plus d'armes ennemies à détruire qui arrivent à un rythme de plus en plus rapide.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Missile Command",
+   "genre": "Shooter / Missile Command Like",
+   "synopsis": "Aliens from the planet of Krytol are attacking your cities!! As the commander of a missile base, it is your responsibility to defend them. A variety of enemy weapons and planes will be incoming trying to destroy the six cities at the bottom of the screen. You need to fire missiles to destroy the incoming weapons. If anything gets through, one of your cities could be destroyed. When all of the cities are gone, the game is over. On each level you have a limited amount of ammo, so make sure most (if not all) of your shots are accurate or you could run out of ammo and leave your cities at risk! As the levels progress, there are more and more enemy weapons to destroy which come in at an increasingly faster rate.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "18c1bb25a7ca1811788571c914d57b2515152cff6262ecc406b7981fc025eaf3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37958&media=fanart",
+   "fetched_at": "2026-11-06T16:57:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "90e1b919aab50036485d812741821629a6382b4abbefa9d6b6b60547295f4290",
+   "width": 600,
+   "height": 190,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37958&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:57:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e6ceb36a69d4f1ab7b035021f9169e6d154480cd27da7d4d1d4d2e84ae24947b",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37958&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:57:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "584d046b3eb6f833b088fb135ef5c9245ba92087545723ee2c691448a80ae03f",
+   "width": 600,
+   "height": 552,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37958&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:57:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9a77d3b8c8349168eaf1f598f1e918e071129531079129ef0f3814cb4e950899",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37958&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:57:20+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "53177e864455c6f962c04938311b828966610172544e5c4725d5843be8670b6b",
+    "width": 336,
+    "height": 225,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37958&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:57:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:57:14+00:00",
+ "status": "done"
+}

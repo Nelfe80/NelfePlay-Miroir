@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ms-pac-man",
+ "title": "Ms. Pac-Man",
+ "source": "screenscraper",
+ "ss_game_id": 60558,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 60558,
+  "release_year": 1981,
+  "publisher": "Midway",
+  "developer": "Midway Manufacturing",
+  "players": "1-2",
+  "system_label": "Midway Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Ms. Pac-Man",
+   "genre": "Action",
+   "synopsis": "Ms. Pac-Man doit manger tous les points d'un labyrinthe pour pouvoir passer à l'étape suivante. Elle est poursuivie par des fantômes tueurs mais elle peut les manger tout en étant alimentée après avoir mangé l'un des quatre gros points. Des points bonus sont attribués pour la consommation des fruits et des collations qui apparaissent et errent dans le labyrinthe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ms. Pac-Man",
+   "genre": "Action",
+   "synopsis": "In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. \r\n\r\nNamco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. \r\n\r\nAnother change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. \r\n\r\nMs Pac-Man features four different maze layouts, which alternate every two to four rounds:",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "76101376dd9155558058b3a4baa2c00ed623e75b522161c75329aaf858a8125b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=fanart",
+   "fetched_at": "2026-11-06T15:33:18+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e89a61b7153bd1966ad74e105d30c366b358624832826b85188348c163d7c9b9",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:33:19+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9e1fa33b13b5cae068dd0628fe4b4e3670d7486a68dbb67cd44b5b05fb9b4893",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:33:21+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1dba3629889c9006aaad403c41a1ad6a47b155b31f86629ae686e18a81d04d1a",
+   "width": 530,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:33:22+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "47ae56a83086c6794e26175dd5221cec0eeb8c8758ecec81003b9ccc3f44fb7a",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:33:23+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "035043e2b3f2c37f91d5720002ef3d0e1ff51ad5d58a00df07a41978bb23c4bb",
+   "width": 850,
+   "height": 1100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:33:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b4c3f903488cc0fde3c771f12a9d67c835c3e0a3e936d945af83baca317bf2b3",
+    "width": 224,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=60558&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:33:26+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:33:17+00:00",
+ "status": "done"
+}

@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "fireworld",
+ "title": "FireWorld",
+ "source": "screenscraper",
+ "ss_game_id": 51306,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 51306,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "SwordQuest : FireWorld",
+   "genre": "Aventure",
+   "synopsis": "SwordQuest: FireWorld, le deuxième jeu de la série SwordQuest, était incroyablement identique au premier jeu, EarthWorld. Dans cet épisode, vous vous retrouverez à marcher d'une pièce à l'autre, à trouver et à déposer des objets, à battre les étapes de l'action afin de trouver plus d'articles, à voir le jeu de chiffres impair vous clignoter si vous obtenez la bonne combinaison d'articles dans les bonnes pièces .\r\n\r\nLes ensembles de nombres, par exemple 16-4, étaient en fait une combinaison d'un numéro de page et d'un numéro de panneau dans la bande dessinée fournie avec le jeu. Sur la page indiquée par le jeu, vous trouverez un mot caché quelque part dans le panneau numéroté. Lorsque tous les mots corrects ont été trouvés, vous pouvez les envoyer à Atari dans l'espoir de gagner le concours SwordQuest pour lequel ce jeu a été conçu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "SwordQuest : FireWorld",
+   "genre": "Adventure",
+   "synopsis": "SwordQuest: FireWorld, the second game in the SwordQuest series, was insanely identical to the first game, EarthWorld. In this installment you will find yourself walking from room to room, finding and dropping items, beating the action stages in order to find more items, seeing the odd set of numbers flash at you if you get the right combination of items in the right rooms. \n\nThe sets of numbers, for instance 16-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "744d4d4e2532685479706ac64719f5fb9ef6c7f82f431023dfa0d7844e9f7670",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51306&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:03:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b000e32214a8f708b0921247c421c7f3c265a80773f35fd0f991bbae6ac29abf",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51306&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a75355f673c24ee94fb1433439c2da482766bffc3cc8360e7187eb0e5ff6cc38",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51306&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "1fe0fa7d0b12912a110013de2b585a8d6577a607e325e5cddcd414b9f4e39063",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51306&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:03:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "967abff98c5d98748676145d1ffd32de2dae72d5d419202b7e0267bb87487486",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51306&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:03:52+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:03:45+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ghost-pilots",
+ "title": "GHOST PILOTS",
+ "source": "screenscraper",
+ "ss_game_id": 37584,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37584,
+  "release_year": 1991,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Ghost Pilots",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Ghost Pilots sur Neo Geo est un shoot'em up se déroulant durant la Seconde Guerre mondiale. Le joueur dirige un bombardier et peut tirer sur ses adversaires ou lâcher des bombes limitées en nombre. Les tirs peuvent augmenter en puissance à condition de récupérer des bonus estampillés S, lâchés par un groupe d'avions rouges. Gardez un oeil partout car les tirs et avions ennemis proviennent des quatre coins de l'écran.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ghost Pilots",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Ghost Pilots is an overhead military plane shooter, in which you must shoot down fighter jets by either using bullets or bombs. Once you have killed enough fighter jets, you will have to defeat a boss fighter jet in order to continue. After some stages, you must select a route to continue your journey on. Power-ups can be collected that will increase your firepower, and stars can be obtained for extra points.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8a1ed79650c7704cc41cd9a4c45a21d1257e804c461fc33bc9ea69a441ecd3e4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=fanart",
+   "fetched_at": "2026-11-06T15:37:20+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a81b499b6fa61dc495cb3ed96e2cf3060974b20cb60e2d4a9beb5d3c576e36a9",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=wheel-hd%28us%29",
+   "fetched_at": "2026-11-06T15:37:21+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4ccde8fd85357334a4b6fd8795812fcf39798536f97647a5ea4f191ffb1a0596",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:37:23+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "84882b35480b8e28e9ecc1688a74cd527c5be91a6c9ec671ed4c36536b4bc1e0",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:37:24+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4764b7e421cda680f6e7dcd47a6a4e4772437bf38c348e5c59567ecd8056df17",
+   "width": 304,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:37:25+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "b4cb6f11782f89bcc54f5ca107efdcd6d67c4c5b0ef7872db6fca5fddd34581c",
+   "width": 982,
+   "height": 1400,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T15:37:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "db0996ab3f5ab5fe060c572f34c7c77a51f8ae1ff0708a95ea4a159d89993919",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37584&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:37:28+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:37:19+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "snk-gals-fighters-japan",
+ "title": "SNK Gals' Fighters (Japan)",
+ "source": "screenscraper",
+ "ss_game_id": 47050,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47050,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "Yumekobo",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "SNK Gals Fighters",
+   "genre": "Combat",
+   "synopsis": "Ce jeu est une exclusivité Neo Geo Pocket Color et par conséquent est destiné à une niche de joueurs. Si l'idée de base est plutôt osée mais sympa (un jeu de combats composé uniquement des personnages féminnins les plus célèbres de la firme), elle n'est malheureusement pas bien exploitée à cause d'un roster beaucoup trop faible (seulement dix personnages) et donc d'une durée de vie très limitée. Où sont donc passées Blue Mary, Vice, Mature, Jenet, Hotaru, King, Kasumi, Vanessa, Chizuru, Cham Cham, Yuki, Rosa, Benimaru, Charlotte (cherchez l'erreur)?... En clair, c'est un petit jeu sans prétention, vraiment dispensable mais qui a le mérite d'être original. Mais préférez-lui tout de même SNK vs Capcom sur la même console si vous avez le choix car il est bien plus complet et intéressant.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "SNK Gals Fighters",
+   "genre": "Fighting",
+   "synopsis": "This game is exclusive to the Neo Geo Pocket Color, catering to a niche audience. While the core idea generated some appeal — a fighting game featuring only female characters and iconic personalities from the company — it was poorly executed with a limited roster that undermines its potential (it's just these characters). Additionally, its lifespan is quite short. Have you already seen Blue Mary, Vice, Mature, Jenet, Hotaru, King, Kasumi, Vanessa, Chizuru, Cham Cham, Yuki, Rosa, Benimaru, Charlotte (did you spot the error)? Clearly, this is a small-scale game without much intent, feeling more dispensable than the original. Personally, I prefer SNK vs. Capcom on the same console, which is far more complete and engaging if you have the choice.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9fda5d5d637b71ec1bb809442e4997c90130905873d542a355467fc592afd264",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47050&media=fanart",
+   "fetched_at": "2026-11-06T16:39:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "510608f69826b4433b01099dc90ee5d9280460a16d4059af870a2b671f266817",
+   "width": 418,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47050&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:39:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d7dc7313c0def598d1e6431e8250bf118ab3390c6f33d8ac56d7ea6b17267b45",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47050&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:40:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f5e414f28ef296a549a2abadfa82bd62ffb94ccdced62bceae1f3fd5d70d0bf7",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47050&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:40:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3cead1d63d7711f016b8fbacdea2695949f623f9b50dd83c08ebd492ec7396e4",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47050&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:40:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "65931defe3145a77a8ba74904b90bff69176b3c4f8b1403bc9e7604ba13b7f47",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47050&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:40:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:39:55+00:00",
+ "status": "done"
+}

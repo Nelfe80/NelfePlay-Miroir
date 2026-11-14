@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-c",
+ "title": "Super C",
+ "source": "screenscraper",
+ "ss_game_id": 1513,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1513,
+  "release_year": 1990,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Super C",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Le Faucon rouge extraterrestre est de retour et compte conquérir la planète Terre. C'est maintenant au tour de Scorpion et Mad Dog de se battre à travers cinq niveaux et de sauver la planète. Basé sur le jeu d'arcade, Super C est la suite de Contra. Le gameplay est une combinaison de défilement latéral/plate-forme et de vue de dessus. Il existe une grande variété d'ennemis à vaincre, en commençant par des lieux terrestres et en progressant vers des lieux plus extraterrestres. Pour vous aider, des améliorations d'armes peuvent être trouvées au fur et à mesure de la progression du jeu. Deux joueurs peuvent jouer simultanément, ou un joueur peut tenter d'affronter le Faucon rouge lui-même.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super C",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "The alien Red Falcon is back, and planning on taking over the planet Earth. Now it's up to Scorpion and Mad Dog to battle through five levels and save the planet. Based on the arcade game, Super C is the sequel to Contra. Gameplay is a combination of side scrolling/platform and top down view. There is a wide variety of enemies to defeat, starting with earthly locations, and progressing to more alien. To help out, weapon upgrades can be found as the game progresses. Two players can play simultaneously, or one player can attempt to take on Red Falcon himself.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5ededc5a84105b90f300bc33a32a87acfa475d435e5d3859063b77c59c7196d0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1513&media=fanart",
+   "fetched_at": "2026-11-06T23:17:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c3164673629287b18b5684da9fda079931315a3100847b16871dae13a1e34da2",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1513&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:17:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3109343aa4429050eb0a33e2b08f337a31d799f7e286713b63c2f038a0cfef9c",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1513&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:17:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b6930fb8db02f30ff5e4fa26d59ac1cbf4b0442735c0858e671427aa411074ad",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1513&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:17:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1ec94272b3737874d5097e5bceb856e33ef0f211ae4abc32e5a3dfb959a399da",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1513&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:17:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d6e73446dd62afaa10676b750c276cb6a908f28b9fdd02b7fbc34a042a483010",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1513&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:17:39+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:17:31+00:00",
+ "status": "done"
+}

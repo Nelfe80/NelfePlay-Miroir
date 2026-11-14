@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "pac-in-time",
+ "title": "PAC-IN-TIME",
+ "source": "screenscraper",
+ "ss_game_id": 2529,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2529,
+  "release_year": 1995,
+  "publisher": "Namco",
+  "developer": "Kalisto",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Pac-In-Time",
+   "genre": "Plateforme",
+   "synopsis": "Pac-in-Time est jeu de plates-formes reprenant les personnages de l'univers de Pac-Man sur Super Nintendo. Le Sorcier Fantôme renvoie Pac-Man dans son enfance. Pac-Boy devra alors parcourir différents niveaux pour revenir à l'époque normale. En sautant à travers des anneaux de quatre couleurs différentes, il obtient des capacités spéciales : le vert le fait sauter plus loin, le jaune lui permet de tirer des boules de feu, le rouge lui donne un marteau et le bleu lui permet de nager sous l'eau.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Pac-In-Time",
+   "genre": "Platform",
+   "synopsis": "Everybody knows what/who Pac-Man is from his heyday in the '80s, but this time, we're getting a whole new adventure of our little eater. Guess his stomach is full, 'cause there's nothing much to eat here, only collecting points. This is much like some Indiana Jones adventure, only your little hero's Pac-Man instead of Harrison Ford.\n\nPac-in-time is the US release of Fury of the Furries. It's exactly the same game. Only the characters were changed: the not-so-known European Tinies (from the Skweek/Super Skweek/Tiny Skweeks/Brainies/Tinies games) were replaced by the widely known Pac-Man.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "99c90ae16c6e600c742bbc5758b3d128441e8fa9474625c648aadae4c1f63e70",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2529&media=fanart",
+   "fetched_at": "2026-11-06T17:10:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0cc3bfa77f6352b7bf8afbd221c394e69dc4897995133584344bf4ac272d4089",
+   "width": 600,
+   "height": 120,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2529&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:10:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2f3eda99057d50e37a6ae723ee95207a86367cab6089c5092e9bedca3de2da26",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2529&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:10:44+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8ef48c2b8d89e49040a03b7a529426c485e3cda920b8f2d337f24cc604c38b46",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2529&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:10:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5a52c59bc0fec0a8dd5614148d26d1a88be0602330a60b7d34214a91865c7f4d",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2529&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:10:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0895b2bdafdd28795033db5e470d35b3d70019145f2ee0a84ca6c03de4de9636",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2529&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:10:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:10:40+00:00",
+ "status": "done"
+}

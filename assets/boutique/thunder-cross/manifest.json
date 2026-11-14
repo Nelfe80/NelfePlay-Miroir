@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "thunder-cross",
+ "title": "Thunder Cross",
+ "source": "screenscraper",
+ "ss_game_id": 43607,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43607,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Thunder Cross",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Thunder Cross est un jeu de tir à défilement horizontal 2D dans lequel vous prenez le contrôle du vaisseau spatial Blue Thunder M-45 dans un environnement à thème spatial. Vous devez empêcher une organisation maléfique appelée Black Impulse de conquérir la galaxie.\r\n\r\nAu fur et à mesure que vous avancez et combattez avec divers vaisseaux spatiaux, des armes statiques, des marcheurs et des bonus de boss sont disponibles. Les power-ups incluent une vitesse et / ou des marqueurs accrus. Un laser boomerang, double et grand laser. Les power-ups spéciaux ne peuvent être utilisés qu'avec une capsule de démarrage en option et comprennent un macro laser, une bombe nucléaire et un lance-flammes. Le jeu peut être joué seul ou avec un ami sorcier, puis prenez le contrôle du vaisseau spatial Red Thunder M-24.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Thunder Cross",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Wipe Out The Mechanikon Hordes! Take off into outer space and prepare for battle.\r\n\r\nThe legendary music Horizon by Olof 'Blaizer' Gustafsson found in many Amiga Cracktros of early 90s was actually a cover of the first level music of Thunder Cross. Olof Gustaffson is the inhouse musician of Digital Illusion of Pinball Dreams fame and before going commercial he was an active scener in the Amiga demo group 'The Silents'.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ac4a444268d9528d7a92e160c30f67ca25f86b855985e0e7a7b63f13e57d62c5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43607&media=fanart",
+   "fetched_at": "2026-11-06T16:13:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "112a1eb0c636dab29f9ab7ff9a241f015f7f33044310779ad4904e3ccc6416cb",
+   "width": 400,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43607&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:13:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2c1abbe7ce18c3468ead969beb1b607f5ff20978b86fafe9ffff85fe1650924a",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43607&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:13:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "945d4aaa23035d0ef3daa4f64161a022debbef01a8bd08240b1ae41b067342e9",
+   "width": 288,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43607&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:13:49+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "288aee50f10fcae8c869015fac9ae9183a3ca7d749dd96526e90b7912684d7d2",
+   "width": 810,
+   "height": 1158,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43607&media=flyer%28eu%29",
+   "fetched_at": "2026-11-06T16:13:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "502a555a4e62c00151ceb807d512cb6220c04b54f1a5f6248f471bfdbdff7ed9",
+    "width": 288,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43607&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:13:52+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:13:44+00:00",
+ "status": "done"
+}

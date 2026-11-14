@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "kurukuru-kururin",
+ "title": "Kurukuru Kururin",
+ "source": "screenscraper",
+ "ss_game_id": 4074,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4074,
+  "release_year": 2001,
+  "publisher": "Nintendo",
+  "developer": "Eighting",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Kurukuru Kururin",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Kuru Kuru Kururin est un jeu de réflexion sur Gameboy Advance. Dans ce soft, vous dirigez un bâton qui est en rotation permanente sur lui-même à travers divers environnements semés d'embûches. Kuru Kuru Kururin demande au joueur de l'adresse, de la concentration et beaucoup de réflexes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Kurukuru Kururin",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Kuru Kuru Kururin is an innovative puzzle game in which the main character is inside a helicopter, and he must navigate himself through a maze in the least amount of time possible. Movements must be timed and precise, because if the helicopter's propeller hits a wall, 3 seconds is added to the timer. The protagonist's mission is to retrieve his brothers, who will join him after he finds them. He also finds many power-ups that will allow him to customize his helicopter's appearance.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "056f38bb3366214526717b62d1de9eafc21ece84532b024297c8e68ffc0a4ee9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4074&media=fanart",
+   "fetched_at": "2026-11-06T23:54:28+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "10beb1a681f55b8a68fbdef4489f4697fac11cb5a7c1545a9eefda98de0de6e4",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4074&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:54:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1815d24941af121c890457973dd3e9245ccdc8d72f52784e2379df8f184ed73a",
+   "width": 705,
+   "height": 700,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4074&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:54:31+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eec03209ade6780067e3c7bc1256f178b3ea35a119681424c8a2f2f91b6eee73",
+   "width": 600,
+   "height": 355,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4074&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:54:32+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b12324f7960ad54d831ece26983353a53928e258996443b08bf1c20117726f15",
+   "width": 240,
+   "height": 160,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4074&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T23:54:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d8a6b431eca13ee9b9ad8686bb7afbacddeade8ca85b5e4f382a3f40ed52f911",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4074&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:54:35+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:54:26+00:00",
+ "status": "done"
+}

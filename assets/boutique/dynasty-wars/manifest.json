@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "dynasty-wars",
+ "title": "Dynasty Wars",
+ "source": "screenscraper",
+ "ss_game_id": 41078,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41078,
+  "release_year": 1989,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Dynasty Wars",
+   "genre": "Beat'em All",
+   "synopsis": "La Chine Impériale.... L'épée est tranchante et le sang ne cesse de couler.La dynastie des Han a été renversée par les seigneurs de la guerre et ces derniers ne connaissent que la violence. Quatre courageux guerriers ont uni leurs forces pour défier ces rebelles barbares dans leur quête vers la suprématie. Sélectionnez un guerrier, sautez sur votre cheval, et préparez vous à galoper tout au long de 8 niveaux d'action frénétique... Et devenez le héros du chapitre le plus sanglant de l'histoire...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dynasty Wars",
+   "genre": "Beat'em Up",
+   "synopsis": "This game is a side-scrolling beat-em-up based on Japanese manga books of the same name and is a re-enactment of the historical battles between the Kingdom of Shu and the Yellow Turban rebels. Up to two players assume the roles of one of the four Chinese generals riding on horseback whose goal is to wipe out the 'Huang Ching', the organization responsible for the unrest of the Han Dynasty, and to eventually defeat the tyrant, Dong Zhuo.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "afe47a5ac0b998dbfd41ff9faf6404f25c668c152a86d2a80dc5ce3034e181f8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=fanart",
+   "fetched_at": "2026-11-06T17:19:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f6148a82e63d5ce5263599ce5816631dec3ce5e9502dcccedd3fbc372c09c95f",
+   "width": 600,
+   "height": 170,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:19:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "79b58901992dc0e524a5f467bef0ebee422c0f2ee38ea3401a57002d761b42a0",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:19:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6ceba1499c4036300790b2352d71f93ecbc03cddb3e7bfb08dd514c107115e09",
+   "width": 466,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:19:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0be23d2b7be79fee4dc1db9329ba667db88656b972c9f5549aaffad4e6f8a263",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:19:08+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "42ff433c55b21d80ce1e67f54f666ab749882ee265604c21fb7b1cea1758c9dc",
+   "width": 605,
+   "height": 787,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:19:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9ed07cbff4186622c28119b81c476489ce630e691e23c68f889470cba46095a4",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=41078&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:19:11+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:19:01+00:00",
+ "status": "done"
+}

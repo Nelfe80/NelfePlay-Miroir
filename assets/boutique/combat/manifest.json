@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "combat",
+ "title": "Combat",
+ "source": "screenscraper",
+ "ss_game_id": 14006,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14006,
+  "release_year": 1977,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Combat",
+   "genre": "Tir",
+   "synopsis": "Combat est un jeu à deux joueurs où chacun tente de tirer sur les chars ou les avions de l'adversaire. Toucher le véhicule ennemi le repousse et donne un point au tireur. \r\nLe jeu contient 27 niveaux, chacun ayant des règles et une configuration du terrain de jeu bien distinctes. Au niveau des chars, les joueurs ont le choix entre deux labyrinthes différents ou pas de murs du tout, tandis qu'au niveau des difficultés, les joueurs peuvent choisir de jouer avec des nuages qui obscurcissent une partie de l'écran. \r\nLes paramètres de difficulté de l'Atari 2600 peuvent être utilisés pour modifier la portée des missiles d'un joueur, ainsi que la vitesse de ses avions dans les niveaux 15-27. Tous les jeux ont une limite de temps de 136 secondes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Combat",
+   "genre": "Shooter",
+   "synopsis": "Combat is an early video game by Atari for the Atari 2600. It was released as one of the nine launch titles for the system in October 1977, and was included in the box with the system from its introduction until 1982. \r\n\r\nCombat boasted having 27 games in one, which were all variations on the tank, biplane, and jet gameplay.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "aa3f7f1fae08224e9022a52a0a8fa80cac5aa60bc9fba3fda7eac5ff302e520f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14006&media=fanart",
+   "fetched_at": "2026-11-06T16:51:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "aa391a3d543c713866d5d726fcef7f85a777df91815a63870052d1eb76ee3aa5",
+   "width": 400,
+   "height": 84,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14006&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:51:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e64d8fd2f7dc127ac3389b7f1d65d2ab43354d5aeb9db795604d365d4a0c2abe",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14006&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:51:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8587babd84d12477f269dd7aa4be95b495d2d08893d3325f9b9eb9b504663d52",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14006&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:51:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "5e1828ecd8b570a04f72bdb07ae7433b9570e3af0224bb196add31f99d882730",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14006&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:51:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a5e66796f10f86921e3c04e488d232f5d5006759c3936df9a68602b862087e54",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14006&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:51:17+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:51:08+00:00",
+ "status": "done"
+}

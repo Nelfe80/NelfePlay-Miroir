@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "fatal-fury-f-contact-pocket-fighting-series-world-en-ja",
+ "title": "Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47035,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47035,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Fatal Fury - F-Contact",
+   "genre": "Combat / Versus",
+   "synopsis": "Fatal Fury: First Contact est un \"Pocket-Remix\" de Real Bout Fatal Fury 2, gardant quasiment l'integralité du gameplay original, les personnages et les decors.\r\nFirst Contact inclu aussi un personnage unique : Lao (Le combattant qui essui une defaite contre Xiangfei et Rick dans l'animation d'intro de RBFF2), jouable uniquement en mode VS.\r\nC'est le 2eme jeu de combat à etre porté specifiquement pour la NGP et nous gratifie d'une qualité graphique avec un \"chibi-style\" impressionant, tant au niveau des sprites que des artworks.\r\nSNK nous fourni ici un excellent travail de conversion car on garde les memes sensations de jeu qu'avec RBFF2, les personnalités et coups des protagonistes sont quasi intactes et le passage en mode \"chibi\" est reussi.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Fatal Fury : First Contact",
+   "genre": "Fighting / Versus",
+   "synopsis": "Using the world-famous Japanese \"SD\" (Super-Deformed) artwork style, this is the only title of the Fatal Fury series to be released on SNK's color handheld.\n\nThe game is based on its arcade/console counterpart Real Bout Fatal Fury 2: The Newcomers, and has its main characteristics, like the possibility of execute special moves while blocking (a.k.a. Breakshots), the execution of high-strength blows (a.k.a. S. Power and P. Power moves) and the starring of two new combatants (Li Xiangfei and Rick Strowd).\n\nDue to NGPC hardware limitations, some characters have been removed from the main cast (as well as the background/foreground battle plane system). With this, the fighters initially available for this contest are: Andy Bogard, Terry Bogard, Joe Higashi, Mai Shiranui, Kim Kaphwan, Ryuji Yamazaki, Rick Strowd, Li Xiangfei, Billy Kane, Wolfgang Krauser and Geese Howard.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "931409b9259fd1b5ee42acd7b21f2eda36d1407ac4b3cb8acc16ba7e5aa61ecc",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47035&media=fanart",
+   "fetched_at": "2026-11-06T23:21:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c29184704c5ac01646ed03b9721778d8f8e78090d53a7c0e6a069f103a6060f9",
+   "width": 600,
+   "height": 239,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47035&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:21:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5c5593b150dac33a2a990bf20744e8bc981a487ac6c6b75ae6d978f61c12a274",
+   "width": 695,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47035&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a1d1a093e3a95e7523ea0b4ee7f85662e6995944a656a0d160f201813b43423c",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47035&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3528163de2df0089a20dbca372534063bff3866e0f2c3267b041298ffc3fd295",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47035&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:22:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e1b6ae86b4aacf77292b1e8f4487ee8b3e4ccaed0adf622c1107a3c6d7554366",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47035&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:22:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:21:55+00:00",
+ "status": "done"
+}

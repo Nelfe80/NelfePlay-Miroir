@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "rock-n-roll-racing",
+ "title": "Rock n' Roll Racing",
+ "source": "screenscraper",
+ "ss_game_id": 2270,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2270,
+  "release_year": 1993,
+  "publisher": "Interplay",
+  "developer": "Silicon & Synapse",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Rock n' Roll Racing",
+   "genre": "Course, Conduite",
+   "synopsis": "Rock 'n Roll Racing est un jeu de course et de combat de type arcade. Le combat occupe une place prépondérante dans le jeu, puisque chaque voiture est équipée d'une arme frontale, comme un laser ou un missile, et d'une arme à larguer, comme des pointes ou des mines. À mesure que vous remportez des courses, vous gagnez de l'argent pour améliorer votre voiture.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Rock n' Roll Racing",
+   "genre": "Racing, Driving",
+   "synopsis": "Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.\n\nThe soundtrack features \"Born to Be Wild,\" \"Bad to the Bone,\" \"The Peter Gunn Theme,\" \"Highway Star\" and \"Paranoid.\"",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4bb12a5bb62e0e474ba7d4b9648c1eaca651a310196840173f0e8a9b5e2f5eeb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2270&media=fanart",
+   "fetched_at": "2026-11-06T17:39:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3522f0674ae1ceed0e49ec1bd0c14112a92da552b9618f6f9ecde23c4cd73ee4",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2270&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:39:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c7a641996dc77f44a40c946541183641df4fef353b6d50a153bbf2267f7faa49",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2270&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:39:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6f1e1c6654c54ebd449c1e38e90f7fa950f333f669d9aff3343d94fa72a89351",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2270&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:39:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a722165d1439c6cd58fd2d0d0efd6368cbc4d8c8647c41f31b85fdfd8ba222a1",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2270&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:39:20+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6b510ee66f226b2cc496ef7d1ccecc54c636cf8161cb5cc91d6384c2c96e9af1",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2270&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:39:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:39:13+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "blazing-star",
+ "title": "BLAZING STAR",
+ "source": "screenscraper",
+ "ss_game_id": 13893,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13893,
+  "release_year": 1998,
+  "publisher": "SNK",
+  "developer": "Yumekobo",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Blazing Star",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "L'armée de Brawshella menace  toute la galaxie. La Ligue de Défense Spatiale décide alors d'envoyer plusieurs escadrons afin de restaurer la paix et de vaincre Brawshella.\r\nBlazing Star vous fera parcourir plusieurs niveaux à la difficulté très progressive aux commandes de différents vaisseaux. \r\nChaque niveau propose une grande variété d'ennemis différente et se termine par un boss. Il se tue en 2 phases, et davantage pour le boss final. Une fois bien amoché, il subit une transformation ou bien perd des morceaux et change son comportement. \r\nCôté graphismes, l'introduction mi-manga mi-images de synthèse est somptueuse. Durant le jeu, les vaisseaux ont un rendu 3D et bon nombre de décors également. L'ambiance sonore est excellente elle aussi : la musique des niveaux change souvent, et est très entrainante. Arrivé au boss, elle change pour devenir encore plus rythmée. Enfin la maniabilité du jeu est irréprochable.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Blazing Star",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "242154e4bed6871e1bf0c6b8391047fd96a646ea34539a6cce950f5b4875808f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=fanart",
+   "fetched_at": "2026-11-06T15:24:41+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "083dc0e92f98dc723f95d94a9e75aec8b0cf37a443f8d22b890f557ddbe60792",
+   "width": 600,
+   "height": 210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:24:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9710d066b87d65dd3c3617a16345c37eeb03b0aeb09d625abb39d3bcca205ffe",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:24:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c6dd1485a60dde1d34dea0fb08ab45373355c1a83254cf3ea7898972119f2a68",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:24:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f9b2a0d997d5b820cdce099cb1fd4f338dd7fd8b2e7bb1970e52aafb5b8384c7",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:24:46+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8e6f4c21824f90622446e6341053f07aa9aebe948bea5d8c62a2d8fedd88bc0b",
+   "width": 816,
+   "height": 1180,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:24:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8e6a443c5468d04ad1dfd3f51f1b0a8f8908c31350f46886f4294905ecc1ec10",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13893&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:24:49+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:24:40+00:00",
+ "status": "done"
+}

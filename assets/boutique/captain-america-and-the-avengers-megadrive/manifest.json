@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "captain-america-and-the-avengers-megadrive",
+ "title": "Captain America and The Avengers",
+ "source": "screenscraper",
+ "ss_game_id": 258,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 258,
+  "release_year": 1992,
+  "publisher": "Data East",
+  "developer": "Data East",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Captain America and the Avengers",
+   "genre": "Beat'em All",
+   "synopsis": "Captain America and the Avengers sur Megadrive est la conversion du jeu d'action sorti en arcade. Incarnez les héros Marvel tels qu'Iron Man, Hawkeye et Vision. Vous pouvez choisir de jouer seul ou à deux simultanément, pour éliminer tout opposant qui osera se mettre en travers de votre super-chemin.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Captain America and the Avengers",
+   "genre": "Beat'em Up",
+   "synopsis": "A conversion of the arcade game of the same name, Captain America and The Avengers is a one or two player (simultaneous) side-scrolling beat 'em up in which four Marvel Comics licensed heroes (Captain America, Iron Man, Hawkeye and Vision) take on the evil Red Skull (who \"by assembling a team of super-villains seeks to conquer the world\"). Isn't that always the way?",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.jpg",
+   "sha256": "17dbd624d2d213c4e1507b54b134f026fef04d4cea29791aa1783c0c3f7e5d82",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=258&media=fanart",
+   "fetched_at": "2026-11-06T17:31:29+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3042374ac9d62828124ed622a81b3026f72fcf4d0c450409c823278a684539f0",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=258&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:31:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f76f3e71b658def793e3ef4d49d45f07b0bb90768f181c1e2fa7c0f70a3b10a1",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=258&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:31:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c694f6426ded5ad8ef8910f8564d5f44f365412cbe5c34ad74ab13971d7c2272",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=258&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:31:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ed23b60c8d8d9a73cbcd7991823c736b9cb5c83a43fa0578b8e1914aee49bacc",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=258&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:31:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "16272a513be9900d61e76a32a56fd034e3d9532f0e8dd7a3696982ef4745a69a",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=258&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:31:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:31:28+00:00",
+ "status": "done"
+}

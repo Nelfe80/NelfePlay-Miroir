@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "x-men-children-of-the-atom",
+ "title": "X-Men: Children of the Atom",
+ "source": "screenscraper",
+ "ss_game_id": 37419,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37419,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "X-Men : Children of the Atom",
+   "genre": "Combat / Versus",
+   "synopsis": "X-Men: Children of the Atom est un jeu de combat en 2D et le premier titre Capcom à utiliser des personnages sous licence issus de l'univers Marvel. Il comporte six personnages principaux et quatre de leurs ennemis jouables. Les X-Men sont Colossus, Cyclops, Iceman, Psylocke, Storm et Wolverine. Les méchants sont Omega Red, Sentinel, Silver Samurai et Spiral. Les deux boss principaux sont Juggernaut et Magneto, et Akuma est disponible en tant que personnage secret.\r\n\r\nLes combats se déroulent en face à face selon le format traditionnel « deux manches gagnantes sur trois », avec blocage automatique ou manuel. Semblable à la jauge Super Combo dans Super Street Fighter II Turbo, il existe une jauge X-Power à différents niveaux, qui se remplit lorsque le joueur effectue des mouvements. Lorsqu'elle est pleine, il est possible d'effectuer un mouvement spécial X-Ability ou Hyper X. Parmi les autres fonctionnalités générales, on trouve la possibilité d'effectuer des super sauts, des roulades et de viser des projectiles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "X-Men : Children of the Atom",
+   "genre": "Fighting / Versus",
+   "synopsis": "X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cdacbffc0421f8df9e3269cf80feed84222f09e1b3fcaa56db850d3fddd72273",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=fanart",
+   "fetched_at": "2026-11-06T15:53:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "eb9cb8cc33415e4fdee11f6bdf120d7f96756e4abaae9435bdc9e17a929cc1f7",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:53:43+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9f3b0a57c8712707514f9c9855c4ab0469db708cf4b60df4ced98f1d185644d3",
+   "width": 850,
+   "height": 1205,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:53:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3ba84f710de82771f8a1b903e2369e2d69269505b8054e4f01b7d6743621c7cc",
+   "width": 475,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:53:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "aa55d01d01d8eb4850254182085043223807b76ba2c25cd44f147b2a742e8159",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:53:48+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "04ed70543d45a319e1854c0b73d383f1955f0778cd08d083e56d5e2132ca1d47",
+   "width": 850,
+   "height": 1205,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:53:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f8e73199b9c224b303dc962241fbeda3c7318490241c64ebb0321a89dbabd056",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37419&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:53:51+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:53:41+00:00",
+ "status": "done"
+}

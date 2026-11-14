@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "battle-circuit-arcade",
+ "title": "Battle Circuit",
+ "source": "screenscraper",
+ "ss_game_id": 37389,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37389,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-4",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Battle Circuit",
+   "genre": "Beat'em All",
+   "synopsis": "Si vous aimez les univers et les personnages originaux dans tous les sens du terme, s'il vous faut un peu de technique, de vitesse, de fun pour être heureux, ce jeu est fait pour vous, seul et jusque quatre joueurs, plaisir garanti.\r\nAprès si pour vous \"Beat Them All\" rime avec voyous et copine à sauver, passez votre chemin ... mais vous le regretterez.\r\nUne perle réservée aux \"arcadiens\" malheureusement...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Battle Circuit",
+   "genre": "Beat'em Up",
+   "synopsis": "Battle Circuit take place in an alternate future earth, the game revolves around a group of bounty hunters who must capture the mad scientist Doctor Saturn and secure a sophisticated computer disc carrying a program known as the \"Shiva System\". Battle Circuit, which was Capcom's last beat 'em game for the arcades, contains comic-like characters in a futuristic science fiction setting and is considered by some to be a cult classic.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "951714446e8e00a654b172f37039847e020e1219cc35efe0f95ab4482a6a0bd7",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37389&media=fanart",
+   "fetched_at": "2026-11-06T15:27:22+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4fe3e2e974a93ded2442d3076934db70196780f36dc6b7e715015e67ebe43de8",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37389&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:27:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5bedfa7a159e4be958fd51a52c789c7b5d8f46f28848dd7b9f9ef88a63027265",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37389&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T15:27:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5c2177ea049b03447052b1fdae3472e464949324570b42dbded0617851fbe5dd",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37389&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:27:27+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "930ae5d5b049f7462171bb92cc9bfb2e4ce832e8aab8e79184e80479ccb3e124",
+   "width": 1000,
+   "height": 1414,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37389&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T15:27:29+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "595c9ef968d9aac99b6d129d9044900b5b2667546c4bec19d7f9ad83870bcde0",
+    "width": 383,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37389&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:27:29+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:27:21+00:00",
+ "status": "done"
+}

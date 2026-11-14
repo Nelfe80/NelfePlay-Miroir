@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "scrapyard-dog",
+ "title": "Scrapyard Dog",
+ "source": "screenscraper",
+ "ss_game_id": 38046,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38046,
+  "release_year": 1990,
+  "publisher": "Atari",
+  "developer": "BlueSky Software",
+  "players": "1",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Scrapyard Dog",
+   "genre": "Plateforme",
+   "synopsis": "Dans Scrapyard Dog, vous jouez le rôle de Louie, un employé de la décharge, dont le compagnon Scraps a été reconnu par l'ignoble M. Big. Louie a des bombes et des bidons à sa disposition pour les utiliser contre les ennemis, qui comprennent des gangsters, des rats et des souris. Il peut également utiliser des boucliers pour se protéger en route vers les seize points de contrôle du jeu. Louie doit atteindre chaque point de contrôle dans un certain laps de temps afin de sauver Scraps.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Scrapyard Dog",
+   "genre": "Platform",
+   "synopsis": "In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f7b77d18748364ff70774080492c5e9a1921e912995cb26d8399e4bb59d44b0f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38046&media=fanart",
+   "fetched_at": "2026-11-06T17:03:20+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ae0adebbbef980cc2468ef649d5c1eb555b229ae24f016bf521bdb7acf012a92",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38046&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:03:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5f87946e2c69906847f1ae8422ce50a76f5d4fa1baeec62998757d7212f77eec",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38046&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:03:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "aedca9eb70324ee016a14229536d134d3610219b2c6f2a38fbac9744fc34bad6",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38046&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:03:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ed15596d19195f2b01e1faa3ff4dd36ef93f878af2ba7ed9479dbc4912ef2e20",
+   "width": 320,
+   "height": 223,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38046&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:03:26+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b38fb7b06785d40cf7f66fea451d95a07289e56f070674c0b1d0b042b0488c31",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38046&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:03:28+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:03:19+00:00",
+ "status": "done"
+}

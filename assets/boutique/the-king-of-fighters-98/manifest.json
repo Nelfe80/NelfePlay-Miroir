@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "the-king-of-fighters-98",
+ "title": "The King of Fighters '98",
+ "source": "screenscraper",
+ "ss_game_id": 37595,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37595,
+  "release_year": 1998,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "The King of Fighters '98 : The Slugfest",
+   "genre": "Combat",
+   "synopsis": "The King of Fighters'98 est un jeu de combat 2D sur NEO GEO. Cinquième opus de la série, ce volet intitulé au Japon \"Dream Match Never Ends\" se déroule en réalité à l'intérieur d'un rêve du personnage Shingo. Le joueur a le choix d'incarner 36 combattants différents.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The King of Fighters '98 : The Slugfest",
+   "genre": "Fighting",
+   "synopsis": "For all you King of Fighters fans, SNK offers the ultimate KOF installment! A total of 38 of your favorite fighters from all the characters appearing in the '94 to '97 versions. The nostalgic American Sports team, Lugal, as well as Heidern, Takuma, Saishu Kusanagi and other long-awaited characters are back! The ultimate reunion is about to begin in The King of Fighters '98!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "207048c1d2ff995d3a58cf7799ba8d55df6a8b8807a809a8a40e869f01e95dfe",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=fanart",
+   "fetched_at": "2026-11-07T20:19:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a32c63b9ede2c84a29a8623e86294d2ec59dd5523b5fcadc86671dcd910ba94c",
+   "width": 600,
+   "height": 220,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=wheel%28jp%29",
+   "fetched_at": "2026-11-07T20:19:05+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2bbe49685c565f887fb2f43a7664fca82b83281fcc5b8b8c033650cc4d6d2d6e",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:06+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f6a94b668eec01e938f862be1f45c73586b7ffd97c8b2a85afa74446006aad5b",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:08+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c0f673a29e25bab92b194e23ee3c48249c3b8637502c82b921a9ec2c46ace0e5",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:19:09+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8300f402794f377a2387080358b332cc68a8b2f3350073a4bafece50a2ee3f57",
+   "width": 850,
+   "height": 1197,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:19:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "30a6188d6c412f974ea9cdb424175ce5443068bc357d57003729c58f3738f7a7",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37595&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:19:13+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:19:02+00:00",
+ "status": "done"
+}

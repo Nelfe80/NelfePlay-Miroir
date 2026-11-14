@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "waterworld",
+ "title": "WaterWorld",
+ "source": "screenscraper",
+ "ss_game_id": 51307,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 51307,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "SwordQuest : WaterWorld",
+   "genre": "Aventure",
+   "synopsis": "Tout comme les jeux SwordQuest: EarthWorld\r\net SwordQuest: FireWorld avant lui, SwordQuest: WaterWorld implique de marcher dans les pièces, de ramasser des objets, de battre des étapes d'action pour révéler plus d'objets, et de voir le jeu de nombres impair vous clignoter lorsque vous avez les bons objets dans les bonnes pièces.\r\n\r\nLes ensembles de nombres, par exemple 8-4, étaient en fait une combinaison d'un numéro de page et d'un numéro de panneau dans la bande dessinée fournie avec le jeu. Sur la page indiquée par le jeu, vous trouverez un mot caché quelque part dans le panneau numéroté. Lorsque tous les mots corrects ont été trouvés, vous pouvez les envoyer à Atari dans l'espoir de gagner le concours SwordQuest pour lequel ce jeu a été conçu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "SwordQuest : WaterWorld",
+   "genre": "Adventure",
+   "synopsis": "Much like the games SwordQuest: EarthWorld\nand SwordQuest: FireWorld before it, SwordQuest: WaterWorld involves walking through rooms, picking up items, beating action stages to reveal more items, and seeing the odd set of numbers flash at you when you have the right items in the right rooms. \n\nThe sets of numbers, for instance 8-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "cf5e68b6ca769742fac585d0c15f3d92fed429a6fed6cf8803797283ec847f64",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51307&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:25:39+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7a2f90ee2c0188a5af20eb898c234b543aaddb7d86c57f9c0ef668ad1cb899b7",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51307&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:40+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "23c94e169570538667f8eb968eb9931228c19f62b89a0c61642508009a3268c1",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51307&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:41+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "89ae308a0e888983a377e6505ce09d6cee7b3d0fd39d5bac5389443eec36b2fe",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51307&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:25:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "57e9de0954324a2315e76d0235dc6b9ed9916049edc578a69984f5bcf39368dc",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51307&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:25:44+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:25:38+00:00",
+ "status": "done"
+}

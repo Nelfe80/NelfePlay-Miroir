@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "victory-road",
+ "title": "Victory Road",
+ "source": "screenscraper",
+ "ss_game_id": 43954,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43954,
+  "release_year": 1986,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Victory Road",
+   "genre": "Tir",
+   "synopsis": "L'histoire reprend directement à la fin d'Ikari Warriors. Félicités par le général Kawasaki pour l'avoir sauvé, Paul et Vince (aussi nommés Ralf et Clark) retournent dans leur pays natal dans un avion affrété par le général. Une mystérieuse tempête apparaît et ils sont précipités des milliers d'années dans le futur (ou une autre dimension !). Ils sont accueillis par une créature extraterrestre qui leur annonce que le méchant Zang Zip (Zangelt) a pris le contrôle de ce monde.\r\nPour les aider à rentrer chez eux, utilisez leurs anciennes armes à feu ainsi que de nouvelles pour vaincre toujours plus d'ennemis comme des hommes verts cyclopes, ou encore des bêtes à tête de pierre et enfin le maléfique Zangelt.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Victory Road",
+   "genre": "Shooter",
+   "synopsis": "The story picks up directly at the end of Ikari Warriors. Congratulated by General Kawasaki for saving him, Paul and Vince (also named Ralf and Clark) return to their homeland in a plane chartered by the general. A mysterious storm appears and they are thrown thousands of years into the future (or another dimension!). They are greeted by an alien creature who tells them that the evil Zang Zip (Zangelt) has taken over this world.\r\nTo help them get home, use their old firearms and new ones to defeat more and more enemies like cyclops green men, stone headed beasts and the evil Zangelt.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5298edb4a6a5bf689ed6e9de2421a084533366f64b1f4cbe57f11a8b7ecdec9b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=fanart",
+   "fetched_at": "2026-11-06T16:03:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "63533613c07bebbb1eedf191e0c4fbeba6f407ed5c216cf3e5dad92b4d774464",
+   "width": 600,
+   "height": 250,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:03:21+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ddb6962809a5d8aba7926c0c58324eb64a912efcdc8f0d3f24bad4881a5810ec",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:03:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "47c4367cc2f2e74e0a483c4494d0139759be2ff3f2caa8d949478706d5f12153",
+   "width": 493,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:03:27+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ff68fe39d19ff603349c7d8fef3284471c451d98ed623059e94e16996be80835",
+   "width": 216,
+   "height": 288,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:03:27+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "2df5b593b07cbd0d214eeaed0307d676645acc85274599325d9b4c8640d21ea0",
+   "width": 618,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:03:29+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c370cba8fbddc0c6440731fcdc87f193ca797aca0da0a1735f71730536c58cbc",
+    "width": 216,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43954&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:03:30+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:03:18+00:00",
+ "status": "done"
+}

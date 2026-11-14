@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "rampage",
+ "title": "Rampage",
+ "source": "screenscraper",
+ "ss_game_id": 42242,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42242,
+  "release_year": 1986,
+  "publisher": "Bally Midway",
+  "developer": "Bally Midway",
+  "players": "1-3",
+  "system_label": "Midway Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Rampage",
+   "genre": "Combat",
+   "synopsis": "RAmpage est un jeu d'action dans lequel les joueurs ont la possibilité de diriger trois types de monstres, tous créés à partir d'humains mutants : « George », un gorille à la King Kong, « Lizzie », un reptile à la Godzilla, et « Ralph », un loup-garou géant. L'objectif est de détruire tous les immeubles du quartier en résistant aux forces armées qui tentent de s'interposer (hélicoptères, tanks, bateaux, soldats) et en faisant peu de cas des civils (les monstres peuvent manger les passants). Chaque niveau est réussi une fois le quartier réduit en ruines.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Rampage",
+   "genre": "Fighting",
+   "synopsis": "George, Lizzy and Ralph were just ordinary Americans, until an experiment went wrong, turning them into a Gorilla, Lizard and Werewolf respectively. Following this, the three of them plan to go round destroying buildings, and up to 3 human players can join in.\n\nSmashing at the edges of the buildings for long enough will make them collapse. The police and military are after you, and will shoot at you, so try to destroy them (failing that, you can avoid the bullets). You will need to eat regularly, with things like plants on offer, to avoid shrinking back to being human.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "11d2aaea7a761943127a48c40647e3d53b3346946c0fa00ef4cb54bdd806715e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=fanart",
+   "fetched_at": "2026-11-06T23:45:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2649a4eb5e8986e3993a15e2a1f1f35a3d5a40b1bafa2b0adf67d30afb23b2bc",
+   "width": 600,
+   "height": 208,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:45:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "32e135f25d5e860948f638a5677b5201514f72fccc0791005a922188aaeea01d",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:45:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0c4870c9452e188e5df9a71d4a089135b5f9d2bdd3e395037dcbfc12fe68cb8e",
+   "width": 490,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:46:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "872b2e51df1c18f9427965477227eeef131081ce1cdc2aa057dfda59e36e2063",
+   "width": 512,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:46:02+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bc516fd3ae314763ba92ac25b9585af1483d9cade95ef14690ae2ba07fe49389",
+   "width": 850,
+   "height": 1202,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:46:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "edb54f8d1bc48fb6f7f9b6f6f8f0d9eccf808da2b5409d6c4f4d91407ddf40a4",
+    "width": 512,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=42242&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:46:05+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:45:55+00:00",
+ "status": "done"
+}

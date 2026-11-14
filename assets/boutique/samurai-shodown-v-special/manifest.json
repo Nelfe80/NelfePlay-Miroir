@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown-v-special",
+ "title": "Samurai Shodown V Special",
+ "source": "screenscraper",
+ "ss_game_id": 37628,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37628,
+  "release_year": 2004,
+  "publisher": "SNK",
+  "developer": "Yuki Enterprise",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown V Special",
+   "genre": "Combat",
+   "synopsis": "Une mise à jour du cinquième épisode de Samurai Shodown. En plus des 24 personnages de base, 4 autres font leur apparition : Amakusa, Gaoh, Zankuro et Mizuki. Il est possible d'avoir recours à des fatalités lorsque votre adversaire est sur le point de mourir. Les trois modes de jeu proposés sont Time Attack, Versus et Entrainement.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown V Special",
+   "genre": "Fighting",
+   "synopsis": "An ordained meeting of 28 fierce warriors begins, to precede a series of duels to the death. These individuals entrust their fates to their skill and their weapons. For those not up to the task, a cherished end in battle is their only hope. The twenty-eight Samurai characters clash in one epic title.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "326572b6f30d3a554f1d730bbf954d655904c253dda0f4f733826058cba03944",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=fanart",
+   "fetched_at": "2026-11-06T16:43:34+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8abf27237337511739879abc6077d3ba492aa1108e7c1a638567a30c53582343",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:43:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3443effbfa1125711ada4e958cd12a2d4a07bef7967292e61fb5c7286e2dd123",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:43:37+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8b4707b414edf46077f72ab3bd7892e0525461ad2c2b415d456968283e968d54",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:43:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d9d56262db7783680507f42121a5153c929bc1670371b5fbbf8ab1328eeef17a",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:43:40+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "b77ee2bb8f340d1edec7ac39e822fa32dc1f441739dd89e613878adb68615548",
+   "width": 1663,
+   "height": 2450,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:43:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "35e76fe32a554098e3ef26e866436cc96099bd84140263a5727238123a9b31b6",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37628&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:43:43+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:43:34+00:00",
+ "status": "done"
+}

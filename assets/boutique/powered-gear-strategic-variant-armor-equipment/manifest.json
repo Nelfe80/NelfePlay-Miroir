@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "powered-gear-strategic-variant-armor-equipment",
+ "title": "Powered Gear: Strategic Variant Armor Equipment",
+ "source": "screenscraper",
+ "ss_game_id": 37387,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37387,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Armored Warriors",
+   "genre": "Beat'em All",
+   "synopsis": "Il est possible de sélectionner quatre mecha différents ainsi que leurs pilotes respectifs, chacun d'eux ayant ses propres caractéristiques de vitesse et de puissance. Le joueur peut ramasser au cours des sept niveaux du jeu des morceaux de robots ennemis détruits afin d'améliorer son armement.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Armored Warriors",
+   "genre": "Beat'em Up",
+   "synopsis": "In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.\n\nBut this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become \"the perfect warrior\", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.\n\nThe United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called \"Bloody Armor\", to eradicate the enemy forces and rescue the civilians.\n\nAnd so, in October 2282, the United World Forces begin to launch its attack upon the planet Raia.\n\nThe most intense battle in human history is about to begin...",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "773d6d91d171f630de87ef6f9c476ba32b304c0a36144a5beb1a70b4d775c6dc",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37387&media=fanart",
+   "fetched_at": "2026-11-06T23:24:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b22d8646eaa9a9ae89996d59af4e2d71bf323f41ce8466b784a8df3c949935ef",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37387&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:24:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a126840e0814d5aa870edc648773dd353e7e14a0067172ab295a493121c23075",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37387&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:24:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e94f7c89900875353db8df9de62fd2262988d3c9c55d5d85d6bf519eae7f662a",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37387&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:24:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5eb8d4f5109a70ab05c02f234f2a05970c5f002d5735a96a01148e716e1c16ba",
+   "width": 850,
+   "height": 1099,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37387&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:24:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c53ecd1d214b064c963f522182945c32158fdf28660f646f2d17ea169cc70592",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37387&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:24:20+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:24:12+00:00",
+ "status": "done"
+}

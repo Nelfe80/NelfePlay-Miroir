@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "gravitar",
+ "title": "Gravitar",
+ "source": "screenscraper",
+ "ss_game_id": 37758,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37758,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Gravitar",
+   "genre": "Shoot'em Up",
+   "synopsis": "L'être pervers appelé Gravitar tente de détruire l'univers! À chaque galaxie, il la conquiert, laissant derrière lui des forces gravitationnelles extrêmes, un réacteur puissant et explosif et des bunkers mortels. Votre travail consiste à arrêter Gravitar en reprenant les douze systèmes solaires situés dans quatre galaxies sous son contrôle!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Gravitar",
+   "genre": "Shoot'em Up",
+   "synopsis": "The evil being called Gravitar is out attempting to destroy the universe! With each galaxy he conquers he leaves behind extreme gravitational forces, a powerful, explosive reactor and deadly bunkers. Your job is to stop Gravitar by taking back the twelve solar systems located in four galaxies that are under his control! In each solar system there is a sun, an alien reactor base, and three to four planets. To free the solar system, you have two choices; either visit all of the planets and destroy all enemy bunkers, or activate the reactor at the core of the alien base and escape before it explodes. On each of the planets and the alien base, there will be strong gravitational forces to deal with; make sure you keep your ship in space, since a crash into the ragged landscape will be fatal! After a galaxy has been freed, you then automatically move on to the next galaxy which will be even more difficult to save. The game includes five different skill levels which vary in difficulty by supplying different amounts of ships to begin the game as well as different strengths of gravity.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "237f2a037b83b8ce6f712bb89f6cef20f7184cc1f57ad247486ccc2516aa3f35",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37758&media=fanart",
+   "fetched_at": "2026-11-06T16:54:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d4bbdd23ca1a2a4d7101b7244c7eef50a6e3253648e3a9e1349047351aef0fb5",
+   "width": 600,
+   "height": 170,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37758&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:54:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "34ad85dfd10af29005bb3179fa188de43bd026fb55bef3f9bc392b172e0d7597",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37758&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:54:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "236bb3ec1de54bbc93249fced97150239fdfc9b2acec2ce17764a305fcc8795d",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37758&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:55:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "21bc450858a5b824b4ed48d4213ba040c1e70a792246124924a83b0a181b7d33",
+   "width": 640,
+   "height": 480,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37758&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:55:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "59b499769da638b421bb80e3e577888b4812f4fd96563cab1d5348092ade9d24",
+    "width": 320,
+    "height": 192,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37758&media=ss%28us%29",
+    "fetched_at": "2026-11-06T16:55:03+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:54:55+00:00",
+ "status": "done"
+}

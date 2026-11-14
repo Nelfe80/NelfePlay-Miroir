@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "scramble",
+ "title": "Scramble",
+ "source": "screenscraper",
+ "ss_game_id": 42929,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42929,
+  "release_year": 1981,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Scramble",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Dans Scramble, un des tous premiers jeux qu'il m'ait été donné de pratiquer (avec les jeux à  fusil de cibles, mais je ne me rappelle plus de ceux là ), vous dirigez un vaisseau dont les ennemis viennent, de mémoire, uniquement du dessous. En fait, le deuxième ennemi naturel est le relief. En effet, le passage est parfois étroit et il vous faut faire attention aux fusées juste après (un peu comme sur la photo).\r\nscramble a évidemment beaucoup vieilli.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Scramble",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Scramble is a sideways scrolling shoot-em-up in which a single player takes control of a spaceship and must try to fight through six different enemy-packed levels - destroying as many fuel tanks and ground intallations as possible - before reaching the enemy base and destroying it. \r\n\r\nContact with any scenery, ground installations, enemy ships or projectyles results in an instant loss of life. The Scramble ship is armed with both a blaster and bombs. The blaster is forward-firing only while the bombs drop downwards to target ground-based enemy installations and to collect fuel from fuel dumps. \r\n\r\nThe fuel dumps are of particular importance, as the player ship's fuel gauge constantly depletes as the player progresses through the game and the only way to re-fuel is by bombing the fuel tanks that are located on the ground throughout the levels. Fuel usage increases as the game progresses, until fuel usage actually outstrips the amount of fuel dumps available and the game becomes impossible. \r\n\r\nScramble is rightly considered to be a classic and was the world's first ever 'multi-level' shoot-em-up.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cfac68345a92f4222cf0738a71b2bef378ed9af514803a56d0a3dae960f28508",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=fanart",
+   "fetched_at": "2026-11-06T16:13:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ad004ffc71bbfc0e52403f8f0ce6c889800a7af17d72cc33e7e2e7b09bbe0702",
+   "width": 400,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:13:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f9570574b036b10bcd70be71dd816ff9297d4723c0dbff12c6ab76f6a9a60ade",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:13:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fb93f1d29d53cbec77062343945cb9f473966525f457623ac006d3efd3094fca",
+   "width": 496,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:13:31+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "050a181258a2637129fd514ca9d001ddd84514a43809777ec5ed6a458cbe7b82",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:13:32+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "7c2cafcbf4972d9ef7dd90f8e070ba4b3891266a89b0eb39974baf305daf1204",
+   "width": 850,
+   "height": 1122,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=flyer%28eu%29",
+   "fetched_at": "2026-11-06T16:13:34+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6cad8aaaad73b6c6571ab9069120be36473fca86f3791d3364c21daca2eaad13",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42929&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:13:35+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:13:26+00:00",
+ "status": "done"
+}

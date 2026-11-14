@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mario-tennis-power-tour",
+ "title": "Mario Tennis: Power Tour",
+ "source": "screenscraper",
+ "ss_game_id": 3819,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3819,
+  "release_year": 2005,
+  "publisher": "Nintendo",
+  "developer": "Camelot Software Planning",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mario Power Tennis",
+   "genre": "Sport / Tennis",
+   "synopsis": "Mario Power Tennis sur GBA met en scène les personnages de l'univers du plombier moustachu. Ils sont tous de retour avec des coups encore plus puissants et des actions propres à chacun. Jetez des bananes comme des boomerang à la manière Donkey Kong et renvoyez la balle avec le marteau de Mario ! En plus des matches classiques, retrouvez une grande variété de mini-jeux en rapport avec le tennis !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mario Tennis: Power Tour",
+   "genre": "Sports / Tennis",
+   "synopsis": "Players can test their backhand in this unique role-playing tennis adventure. Train hard at the Royal Tennis Academy to be a champion. Gain experience and improve your skills through lessons and tournaments, and rise to the top of the ranks. Play as Mario, Peach, Waluigi, or Donkey Kong in a slew of wild modes. Advance through the story and unlock even more characters, all with their own power moves. Beat Mario at his own game, then link up with a friend or three for even more frantic fun.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "89fa9354ad2107b82bc22ac59a0c07312a1ff7ea0cb193d57a188c2fbc51ce85",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3819&media=fanart",
+   "fetched_at": "2026-11-06T23:49:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "67b361aaebd4a465c2021c6934d52131f43137220f35f5f36442d0b4a310163d",
+   "width": 600,
+   "height": 300,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3819&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T23:49:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b48f879bbc06053c619356c90b06eac3b54e48014950f370d620b5e84d2d35b1",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3819&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:49:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d364b3d4c26a454d2995ee132c425d3a04abc13be3dbd3ca2fea3bd46190f865",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3819&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:49:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "bd6472abbc5cd7784837e6c1ceb8f7d3f4acc1e22e135fe0c7efe48e59ad5447",
+   "width": 240,
+   "height": 160,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3819&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:49:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "e66bd5496567b80c599579f9c8b9cb2d622f96efafb35d70f52f5df874be5681",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3819&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:49:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:49:15+00:00",
+ "status": "done"
+}

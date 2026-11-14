@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "tempest",
+ "title": "Tempest",
+ "source": "screenscraper",
+ "ss_game_id": 46411,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 46411,
+  "release_year": 1981,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Tempest",
+   "genre": "Tir",
+   "synopsis": "L'objectif de Tempest est de survivre aussi longtemps que possible et marquer autant de points que possible en détruisant les ennemis qui ont atterri sur le terrain de jeu. Le vaisseau du joueur peut tirer rapidement, détruire tous les ennemis dans le même segment, et est également équipé d'un Superzapper, qui détruit tous les ennemis actuellement sur le terrain de jeu une fois par niveau. (Une deuxième utilisation du Superzapper dans un niveau détruit un ennemi aléatoire)",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Tempest",
+   "genre": "Shooter",
+   "synopsis": "The objective of Tempest is to survive as long as possible and score as many points as possible by clearing the screen of enemies that have landed on the playing field. The player's ship can rapid-fire shots down the tube, destroying any enemies within the same segment, and is also equipped with a Superzapper, which destroys all enemies currently on the playfield once per level. (A second use of the Superzapper in a level destroys one random enemy.)",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ef34a21753c35bbbdfd45debc956c71fbc626607f48fbc64b6ad2097e78c4d28",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=fanart",
+   "fetched_at": "2026-11-06T17:06:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9ee1bc2abc10daf9b215e239f7334385ca9da9e2b9e705d12cf1fd08e199c27b",
+   "width": 600,
+   "height": 100,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:06:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "67102806830b45a04d012fe720b49ea277ed11510f80733d85ff40c2e4634175",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e73f0ea032c711276bf0f476bc0f1ef425b609b8615747c7a56742432884ec31",
+   "width": 536,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:07:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "619bf97d1da232a313b7181de00b741d8059dfe0bdaf3bd26ba9eba9b4d229c2",
+   "width": 480,
+   "height": 640,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:07:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5802c8c3b77ff60bbcc759194626055da259cfe732a9a5369306e44a16ab5510",
+   "width": 619,
+   "height": 800,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T17:07:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "0ad76a7e2f77608af249764d03625efd1e3a10296b5794c338f1d57e347bf46f",
+    "width": 360,
+    "height": 480,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=46411&media=ss%28us%29",
+    "fetched_at": "2026-11-06T17:07:04+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:06:54+00:00",
+ "status": "done"
+}

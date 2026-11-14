@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "wjammers",
+ "title": "Windjammers",
+ "source": "screenscraper",
+ "ss_game_id": 37656,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37656,
+  "release_year": 1994,
+  "publisher": "SNK",
+  "developer": "Data East",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Windjammers",
+   "genre": "Sport",
+   "synopsis": "Dans Windjammers sur Neo Geo, deux joueurs s'affrontent avec Frisbee dans des arènes closes. Chacun doit garder les trois buts derrière lui. Les parties sont limitées dans le temps. En cas d'égalité le match se termine grâce à la mort subite.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Windjammers",
+   "genre": "Sports",
+   "synopsis": "Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly. There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds. The game is won after two winning sets or sudden death after two draws.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a705a3d941c5fcd659b27b133ee0b22b7aae533bfdac74a1b24e450b6c0726d4",
+   "width": 1280,
+   "height": 720,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=fanart",
+   "fetched_at": "2026-11-06T23:50:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9f9c99edd757adfa45bdfa281b6b948cda741854c16210d1ea072f2831eda81b",
+   "width": 600,
+   "height": 134,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:50:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d4f53e91232dcdda6d090d522e9cfd51368c7faa8a509c895abe71bb2b9feb75",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:50:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "658fb4b9e8c67d179f4b7d55299f40cbbae54952ac9b9210ab7bdf8edcbb8447",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:50:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "11f9933448ccb600c2b3bfb8f0b17a83890df69df4a21fdec4d7c1aea06c0d19",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:50:08+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "378cdb9cb9c0a5312731945f7e0bb409023a18ecc207b293981ce1fe1304eb04",
+   "width": 567,
+   "height": 800,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:50:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a9f764ebc56feea93701248ca2706897fbbf79cfe9a69318ceb4d9a246a239b4",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37656&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:50:11+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:50:02+00:00",
+ "status": "done"
+}

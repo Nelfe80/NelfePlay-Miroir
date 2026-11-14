@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "the-speed-rumbler",
+ "title": "The Speed Rumbler",
+ "source": "screenscraper",
+ "ss_game_id": 43298,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43298,
+  "release_year": 1986,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "The Speed Rumbler",
+   "genre": "Tir",
+   "synopsis": "Les terroristes ont pris en otage la famille de super joe et ses amis et vous avez 24 heures pour les libérer. Vous prenez les commandes d'un véhicule blindé équipé de pistolets, en détruisant tout sur votre chemin parmi l'ennemi tout en portant secours à vos amis. Si votre véhicule est trop endommagé, vous pouvez sauter du véhicule et continuer le combat à pied.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Speed Rumbler",
+   "genre": "Shooter",
+   "synopsis": "The Speed Rumbler is a action game where the player races against the clock in an armored car piloted by Super Joe, destroying other cars and saving captives along the way. Super Joe's car is armed with a gun that he can use to shoot down enemy cars, but the enemy cars have a few tricks up their sleeve, so Super Joe should always be on guard. As the player progresses through the game's six stages, Super Joe can be given a boost by saving captives, who then award him with bonus points, increased fire power, or speed-ups. If Super Joe's car is destroyed, he can continue the fight on foot with his rifle. But unfortunately, Super Joe is not as powerful as his car - one hit and he's history. Super Joe has 24 \"hours\" to destroy Zapper. The game is over when Super Joe runs out of lives or time - or if he successfully completes his mission.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3377af8d0799b67ece392a7bdd4bcc13ad103ed1e7984aedca4cd35e32f4fb20",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=fanart",
+   "fetched_at": "2026-11-06T17:21:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "69a749986438c80012e7c92460453e8fb28a749f37ddfeba8c85992574e17a1a",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:21:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b46a99f40938b34e4086abdb7341eae7da7e2cdbb230575b4b35f73eab2dec91",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:21:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5991e5c7802045be36e41f7239f3f80ee66ca9e4b57de8727c2845eb9c7ff163",
+   "width": 452,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:21:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "37eb0380a50983300ad20a34d9f03c69d9d129087ac1b45e5c38044a755b585e",
+   "width": 240,
+   "height": 352,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:21:39+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bab7f46ae48d4e74eec6c04df9ffa2cdd7f677a358ea9037eade059e66a0e211",
+   "width": 850,
+   "height": 1190,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:21:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "50cb03e7fea08d66ac9ae56d298b68e36af6e150b5f940e7b7e78bc37f442fab",
+    "width": 240,
+    "height": 352,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43298&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:21:42+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:21:33+00:00",
+ "status": "done"
+}

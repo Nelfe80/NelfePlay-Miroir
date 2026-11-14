@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "streets-of-rage-2-megadrive",
+ "title": "Streets of Rage 2",
+ "source": "screenscraper",
+ "ss_game_id": 20,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 20,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Streets of Rage II",
+   "genre": "Beat'em All",
+   "synopsis": "Choisissez un des quatres combattants et plaquez vos ennemis au sol par des super mouvements d'arts martiaux! Tapez-leur dessus avec des tuyaux ou taillez-les en morceaux avec des couteaux et des armes Ninja! Soyez prêt pour un combat incroyable avec Streets of Rage!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Streets of Rage 2",
+   "genre": "Beat'em Up",
+   "synopsis": "After defeating Syndicate leader Mr. X, Axel Stone, Blaze Fielding, and Adam Hunter restored peace to the city before each pursuing their own path.\r\n\r\nOne year after their reunion, Adam's brother Sammy returns from school to find the apartment in disarray and Adam missing. After contacting their friends, they discover a photo of Adam chained to a wall alongside Mr. X, who has returned to plunge the peaceful city back into war.\r\n\r\nNow, Axel, Blaze, Sammy and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...\r\n\r\nStreets of Rage 2 improves upon its predecessor with enhanced, more detailed graphics and smoother animations. Gameplay is refined by replacing the rocket move with a versatile special attack, adding new moves, introducing life bars for all enemies and featuring radically new characters.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "95478e0a3280548618d7c45758be8c5f6d82661defad582faf5887e04d22142d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=20&media=fanart",
+   "fetched_at": "2026-11-06T23:54:06+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "622bd5c773314ecf8a14ddfb12b651baeeb042c9f223b8b00d3827fe5b4cec4c",
+   "width": 600,
+   "height": 250,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=20&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:54:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "dbf24199f32b335ceaf99e056e9e244717f63b0f18b936718055a865633ceade",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=20&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:54:09+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "67b24978763382c7161705a5c6a5d1320c5d6d3a8258f2c8f4ecde32aac35071",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=20&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:54:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0cbccb1b965c576e91e68ea3278e585b239b6528628047896600dc67ad9bbed3",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=20&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:54:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "091e156bd57650daae01f843dd223dfc3c87853feb0be96dbb0513b41f204d32",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=20&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:54:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:54:05+00:00",
+ "status": "done"
+}

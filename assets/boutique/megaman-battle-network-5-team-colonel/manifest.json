@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "megaman-battle-network-5-team-colonel",
+ "title": "MegaMan Battle Network 5 Team Colonel",
+ "source": "screenscraper",
+ "ss_game_id": 3895,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3895,
+  "release_year": 2005,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle Network 5 : Team Colonel",
+   "genre": "Jeu de rôles",
+   "synopsis": "Le Dr. Regal et son syndicat du crime Nebula sont de retour sur le réseau. Lan doit donc réactiver son Navi Mega Man pour débarrasser le monde virtuel de ses virus. Le jeu de rôle Mega Man Battle Network 5 sur GBA se décline en 2 versions (Team ProtoMan et Team Colonel) qui diffèrent légèrement l'une de l'autre par les pouvoirs que le héros peut accueillir.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle Network 5 : Team Colonel",
+   "genre": "Role Playing Game",
+   "synopsis": "Team Colonel is the second edition of Mega Man Battle Network 5. In the game, you can join forces with characters from previous installments of the Mega Man Battle series, and you can play in a new fighting mode. Team up with other cyberheroes in an effort to stop an evil organization from taking control of the global Internet.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a91a9f353010b928a0f49e54c70c81cb5461e2db2ba783389048bb92a58cf072",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3895&media=fanart",
+   "fetched_at": "2026-11-06T23:21:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "180a5fd5c176865f6c9b1bcf64eadaaba75948f810f400197eca2d757698794b",
+   "width": 600,
+   "height": 262,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3895&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:21:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "53436808dff07ab419c99d62d0c83ffbbd5a260260240d2949bfc3e190deede4",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3895&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "366055c4cce6cc7d347ce4487e858b11f28d555dfd1ee7eae796fe6667018009",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3895&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "181a492b9dec8130ddd34ae6586560146df0d233e27c788e5086477ea9e377d5",
+   "width": 240,
+   "height": 160,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3895&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:21:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ae1e00e34b99cb065a3df764c6e94f13271a80ba455d152797c27414efd6b680",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3895&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:21:15+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:21:07+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "1944-the-loop-master",
+ "title": "1944: The Loop Master",
+ "source": "screenscraper",
+ "ss_game_id": 37385,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37385,
+  "release_year": 2000,
+  "publisher": "Capcom",
+  "developer": "Eighting",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "1944 : The Loop Master",
+   "genre": "Shoot'em Up",
+   "synopsis": "Le jeu se déroule pendant la Seconde Guerre mondiale alors qu'un  pilote tente de vaincre toute une armée. L'objectif de chaque niveau est de tirer sur les avions ennemis, les chars, les trains, les tourelles, les cuirassés, et de vaincre les boss. Il y a quinze stages dans le jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "1944 : The Loop Master",
+   "genre": "Shoot'em Up",
+   "synopsis": "The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "83b5fc8ca0c11db9715da085f0ae03b28803570d41a237d8d32376e9fd54f2ce",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37385&media=fanart",
+   "fetched_at": "2026-11-06T17:20:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a3e3644d3ec2b30cd473875c8e45917773178bc4b02cad1f1b84b6a36500dfd3",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37385&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:20:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b9babc1bc739e83e3f0ac7a8652ee1eeac42f707dfc60856d9c2ca085e457460",
+   "width": 514,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37385&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:20:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "979e7e3618a94370ba8fc529536769d78e0cf6a4ea49c7c0de9a619218f86897",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37385&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:20:50+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "08ca242d48c2c053f5b2844f6ca8c389c56e35261ddc02f41d04e79bb0e0417b",
+   "width": 1400,
+   "height": 986,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37385&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:20:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6ed85a4faed60b0c080adf130e3700bf79847a51274042af3d8b4b7e22c5704e",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37385&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:20:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:20:45+00:00",
+ "status": "done"
+}

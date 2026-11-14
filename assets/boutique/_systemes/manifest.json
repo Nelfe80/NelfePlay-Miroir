@@ -1,0 +1,181 @@
+{
+    "systems": {
+        "arcade": {
+            "file": "arcade.webp",
+            "sha256": "41d0318c2ba22df2b7b981458ae2367b7f3fad257e5ce28981249c266ca236c0",
+            "width": 1200,
+            "height": 1300,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=75&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:23:52+00:00"
+        },
+        "neogeo": {
+            "file": "neogeo.webp",
+            "sha256": "9e1cfcabaa8c7627358929454acb8e4e88851402f8b0216ae60cc47991347caf",
+            "width": 1280,
+            "height": 799,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=142&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:23:54+00:00"
+        },
+        "nes": {
+            "file": "nes.png",
+            "sha256": "a97dcf026563f38d31a259713e64a9bd6feb77a119a5943fc3333ed9dbceace5",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=3&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:23:55+00:00"
+        },
+        "snes": {
+            "file": "snes.webp",
+            "sha256": "9b9137a4c1516d1ee339bcf7d1408f11116fc27513371a00ebe2c502d6aa7e3e",
+            "width": 1642,
+            "height": 852,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=4&media=photo%28us%29",
+            "fetched_at": "2026-11-06T15:23:56+00:00"
+        },
+        "ngpc": {
+            "file": "ngpc.webp",
+            "sha256": "b91415db4778d92e4362ac8d1d6532dc5c6636f5987afd018215a0c1c7d53791",
+            "width": 1200,
+            "height": 865,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=82&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:23:58+00:00"
+        },
+        "saturn": {
+            "file": "saturn.webp",
+            "sha256": "705a1ce798bf48c2f127db966a4d184799e6926b383774d92252c4c284446fc7",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=22&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:23:59+00:00"
+        },
+        "megadrive": {
+            "file": "megadrive.webp",
+            "sha256": "be679e43486833921dbc729f8ead3d0a1249f57e9b56d2442d44c4d8f0aa17bd",
+            "width": 1795,
+            "height": 1000,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=1&media=photo%28us%29",
+            "fetched_at": "2026-11-06T15:24:01+00:00"
+        },
+        "gba": {
+            "file": "gba.webp",
+            "sha256": "276f6ace7b2cada9cb393bd2b6027705567e9cb4dbe8327241e31968231e96ea",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=12&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:02+00:00"
+        },
+        "gb": {
+            "file": "gb.webp",
+            "sha256": "789710fb54de5333551935ba80a48c8dba3f894408afc58a10bb066b1b51c3ef",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=9&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:04+00:00"
+        },
+        "psx": {
+            "file": "psx.webp",
+            "sha256": "390293a66ff7bf25e2df5fa6788bff053828d666aff23aea7dfc2a7f04261c00",
+            "width": 1200,
+            "height": 810,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=57&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:05+00:00"
+        },
+        "gamegear": {
+            "file": "gamegear.webp",
+            "sha256": "bf90eed8e37c8a1a42cac35a31a8367b4fbf17dca248089e3b8c450494d93d47",
+            "width": 1873,
+            "height": 1140,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=21&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:08+00:00"
+        },
+        "atari2600": {
+            "file": "atari2600.webp",
+            "sha256": "bd188b4d7c0dfc0b8bff88c83d33c0516c624a0dfc76e30473acd6d5e4b7c390",
+            "width": 1723,
+            "height": 964,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=26&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:09+00:00"
+        },
+        "atari7800": {
+            "file": "atari7800.webp",
+            "sha256": "bc96e93715374f80501abf76ad4573c47ea08f12b7cdb45043db967531959266",
+            "width": 1500,
+            "height": 665,
+            "region": "eu",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=41&media=photo%28eu%29",
+            "fetched_at": "2026-11-06T15:24:10+00:00"
+        },
+        "jaguar": {
+            "file": "jaguar.webp",
+            "sha256": "94fa7bae1195367052bf0656ee0836ef22f8091c566cc57d3eef8534ea40b350",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=27&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:11+00:00"
+        },
+        "atari5200": {
+            "file": "atari5200.webp",
+            "sha256": "815e4e6a854e98cc79dd39b42ee3ca06134296637f34611ef637447a6f178fc3",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=40&media=photo%28wor%29",
+            "fetched_at": "2026-11-06T15:24:13+00:00"
+        },
+        "lynx": {
+            "file": "lynx.webp",
+            "sha256": "41b7bf90e6e09c2089aad1f027ca18025dd543a5a394d12d157303b51debbc25",
+            "width": 3000,
+            "height": 2000,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=28&media=photo%28eu%29",
+            "fetched_at": "2026-11-06T15:24:17+00:00"
+        },
+        "mastersystem": {
+            "file": "mastersystem.png",
+            "sha256": "14d047acf75c33e077b0c1bbd132246b3bf20cf97d0305685302049982260096",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=2&media=photo%28wor%29",
+            "fetched_at": "2026-11-09T22:01:58+00:00"
+        },
+        "pcengine": {
+            "file": "pcengine.png",
+            "sha256": "56c28079f52f26cf1809494b931307fc41d6ff07bbfa1cb1022586156127019e",
+            "width": 1585,
+            "height": 1024,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=31&media=photo%28us%29",
+            "fetched_at": "2026-11-09T22:01:59+00:00"
+        },
+        "sega32x": {
+            "file": "sega32x.png",
+            "sha256": "3b41a3199e02cc2926402cebbc64955d885a1a41d75246f6949177cfcffa7b21",
+            "width": 640,
+            "height": 640,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaSysteme.php?systemeid=19&media=photo%28wor%29",
+            "fetched_at": "2026-11-09T22:02:01+00:00"
+        }
+    },
+    "absent": [
+        "wii",
+        "gbc2players",
+        "gb2players"
+    ],
+    "credit": "ScreenScraper.fr"
+}

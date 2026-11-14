@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "realsports-boxing",
+ "title": "RealSports Boxing",
+ "source": "screenscraper",
+ "ss_game_id": 14112,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14112,
+  "release_year": 1987,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Boxing",
+   "genre": "Sport / Boxe",
+   "synopsis": "RealSports Boxing est, comme son nom l'indique, un jeu de boxe sur Atari 2600. Jouable seul ou à deux, il vous faudra battre vos adversaires avec une petite particularité puisque le ring est en 3D et autorise donc les déplacement horizontaux et verticaux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Boxing",
+   "genre": "Sports / Boxing",
+   "synopsis": "Released later in the life of Atari's industry-shaping 2600 console, RealSports Boxing puts the player in the role of an up-and-coming boxer. Enter the squared circle to face off against a friend or a computer-controlled opponent. Throw quick jabs and hard body blows until there's only one man left standing.\r\n\r\nWatch out for Lefty O'Leary's brutal technique. Beware Jabbin' Jack's lightning quickness. Players pummel their way up the ladder, each victory leading to a more challenging adversary, until their boxer makes it to the top. Proven pugilists can then defend the coveted championship against a slew of fierce contenders.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a772a2288d2d451276a1feb61603ff21e5bbbbfa3473a797b628e560a0fa2d67",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14112&media=fanart",
+   "fetched_at": "2026-11-06T17:00:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ce0e6460adeff846742f2bc47d534d8096d301a74f49b00b318a63099b4892d1",
+   "width": 400,
+   "height": 100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14112&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:00:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f8c8d8865501a5036e2c23462b3553e284af512734401c44f61a15885916af78",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14112&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7af74adc02800a0c3a1771cc11e3b82ba48311ab85a3074655840e55fd3a7f5d",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14112&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "842ddb4d229416006e4cf860c2472760ce548af07d087b2e1a6372478d827583",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14112&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:00:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "74cec30c5f836f1d65d8fc225e2b77eff9f92c10143cab506b2313451224de3e",
+    "width": 304,
+    "height": 185,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14112&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:00:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:00:43+00:00",
+ "status": "done"
+}

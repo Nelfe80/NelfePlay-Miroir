@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "contra-spirits",
+ "title": "Contra Spirits",
+ "source": "screenscraper",
+ "ss_game_id": 19017,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 19017,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Contra III : The Alien Wars",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Le combat est sur le point de recommencer! Nous sommes en 2636 et la Terre est confrontée à la menace d'une invasion massive d'extra-terrestres.\r\nCes rebelles mutants, méchants et déments, sont de retour et veulent se venger en détruisant la race humaine! Ils ont récupéré leurs forces et disposent de toute une armée composée, en partie, d'Extra-terrestres métalliques, de Motards de l'enfer, de Fusées Ninja et même de Chiens mutants pour les aider à vaincre. Ils sont bien décidés à ne pas subir une autre défaite humiliante et sont prêts, une fois de plus, à livrer bataille contre les Probotectors les plus puissants, RD008 et RC011.\r\nQui sera le vainqueur de ce combat à mort?\r\nProbotector peut-il encore une fois sauver la mise?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Contra III : The Alien Wars",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "It's time for revenge...\n\nThe hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!\n\nThe Alien Wars begin!!!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8e16069fab2b99e3a1ebbee4433287e60749a0c2df95cf5bacce734f6c0b7eaf",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19017&media=fanart",
+   "fetched_at": "2026-11-07T20:20:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "23896eac81f54e0052c8b01b64e24794881b5fcda604797f8c8597bfa5052cd7",
+   "width": 600,
+   "height": 220,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19017&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:20:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "84f70146c22416f2156e9f3a4579bd650ad4f74b3bb6fd347a376724190223c0",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19017&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:20:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "50741d8f0617d4e0dcb83a784d07bb83d91ca352f6627164ffe15b29a0f58bfc",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19017&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:20:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "61200bc631a6a2a946060ed3e1111d83dd7461dff9e145917223b75dbe098fee",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19017&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:20:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "727957ea8d1318b5ee724b494b26d226cb24464c4d87f074eccd814af8543b5e",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19017&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:20:19+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:20:11+00:00",
+ "status": "done"
+}

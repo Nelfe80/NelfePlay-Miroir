@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "the-lost-vikings",
+ "title": "The Lost Vikings",
+ "source": "screenscraper",
+ "ss_game_id": 43,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43,
+  "release_year": 1994,
+  "publisher": "Interplay",
+  "developer": "Silicon & Synapse",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "The Lost Vikings",
+   "genre": "Plateforme",
+   "synopsis": "Dans The Lost Vikings sur Megadrive, trois vikings ont été télétransportés dans un endroit inconnu. Chacun possède des habilités différentes : Eric l'Agile peut courir et sauter, Olaf le Fort possède un grand bouclier et Baleog le Sans Peur peut attaquer avec son épée et son arc. Vous devrez faire progresser les trois héros alternativement pour ouvrir des passages menant à la sortie et découvrir qui les a kidnappé avant de les faire retourner chez eux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Lost Vikings",
+   "genre": "Platform",
+   "synopsis": "Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.\r\n\r\nThe Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks, function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f3e17c41d0dca3968f580f5a406fd27ad9295c26bee3eea112fee0159ee02f86",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=43&media=fanart",
+   "fetched_at": "2026-11-06T15:34:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "10952e2a41d95de47d2dd251b511b136818a9ad68d53b15699b3b82551bd5acf",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=43&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:34:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c0b9207e555f79d8ce1cd742529b19b6beb2c98223c4dc45d64501f35c3ec249",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=43&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:34:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f32e230fd80eefcda306667c272e374cc3207d2d9e87fd9f489180f288ea0ee3",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=43&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:34:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d17953d291cada8fe8833663a170af304d3dbeac803f37f5d60c818c26f54e5a",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=43&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:34:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3452688fb36c8f4baf0084736a8ee1a8b9d15b9797e272c3ca14045eab402e64",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=43&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:34:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:34:12+00:00",
+ "status": "done"
+}

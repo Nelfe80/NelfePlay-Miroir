@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "zombies-ate-my-neighbors",
+ "title": "Zombies Ate My Neighbors",
+ "source": "screenscraper",
+ "ss_game_id": 19248,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 19248,
+  "release_year": 1993,
+  "publisher": "Konami",
+  "developer": "LucasArts",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Zombies",
+   "genre": "Tir",
+   "synopsis": "Zombies (ou Zombies Ate My Neighbors) sur Super Nintendo est un jeu d'action où il est possible d'incarner un garçon (Zeke) ou une fille (Julia). Il faut sauver un maximum de gens au cours de la cinquantaine de niveaux du jeu tout en combattant les vampires, momies et autres zombies. Plusieurs armes sont disponibles dont un pistolet à eau et un bazooka. Un mode coopératif permet de faire l'intégralité du jeu avec un ami.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Zombies Ate My Neighbors",
+   "genre": "Shooter",
+   "synopsis": "In the game you are a male or female protagonist (Zeke or Julia), fighting the vampires, mummies, zombies, etc. on over 50 levels (not including secrets) and saving all of the people you find. There are defined number of neighbors you save on every level. When they are free then \"Exit\" door opens and you jump on next level.The levels differ from mall and grocery store to beaches and football fields. Using different weapons such as bazooka or water gun you have to kill the bosses such as huge babies, dragons or ants at the end of levels. You can play the game with two players cooperatively.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f2ba27720d6bb479afb3e2fcb0cd4b0e38991fe12de93fa18da89ca5c72dc069",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19248&media=fanart",
+   "fetched_at": "2026-11-07T20:24:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "13839e0f78c69ef65bf463a48bc9ec28f3ba265f887eedb4ea248afe859bd178",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19248&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:24:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f8e38d2c23fa3348c481e7e5340f81e40d3a27556b30b26bafa63677849cc359",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19248&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "57a6c6e38bba50ca5bfef850e9b005c98f1a9d844894c04e866f4c948c85a61f",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19248&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "49506620ee9554d4396a3b481be12777c92b613b10d9647c30d42b03c26f852c",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19248&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:24:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "54a1324a32c995802d2c5bcc2259b781e59f16e879c9ce8efee8339a57d583a3",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=19248&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:24:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:24:24+00:00",
+ "status": "done"
+}

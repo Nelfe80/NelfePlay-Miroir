@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "space-attack",
+ "title": "Space Attack",
+ "source": "screenscraper",
+ "ss_game_id": 87882,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87882,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "M Network",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Space Attack",
+   "genre": "Simulation",
+   "synopsis": "Le but du jeu est de défendre votre vaisseau mère contre les extraterrestres. Vous avez 3 escadrons, avec 3 navires dans chaque escadron. Les étrangers ont 6 flottes de différentes tailles. Détruisez toutes les flottes extraterrestres et vous gagnerez !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Space Attack",
+   "genre": "Simulation",
+   "synopsis": "The object of the game is to defend your Mother Ship from attacking aliens. You have 3 squadrons, with 3 ships in each squadron. Aliens have 6 fleets of varying sizes. (Only 3 fleets appear at a time on the Radar Screen.) Destroy all alien fleets and you win! If your squadrons are destroyed first, the aliens move in and annihilate the hidden Mother Ship.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "cd0aa1a9160aa9b5f36a73ec2d8d8aad9bf2cae9533718a249ea2e735c4d02c9",
+   "width": 400,
+   "height": 46,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87882&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:04:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "268867c2ba3e304cf51df23590c7a85f884518e3f430875a6845c4a63bf4b62e",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87882&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "814dd933c58619c118e78512d9e356eb7d2e75c76b690c6c8e035a0f91182b72",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87882&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:04:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "34c52fbdbf5a69d356d1c29ac5fc8f4490ac3398ff9a33fe9722cb77328f2f1a",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87882&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:04:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "54b6e4da1c25e53f90f56fafb62842554dd35b21363611a6abb44a04fc486dae",
+    "width": 320,
+    "height": 201,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87882&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:04:28+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:04:21+00:00",
+ "status": "done"
+}

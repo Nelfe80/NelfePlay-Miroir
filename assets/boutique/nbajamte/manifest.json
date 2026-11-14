@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "nbajamte",
+ "title": "NBA Jam Tournament Edition",
+ "source": "screenscraper",
+ "ss_game_id": 79060,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 79060,
+  "release_year": 1994,
+  "publisher": "Midway",
+  "developer": "Midway",
+  "players": "1-4",
+  "system_label": "Midway Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "NBA Jam Tournament Edition",
+   "genre": "Sport",
+   "synopsis": "NBA Jam Tournament Edition est une version \"mise à jour\" de NBA Jam, sorti un an plus tôt. Se reposant sur la même base de gameplay arcade que son illustre aîné, cette nouvelle mouture propose néanmoins quelques nouveautés : un roster mis à jour, basé sur la saison 1994-1995 de la NBA, et quelques ajustements de gameplay; parmi lesquels : un rythme de jeu plus rapide, des équipes de 3 joueurs (au lieu de 2 dans le jeu précédent), de nouvelles caractéristiques propres à chaque joueur, l'apparition d'une jauge de fatigue, ainsi que la possibilité d'effectuer des remplacements à la mi-temps des matchs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "NBA Jam Tournament Edition",
+   "genre": "Sports",
+   "synopsis": "An update of the classic 'NBA JAM'. New players, new features but still the same classic gameplay.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2593c1aead1576fa305e4471715a7a6f16f89d31a4286b783f83c96420fde1c7",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=fanart",
+   "fetched_at": "2026-11-06T23:46:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b55b103943949c6a844d83be2c9fea7505029516d142f824fd1388372d807c21",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:46:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7efaae2cb1a55fa6cd302c1a7ccecd7d240abe1a86394cd2bb8c015ea5106420",
+   "width": 841,
+   "height": 1103,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:46:44+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d0a4f43e97572042468e4443e79e4a220fcefd126c12916baecfde1bdca90d1a",
+   "width": 611,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:46:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "095610e66365bc425f9c80307008dde028c6ae3e6460be1c1b66cf7f0f820018",
+   "width": 400,
+   "height": 254,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:46:46+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "f3b6844b7d2447c5428cfaa8609bb8c121976f128ff75e2f4995b4a92c5b6581",
+   "width": 850,
+   "height": 1107,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:46:47+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "71c3bd1e1000b78c88c3b668c9f9cc24ca597add6c5284a6b50f2b9919251eaf",
+    "width": 395,
+    "height": 254,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=150&jeuid=79060&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:46:49+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:46:39+00:00",
+ "status": "done"
+}

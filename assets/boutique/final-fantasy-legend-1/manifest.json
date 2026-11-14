@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "final-fantasy-legend-1",
+ "title": "Final Fantasy Legend 1",
+ "source": "screenscraper",
+ "ss_game_id": 3017,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3017,
+  "release_year": 1990,
+  "publisher": "Square",
+  "developer": "Square",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "The Final Fantasy Legend",
+   "genre": "Jeu de rôles",
+   "synopsis": "The Final Fansasy Legend est un jeu de rôle sur Gameboy. Le titre vous permet de choisir entre 8 personnages différents (humain ou humaine, zombie, mutant ou mutante) et de partir à l'aventure. Au fil des combats votre personnage évolue et acquiert de nouvelles compétences. Vous pouvez choisir les membres de votre équipe au fur et à mesure que vous rencontrez des personnages.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Final Fantasy Legend",
+   "genre": "Role Playing Game",
+   "synopsis": "The first 'Final Fantasy' title on the Game Boy, Legend allows you to choose from 8 different characters, from the usual human male or female to zombie, wererat, redbull (not the drink), clipper or mutant male or female. No matter which you choose, the goal stays the same: Increase your experience points and abilities by defeating many varied enemies through-out the land.\n\nMuch like the FF series of old (and new), you can choose members to join your party and the quest that lies ahead (either warriors, mutants or creatures). Every character has a limit to the amount of moves available during every battle and experience points are gained after each fight, increasing stamina, power, etc.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f3c57061dcba21b211f72770036c46d569b2003a8aaab987bc0bf79086dc3341",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=fanart",
+   "fetched_at": "2026-11-07T01:02:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "35ab9ea976cdeb1539eb0672eabfbd97ed1e7cdd0bd9d595e5a32e80ddff1e91",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:02:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4cf314ace9425c6d2b7dbf6a506a9ba811d5af517acf1db50793e8210ed28199",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:02:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "41f30177c0ada5f740eaebfff5c01bef4fe9ab943ecc4f1b3422e13a7357954d",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:02:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e8eb1318f1a080d0d36675bc18d9fefd8a7a56e6109882d8970036c85bdc8204",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:02:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "caac8f0358d33cc4187944094225f955ea6336055b4a702d55d2506306e4717d",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:02:54+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "6a086eb5852c5e2278b5bab23adc7a93c5f1c8c8d25c79bc8bdfd71de07c43b7",
+    "width": 160,
+    "height": 144,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3017&media=ss%28jp%29",
+    "fetched_at": "2026-11-07T01:02:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:02:46+00:00",
+ "status": "done"
+}

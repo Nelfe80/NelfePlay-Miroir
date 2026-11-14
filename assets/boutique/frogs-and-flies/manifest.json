@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "frogs-and-flies",
+ "title": "Frogs And Flies",
+ "source": "screenscraper",
+ "ss_game_id": 51228,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 51228,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "Mattel Electronics",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Frogs and Flies",
+   "genre": "",
+   "synopsis": "Le but du jeu est de faire attraper des mouches par les grenouilles. Les points sont gagnés en manipulant une grenouille afin qu'il saute d'un nénuphar et ramasse les insectes volants avec une langue clignotante. Sautez-le trop tard et vous manquerez. Sautez-le trop loin et il atterrira dans l'étang. Vous devrez attendre qu'il revienne à la nage avant d'essayer à nouveau. Action de jour et de nuit. Attrapez plus de mouches qu'un adversaire. Ou battez votre propre meilleur score!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Frogs and Flies",
+   "genre": "",
+   "synopsis": "The object of the game is to make frogs catch flies. Points are won by manipulating a frog so that he jumps off a lily pad and scoops up flying insects with a flashing tongue. Jump him too late and you'll miss. Jump him too far and he'll land in the pond. you'll have to wait for him to swim back before trying again. Day & night action. Catch more flies than an opponent. Or beat your own top score!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "24085d4f73870e66aec0fd4ebdff2608275749871e408ee72c128bceb40ea4bf",
+   "width": 400,
+   "height": 40,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51228&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:54:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0ac47612b5252e448c603027951c97a8e30633e972504d53b9fb1544903ebee9",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51228&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:54:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "77358240794b26756551b9c6f2f13e6c2ab03da1aa86d5db55964fd673cffea2",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51228&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:54:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d490398b9e1c409d5b5c3f23f55d40cd12d28d9e96bf877eecf673b8812b8c35",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51228&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:54:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "09d0cb318d915d8522f28ddddde088ca2f15a3dfb38a1390bf5fddc7b91911eb",
+    "width": 320,
+    "height": 194,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51228&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:54:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:54:43+00:00",
+ "status": "done"
+}

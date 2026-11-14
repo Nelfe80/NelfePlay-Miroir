@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "slug": "baseball-stars-2",
+ "title": "BASEBALL STARS 2",
+ "source": "screenscraper",
+ "ss_game_id": 13951,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13951,
+  "release_year": 1992,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Baseball Stars 2",
+   "genre": "Sport",
+   "synopsis": "Devenez le roi de la batte dans Baseball Stars 2 sur Neo-Geo. Cette simulation de sport agrémentée de quelques images rappelant les comics américains vous permet de tester votre capacité au homerun. Défiez les équipes adverses dans des matchs épiques qui parfois se terminent à coups de poing, litige oblige. 18 équipes vous attendent, réparties en deux ligues correspondant à deux niveaux de difficulté.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Baseball Stars 2",
+   "genre": "Sports",
+   "synopsis": "This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.\n\nThe standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "81931470af2fcd05a8ef5ab21d3913c34ff55327c00691af9628f6a42f141e04",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=fanart",
+   "fetched_at": "2026-11-06T15:28:24+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a9d97c258d1871f296b5aafb75c9d32ab9f32c5e971af43ea545cb2600338f7f",
+   "width": 600,
+   "height": 244,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:28:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "441032be9922be77aaf20f9f61568a0a7d7fd215a6d070b6b89242cc344737d6",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:28:27+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c4f1fa67a937558155af807d23c28cf23a513dea1fe9e603ea2e6087096e5554",
+   "width": 600,
+   "height": 437,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:28:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4b3ccad44b2d022cb3658f8cc733557d39c29e306c3d79f1e97b260c8c870d61",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:28:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "9d82d4267dcf2c492fccee439f5147074f9434107cafe24fd340be052b5f1915",
+   "width": 850,
+   "height": 1211,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:28:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2baccc5fd041a4aab313a080cb09910b04d936fea43897efb792584caf8a1684",
+    "width": 304,
+    "height": 224,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=ss%28us%29",
+    "fetched_at": "2026-11-06T15:28:32+00:00"
+   },
+   {
+    "file": "ss2.webp",
+    "sha256": "487ae072133cebd8b97f358894f65d2c08443292d48a2ca386565853169df82c",
+    "width": 304,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13951&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T15:28:34+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:28:23+00:00",
+ "status": "done"
+}

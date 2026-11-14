@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ikari-iii-the-rescue-nes",
+ "title": "Ikari III: The Rescue",
+ "source": "screenscraper",
+ "ss_game_id": 1694,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1694,
+  "release_year": 1991,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Ikari III : The Rescue",
+   "genre": "Beat'em All",
+   "synopsis": "Ikari III : The Rescue est un jeu d'action sur Nes. Dans ce troisième opus de la série des Ikari Warriors la fille du président a été capturée et c'est à vous qu'incombe la tâche de traverser les lignes ennemies pour la sauver. Vous commencez le jeu à mains nues mais vous trouverez de nombreuses armes au cours de la partie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ikari III : The Rescue",
+   "genre": "Beat'em Up",
+   "synopsis": "The presidential candidate's daughter has been kidnapped! It is your job to get past enemy lines and rescue her. This is the third game in the Ikari Warriors series, and features similar arcade/action gameplay. The screen is a top down view which scrolls vertically, with numerous bad guys to defeat. You start the game with just your fists, and as the levels progress you can find weapons and other objects to help you out.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e5f79709126dfd5360569bcb46a8130d0823c3cdf3886ce8a1ffcfd66c79f27b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1694&media=fanart",
+   "fetched_at": "2026-11-07T20:22:00+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5784c3fdf5505e07bb00b7e18124aced1b01e298f8ebeabdc208036780423a94",
+   "width": 600,
+   "height": 170,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1694&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:22:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7cc7325264a46b1e2c05e6c60bf24b130333b050c9dbc178877f5e015eb117a1",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1694&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:22:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ff91760cd01b8c8549052c913f8d1de090b20ab1edd3133315d2f93b907bc73e",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1694&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:22:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "732befd53a16db3480ccf8488cceed8304319054bbbb3f83fe62f4d5413a17e9",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1694&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:22:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "43fb5f7c0e81efe9ee7860ac7ed2771a581a431d7ac2c1bb1e2e1b72ec11ac65",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1694&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:22:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:21:59+00:00",
+ "status": "done"
+}

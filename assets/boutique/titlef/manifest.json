@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "titlef",
+ "title": "Title Fight",
+ "source": "screenscraper",
+ "ss_game_id": 43630,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43630,
+  "release_year": 1990,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Title Fight",
+   "genre": "Sport",
+   "synopsis": "Jeu de boxe arcade où le protagoniste voit au travers de son boxeur en transparence qui a les contours surlignés. Le joueur contrôle les coups de poing, les blocages et les esquives du boxeur avec deux joysticks.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Title Fight",
+   "genre": "Sports",
+   "synopsis": "Boxing arcade game where the protagonist is see-through and outlined. The player controls the boxer's punches, blocks, and dodges with two joysticks.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "474f9ad0b6d76a52eda8df9d838c0a295814ce99b47af5cf39b542d615de606f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=fanart",
+   "fetched_at": "2026-11-06T23:49:38+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "9ebbc2bac3509628d3230994cfeb446e600b8172624ccee4fb4b30d33c7b2c9f",
+   "width": 400,
+   "height": 87,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:49:39+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4d00ed8937bebc2285d5ff253a910a3c2061742d19023fe2e6253fa546c62ecc",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:49:41+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e16aa2703e2d2e199e057834f49d708c486d68d9bf3c4cb78baefedd2dad7c3a",
+   "width": 834,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:49:42+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "594787ac5b739a07ed3438f8a29e20bb12cea3ff746495352dff148f3575b05b",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:49:43+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "c722ca45a3db658a65e7f0c3756d52568ea97ff6df46b80b50c36dee45f1c697",
+   "width": 850,
+   "height": 1100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:49:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d8ac6808a3af48971a0e9eaddff6e543323c34347764d8fb2a9ed0333038acc1",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=43630&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:49:47+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:49:36+00:00",
+ "status": "done"
+}

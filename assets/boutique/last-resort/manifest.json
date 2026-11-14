@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "last-resort",
+ "title": "LAST RESORT",
+ "source": "screenscraper",
+ "ss_game_id": 13957,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13957,
+  "release_year": 1992,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Last Resort",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Dans un futur lointain, les hommes ont colonisé l'espace. Un virus d'origine inconnue a pris possession de la plupart des intelligences artificielles, les retournant contre l'humanité avec pour unique but de l'anéantir. Vous incarnez l'un des pilotes de l'opération Last Resort dans ce jeu sur Neo Geo, dernier espoir pour les humains.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Last Resort",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3fdbaa5736af7a6c8fa5252f6bc6491b8791404c938669380fd3dc7149f7b37b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=fanart",
+   "fetched_at": "2026-11-06T15:37:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7170f52e5531292888d7661afb40b3c3860b215eaf92b8b5fc21fd194e3b3a51",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:37:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4017e5558f3a32a52eaba0471887c65b2dc8749f3c8e94390f9e4f41b6309732",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:37:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eb51ff982e072e0396d77cd0de90dd957bd567effedb1855ddfc7147d3389bc2",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:37:07+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d156a78abf419143b7d2b6a93028a99fa47c89ccb08ef8684c6fdda6ddfd58ee",
+   "width": 304,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:37:08+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "83297195367194fddfa5dc2f9fa62b8e10381ec58eec09b13bf3cea4f7d8cc87",
+   "width": 834,
+   "height": 1154,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:37:10+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ce26ae79618b6214a7d404569d40ddd5827ede722b8e546bae00c895ac417017",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13957&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:37:11+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:37:02+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-iii-radical-rescue",
+ "title": "Teenage Mutant Ninja Turtles III: Radical Rescue",
+ "source": "screenscraper",
+ "ss_game_id": 70769,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 70769,
+  "release_year": 1993,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles III : Radical Rescue",
+   "genre": "Action / Aventure",
+   "synopsis": "Teenage Mutant Hero Turtles III: Radical Rescue est un jeu vidéo de plates-formes développé et édité par Konami sur Game Boy en 1993. Le jeu s'inspire des séries d'animation télévisée Les Tortues ninja.\r\n\r\nLa jeune et jolie journaliste April O'Neil a encore été kidnappée. Seulement Shredder et Krang ont aussi kidnappé les tortues quand elles étaient en train de dormir dans les égouts. Toutes sauf une, Michelangelo était parti chercher des pizzas. C'est donc lui seul qui se met à la recherche de ses frères et de son amie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles III : Radical Rescue",
+   "genre": "Action / Adventure",
+   "synopsis": "The player begins the game by taking control of Michaelangelo, who must rescue the other turtles, along with Splinter and April O'Neil, who have been kidnapped by Shredder.[2] Unlike other games based on the franchise, this is a scrolling action-adventure game reminiscent of the Metroid and the later Castlevania: Symphony of the Night. Each turtle has a different ability which is necessary to finish the game. Michaelangelo can hover using his nunchakus as a helicopter, Leonardo can drill the floor by spinning with his katana, Raphael can hide himself inside his shell to enter passages that are otherwise too small to enter, and Donatello can stick to and climb walls.\r\n\r\nThe bosses are Scratch, Dirtbag, a Triceraton, Scale Tale, and Shredder (in this game known as Cyber-Shredder).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a2fb240cf1ddea1b97738acba1ef3d4e5b36f0291b7623d3cdc58e251487f10c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70769&media=fanart",
+   "fetched_at": "2026-11-06T17:30:41+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5e30a01184c1121b5ae36540ef749394dec9f4acb7c1a1516057e7765c8fa2e6",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70769&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:30:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "944ee2113bd584b16f76d8245a3ef36067ef823c3f476efe525b17f83f42c96e",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70769&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:30:44+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "17c2f1ecb68df42bf8efb82d8de78b373a8a4eb60938bafda511606b6846ea28",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70769&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:30:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "81edbb853c4e09ba7591ca6c569d4c8560f97b0808e64e3114ef0c67a36c5569",
+   "width": 160,
+   "height": 144,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70769&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:30:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8199c9bac9837451b5c871bb7a0cf5c35056c588240e2c5fe45d9c389389b444",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70769&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:30:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:30:40+00:00",
+ "status": "done"
+}

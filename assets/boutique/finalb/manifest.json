@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "finalb",
+ "title": "Final Blow",
+ "source": "screenscraper",
+ "ss_game_id": 41225,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41225,
+  "release_year": 1988,
+  "publisher": "Taito",
+  "developer": "Taito",
+  "players": "1-2",
+  "system_label": "Taito Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Final Blow",
+   "genre": "Sport",
+   "synopsis": "Final Blow propose un championnat de boxe en une seule saison. Vous pouvez choisir parmi un groupe de combattants fictifs.\r\nLe jeu est essentiellement un jeu de boxe à défilement latéral où le joueur se déplace vers la gauche et la droite pour contrôler un boxeur. Lorsque le moment est opportun, le joueur peut déclencher un coup de poing final qui peut parfois mettre KO l'adversaire en une seule frappe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Final Blow",
+   "genre": "Sports",
+   "synopsis": "Final Blow features a single season boxing championship run. You can select from a group of fictional fighters.\r\n\r\nThe game is essentially a side scrolling boxing game where the player moves left and right to control a boxer. When the timing is right, the player can unleash a final blow punch which can sometimes KO the opponent in a single strike.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c380cd3c2fcef5f16f3277afa4e1ff8d4ed386d31d7a4911dddb0e06c7eb66f8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=fanart",
+   "fetched_at": "2026-11-06T23:52:22+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "d21b00b3b04da4b13b2a8a6fbb8098b23ba8228b4db9ac698b5b751aa0ae029f",
+   "width": 400,
+   "height": 127,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:52:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "05b91d21c864668edfb84ffbb16d2622d4e8a86ed866f8bbb72af25525329c6e",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:52:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7dbc10f2c4b90b3cb20dcf6c2d3440655ea735eed90a6c4ebe3d01e29c7b0001",
+   "width": 450,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:52:27+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "52b50ba5bbead2efc646f26a2fa98a452b6f57e904b464d505ed6aa9180771c4",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:52:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "da92ffe602d86432a9fc21775a49fe9ecd8a159f654caee6a3e9fec81a8417d2",
+   "width": 850,
+   "height": 1196,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:52:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cb6b12d36b6aa1f7f9129919e423517f76b4225c2c8d811539938c530cd370c4",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=41225&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:52:32+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:52:22+00:00",
+ "status": "done"
+}

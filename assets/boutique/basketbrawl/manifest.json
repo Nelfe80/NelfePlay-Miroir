@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "basketbrawl",
+ "title": "Basketbrawl",
+ "source": "screenscraper",
+ "ss_game_id": 38001,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38001,
+  "release_year": 1990,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Basketbrawl",
+   "genre": "Sport / Basketball",
+   "synopsis": "Dans une tentative désespérée d'arrêter les guerres de gang des centres-villes, les dirigeants de la ville ont organisé une ligue de basket-ball. La ligue est prévue de se jouer sur trois terrains: une rue, un junkyard, et un toit. Le maire a estimé qu'un jeu amical de cerceaux serait un moyen beaucoup plus pacifique de régler les différends. Il s'est trompé.Vous pouvez choisir les modes de jeu 1-contre-1 ou 2-contre-2. Il y a six caractères à choisir (dix en version Atari Lynx); chacun avec leurs propres attributs de santé, de vitesse et de puissance. Chaque joueur sans la balle peut sauter pour bloquer un tir ou frapper son adversaire pour obtenir le ballon. Il y a aussi une option pour effectuer un jet de puissance sur un joueur adverse. Les joueurs avec le ballon peuvent tirer ou passer. Les power-ups apparaissent sur le terrain de manière aléatoire. Ceux-ci alimentent un attribut pour le joueur. Par exemple, la puissance de la foudre augmente la vitesse du joueur. L'arbitre ne siffle pas les fautes, mais lance les couteaux aux joueurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Basketbrawl",
+   "genre": "Sports / Basketball",
+   "synopsis": "In a desperate attempt to stop inner-city gang wars, the city leaders organized a basketball league.  The league is scheduled to play on three courts: a street, a junkyard, and a rooftop.  The mayor figured that a friendly game of hoops would be a much more peaceful way to settle disputes. He was wrong.\n\nYou can choose 1-on-1 or 2-on-2 game modes. There are six characters to choose from (ten in Atari Lynx version); each with their own health, speed, and power attributes. Each player without the ball can jump to block a shot or punch there opponent to get the ball. There's also an option to perform a power throw on an opposing player. Players with the ball can shoot or pass. Power ups appear on the court at random instances. These power up one attribute for the player. For example, the lightning power up increases the player's speed. \n\nThe referee does not call fouls, but does hurl knives at the players.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "89e1391616c37b8711bd13964ab06b0f9c875ee9801d92dcf495d97665683567",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38001&media=fanart",
+   "fetched_at": "2026-11-06T16:48:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8cee6d984089112b3d94c2327cc0dba3068538eba36885e2902bb3a4e13e2ddb",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38001&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:48:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b2b5ef077384affb96128d5e3eabe1ee2176b7f5a1f743b6d70fa4c04fb2ec2f",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38001&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:48:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0efb3a4e9cd4df7a5a5a0c11af7b80657d3404acbdda26a3c2f15af98366c81d",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38001&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:48:48+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "461081e4369d111444a27a427d7d0b1b979f299ecd2130cdfa2d75bcb8f197a0",
+   "width": 320,
+   "height": 223,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38001&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:48:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "54a7d39e29d0179372a0aa6fad8d710d58b73182cc67ac90c2f4e5c454d9fab3",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38001&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:48:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:48:43+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "circus-atari",
+ "title": "Circus Atari",
+ "source": "screenscraper",
+ "ss_game_id": 14134,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14134,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Circus Atari",
+   "genre": "Aventure",
+   "synopsis": "Circus pour Atari VCS 2600 est un jeu d'action développé par Atari. Le but du jeu est de détruire les ballons en haut de l'écran. Pour cela, le joueur doit déplacer sa balançoire à bascule afin d'envoyer un clown en l'air. Plus le joueur explose de ballons, plus il gagne de points. La partie se termine quand le joueur a perdu les 5 clowns mis à sa disposition.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Circus Atari",
+   "genre": "Adventure",
+   "synopsis": "Pop the balloons and score points. A wall of red, blue and white balloons will appear at the top of the screen. You must pop balloons by catching a clown on the teeter-totter and bouncing him up to the balloons. Use the controller to move the teeter-totter across the screen to catch the clowns. Each time a clown pops a balloon, the balloon will disappear and you score points. Each player receives five clowns or turns. If you fail to catch a clown on the teeter-totter he will crash and disappear from the playfield. Press the controller button and another clown will bounce off the trampoline from the right or left corner of the playfield. After five clowns have crashed the game is over. The clowns may land on any point on the teeter-totter except where the other clown is sitting, which causes them to crash.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5607b468d33d6ee6172342d8197c8efc9a138b2c81b262d5975e4f6504796c7d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14134&media=fanart",
+   "fetched_at": "2026-11-06T16:50:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "18e7301a57d07a230668d19c82d5d057acb01d072474f7c021dba6e66dbec412",
+   "width": 400,
+   "height": 56,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14134&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:50:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "be6acc1e1ace6880b41f63cd6892a3e9faa44f371b27a2a1f4294a15faa8623a",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14134&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:50:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5b35e8dce57b61e5d56d9eeb1d96f551139e251ee2417bcaadd9394e78389ea9",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14134&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:50:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d9f16ba6f60768076accded7727c5689c6adb8cf1f6e9f20bb35ed52b0ac9a28",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14134&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:50:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fba0f1e257b7f58c7f62af705c98396fe8f183af5ab841aaedcd9ad6eea1ca15",
+    "width": 320,
+    "height": 190,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14134&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:50:52+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:50:43+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "batsugun",
+    "title": "Batsugun",
+    "source": "screenscraper",
+    "ss_game_id": 40163,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 40163,
+        "release_year": 1993,
+        "publisher": "Toaplan",
+        "developer": "Toaplan",
+        "players": "1-2",
+        "system_label": "Toaplan"
+    },
+    "text": {
+        "fr": {
+            "name": "Batsugun",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "Considéré par beaucoup, et à juste titre, comme le père des manics shooter, il en possède en effet toutes les gênes: profusion des boulettes adverses, tir du vaisseau (au choix parmis 3) qui ravage tout l'écran et hitbox limitée à 2 ou 3 pixels. Le développeur, Toaplan, est en fait l'ancien Cave... avis aux connaisseurs! A ce titre on retrouve d'ailleurs 1 vaisseau avec un tir concentré ou évasé selon la pression sur le bouton, marque de fabrique des Donpachi. Ce shmup est difficile mais génial!\r\nPS: il existe une \"special edition\" avec une smart bomb plus impressionnante et destructrice et une hitbox encore plus petite.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Batsugun",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "A vertically scrolling shoot'em up game. As is the standard with most arcade shooters, the player controls their ship with a joystick and two buttons. One button (Fire) shoots the main guns, and the other button (Bomb) releases a smart bomb that spreads huge energy balls all around the player's ship.\r\n\r\nAs enemies are destroyed, the player gains experience points that are separate from the score. For every 288 experience points gained, the main gun will 'level up', becoming much stronger. This is analogous to experience points and leveling up in role playing games. The weapon can only level up twice, so after it has achieved its maximum level, 288 experience points will grant the player an extra bomb.\r\n\r\nThe player can also grab P icons to increase the power of the current level gun. A maximum of five \"P\"s can be collected per experience level; getting more after this gives extra points instead.\r\n\r\nCollecting B icons increases the number of bombs, to a maximum of 7.\r\n\r\nApart from destroying enemies, points can be gained from collecting golden V-shaped medals. After the level is finished, 3000 points are awarded for every small one, and 5000 points for every large one. If the player's ship is destroyed during a level, all medals collected are lost.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "14e920e7220beba1512b24ab121c39c26def29275321f564b7eccd774299771f",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=40163&media=fanart",
+            "fetched_at": "2026-11-09T22:10:45+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "f0306d691070adba86c9aafff28bc2682f02c9503da23665a91185cf775fb358",
+            "width": 400,
+            "height": 157,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=40163&media=wheel%28wor%29",
+            "fetched_at": "2026-11-09T22:10:46+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "dd6df782617dc3515ea5ec24535fd74bec30d522f44725d81e190e0bd3d25f74",
+            "width": 496,
+            "height": 680,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=40163&media=box-2D%28jp%29",
+            "fetched_at": "2026-11-09T22:10:48+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "c3d310bae0944d93de6ba1008536709ed4d6f00b0465eea6f164e710cc716f15",
+            "width": 240,
+            "height": 320,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=40163&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:10:49+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "83f1bceb0465504298c4f9aed6d9c31347087dfd4aa243934cbc03d30b81d370",
+            "width": 900,
+            "height": 1249,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=40163&media=flyer%28us%29",
+            "fetched_at": "2026-11-09T22:10:51+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "14a44820d9dd034290a3eed669091c5b1ec074fde2a96b85190100ea81590bf4",
+                "width": 240,
+                "height": 320,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=40163&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:10:52+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-09T22:10:44+00:00",
+    "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "centipede-atari7800",
+ "title": "Centipede",
+ "source": "screenscraper",
+ "ss_game_id": 38004,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38004,
+  "release_year": 1987,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Centipede",
+   "genre": "Tir / Space Invaders Like",
+   "synopsis": "Jouer un exterminateur chargé de détruire les envahisseurs. À l'aide de votre arme, vous devez détruire les vagues de Centipèdes (mille-pattes) qui descendent vers vous du haut de l'écran. Des champignons sont éparpillés sur l'écran, et le Centipède descend d'une ligne chaque fois qu'il rencontre un champignon. Vous devez également éviter et détruire les araignées, les puces et les scorpions, et faites attention aux champignons empoisonnés qui pourraient faire descendre le Centipede en spirale à votre niveau. Détruisez le Centipède pour avancer à la prochaine vague...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Centipede",
+   "genre": "Shooter / Space Invaders Like",
+   "synopsis": "You live in an enchanted Mushroom Patch filled with bothersome bugs with magical powers that move through it towards you. As the Centipede marches back and forth across the screen, it bumps into mushrooms forcing him to move down the screen at great speed. You are the bug blaster, you must destroy each segment of the Centipede before it reaches the bottom of the screen and destroys you. Beware the segments can break up into many new Centipedes.\r\n\r\nWhen an entire Centipede is destroyed, a new one attacks from the top of the screen. The jumping spider is not blocked by mushrooms and can jump over them. She clears every mushroom she touches. The poisonous Scurrying Scorpion dashes across the patch without warning, poisoning any mushroom it touches. When a Centipede touches a poisoned mushroom it goes insane and charges directly towards you and your blaster. The Frenzied Flea may create a mushroom wherever he lands but his deadly bite will destroy your blaster if he touches you.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cfaea3d5a38b32a25ffe3ffde1b5dd4aecdfaf6855c4b1af34415b661348ca97",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38004&media=fanart",
+   "fetched_at": "2026-11-06T16:50:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9145bd00a6d8bd18c9f89695034646c240afe631b83c84c9f289c4e534626908",
+   "width": 600,
+   "height": 260,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38004&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:50:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0b55ea6bf70557528475e70fa0881cf01a858eea58997e3f51171b1fcd27ef03",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38004&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:50:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6d55deda22d60a0758efd1543d9e0e82af8416e757390598e2f289f868c9a4e0",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38004&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:50:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a0e7983c93b87e70f7fdd6e4a28b519329ffd0343ca03e1e6878472f6e9e7b2a",
+   "width": 320,
+   "height": 225,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38004&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:50:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a208e618b1f71014e5a4a148e91ea540bb33417f186b829259109e940b450eac",
+    "width": 320,
+    "height": 225,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38004&media=ss%28us%29",
+    "fetched_at": "2026-11-06T16:50:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:50:32+00:00",
+ "status": "done"
+}

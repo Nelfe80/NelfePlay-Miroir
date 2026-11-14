@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "faceball-2000",
+ "title": "Faceball 2000",
+ "source": "screenscraper",
+ "ss_game_id": 3712,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3712,
+  "release_year": 1991,
+  "publisher": "Bullet Proof Software",
+  "developer": "Xanth Software",
+  "players": "1-4",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Faceball 2000",
+   "genre": "Tir / 1ere Personne",
+   "synopsis": "Faceball 2000 sur Gameboy est un jeu de tir à la première personne dans lequel vous contrôlez un smiley qui doit tout bêtement en éliminer d'autres. Vous évoluez dans des environnements clos, dans une 3D réduite à sa plus simple expression. Le mode Single Player consiste à trouver la sortie tout au long des 70 niveaux. Le multijoueur est aussi possible, en connectant plusieurs Game Gear.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Faceball 2000",
+   "genre": "Shooter / FPV",
+   "synopsis": "Faceball 2000 is a first-person shooter.  You control a H.A.P.P.Y.F.A.C.E., or Holographically Assisted Physical Pattern Yielded For Active Computerized Embarkation. The graphics consist of flat shaded corridors. Enemies are all simple geometric shapes with smiley faces on them. Although the graphics are simple, they allow for full freedom of movement, not unlike Wolfenstein 3-D.\n\nThere are two modes of play. First there is a single player mode in which your goal is to find the exit to each level.  There are 70 mazes in this mode. The second mode is the multiplayer arena. For the Game Boy: up to 4 Game Boys can be linked together in this mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0823481a0471e2c4fb588bf3a210840615d6aecac86eb084da8305cb4c7ac124",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3712&media=fanart",
+   "fetched_at": "2026-11-07T20:27:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "fed996eaddb23cd8909aa4c990a3d9ad4b813f57a5b1b895494b381d1d4351e8",
+   "width": 600,
+   "height": 200,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3712&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:27:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ee66f34614fd856f58b646f703f42dcd962f43392091a907356f9302ab037d8f",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3712&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:27:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e6b9ef4c8cfaf83d402c595bce6fb7d977fb7b04e3d53748063f0917865febde",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3712&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:27:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d97dba213ff29443f9b2800d5bf2da9bdca57fd8b2e676be8816acc083662e55",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3712&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:27:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "218377bf2fc9d7935bcfbe1acc5bfae8cb8b19e63ef40885901e829c3818b13d",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3712&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:27:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:27:30+00:00",
+ "status": "done"
+}

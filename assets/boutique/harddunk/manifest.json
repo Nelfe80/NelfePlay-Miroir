@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "harddunk",
+ "title": "Hard Dunk",
+ "source": "screenscraper",
+ "ss_game_id": 41630,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41630,
+  "release_year": 1994,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-6",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Hard Dunk",
+   "genre": "Sport",
+   "synopsis": "Hard Dunk est un jeu de basket-ball d'arcade à 3 contre 3. Il utilise une borne double à deux écrans et peut accueillir jusqu'à six joueurs simultanément, trois sur chaque écran. Chaque joueur contrôle son propre basketteur à l'écran à l'aide d'un joystick et de trois boutons, les autres étant contrôlés par l'ordinateur. \r\nLa vue du jeu est fixe depuis le centre du terrain, offrant une vue arrière des attaquants.\r\nLes deux équipes jouent contre le même panier.\r\nLe jeu se déroule en sept manches, chacune dans un lieu différent, et le but de chaque manche est d'atteindre le premier le score de onze.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Hard Dunk",
+   "genre": "Sports",
+   "synopsis": "Hard Dunk is a 3-on-3 arcade basketball game. The game uses a twin cabinet with two screens and can be played by up to six players simultaneously, three on each screen. Each player controls its own on-screen basketball player using a joystick and three buttons with the remaining ones being controlled by the CPU. The game's view is fixed from the center of the court showing a behind-view of the attacking players. Both teams play against the same hoop. The game consists of seven rounds, each in a different location, and the goal in each is to first reach a score of eleven.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "95a2e0b4a331a4a74c131e7ca4b2d2a6af7f5d03d8ba5a763edf4646948e1561",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41630&media=fanart",
+   "fetched_at": "2026-11-06T23:46:27+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "9773acfd4bd734da8c157f072843d36dfa3f40143cd6ff686de0c7bfe3675cd8",
+   "width": 400,
+   "height": 199,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41630&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:46:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7dd71ce4e73afba5f37574d5c5f55ea35440d449da71c2e37cf381aa22bc9823",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41630&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:46:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4a8676a1f77510680596426bac700a2f24803cbb14179329996a59bced144fcb",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41630&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:46:32+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "e20d27cea3919a62f7f4fe05be95bea04506b13621c146ecca10b2d9236f2980",
+   "width": 850,
+   "height": 1183,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41630&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:46:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "8c70663976ec30622f86712be6c6b2f7997302775a50e7c233fb3b8d238ced82",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41630&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:46:35+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:46:26+00:00",
+ "status": "done"
+}

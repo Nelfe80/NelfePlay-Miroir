@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "double-dragon-3-the-rosetta-stone",
+ "title": "Double Dragon 3: The Rosetta Stone",
+ "source": "screenscraper",
+ "ss_game_id": 40864,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40864,
+  "release_year": 1990,
+  "publisher": "Technos Japan",
+  "developer": "Technos Japan",
+  "players": "1-3",
+  "system_label": "Technos"
+ },
+ "text": {
+  "fr": {
+   "name": "Double Dragon 3 - The Rosetta Stone",
+   "genre": "Beat'em All",
+   "synopsis": "Le dernier en date des doubles dragons et aussi le dernier en qualité. Le graphisme est plus fin que ses predecesseurs. Toutefois, l'animation est juste risible enlevant toute souplesse dans la manipulation. C'est pas facile de placer un coup quand on a l'impression que le jeu rame en permanence.... sauf que ca ne rame pas. Seul originalite (mais qui ne sauve pas le titre pour autant), on peut jouer avec des personnages autres que les heros mais pas aussi charismatiques en grande partie. Ce titre est un gigantesque gachis qui n'est pas à la hauteur de ses aines qui sont beaucoup plus interessants a jouer.\r\n\r\ndommage...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Double Dragon 3 - The Rosetta Stone",
+   "genre": "Beat'em Up",
+   "synopsis": "A mysterious fortune teller warns Billy & Jimmy Lee about the rise of a powerful enemy in Egypt. Since the Lee brothers are looking for a true challenge to put their martial arts skills to the ultimate test, they agree to face this mysterious new enemy. They embark on a world quest - joining up with new allies in the process - and try to lay claim to the famous 'Rosetta Stone'.\r\n\r\nThe 3rd and final arcade entry of the Double Dragon series (not counting the later Neo-Geo fighting game based on the movie) features a completely gameplay system and graphics from the first two installments. The game can played by up to 2 or 3 players, depending on the cabinet and settings. The 3rd player takes control of a yellow-clad Lee brother named Sonny, who is exclusive to this game. Techniques from the previous games such as the hair grab and the elbow punch are gone, but new ones are added such as the belly-to-back throw and the back-to-back hurricane kick, as well as the ability to dash by tapping the joystick left or right twice.\r\n\r\nThe game features weapon shops that allows the player to purchase power-ups by inserting additional tokens. The power-ups differ between stages differ between stages and are available as followed.\r\nExtra Guys - Allows the player to control a new character who replaces the current fighter when he dies. There are three character types in addition to the Lee brothers.\r\nThe Urquidez Brothers (Roney, Sunny, Jonny) -  Tall European grapplers. They have the most energy of the four character types.  Up to three fighters can be have in reserve.\r\nThe Chin Brothers (Seimei, Taimei, Sinmei) - Chubby Chinese men with powerful attacks.\r\nThe Oyama Brothers (Masao, Kunio, Akira) - Japanese karate masters dressed in gis specializing in speedy attacks.\r\n? Tricks - The hurricane kick and the one-armed stand head butt are added to the player's move set. If the player's current character dies, then the new techniques will be inherited by the next character in reserve, if there is one.\r\nWeapons - A nunchaku or sword are given player. Only the Lees can have purchase and wield weapons.\r\nEnergy - Restores the current character's life to 150%.\r\nPower-Up - Increases the character's agility.\r\n\r\nThere are 5 stages in the game:\r\n\r\nMission 1 - America - The enemies in this stage are typical thugs and bikers. The first area takes place in a downtown area of city. After defeating the first wave of enemies, the player will enter a warehouse, where they encounter bikers that will try to run over them with their bike. The boss in this is Jim, a red-haired biker wearing a leather jacket.\r\n\r\nMission 2 - China - The enemies are martial artists that specialize in flying kicks. The stage takes place in a single level set in a countryside near the Great Wall of China. The boss at the end of level is Li Cheng-Long, a Shaolin Martial Arts expert who resembles Bruce Lee. When he's down in life, he will wield out his club.\r\n\r\nMission 3 - Japan - The enemies are samurai swordsmen. The first area takes place outside a castle, with bamboo traps and enemies coming out of walls. The second area takes place inside a castle, where the player will face a few more swordsmen before taking out on the boss, Ranzou, a ninja. He attacks with throwing stars and smoke bombs and splits into three forms when he's down on his life.\r\n\r\nMission 4 - Italy - Consists of a single level set in the ruins of a coliseum. The enemies are roman archers. After defeating most of the archers, the boss Giuliano, a man decked in gladiator armor, will attempt to run the player over with his horse. After defeating all the archers, Giuliano will dismount at the end of the level and fight the player. He wields a long hand spear and can block attacks with his shield.\r\n\r\nMission 5 - Egypt - The final stage is composed of seven levels, which includes a desert field, an underground forest, a trap room with stone pillars and giant hands emerging from the floor, a hall with a flying disc. Enemies include living tree men and rock creatures.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fa17c8f11911ee626a6a4623895312bad6cfc39c17f065cc729973c13f689295",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=fanart",
+   "fetched_at": "2026-11-06T16:33:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9ba1028c2f718d045c68bc00ffb5224551a52945d8895b65d324f6d2d9712fdf",
+   "width": 400,
+   "height": 196,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:33:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2f2dfcf399ef5e29c3fa548f5b63971db175f9db3f54544199fc04db3e6f0bf7",
+   "width": 842,
+   "height": 1092,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:33:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e02db51e38ba06c8767c03faa7d979e08ea678fbb2ccdd8bf6860a243d55dd5c",
+   "width": 460,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:34:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5fc4599a2a54639be64ba8120aabf7d04ae115973c3ff13c18101a297c6175b8",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:34:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "b86e3da538a0ef19d6a226e047aaf4cc3789ba8ae707ae6c7886223aefdfc102",
+   "width": 842,
+   "height": 1092,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:34:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "53a2feaf50bad6212c10831cd5c8e676b2253a6043b3069ef4bb6a8ab216d54b",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=40864&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:34:04+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:33:54+00:00",
+ "status": "done"
+}

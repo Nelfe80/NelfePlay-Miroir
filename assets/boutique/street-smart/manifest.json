@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-smart",
+ "title": "Street Smart",
+ "source": "screenscraper",
+ "ss_game_id": 43392,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43392,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Smart",
+   "genre": "Combat",
+   "synopsis": "Le premier jeu de combat SNK, avant Fatal Fury, avant la Neo Geo!\r\n\r\nIci, pas de coup spéciaux, pas de choix de combattant, Street Smart est le summum de la simplicité!\r\n\r\nA découvrir.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Smart",
+   "genre": "Fighting",
+   "synopsis": "You begin by choosing one of 2 fighters (either a blond guy, or a dark haired guy in karate gear). Then you are whisked away to one of many cities on the map to have a battle. The opponents are tough, but simple. This game has no special moves (and has only punch, kick, and jump buttons), and all characters have insanely high energy. So you pretty much just wail away at each other with punches and kicks until someone falls down. An ambulance will show up to haul away your defeated opponent, and a girl in the audience will come out to congratulate you",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "12e1e1d2d8fd3ff87875dc306bc502e4927b3c7b82b434b91a12f4225222e76b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=fanart",
+   "fetched_at": "2026-11-06T16:02:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a21a0b53e5272db5b85c33535778ea72a6bf3fd71a163ae1962eec89bf54c13c",
+   "width": 400,
+   "height": 168,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:02:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7b3db4d57fe3096dc4de989141c2a5b723b500659d942efebc3e6db8091a93be",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:02:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "317e701d7882a94e4241576871f1c301481e05d20fc4fe2e0e119b022d41cb8b",
+   "width": 502,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:02:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "da7c9d9d381ad94d88a953b381de5f500bba1b310ab35980d8b694e8cec9076a",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:02:21+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "43174fdb159ac6d1a246a78871e5f1cd170bed76dac2fb7d86bcf7cfc90d9612",
+   "width": 600,
+   "height": 787,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:02:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1233237451771464730ddda9b6a56c96d029a410c5823681a97844f20e261f58",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43392&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:02:25+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:02:14+00:00",
+ "status": "done"
+}

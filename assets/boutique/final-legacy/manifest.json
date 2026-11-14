@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "final-legacy",
+ "title": "Final Legacy",
+ "source": "screenscraper",
+ "ss_game_id": 44444,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44444,
+  "release_year": 1984,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Final Legacy",
+   "genre": "Simulation",
+   "synopsis": "Mélange de Wargame et d'action, dans ce jeu, vous êtes le capitaine d'un bateau de combat futuriste et votre objectif est de détruire toutes les bases de lancement de missiles ennemis et protéger les villes alliées.\n\nVous commencez par un écran de navigation sur lequel vous pouvez vous déplacer et indiquant la position des villes, bases et bateaux ennemis, suivant le type d'ennemi (Bateau, base ou missile), vous pouvez choisir le bon mode de combat (respectivement Torpille, mer-terre ou mer-air).\n\nCe jeu n'a jamais été publié, découvert en 1998, il est identique à la version Atari 8-bits sortie en 1984, mis à part des différences au niveau des contrôles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Final Legacy",
+   "genre": "Simulation",
+   "synopsis": "This is a battle on three fronts. You are the captain of the ship Legacy. Your ultimate goal is to destroy the Warmongers' missile bases but you must also protect your cities.\r\n\r\nYou begin the game in command mode. You select your other modes with the joystick. Up for navigation, down for torpedo, left for sea-to-air and right for sea-to-land.\r\n\r\nThe Atari 5200 version of this game was never released but is however mostly identical to the Atari 8-Bit version that was released.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "728182719500dbc4a194238a6929af8a53db139bbb6292249ac5f437a8b02118",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44444&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:54:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "58ba3ed35bb6aa58c37a835af4b61a44648b0a5cc0f36b3795b35c099350629c",
+   "width": 508,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44444&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:54:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9b3e7dc12bcbad85c7c66612dc1caecb801bdca3ca34e64d89d0011bba336574",
+   "width": 600,
+   "height": 552,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44444&media=support-2D%28cus%29",
+   "fetched_at": "2026-11-06T16:54:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "28ea1d677cd3e5e12a34c749d50b2e89ca6e62e88a05be3022d5de7fa1ec5e18",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44444&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:54:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "155e38e26bd4c9caa75a7c9805f2ff66215d9d25fc61f07c4a42865b62810005",
+    "width": 336,
+    "height": 225,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=44444&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:54:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:54:31+00:00",
+ "status": "done"
+}

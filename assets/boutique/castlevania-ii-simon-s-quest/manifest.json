@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania-ii-simon-s-quest",
+ "title": "Castlevania II: Simon's Quest",
+ "source": "screenscraper",
+ "ss_game_id": 1281,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1281,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania II : Simon's Quest",
+   "genre": "Aventure",
+   "synopsis": "Dans Castlevania II : Simon's Quest sur NES, le célèbre chasseur de vampires Simon Belmont doit retrouver et détruire les restes de Dracula afin de lever la terrible malédiction qui pèse sur lui. Castlevania II reprend les éléments qui ont fait le succès de son prédécesseur, en y ajoutant un aspect aventure et une alternance entre le jour et la nuit. Méfiez-vous, les ennemis deviennent plus dangereux lorsque le soleil se couche !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania II : Simon's Quest",
+   "genre": "Adventure",
+   "synopsis": "Castlevania II: Simon's Quest is the second one of three Castlevania games released on the NES. After the vampire killer Simon Belmont destroyed Count Dracula in the original Castlevania (1987), an evil curse possessed him. The only way Simon can break the count's curse is to find five of Dracula's body parts (which are mysteriously strewn throughout Transylvania) and burn them. \n\nUnlike most of the other Castlevania games, Simon's Quest does not feature the traditional stages but allows you to freely roam the land of Transylvania in the style of Nintendo's Metroid. In several towns Simon can talk with NPC's and buy items in shops, adding a touch of role-playing.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "963297a221d586628bda2e49f407983df0d9f92d1e340403c94ab1d5fe2d2477",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1281&media=fanart",
+   "fetched_at": "2026-11-07T20:23:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "dbe10bd9bdf4b19b6bd12cbdd35ecba2afabcb0e9e4f2ff1d6fdbe87ff4ecaf5",
+   "width": 600,
+   "height": 230,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1281&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:23:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "aca00f8d3435002ff97cbb02c1fb845cfb2df837a0e39083b57e82c6b47aab76",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1281&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:23:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c7c0564a0987de88b448571478cce8eeab7644c1147713000b74c7fa98e81757",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1281&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:23:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "aaf359ab3f9076d292b827e9c19455a00cb80fee07596fe8a39bd2dbac7b8c20",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1281&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:23:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d9f92804e97aef1e17837f26293c40217b23a88b0fb7abb8ba4484c2c4ff8815",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1281&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:23:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:23:14+00:00",
+ "status": "done"
+}

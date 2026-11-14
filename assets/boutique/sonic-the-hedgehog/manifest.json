@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-the-hedgehog",
+ "title": "Sonic The Hedgehog",
+ "source": "screenscraper",
+ "ss_game_id": 5,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 5,
+  "release_year": 1991,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic The Hedgehog",
+   "genre": "Plateforme",
+   "synopsis": "Franchissez le mur du son avec Sonic The Hedgehog (Sonic l'Hérisson). Crachez du feu avec la \"Formidable Attaque Supersonique\". Faites un looping en défiant la gravité. Vous pouvez même faire un tour de 360° sur vous-même dans un laboratoire circulaire. Vous n'avez jamais rien vu de tel!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic The Hedgehog",
+   "genre": "Platform",
+   "synopsis": "Sonic The Hedgehog breaks the limits of traditional video games with speed, style, and wild action. Blast through loops with the Super Sonic Spin Attack, launch through tunnels, and spin through 360-degree mazes. Gravity? Doesn't matter. Standing still? Not an option. This is a rush of speed you won't want to stop.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fca57bc0f02063c9044481f5ac3e67bdaf292dc7bf2f5db98def017523fb00e5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=5&media=fanart",
+   "fetched_at": "2026-11-06T23:45:06+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c90b6212c73b9926b5d8834f793fcdb8effef8a8949a5a39d0b68548c8b68c62",
+   "width": 600,
+   "height": 258,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=5&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:45:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c10cc03626b05793b7c80078b622798d942594afd5306b55ef59d40bb12f3be7",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=5&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:45:09+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e9cc1631fe59f6178d5de587a28b5542d8cb7fbcf3d48f1f75e4390983d35650",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=5&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:45:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6458ddc37d804c3424fab2cfdf2d8dcb3367db744fa283ee9a1142a0c42bd75b",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=5&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:45:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6335947f055efdb21a730d114107c3f5ed51ce4e88619d549560e67059422bab",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=5&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:45:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:45:06+00:00",
+ "status": "done"
+}

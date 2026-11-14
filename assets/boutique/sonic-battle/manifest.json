@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-battle",
+ "title": "Sonic Battle",
+ "source": "screenscraper",
+ "ss_game_id": 3876,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3876,
+  "release_year": 2004,
+  "publisher": "THQ",
+  "developer": "Sonic Team",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Battle",
+   "genre": "Combat",
+   "synopsis": "Dans Sonic Battle sur Gameboy Advance, retrouvez Sonic et tous ses amis qui font la bagarre dans des arènes en 3D afin de découvrir qui se cache derrière un mystérieux robot. Au début de chaque round, le joueur choisit ses capacités spéciales et part affronter ses adversaires. Celui qui remporte le plus de K.O remporte le match. Sonic Battle peut se jouer jusqu'à 4 joueurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Battle",
+   "genre": "Fighting",
+   "synopsis": "“Sonic Battle” is a fast-paced fighting game featuring an isometric 3D perspective and 2D character sprites. With nine characters and five game modes, including Story, Battle, and Mini-Games, the game delivers diverse action. Players can customize attacks for air, ground, and defense, choosing from a total of nine special moves that can be flexibly swapped during matches. A trainable robot character allows for personalized skill and technique upgrades, with every detail of its style fully customizable. The game offers extensive content and high replayability for those who want to unlock all characters and moves.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "05e3db4ebbf695b54402ebeedf39101a25e9a60c03de5d0127deb3b8a1fe2ffd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3876&media=fanart",
+   "fetched_at": "2026-11-06T23:54:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "93871b836a6bdd5bec4e86318cce5e9943a8be0b384732ba4ba5741e6feec237",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3876&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:54:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "32c23caaa48ba1650442c3365c14b1ee2bfb0cb776c7943eb81562f1b2396bbd",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3876&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:54:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "35d3dab2eb5afe810fba99e3c5a316624e42fced06b81a6ee544f19ce062f551",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3876&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:54:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "85cc462bc26911d407741ac12d14d4666de8dc315076fd4a60d920385648a67d",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3876&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:54:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "27b5b0c590158cfc2ac4ce727340ca366cd6e25e06938e86c200442e607ffbc7",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3876&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:54:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:54:40+00:00",
+ "status": "done"
+}

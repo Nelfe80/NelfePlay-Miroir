@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "chip-n-dale-rescue-rangers",
+ "title": "Chip 'n Dale Rescue Rangers",
+ "source": "screenscraper",
+ "ss_game_id": 1314,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1314,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Chip 'N Dale : Rescue Rangers",
+   "genre": "Plateforme",
+   "synopsis": "Le diabolique Catox menace de prendre le contrôle de la ville. Joignez vite vos efforts à ceux des Rangers du Risque et de Tic et Tac pour déjouer sa maléfique tentative...\r\nTic et Tac, ces détectives minuscules mais courageux ont reçu un autre SOS désespéré. Gadget a été kidnappée par le diabolique Catox qui veut s'emparer de la ville.\r\nJoignez-vous aux Rangers et participez à leur passionnante recherche dans les noires profondeurs des égouts gluants et sur les cimes frémissantes des fils téléphoniques! Seul ou à deux, découvrez les quartiers généraux de Catox et déjouez son dessein diabolique!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Chip 'N Dale : Rescue Rangers",
+   "genre": "Platform",
+   "synopsis": "The rescue rangers are tiny heroes. Consisting of two chipmunks, two mice and a fly... these heroes may be small but there's no case too big for them to take on. This game starts out simply enough, with a mission to rescue a small kitten, but soon escalates into a wider plot that pits the rescue rangers against their arch-nemesis, the feline kingpin, Fat Cat.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "df9ea3dff24027441a4b22014ed23edb82e3ecde02668c779dc87caf01911c21",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1314&media=fanart",
+   "fetched_at": "2026-11-07T20:23:37+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5d88e3c50ea72084eafa09c6c817b2166a1ddcb38d2c35215e6dd61c9296c7e6",
+   "width": 600,
+   "height": 190,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1314&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:23:38+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "23fb7e18144db72ceec498634040b80498de204732b6f4c1e2d769c90437ab26",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1314&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:23:40+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "dd2c338269688eca4e8ec4f2ecfcc107c3fc26618db8394f4711a61524bb1969",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1314&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:23:41+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1ed93541db75d5ffb4366759df0755992e560a8272f17958e1b57dcaeeaef3c9",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1314&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T20:23:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7fa0cbfab5080e397fba24f8eef00fb199bbba560dfec1099fd28e0f0546e9ba",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1314&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:23:44+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:23:36+00:00",
+ "status": "done"
+}
