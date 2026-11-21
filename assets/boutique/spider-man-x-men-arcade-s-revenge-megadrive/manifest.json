@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "spider-man-x-men-arcade-s-revenge-megadrive",
+ "title": "Spider-Man/X-Men: Arcade's Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 207,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 207,
+  "release_year": 1993,
+  "publisher": "Acclaim Entertainment",
+  "developer": "Software Creations",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Spider-Man & X-Men : Arcade's Revenge",
+   "genre": "Plateforme",
+   "synopsis": "Spider-Man et les X-men unissent leurs forces dans Spider-Man and the X-Men : Arcade's Revenge sur Megadrive. Vous incarnez au début l'homme-araignée poursuivant Arcade, qui a enlevé les X-Men pour les emmener dans un parc diabolique tout droit sorti de son imagination morbide. Une fois à l'intérieur vous pourrez choisir entre Tornade, Cyclope ou Wolverine, chacun disposant de ses attaques respectives.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Spider-Man & X-Men : Arcade's Revenge",
+   "genre": "Platform",
+   "synopsis": "Spider-Man and members of the X-Men have teamed up in this side-scrolling action game to fight against Arcade, who has built a giant amusement park for the sole purpose of trapping and destroying the super-heroes. You first play as Spider-Man, who sees the X-Men get kidnapped by Arcade and follows them. Once you make it inside Arcade's park you can choose to play as Spider-Man, Cyclops, Storm, Gambit, or Wolverine, each of whom are trapped in a different part of Arcade's maze of deadly traps. You must navigate all five of them safely out, using their different skills and abilities while defeating baddies and bosses along the way.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ad2711f4fb840b5b19a302ff973af11751f5f350133e56e889eef9cee5dc6060",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=207&media=fanart",
+   "fetched_at": "2026-11-06T23:25:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ca2b2fb6a648c8ef1f0fd5cdda537a18c3b2191f4895a6c7c204cd5ba449d607",
+   "width": 400,
+   "height": 149,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=207&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:25:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2775b1d195ee5495f389e3c0b44f0ff6457c610af1313f71487f1f214459f614",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=207&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:25:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0d8ad892f97d7b421b102e479fac3efd9a873ca5b2e324e2158980abf7f85c65",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=207&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:25:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "412f226c978ddced1924c2ebfbf11f3d60ca7188ee6b778e69a2b00cf893cfbe",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=207&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:25:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f2b148488c6f16620690b07ee265a8f655be4d59d7b636f87529c96a17cfbfe6",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=207&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:25:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:25:43+00:00",
+ "status": "done"
+}

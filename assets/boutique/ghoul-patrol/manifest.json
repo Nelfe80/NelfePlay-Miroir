@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ghoul-patrol",
+ "title": "Ghoul Patrol",
+ "source": "screenscraper",
+ "ss_game_id": 2458,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2458,
+  "release_year": 1994,
+  "publisher": "JVC",
+  "developer": "LucasArts",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Ghoul Patrol",
+   "genre": "Tir",
+   "synopsis": "Les principales attractions de l'exposition sur les gobelins de la bibliothèque ont pris vie ! En tant que « Ghoul Patrol », remontez le temps et débarrassez une encyclopédie de personnages historiques zombifiés de leurs fantômes. Éliminez les fantômes des poubelles et les esprits ninjas, sauvez des bibliothécaires aux yeux exorbités et des pirates déjantés, esquivez les livres volants et les plantes carnivores, et renvoyez enfin ces esprits maléfiques dans les livres d'histoire !\r\n\r\n- Le mode coopératif à 2 joueurs vous permet de faire équipe pour une double dose d'aventure chasseurs de fantômes\r\n- Un cimetière rempli d'ennemis, notamment des chevaliers squelettes, des samouraïs zombifiés et des voitures possédées\r\n- Un puissant assortiment de bonus à collecter, notamment des poulets en caoutchouc et des potions magiques\r\n- Des armes géniales à utiliser, des fusils à plasma aux flèches à ventouse",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ghoul Patrol",
+   "genre": "Shooter",
+   "synopsis": "The main attractions at the library's Goblin exhibit have come to life! As the Ghoul Patrol, go back in time and de-spook an encyclopedia of zombified historic dudes. Vaporize garbage-can ghosts and Ninja spirits, rescue bug-eyed librarians and wigged-out pirates, dodge flying books and adolescent-eating plants, and ultimately put the beastly spirit back in the history books!\r\n\r\n- 2-Player Cooperative mode lets you team up for a double dose of ghost busting adventure\r\n- A cemetery full of enemies including skeletal knights, zombified samurais and possessed automobiles\r\n- A potent potpourri of power-ups to collect, including rubber chickens and magic potions\r\n- Cool weapons to use, from plasma rifles to suction-cup arrows",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d7f883c1818a639a11a81d02ac271de5dfc14349c71bf494f3f1cc2ff210e4ea",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2458&media=fanart",
+   "fetched_at": "2026-11-06T16:34:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "98965d7de54d3b0111ff3eb867b2f8345227f22bc9b298ab8a8c0521187650e2",
+   "width": 600,
+   "height": 140,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2458&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:34:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a50dd25f15c43c531e680f9a6180ee63e914298e837b5fbc5bb7d418eae8be5b",
+   "width": 680,
+   "height": 500,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2458&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:34:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e8c07d159a014cb2dbb471115ff589d1cd2c98232f53adff82ea5ccefd8e6b72",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2458&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:34:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6bb63b49562746fb63030d49144fbdfe22bfa419b6e4775f8369aa0e876451d1",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2458&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:34:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b52b309bb3f1aa28f8c765216280702747ba1674ece99cffa0ecb5db1cafd0ac",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2458&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:34:46+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:34:38+00:00",
+ "status": "done"
+}

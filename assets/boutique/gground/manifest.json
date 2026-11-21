@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "gground",
+ "title": "Gain Ground",
+ "source": "screenscraper",
+ "ss_game_id": 41429,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41429,
+  "release_year": 1988,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-3",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Gain Ground",
+   "genre": "Tir",
+   "synopsis": "Gain Ground est un shoot'em up à un ou deux joueurs, comportant des niveaux à écran unique, dans lequel le joueur doit sauver des soldats avant de s'échapper.\r\nLes joueurs peuvent choisir un personnage parmi trois, chacun avec ses propres armes, forces et faiblesses. Le temps est compté, et les soldats qui ne quittent pas le niveau sont perdus. Tous les soldats sauvés rejoignent les rangs du joueur en tant que vies bonus. Les niveaux comportent des plaines, châteaux, forêts, forts, etc.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Gain Ground",
+   "genre": "Shooter",
+   "synopsis": "Gain Ground is a one or two player shoot-em-up featuring single screen levels, in which players must rescue lost troops before making their way to the exit. Players can choose to play as any one of three different characters; each with their own unique weapons, strengths and weaknesses. Time is a factor in this game and all troops that do not enter the exit will be lost. All rescued troops will join the player's ranks as bonus players. The levels take players through fields, castles, forests, forts etc.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fece8c2f936f23bd8148c0d3d3d04efc103fd5c367c6bf23c2bb129cc786054a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=fanart",
+   "fetched_at": "2026-11-06T23:52:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c76027f388d0387c5b49019b5cd278b997812cb56809ff5a2a93379635872ead",
+   "width": 400,
+   "height": 174,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:52:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "95dcb77961a4e87be8e93a37e16def3532e92e0bf5ce09e316c336b620c0838f",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:52:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "865fb16136afb10e9b02e672436c59f00d5e1e2f24938b847b005f1d5447503c",
+   "width": 589,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:52:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "59a5879d27394a9e16e3d113458c43522c91fbcea0a0efa24b46fd4e6cc5399c",
+   "width": 384,
+   "height": 496,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:52:14+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6dff2b24a57fc3cca761518c09e7d64d8761cc6e3edf89647e915ce01b9ce54e",
+   "width": 850,
+   "height": 1203,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:52:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b14474633f28ad082698e7953da6e1e9c86bdcf7a5f313c7d2094ae54aa2e063",
+    "width": 384,
+    "height": 496,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=41429&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:52:17+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:52:07+00:00",
+ "status": "done"
+}

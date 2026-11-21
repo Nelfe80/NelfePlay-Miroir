@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "prehistoric-isle-in-1930",
+ "title": "Prehistoric Isle in 1930",
+ "source": "screenscraper",
+ "ss_game_id": 42501,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42501,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Prehistoric Isle in 1930",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "surement un des shoots les plus difficiles que j'ai pu essayer. les premiers niveaux sont abordables, mais ensuite, on se retrouve à mettre crédit sur crédit pour réussir à terminer! vraiment  trop difficile.\r\npar contre, l'arme de l'avion est interessante: on a le tir principal (horizontal) et une 'boule' qu'on peut mettre sur une des 8 positions autour de l'avion. ceci permet de tirer derrière ou sous l'avion par exemple. un principe interessant mais le jeu lasse par sa difficulté.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Prehistoric Isle in 1930",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Ships disappear in the Bermuda Triangle. Two planes are sent to an unexplored island to investigate the disappearances. They discover a land forgotten by time, populated by hundreds of hostile dinosaurs.\r\nYou'll fly your plane through the various levels in horizontal and vertical scrolling phases.\r\nThe environments are varied (and so are the enemies): forest, sky, cavern, seabed... nnThe basic shot from your plane can only be aimed straight at you, but you'll be able to pick up various bonuses from the dinosaur eggs throughout the levels. These bonuses come in the form of dollars, which increase your score, Ss, which allow you to move faster, and modules.\r\nThese modules attach to your machine and modify your basic shot, making it more powerful and a little wider.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "783c894abd510d92cda060be842da2e9a76efc22a212efd2152312ba9189a64a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42501&media=fanart",
+   "fetched_at": "2026-11-06T16:01:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3bef470a88857c8eb158278b06f289661682223249697977586073e26b6c9d9d",
+   "width": 400,
+   "height": 187,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42501&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T16:01:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ac98d2f41b1148b4489e20c69dd73322cf48e30dde1c62730e31139f8ccab775",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42501&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:01:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "46c4b965885a6b813d99c5a160664427e37a692ad797c42269bae05737eed715",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42501&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:01:28+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "fc97a96a88175b8919e197827281ecede4fced6937b77dd6cf0847a4d4805bfe",
+   "width": 850,
+   "height": 1095,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42501&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T16:01:29+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9f0e678fecffd86a5a18c03ac441ac29b2bd4db26a8739db8eaf7f87db5bcc7c",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=42501&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:01:30+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:01:22+00:00",
+ "status": "done"
+}

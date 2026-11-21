@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "commando",
+ "title": "Commando",
+ "source": "screenscraper",
+ "ss_game_id": 150338,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150338,
+  "release_year": 1983,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Commando",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Commando est un jeu vidéo d'action en 2D développé par Capcom et sorti en 1985 sur système d'arcade Commando.\r\n\r\nArchétype du run and gun en vue de dessus, Commando a influencé de nombreux jeux du genre comme Ikari Warriors ou Rambo: First Blood Part II.\r\n\r\nLe joueur dirige Super Joe, un soldat équipé d'une mitraillette et de grenades, dans un champ de bataille en vue de dessus et doit affronter des vagues d'ennemis venus du haut de l'écran. Le jeu propose huit niveaux différents.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Commando",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Commando is an early shoot'em up.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "10bf690afc4813f4dfb12ee51eed866d6b99c290ef3f17e3cf406fc95b9b04b6",
+   "width": 600,
+   "height": 110,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=150338&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:17:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "42a8eef378a7b7318e2002431c2a624c1386cfd1666231dab34170ba97841201",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=150338&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T17:17:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "451e94430aa095f1bc4518965d00e6be7a5c997b6a32739dc7771515998882b5",
+   "width": 478,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=150338&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:17:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b48e3195c5912021db4bfb58b9c373c9b3b5ecc7c4b9f19540d01a3ba7f232f9",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=150338&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:17:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "68096c5164c41404e042ef202a92272507f5fbea7b84c29247fef9fe24f7a3fc",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=150338&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:17:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:17:03+00:00",
+ "status": "done"
+}

@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "tatakai-no-banka",
+ "title": "Tatakai no Banka",
+ "source": "screenscraper",
+ "ss_game_id": 43741,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43741,
+  "release_year": 1986,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Trojan",
+   "genre": "Plateforme",
+   "synopsis": "Trojan est beat'em up découpé en six niveaux, dans lesquels le joueur affronte une série de petites frappes, un mini-boss au milieu de chaque niveau, et un boss à la fin. Le joueur peut débuter la partie à n'importe quel niveau, mais doit terminer l'ensemble des niveaux deux fois pour voir la \"vraie\" fin, comme dans Ghosts'n Goblins). Le joueur peut continuer la partie ou non après un game over, en fonction des réglages des interrupteurs DIP.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Trojan",
+   "genre": "Platform",
+   "synopsis": "The game consist of six stages, where the player will face the usual series of small fry enemies, as well as a sub-boss at the middle of each stage and a boss at the end. The player is allowed to start the game at any of the six stages. However, the player must play through the entire game again after defeating the final boss, Achilles, in order to see the true ending (similarly to Ghosts'n Goblins). The player can continue after a game over depending on the dip switch settings.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "628e4b9a229b630076bb7a0e190e70a233814cea45f96b5c177e8e10b7f9a158",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=fanart",
+   "fetched_at": "2026-11-06T23:24:00+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8c6be44f26eceebdcb1452c4d2a206f41291c79d7c486b3e6169a34ecb0c8be1",
+   "width": 600,
+   "height": 251,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:24:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "950df8e72ac12023bcdc70ce5cd99dfbf51aed985295a006f8572a6be6a47377",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:24:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "706ea49fdae4ec1b409940faa29cc25e6690fad6d1fcd49ff23735447ae82046",
+   "width": 256,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:24:05+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "4e00594214475711e43cfee9135d77d5555143ce0fcb70a226b86d1ed539f95b",
+   "width": 850,
+   "height": 1125,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:24:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f5771e36b167a63813262e1ab3082fbbc230435edbb1b74bff2cfbfb3b66de20",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:24:08+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "853cf564c31c6ba53c55c121aeeda671bbd0be004ef83c726a7aebbef8221732",
+    "width": 256,
+    "height": 240,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43741&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:24:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:24:00+00:00",
+ "status": "done"
+}

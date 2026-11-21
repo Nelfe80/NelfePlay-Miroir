@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "steeple-chase",
+ "title": "Steeple Chase",
+ "source": "screenscraper",
+ "ss_game_id": 190482,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 190482,
+  "release_year": 1980,
+  "publisher": "Video Gems",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Steeplechase (video Gems)",
+   "genre": "Stratégie",
+   "synopsis": "Steeplechase pour Atari VCS 2600 est un jeu de sport développé par Atari. Le joueur incarne un jockey prenant part à une course d'obstacles. Le but du jeu est d'arriver le premier à l'autre bout de la piste avant que le chrono ne se termine. Le cas échéant, c'est le joueur en tête qui gagne. Plusieurs niveaux de difficulté sont disponibles. Ils influent sur la performance de l'IA et la distance entre les haies.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Steeplechase (video Gems)",
+   "genre": "Strategy",
+   "synopsis": "This is a hurdles horse race.\n\nThe horse's names, from bottom to top, are: Lucky Devil, Absent Mind, Just Missed and Little Dictator. You play as one of the jockeys and must reach the right side of the screen first. The horse runs and hurdles come at you from the right. To jump these hurdles, you turn the paddle to set the height of the jump, as indicated by the marker on the right. You press the button to jump. The better you jump, the faster your horse goes. After 3 minutes, if no one has gotten all the way to the right, the race ends and whoever was in the lead wins.\n\nThere are 6 game variations. In games 1, 2 and 3, the distance between the hurdles is uniform with the computer-controlled horse's racing ability being poor, good and excellent, respectively.\nIn games 4, 5 and 6, the the distance between the hurdles is random with the computer-controlled horse's racing ability being poor, good and excellent, respectively.\nThe difficulty switches are not used.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5e136e614664c80b8b41ad5c42669dc80b6d3cf788f0fd5bb29f2e97293611ed",
+   "width": 400,
+   "height": 48,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=190482&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:23:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ecfe013d1cb831ebb5f69a4f329adc5e9d610bace21f90320217f339375156e4",
+   "width": 498,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=190482&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:23:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f3b7cd50665cc39be96c051bc2befafbe000f7859681e229b8761bef332fe016",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=190482&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:23:27+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4f25d1585dd9a31f2e1556975aabbae48cdccb3f4619893fcd90ee8e37a79eac",
+   "width": 640,
+   "height": 504,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=190482&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:23:28+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "559b9cc5ab30b68a640b9ba2fb31514939bde7492b5ec5143806a03c63370294",
+    "width": 640,
+    "height": 504,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=190482&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:23:30+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:23:24+00:00",
+ "status": "done"
+}

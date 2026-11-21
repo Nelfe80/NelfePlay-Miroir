@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "alex-kidd-in-miracle-world",
+ "title": "Alex Kidd in Miracle World",
+ "source": "screenscraper",
+ "ss_game_id": 754,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 754,
+  "release_year": 1986,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1",
+  "system_label": "Master System"
+ },
+ "text": {
+  "fr": {
+   "name": "Alex Kidd in Miracle World",
+   "genre": "Plateforme",
+   "synopsis": "Dans le pays de Raxadian, Janken le Grand fait régner la terreur. Prince du royaume, Alex Kidd décide de partir lutter contre lui afin de sauver son peuple mais aussi son frère. Ce jeu de plates-formes sur Master System offre 17 niveaux dans lesquels Alex Kidd doit combattre de nombreux ennemis, et acheter de nouveaux véhicules et vies supplémentaires. Originalité : les combats contre les Boss se jouent à pierre-feuille-ciseau !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Alex Kidd in Miracle World",
+   "genre": "Platform",
+   "synopsis": "Many centuries ago, on the planet Aries, there lived a boy called Alex Kidd. For seven years, he lived on Mt. Eternal studying Shellcore, an ancient art that makes one strong enough to break rocks into pieces. As he was leaving the mountain one day to travel to his spiritual homeland, a dying man told him that the peaceful city of Radactian was in grave danger. Before taking his last breath, the man gave Alex a piece of a map and a medallion made of Sun Stone.\n\nThere are eleven locations in which Alex must explore, each of them has its own unique dangers. In each location, Alex can collect bags of coins, which can be used to buy items at the shop and are used to help Alex get through each location (eg: motorcycle, peticopter, power bracelet, etc.) There are also traps that Alex must avoid like the ghost that chases him. He can also collect the Telepathy Ball that will help him read people's minds.\n\nLater, Alex learns that in order to save Radactian from destruction, he must first defeat Janken the Great, Emperor of the planet Janbarik (he got his name from his expertise at the game of Janken -- or what people call \"scissors, paper, stone\" in the Western World. Janken has sent his henceman all over Radactian to prepare the game for Alex as he passes by them. In order to get past them, Alex must win three times at Janken. If he loses, he is turned to stone and vanished from Radactian forever. Later on in the game, Alex must play with the same henceman, but only this time, when Alex wins, they decide to play dirty.\n\nAlex uses his fists to wipe out some of Janken's enemies such as birds, sea horses, bats, monkeys, frogs, and a few others. If his quest to save Radactian from the evil hands of Janken becomes difficult, he can instead use the power bracelet to perform the \"Shocking Waves of Destruction\", an ancient trick in the art of Shellcore.\n\nBefore Alex comes face-to-face with Janken, he should rescue his brother, Egle, from imprisonment, and get the letter and two medallions.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7e4a960bdf46e799d4869e65e2cbcfb23d7e4b1552ac165f85463a60afaf0953",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=2&jeuid=754&media=fanart",
+   "fetched_at": "2026-11-06T23:44:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ece495ea2c33c86e3ff6cda497dbec660a811a51263f2d005e79aac36681db36",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=2&jeuid=754&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:44:43+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d4595e37002b99021ece76a76be6591ceebd136904a3aac215c403f1dc6a87f9",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=2&jeuid=754&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:44:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "be69a1453e89e4b123e8a8cac2888a11fe36c0c827f09d76e998f79ac9d6c1a8",
+   "width": 600,
+   "height": 407,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=2&jeuid=754&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:44:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "dc430c4a10b1777d60d1efef5edf1e4ad74bcc7270dd0b728e62ee49304e2aa7",
+   "width": 248,
+   "height": 192,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=2&jeuid=754&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:44:47+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "d787a3e0b552520fdc59ce92df5167b5a52c1defaebf814c79003ba8f747cb34",
+    "width": 256,
+    "height": 192,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=2&jeuid=754&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:44:49+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:44:41+00:00",
+ "status": "done"
+}

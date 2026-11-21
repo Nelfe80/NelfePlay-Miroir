@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sparkster",
+ "title": "Sparkster",
+ "source": "screenscraper",
+ "ss_game_id": 2418,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2418,
+  "release_year": 1994,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Sparkster",
+   "genre": "Plateforme",
+   "synopsis": "Il est de retour, et c'est un opossum plus gonflé que jamais ! SPARKSTER se lance dans l'action avec son jetpack, tel le Rocket Knight le plus redoutable à avoir jamais brandi une épée. Prenez les commandes et foncez à travers 8 niveaux déjantés dans votre quête pour débarrasser le monde du maléfique roi Gedol et de ses alliés : une bande de lézards plus coriaces qu'une valise ! Ah oui, et avant que tu ne te sentes trop à l'aise… Axel Gear est là. Cet ancien Rocket Knight devenu méchant a un compte à régler avec Sparkster. Notre héros aura besoin de son nouveau jetpack surpuissant et de ses nouvelles attaques redoutables pour renvoyer Axel du côté obscur de la planète.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sparkster",
+   "genre": "Platform",
+   "synopsis": "He's back, and he's one oppumped-up opposum! SPARKSTER is jet-packin' into action as the toughest Rocket Knight to ever swing a sword. Grab the controls and blast through 8 wild stages in your quest to rid the world of the evil King Gedol and his allies - a pack of lizards that are tougher than a suitcase! Oh yeah, and before you get too comfortable - Axel Gear is here. This Rocket-Knight-gone-bad has a score to settle with Sparkster. Our hero will need his revved-up new rocket pack and powerful new attack moves to kick Axel's tail back to the dark side of the planet.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "52f3c5af45b817e4e6ba5bca4f8c9b4072aedba57987334aadcdc3a0b13ac8ba",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2418&media=fanart",
+   "fetched_at": "2026-11-07T20:22:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f5de2ab1c163ec05b3c6117d0adc6ab76fce0c5cd63f768ec8c6f2e09d964c71",
+   "width": 600,
+   "height": 220,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2418&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:22:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3457f8df49c2598b121d18da34545cfd4deb3efaec0f8496dac8afa2f8c828e9",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2418&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:22:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c85b6fb48a2b1db364d5e79e5ac8bb586a811c0545cc38d70072773f03a0f8c0",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2418&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:22:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b6c57153a6b2352c517c24d6f6ed7f1bdfa513cca2c0528e37c73e4abac3eba0",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2418&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:22:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7f25d61f946ce42dfe20a7ec23a69db099957f908abd9652177768b3379aa03c",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2418&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:22:29+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:22:20+00:00",
+ "status": "done"
+}

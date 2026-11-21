@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "bubsy-2",
+ "title": "Bubsy 2",
+ "source": "screenscraper",
+ "ss_game_id": 2427,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2427,
+  "release_year": 1994,
+  "publisher": "Accolade",
+  "developer": "Accolade",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Bubsy II",
+   "genre": "Plateforme",
+   "synopsis": "Bubsy est de retour ! Après avoir vaincu les méchants Woolies dans le premier opus, Bubsy, le courageux lynx roux, doit se lancer dans une aventure encore plus périlleuse : explorer un mystérieux manoir hyperdimensionnel, au sein duquel se trouvent des portails menant à différents endroits, à différentes époques. \r\n\r\nÀ l'instar des jeux Sonic, Bubsy se déplace très rapidement et peut également sauter très haut. Bubsy élimine ses ennemis en sautant sur leur tête. Les niveaux sont vastes et accessibles dès le début du jeu (à l'exception du niveau ultime), en commençant soit par l'aile ouest, soit par l'aile est. Il existe cinq types de niveaux classiques : une pyramide égyptienne, un environnement de type spatial de science-fiction, un monde rempli d'instruments de musique et de notes, un niveau « vert » avec des arbres et des collines, et une série de niveaux à défilement horizontal où Bubsy doit piloter un avion.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bubsy II",
+   "genre": "Platform",
+   "synopsis": "Bubsy is back! After defeating the evil Woolies in the first game, Bubsy, the brave bob-cat, has to participate in an even more dangerous adventure: to explore a mysterious hyperdimensional mansion, inside of which there are portals that lead to different area in different locations and times. \n\nSimilarly to  Sonic games, Bubsy moves very fast and can also jump very high. Bubsy kills the enemies by jumping on their heads. The levels are large and can be accessed right from the beginning of the game (except the ultimate level), starting in either west or east wing. There are five types of regular levels: Egyptian pyramid, sci-fi space-like environment, a world filled with musical instruments and notes, a \"green\" level with trees and hills, and a side-scrolling group of levels where Bubsy has to navigate an airplane.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fd8586051c7134f56f86efbbf3f825faeb3a5bf323a7c58db22d105964dd4f04",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2427&media=fanart",
+   "fetched_at": "2026-11-07T01:03:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e92996c55414bbf1a143a42aad729ea0162fd0a08ab82de3795609d7afc8e122",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2427&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T01:03:28+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7a4832536110e2feb09d9c8541a10ba05f492be05a407bf926f8cd6ee4b321b4",
+   "width": 680,
+   "height": 500,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2427&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "334b7b1a3328d8e2852cbbf01f6913f2d23d132196c834145e1f0bda5dce5296",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2427&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:31+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b8c01e1716ba2d95d7dac1292aa4a79e498ae2661799858749494b15de2e5fad",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2427&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:03:32+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "963e7fb4dd6d8576482353237757f76babbd4f07365c8b3921f48003da5af533",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2427&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:03:34+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:03:26+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "wonder-boy",
+    "title": "Wonder Boy",
+    "source": "screenscraper",
+    "ss_game_id": 44046,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 44046,
+        "release_year": 1986,
+        "publisher": "SEGA",
+        "developer": "Escape",
+        "players": "1-2",
+        "system_label": "Sega Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Wonder Boy",
+            "genre": "Plateforme",
+            "synopsis": "Qui ne connait pas Wonder Boy ? En effet, ce jeu est une légende. Vous dirigez votre petit personnage à  travers des niveaux de pure plate-forme. Votre but est d'arriver à  la fin du stage avant que votre barre de vie n'atteigne zero (en sachant que celle-ci diminue au fur et à  mesure de votre progression). Il faut savoir que ce jeu a été retranscrit sur d'autres plateformes : amstrad cpc 6128, sega master system, etc...",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Wonder Boy",
+            "genre": "Platform",
+            "synopsis": "Just when things were going great with Tom-Tom and his girlfriend Tanya, some thug of a woodland king had to kidnap her and hide her away, and Tom-Tom doesn't have a clue where. That's why he has to explore deep dark forests, cross endless oceans, climb treacherous slopes, survive endless volcanoes, and even walk through clouds. But Tom-Tom will never be totally alone. You see, when he goes through the exotic locations, he has to come face to face with its inhabitants, like bees, spiders, snakes, coal-kids, frogs, bats, snails, coyotes, and octopuses, to name a few. The hatchet is Tom-Tom's only line of defense against these menaces.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "6974b11a63385cdfff31a8924aa88900650d89c261fb3711269b8ab265bfe808",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=fanart",
+            "fetched_at": "2026-11-20T05:57:43+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "1846c1ca95df36d81a0b7d8ddef7973eb664e144a31bb4052c90c4c01a0859e6",
+            "width": 400,
+            "height": 225,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=wheel%28wor%29",
+            "fetched_at": "2026-11-20T05:57:44+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "c5232c96941aa9b834a02b08e01c49dcd48062784c4e0bd7f31c3ef101e92711",
+            "width": 497,
+            "height": 680,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=box-2D%28wor%29",
+            "fetched_at": "2026-11-20T05:57:46+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "06b509cab0bb82a2b7e6122cf189e36575a2b032e262ea09281bc7e4ec604736",
+            "width": 496,
+            "height": 1000,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-20T05:57:48+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "b53392d764ab718df598bf4f03254ffefd2f76f1b3253893b867d0d1992d514f",
+            "width": 512,
+            "height": 380,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-20T05:57:49+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "f4941b1e96696137815af5201786a5e4b07ca8f2b0168e32704c201faaf2b30e",
+            "width": 850,
+            "height": 1206,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=flyer%28wor%29",
+            "fetched_at": "2026-11-20T05:57:50+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "33400f35971c293c8769a0be9bc1b9f333acf1604bafd721071f90898a6ad90b",
+                "width": 512,
+                "height": 380,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=44046&media=ss%28wor%29",
+                "fetched_at": "2026-11-20T05:57:52+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-20T05:57:42+00:00",
+    "status": "done"
+}

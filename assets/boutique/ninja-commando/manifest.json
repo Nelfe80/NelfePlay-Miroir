@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ninja-commando",
+ "title": "NINJA COMMANDO",
+ "source": "screenscraper",
+ "ss_game_id": 13934,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13934,
+  "release_year": 1992,
+  "publisher": "SNK",
+  "developer": "ADK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Ninja Commando",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Ninja Commando sur Neo Geo est un beat'em all dans lequel le joueur commande trois guerriers aux styles particuliers. Sept niveaux durant, parcourez les 4 coins du globe et neutralisez le \"destructeur\" avant qu'il ne parvienne à transformer la planète en champ de bataille. Chaque personnage possède une technique normale et une technique mortelle qui doit être utilisée avec parcimonie car elle fait descendre sa barre d'énergie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ninja Commando",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "The Mars Corporation has caused a problem in the time continuum, and it's up to the Ninja Commandos to go after Spider, leader of the MC, and stop his evil work.\n\nAs one of three Ninja Commandos, you must fight your opponents through different time periods, such as The Primitive Age, The Egyptian Era, and the Japanese Civil War Era. Each of the Ninja Commandos have their own specific style of attack and a special \"ninja trick\" super power. Boxes and other storage units can be broken to reveal power-ups that upgrade your weapons. The bosses are super-powered historical figures and include a dinosaur, a medieval samurai, an Egyptian pharaoh, etc. Cut-scenes occur between the different time periods.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0ae6177f8981e51bf95dfc4bf5c2a1282bed4404961e5fba0158d5a4a918f394",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=fanart",
+   "fetched_at": "2026-11-06T15:36:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "fa733e2fead58a602d689fcd6f5b59c92420055b656aa59fde87f4887c7c031b",
+   "width": 600,
+   "height": 285,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:36:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "cc78020606288610402183545e1370e74379d8e36f3649b2fd19bb6ac71733c5",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c52b9eea8fbb7a52116a932ee3db70be425a0de9082fa212f18b86a103e90f8b",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "79ca8432529b6d711422f91421bbb8fcfc4cbc3589f2869a4e4331af83928701",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:36:08+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "ba020565741ae670fef06cd433b8b681043953cbc063057482d7fb43966d1c41",
+   "width": 825,
+   "height": 1002,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T15:36:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cad599bb08ad50a408b83a2679280b09beca92c6ef4716f2466af9e3d1097a2a",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13934&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:36:11+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:36:00+00:00",
+ "status": "done"
+}

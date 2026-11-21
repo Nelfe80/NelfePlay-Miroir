@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "magician-lord",
+ "title": "MAGICIAN LORD",
+ "source": "screenscraper",
+ "ss_game_id": 37602,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37602,
+  "release_year": 1991,
+  "publisher": "SNK",
+  "developer": "ADK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Magician Lord",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Dans Magician Lord, le joueur incarne Elta, un mage chargé de récupérer huit tomes mystiques dérobés par le sorcier Gal Agiese, qui cherche à libérer le Dieu de la Destruction Az Atorse. Pour progresser, Elta peut combiner des orbes élémentaires afin d'adopter différentes transformations (Dragon Warrior, Waterman, Poseidon, Shinobi, Samurai ou Raijin), chacune dotée d'attaques et de capacités uniques. Le jeu est divisé en huit zones, et chacune se termine par un combat contre un gardien puis contre un boss, généralement une manifestation d'Az Atorse.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Magician Lord",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Magician Lord puts you in charge of Elta, a wizard who has the task of collecting eight books of wisdom from the clutches of Az Atorse, the god of destruction. By collecting the right power-ups along the way, you can transform into different characters, including the Rajin, Samurai, Waterman, Shinobi, Poseidon, and Dragon Warrior. Each character has different abilities. There are eight areas in the game, and each stage ends with you trying to defeat both a guardian and the end-of-area boss (which are basically Atorse's incarnations). One of the first games that demonstrated the graphical abilities of the Neo-Geo.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8926222da217d7895f1d59fd2e93272b6d2396a318492fd19bb82989c56acd09",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=fanart",
+   "fetched_at": "2026-11-06T15:36:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "586adeb87ea9c05fd7f7e47aa768a6f4781c3c442a830317621ad1638eaf2d2b",
+   "width": 600,
+   "height": 158,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:36:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9b319da5b78970f96da3a339fee8af4d9b042567d4cdadcbea7a52acc61ce3b6",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:36:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8304750db7dbf5d322e87a5f206d719726254ddfece84d68f54ec934d6de68ea",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "99062d8185b8cb9c7f24a215016b272c826e714ddc875f42a43449cf48544371",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:36:51+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "ce8b7b36fe64258a7cb37d7bb5a042212abc11ff9e13d2a221eb09b93485aa27",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:36:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "9237e233cb0125c03346d2e1fb8a9f819a481b04da908231b0e98b8f7d7e5e1a",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37602&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:36:54+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:36:44+00:00",
+ "status": "done"
+}

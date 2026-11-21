@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "neo-turf-masters-world-en-ja",
+ "title": "Neo Turf Masters (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47043,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47043,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "Saurus",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Neo Turf Masters",
+   "genre": "Sport / Golf",
+   "synopsis": "Neo Turf Masters est un jeu de golf, Le joueur choisit l'un des six golfeurs disponibles et participe à un certain nombre de parcours de golf à travers le monde, y compris le Japon (Fujiyama Oriental Golf Club), l'Amérique (Grand Canyon Golf Course), l'Australie (Blue Lagoon Golf Course) et l'Allemagne (Baden Golf Cours). Le jeu comporte deux modes de jeu. Le premier est le Stroke Play, dans lequel le joueur tente d'obtenir le meilleur score en jouant les 18 trous. La deuxième est Match Play, dans lequel deux joueurs concourent pour voir qui peut gagner plus des 18 trous.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Neo Turf Masters",
+   "genre": "Sports / Golf",
+   "synopsis": "Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn \"super-clubs\" that can only be used once. These can also be traded between friends.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e31f4918f59063a617b6c1f1e9527c9ec290834afcccf32c823a279ba5b98ffa",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47043&media=fanart",
+   "fetched_at": "2026-11-06T16:39:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "85bfe216e0bc62ae0b810421a96b988753a9aee86e1af52a7a919507d885af98",
+   "width": 600,
+   "height": 253,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47043&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:39:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7f58758679288d50a9ffad9075f658be6d5a62c54f9fed39337cdea699f25f33",
+   "width": 785,
+   "height": 791,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47043&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:39:20+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "10704108a705a4d3b550866d19600bb9a6810ace4c65e4c7ff998ca3ca406d61",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47043&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:39:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "cf39bb4360ae941eef10756b8f888d882475d2ba9fbe28d7ddb18276dee52f1d",
+   "width": 160,
+   "height": 152,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47043&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:39:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c25c00b96ee1ad5e58198742b7e358bcb22dcac5cf887bbe95a94cf865c8a19c",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47043&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:39:24+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:39:15+00:00",
+ "status": "done"
+}

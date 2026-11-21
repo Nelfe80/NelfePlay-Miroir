@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "3d-tic-tac-toe",
+ "title": "3D Tic-Tac-Toe",
+ "source": "screenscraper",
+ "ss_game_id": 14001,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14001,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Sears",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "3-D Tic-Tac-Toe",
+   "genre": "Stratégie",
+   "synopsis": "3-D Tic-Tac-Toe pour Atari VCS 2600 est un jeu de société développé par Atari. Le principe du jeu est le même que le Tic-Tac-Toe sur papier, la seule différence étant que l'on peut également faire des alignements en profondeur. Le nombre de X ou O à aligner est de 4.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "3-D Tic-Tac-Toe",
+   "genre": "Strategy",
+   "synopsis": "The game is similar to the traditional game of tic-tac-toe, but is played on four 4x4 grids stacked vertically; it is basically a computerized version of the board game Qubic using traditional tic-tac-toe notation and layout. To win, a player must place four of their symbols on four squares that line up vertically, horizontally, or diagonally, on a single grid, or spaced evenly over all four grids. This creates a total of 76 possible ways to win, in comparison to eight possible ways to win on a standard 3Ã—3 board. The game has nine variations: it can be played by two players against each other, or one player can play against a built-in AI on one of eight different difficulty settings. The game uses the standard joystick controller.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "237c0d77c49257ffd62bb3feacd32ccd3888e3c3665c873654c67863debf1b10",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14001&media=fanart",
+   "fetched_at": "2026-11-06T16:43:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "410b7330bb5623dcda59bb063fe1665f9cb8ff81f97e3bf4689d11419602e3aa",
+   "width": 600,
+   "height": 64,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14001&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:43:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4776e59c97d4df06ca4af424397b25474c5706ccc7a8bdf51a112cf29952391e",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14001&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:43:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0eeab60c1d96a924551d3753349ef15f16aef3e41876379ffa719d93ac1c8997",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14001&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:43:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "a4094f093b8dafa230dad3c3c330d6d10be9e3bade1e6a4d41d13baee2dee252",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14001&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:43:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "83a08c8baa64c232ecc8a0f7f6a2e60c4335b5430bb86a447dada3519e821c7e",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14001&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:43:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:43:47+00:00",
+ "status": "done"
+}

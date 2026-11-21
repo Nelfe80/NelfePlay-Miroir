@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "the-punisher",
+ "title": "The Punisher",
+ "source": "screenscraper",
+ "ss_game_id": 37375,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37375,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "The Punisher",
+   "genre": "Beat'em All",
+   "synopsis": "The Punisher est un beat them up mettant en scène le célèbre anti-héros de chez Marvel. Sorti sur CPS-1 en 1993, c'est le premier titre sous licence officielle développé par Capcom. Six niveaux de castagne et autres séquences de massacre vous attendent. Le Punisher va d'abord régler ses comptes avec le sinistre Bruno Costa, puis faire avorter un deal majeur de drogue, intercepter un gang puis devoir lutter contre le caid de la pègre, l'ignoble Kingpin; tout en croisant d'autres vilains de l'univers Marvel plus ou moins connus, tels que Bushwacker, Bone Breaker, ou encore Jigsaw. On saluera la réalisation du titre, qui respecte à la lettre l'esprit du comics et sa violence, très peu édulcorée pour l'époque. A noter qu'en mode 2 joueurs, c'est le personnage de Nick Fury, qui accompagnera Frank Castle dans sa quête de vengeance.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Punisher",
+   "genre": "Beat'em Up",
+   "synopsis": "A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4b6b3500b76cc227ec2d584ab25828a5611697da2669accfd30e2d9b1e6cb43f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37375&media=fanart",
+   "fetched_at": "2026-11-06T15:54:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8ec9d95efe4cecc2792838ec79b8c5e8dc50184a339e45e4298aa52c8090a7bf",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37375&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:54:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "407e5d064fff7dab9006c8521b587cc6b114ee3245e67a55acb95c9c7f34189f",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37375&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:54:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "79c0959b2ee8c94ca97e4f20df3d05edd26aef5bc5f1b92f1a0491e9ed63f036",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37375&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:54:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "557156c4029d59a296a3aba2bdd636ad81580a28728a3cd1cce2ceac9e004f23",
+   "width": 850,
+   "height": 1111,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37375&media=flyer%28us%29%5B1%5D",
+   "fetched_at": "2026-11-06T15:54:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "96294396930a2ba00cec20123750f93a0e89a05e3b922f5846a22bc2b62593df",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37375&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:54:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:54:11+00:00",
+ "status": "done"
+}

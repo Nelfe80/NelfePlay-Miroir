@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "maze-craze",
+ "title": "Maze Craze",
+ "source": "screenscraper",
+ "ss_game_id": 14131,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14131,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Maze Craze",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Maze Craze pour Atari VCS 2600 est un jeu d'action développé par Atari. Jouable seul ou à 2, Maze Craze vous met dans la peau d'un policier coincé dans un labyrinthe, le but du jeu est d'en sortir avant votre adversaire. Le joueur peut déterminer si le labyrinthe est visible ou invisible, la vitesse de déplacement, etc. Des voleurs peuvent également venir gêner votre progression.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Maze Craze",
+   "genre": "Action / Labyrinth",
+   "synopsis": "In Maze Craze, your goal is to be the first of two players to make it out of a maze! Each player controls a cop that starts on the left, and the first player to make it out the exit on the right wins. The game also includes of variety of options. The maze can be completely visible, completely invisible, or have just a few parts invisible. With invisible mazes you can optionally have the computer provide a sneak peak at the complete maze periodically. To make your task more challenging, one to five robbers may also be placed in the maze. If you are caught by one of the robbers, you will momentarily be stunned giving your opponent an advantage. You can also give your cop the ability to set up a blockade to confuse your opponent. This will look like a regular wall, however you can walk straight through it. The games speed can also be adjusted, from calculatingly slow to extremely fast.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f6c65dc6c4d6d4f095499625b6b9e5cc3b3901e49697b6170f743aa93c950f0c",
+   "width": 400,
+   "height": 150,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14131&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:56:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c46eaa34f9caee61d932d76ae776b6d5bcdde83f11b2f496131de744fa4a5b3c",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14131&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:56:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d5cf1a0c020e85a5aec763868a0c8d6b7ff459a168d94617dd5c334115679752",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14131&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:56:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b57eb8b01c3ed89e36502b3defcf94fa1427447af87a4b31693eff3957abf115",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14131&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:56:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0a9fd6cadfccba506b5ba591f2baded11692196580629d2c4c49c6edba315222",
+    "width": 320,
+    "height": 175,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14131&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:56:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:56:10+00:00",
+ "status": "done"
+}

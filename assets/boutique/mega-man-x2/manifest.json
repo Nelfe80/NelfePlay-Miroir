@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-x2",
+ "title": "Mega Man X2",
+ "source": "screenscraper",
+ "ss_game_id": 2209,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2209,
+  "release_year": 1995,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man X2",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "X est de retour...\r\nMais cette fois il est encore plus rapide et plus dangereux. Dr. Light donne à Mega Man des capacités nouvelles incroyables qui sont cachées dans des capsules enterrées profondément sous la surface de la terre. C'est avec elles qu'il faut vaincre 21 X-hunter pour rendre la paix à la Terre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man X2",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Sigma, the leader of the Maverick army, was destroyed when he underestimated his opponent: a lone warrior, awakened into a time he never knew...X.\n\n6 months had passed, and X rose to the rank of leader of the Maverick Hunters. His first task was to eliminate the last of the Mavericks. But as he began his assignment, a mysterious group of Reploids calling themselves the X-Hunters appeared with a message to X: the remains of his fallen comrade, Zero, were in the hands of the X-Hunters, and they planned on resurrecting Zero to fight alongside them and for their fallen leader, Sigma.\n\nX must now stop the X-Hunters and rescue Zero, and once again prevent Sigma from rising back into ultimate power.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6bb6e4570f56096d616807a308035bfd38de5e6970f136029431c8c97327ef20",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2209&media=fanart",
+   "fetched_at": "2026-11-06T16:04:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "560f337172a6c684302e8b67d057ad5dcd32db8c602e261f8fa1b9f7e8f7392f",
+   "width": 600,
+   "height": 210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2209&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:04:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c9743e70a095a54c71dc5ac1ea9dabf5559c25b53fd8619915e2e6eee7aa7cbf",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2209&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:04:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e4ee9669e7a2a07f8aacbfecd67e7a4f236096bcc5625312f052f0f147b979f4",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2209&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:04:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f31379ee1133f0782b124e6dee81dba00dc065edea946589daa7cd4299fe574b",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2209&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:04:40+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8b8e6b59e2197b310c2c41caa25e2a3e9894d35a55264fef4c3fe98b200acf66",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2209&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:04:41+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:04:30+00:00",
+ "status": "done"
+}

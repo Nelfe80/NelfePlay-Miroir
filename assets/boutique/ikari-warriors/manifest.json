@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ikari-warriors",
+ "title": "Ikari Warriors",
+ "source": "screenscraper",
+ "ss_game_id": 41785,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41785,
+  "release_year": 1986,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Ikari Warriors",
+   "genre": "Tir",
+   "synopsis": "Un des rares jeux SNK précédant l'ère de la Neo Geo!\r\n\r\nVous êtes une sorte de Rambo dans une jungle et vous tirez sur d'autres bonshommes.\r\nParfois, vous pouvez également piloter un tank, pour faire plus de dégâts.\r\nLe décor a son importance, certains types de terrains ralentissant votre progression.\r\n\r\nUn bon vieux jeu, bien sympa!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ikari Warriors",
+   "genre": "Shooter",
+   "synopsis": "Ikari Warriors is a vertically-scrolling run 'n' gun shoot-em-up in which one or two players take on the roles of two bandana-wearing musclebound soldiers as they engage in jungle warfare, fighting over land and water to reach the village of Ikari.\r\n\r\nPlayers can rotate their guns through 360 degrees, allowing them to fire and move in all directions. Standing between the soldiers and their destination is a multitude of enemy soldiers, tanks, helicopters and reinforced bunkers. \r\n\r\nThe enemy soldiers utilise a number of different weapons, including machine-guns, grenades, super grenades and flame-throwers. The game's standard enemy troops wear blue uniforms, but there are also enemies in red uniforms that when killed, often drop power-ups that either give players more ammunition, increase the power of bullets and grenades or even kill all enemies on the screen. The players' munitions are limited in number so additional ammo and grenades must to be picked up along the way. \r\n\r\nWhile most of the action takes place on foot, unoccupied enemy tanks can be found that can be entered and driven. Tanks offer increased firepower as well as resistance to enemy shots. Too many enemy hits, however, will eventually see the tank explode, this is proceeded by a warning flash to allow the player to exit the tank before the explosion. Should the player be caught inside when the tank explodes, a life is lost. Tanks also have a limited amount of fuel but extra fuel can be found to replenish it.\r\n\r\nAnother obstacle that players need to be wary of, whether on foot or in a tank, are hidden land-mines. These cannot initially be seen put will appear and flash as the player approaches. These cannot be destroyed and contact with them results in an instant death.\r\n\r\nUnlike most arcade games, Ikari Warriors is not separated into different stages; the game takes place over one huge, scrolling stage. Ikari Warriors does have a continue feature, but it's only possible to continue from where the last game ended by first holding down the FIRE button, then pressing the start button. Simply pressing the start button restarts the game from the very beginning.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5002e2f8147eaa52a7e0790fd25ca06c0119d34391253839691ccccbf3ec438f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=fanart",
+   "fetched_at": "2026-11-06T15:59:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a1ba225ef22b90f4152cc8ab198c9dfcb3ebe16da81f4c85d8747f9fa44e4acb",
+   "width": 400,
+   "height": 192,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:59:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c224a89f2c89a3c7cf1aeced7bcf4481cac076076c18ef71cd92201a809bd8d4",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:59:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ed730dbaca42f87149e0992e323006bfb6533e848da1dd8da93aec69a000bedf",
+   "width": 493,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:59:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b6ed9dc22a83c74bb271b8ff3bbe0b5d1e3eaa980c584f054bec1c6d801ea0a9",
+   "width": 216,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:59:16+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "413b82124165326b8449fe9e780068a0ac8938885ab198020bdac1c93b278208",
+   "width": 850,
+   "height": 1103,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:59:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "73bbb51924bd7b0f5e0b919ebe43085b2745cebbc83952f229f00d044a9c00e0",
+    "width": 216,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41785&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:59:19+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:59:09+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "progear",
+ "title": "Progear",
+ "source": "screenscraper",
+ "ss_game_id": 37404,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37404,
+  "release_year": 2001,
+  "publisher": "Capcom",
+  "developer": "Cave",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Progear",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Progear est le premier shoot them up à scrolling horizontal développé par Cave.\r\n\r\nIl est possible de choisir entre deux avions aux caractéristiques différentes (tir large ou concentré) ainsi qu'entre trois canonniers ayant eux aussi un tir propre (bombe explosive, boulet de canon ou missile suiveur).\r\n\r\nLe joueur doit se frayer un chemin parmi les labyrinthes formés par les tirs ennemis, dans la pure tradition du manic shooter. Les niveaux sont très courts, et se terminent comme il se doit par un affrontement avec un boss de taille imposante.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Progear",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "In a time when the industrialization of the world had just begun, various inventions appeared and changed the life of the peaceful kingdom. One of them was a propeller that evolved from pure wind generation by using the created electricity to re-rotate it. It was called 'The Professional Gear', or just 'Progear'. This invention was the key to conquer the great wide open sky. Another discovery made the ancient dream of the immortal body come true. But it was affordable only by some wealthy elderly. They formed a new council called 'the Motorouin' and declared the current government as a corruptive and greedy establishment and that they want to correct it by a new educational system, in order to create a new race of man. So they built a military force to realize the first step of their plan, which was the takeover of the kingdom. The government decided to stop the aggression by putting it's own army in motion. It was a dreadful battle with many victims. But it was won by the Motorouin. This battle is mentioned in the books of history as 'The Punishment of the Sages'.\r\n\r\nA group of young pilots, actually children whose families were killed in that war, finally decided to fight back. They secretly developed a new powerful weapon which adults were not able to use. They called it 'Gun Flyer' and installed it in all of their planes. The Storm of Progear was about to begin!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3dd51f7a6545cbaac9aaf6d7a0764f0b2a95f68822f62041901578a6e60f70a0",
+   "width": 1280,
+   "height": 720,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37404&media=fanart",
+   "fetched_at": "2026-11-06T17:21:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "50fd1eee0559ae6bcba0a80e8b3fb2b71d2f140f1b3454a12106dc059a7baafd",
+   "width": 600,
+   "height": 280,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37404&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:21:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0e6452050450fac79d1b795a0ad42f684335dfb41ca1402b02691e2f4b08489d",
+   "width": 1000,
+   "height": 1419,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37404&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:21:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4b909684db348787b5d0a88c4d6b9943314376ed22d2c53dada5ba45afa3854e",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37404&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:21:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "64cc757b920aca29957795c2f1f8c7d63617f17ba8dcef69df8582e843d7a202",
+   "width": 500,
+   "height": 709,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37404&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T17:21:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "efff8d43cd5ce6a0730abc48dc6e354d1e93abdb79fe9d47dbf0b57b42fc741b",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37404&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:21:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:21:02+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "dungeons-dragons-tower-of-doom",
+ "title": "Dungeons & Dragons: Tower of Doom",
+ "source": "screenscraper",
+ "ss_game_id": 37393,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37393,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-4",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Dungeons & Dragons: Tower of Doom",
+   "genre": "Beat'em All",
+   "synopsis": "Dungeons and Dragons: Tower of Doom (ou Tower of Doom) est un jeu vidéo du type beat them all avec des aspects jeu vidéo de rôle, développé et édité par Capcom en janvier 1994. C'est le premier d'une série de deux jeux en arcade basés sur l'univers de Mystara (le second volet de la saga s'intitule Dungeons and Dragons: Shadow over Mystara)",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dungeons & Dragons: Tower of Doom",
+   "genre": "Beat'em Up",
+   "synopsis": "Dungeons & Dragons: Tower of Doom is the first of two video games created by Capcom based on the Dungeons & Dragons tabletop role-playing game. The game was also released on the Sega Saturn, packaged with its sequel, Dungeons & Dragons: Shadow over Mystara, under the title Dungeons & Dragons Collection, although the Saturn version limited the gameplay to only 2 players. The game is set in the Mystara campaign setting.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "841eccad8ac6c9563c64179828e61d37ab438315b98a8b84f4fb1ecc3d356573",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=fanart",
+   "fetched_at": "2026-11-06T17:31:00+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "87999f594a90797c527e60566b73b577bdaa4d6dca66d327b5c684b925b02d2a",
+   "width": 600,
+   "height": 150,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:31:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bea998b13cf504f6053031dd2eff151ff2147ca41ade5a50daabd953269f95de",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:31:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "26f87d952bd37ef374c3ada837b4c04ee839c654229599f47e6d3759c0a5e015",
+   "width": 452,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:31:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "888ac44d0dcdeb06c567125906635df7419bf61b2d60588df5eedc328e8df870",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:31:06+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "2d5a8f6e4eba848d73a4dae889f273e0c0b3ff6067c2e92ec03ab567a0a9848f",
+   "width": 838,
+   "height": 1188,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:31:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "381594cfd634c2836195736c1d07118377d084f62788526e6b7023886bdbe6a9",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37393&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:31:09+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:31:00+00:00",
+ "status": "done"
+}

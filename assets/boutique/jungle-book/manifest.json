@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "jungle-book",
+ "title": "Jungle Book",
+ "source": "screenscraper",
+ "ss_game_id": 70841,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 70841,
+  "release_year": 1994,
+  "publisher": "Virgin Interactive",
+  "developer": "Eurocom",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Le Livre de la Jungle",
+   "genre": "Plateforme",
+   "synopsis": "Le Livre de la Jungle sur Gameboy est l'adaptation du film de Disney de 1967, lui-même inspiré du livre écrit par Rudyard Kipling. Vous incarnez Mowgli et devez ramasser des fruits, grimper aux arbres et combattre les ennemis de l'histoire comme Sher Khan. Le jeu permet de replonger dans l'univers d'un des classiques de Disney en retrouvant tous ses personnages et ses décors.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Jungle Book",
+   "genre": "Platform",
+   "synopsis": "You're an Indian boy named Mowgli, and you were raised by a pack of wolves. No parents. No school. No problems. Great life, huh? Except there's a rumor that Shere Khan the man-eating tiger is coming after you. So now you've got to sneak, swing and swoop your way through the jungle, catch the tiger by the tail and reach the safety of the man-village.\r\n\r\nTo do this, you have to get the hang of incredibly tricky vines, neutralize venom balls, dodge coconut-throwing monkeys and fire off bananas at any scorpion, vampire bat, or crazy ape that gets in your way. So eat your potassium. It's a jungle out there!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fc81918b955c6df55887f24aed6e3ee4a6b4d5dd75504f4935b0e79e2d552fda",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70841&media=fanart",
+   "fetched_at": "2026-11-07T01:00:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "123f6f1e12034bdab4e930d5753676f919453a4f90088b4693345b446d039047",
+   "width": 600,
+   "height": 146,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70841&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T01:00:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8370f0f08d1355acd774de1e3339f71836b40876929fb6e34e9397f93e22b8fc",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70841&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:00:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a92eb9e9cc60c3c6691e705c41ee31b4ace86aaaf20078d1fd3abdcf089812bb",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70841&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:00:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "cdf9e1d6372284904a103c43513883dd66f3e955b64640fe42709070077b03b9",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70841&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:01:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2cbe8d26a836941bd08e0491c7a2bdfb7d68f2b993633b423494d3638a9f21ab",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70841&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:01:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:00:54+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "snowbros",
+ "title": "Snow Bros.",
+ "source": "screenscraper",
+ "ss_game_id": 43162,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43162,
+  "release_year": 1990,
+  "publisher": "Toaplan",
+  "developer": "Toaplan",
+  "players": "1-2",
+  "system_label": "Toaplan"
+ },
+ "text": {
+  "fr": {
+   "name": "Snow Bros. : Nick & Tom",
+   "genre": "Plateforme",
+   "synopsis": "Un jeu dans le même style que \"Bubble Bobble\" sauf qu'ici, vous n'enfermez pas vos ennemis dans des bulles mais dans des boules de neige. Chaque ennemi défait peut donner divers bonus parmi lesquels des fioles de plusieurs couleurs : jaune : tir longue distance, rouge : vitesse de déplacement augmentée; bleue : boules de neige plus grosses... Tous les dix tableaux, le joueur affronte un boss. Un jeu plutôt fun et encore plus à deux joueurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Snow Bros. : Nick & Tom",
+   "genre": "Platform",
+   "synopsis": "One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. \r\n\r\nThe snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the \"kick out\" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. \r\n\r\nIf players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.\r\n\r\nWhen players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:\r\nYellow = Long shot\r\nRed = Speed up\r\nBlue = Bigger snowballs (encases monsters quicker)\r\nGreen = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.\r\n\r\nEvery 10th level features a battle with a large end-of-level boss.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ab1f943dc84bd8bdff01991cf98bccfbfa17aaf385f86688f93dd8da0fc1f8d1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=fanart",
+   "fetched_at": "2026-11-06T23:53:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "cb3c934da3c4f2df779fb70ec1e98ea297b26dedc1e6f1ffa14d9df4e022b941",
+   "width": 400,
+   "height": 150,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:53:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "cf246b5ab356d101afafe663d969d7d93ae385d573451daa2d29b84486ac403c",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:53:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1408c08603c5e13b372093828dfeecdf49f11b27543e820dea69ab87492d96de",
+   "width": 495,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:53:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "fd4282ef5b819214d76429d4c1a576033572b19b0f814904c450205aa626e0d2",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:53:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "435f0791c35d4dc3343c6cc661f63daeb3b837a50e5f871d7dfb682c6096b41a",
+   "width": 846,
+   "height": 1200,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T23:53:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e91fbf025b5351f4d094ffc0503bc250288f41cc621b1b9eec290c95a1507be5",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=191&jeuid=43162&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:53:20+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:53:10+00:00",
+ "status": "done"
+}

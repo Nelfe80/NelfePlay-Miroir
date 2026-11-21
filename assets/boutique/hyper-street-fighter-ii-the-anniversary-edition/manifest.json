@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "hyper-street-fighter-ii-the-anniversary-edition",
+ "title": "Hyper Street Fighter II: The Anniversary Edition",
+ "source": "screenscraper",
+ "ss_game_id": 149430,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 149430,
+  "release_year": 2003,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Hyper Street Fighter II: The Anniversary Edition",
+   "genre": "Combat",
+   "synopsis": "Hyper Street Fighter 2: The Anniversary Edition est  le septième épisode de la série Street Fighter II et il a été produit pour célébrer le 15e anniversaire de la série Street Fighter. Le moteur du jeu est basé sur celui de Super Street Fighter II Turbo.\r\nLe jeu regroupe toutes les versions de chaque personnage des versions antécédentes. Par exemple, il est possible de faire s'affronter la Chun-Li originale de Street Fighter II: The World Warrior contre la Chun-Li de Super Street Fighter II: The New Challengers. Les différences étant l'apparence, mais aussi des coups en plus pour les versions plus récentes des personnages (comme le Kikô-Ken, que Chun-Li n'obtint qu'à Street Fighter II': Hyper Fighting).\r\n\r\nIl n'est cependant pas possible d'y faire s'affronter deux itérations originales du même personnage (par exemple : le Blanka de The World Warrior contre le Blanka de The World Warrior), ceci étant impossible dans le jeu original.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Hyper Street Fighter II: The Anniversary Edition",
+   "genre": "Fighting",
+   "synopsis": "Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "264f565a5a3683f5cc726d790f06e9c88901ef8c68778db3aebd90279efc60d6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=149430&media=fanart",
+   "fetched_at": "2026-11-06T15:50:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3bcc338350fa3b61087465d8370c93e24826489626c4dacf81195e306649a248",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=149430&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:50:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c7f4b130a5f5125c2cc37e2efd0a477fad5999156c2b461afb586c0c3d75d973",
+   "width": 1121,
+   "height": 1468,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=149430&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T15:50:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "52d7c72ee9537a01175e4901074dc2a776c66ca2d9a88df0b920dd0e4488fda2",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=149430&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:50:44+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "825596327323c6226297d1b440a84cf1d4de008c5d35fb2f71ec511c67d29234",
+   "width": 1121,
+   "height": 1468,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=149430&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T15:50:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4df28d47be5504c0cc4c408a12d69d7e45bc7de5dccf46bc64a0e35f63b01363",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=149430&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:50:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:50:38+00:00",
+ "status": "done"
+}

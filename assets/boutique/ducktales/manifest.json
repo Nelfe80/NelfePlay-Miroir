@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ducktales",
+ "title": "DuckTales",
+ "source": "screenscraper",
+ "ss_game_id": 1263,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1263,
+  "release_year": 1989,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Disney's DuckTales :La Bande a Picsou",
+   "genre": "Plateforme",
+   "synopsis": "Saperlipopette! Toujours en quête d'émotions, l'Oncle Picsou. Ne décrochera-t'il donc jamais?\r\nAvec son esprit aventurier, Picsou se prépare à relever le plus grand de tous les défis: découvrir les cinq légendaires Trésors Perdus, et devenir le \"Canard le plus riche du monde\".\r\nRejoignez Picsou et l'équipe de DuckTales: Flagada l'as volant, les neveux Riri, Fifi, Loulou et la petite Zaza dans leur recherche. À pied, ils doivent traverser la traîtresse jungle amazonienne, descendre dans les mines de diamants en Afrique, et même atteindre la lune!\r\nVous sentez-vous assez brave pour vous joindre à eux dans cette aventure? Venez au quartier général de Donaldville et voyez par vous-même!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Disney's DuckTales",
+   "genre": "Platform",
+   "synopsis": "Duck Tales for NES is a traditional platform game in which the player takes the role of greedy Scrooge McDuck in search of treasures around the globe. He counts on his three nephews and on other Duck Tales characters to help him in his quest through inospit places such as the Amazononic forest, the African Mines, the Himalayas, Transylvania (where he meets Dracula Duck) and even the Moon.\n\nEach one of them reserves the old duck lots of adventure, different enemies and hidden rooms.\n\nThe game features a 2D side-scrolling platform gameplay very similar to Mega Man. Graphics are colorful and cartoonish, music remembers players of the TV series and controls are very simple.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e886bf335b2f6c6416479e86d8ccf0efb390f6c499daff44cc1301a50e6be394",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1263&media=fanart",
+   "fetched_at": "2026-11-06T23:19:42+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c59389bbab2cb487c5211dba420e416829139ba0b8bf479958ff0412fd5e309a",
+   "width": 600,
+   "height": 260,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1263&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:19:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "86faafdcad5790e90c5b29da0baca5394c37f237c7e36caa1d507bc3215c96b4",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1263&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "45300251f160e1741a6137d7ff552441d1c15235d391b281984f26d5eb320b19",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1263&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "cf470e22b0f956c5b9cec62621f109983ad856f662982ccf1fd04d2fd55f4544",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1263&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:19:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ed8cfb5cab200a31f2e1316d808fb87e6431f4a46275690d953457e750fe8c77",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1263&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:19:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:19:42+00:00",
+ "status": "done"
+}

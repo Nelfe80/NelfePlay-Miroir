@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "knuckles-chaotix",
+ "title": "Knuckles' Chaotix",
+ "source": "screenscraper",
+ "ss_game_id": 12670,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12670,
+  "release_year": 1995,
+  "publisher": "SEGA",
+  "developer": "Sonic Team",
+  "players": "1-2",
+  "system_label": "Megadrive 32X"
+ },
+ "text": {
+  "fr": {
+   "name": "Knuckles' Chaotix",
+   "genre": "Plateforme",
+   "synopsis": "Knucles Chaotix est un jeu de plates-formes sur Megadrive 32X. Dans cet opus tiré de la série Sonic The Hedgehog, le joueur commande deux personnages reliés par un élastique formé d'anneaux. Incarnez l'un des quatre personnages disponibles (Knuckles, Espio, Mighty, Charmy Bee, Vector) et usez efficacement de l'attraction de l'élastique pour déjouer les pièges tendus par l'infâme docteur Robotnik.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Knuckles' Chaotix",
+   "genre": "Platform",
+   "synopsis": "Knuckles' Chaotix is a spin-off of the Sonic the Hedgehog series of Genesis games. Knuckles the Echidna (from Sonic the Hedgehog 3) works at Carnival Island, an amusement park where his job is to protect the park and make it a happy place for visitors. Dr. Robotnik, as usual, has an evil plan for the park. He wants the power emerald which supplies electricity to the entire island. What's worse, he has imprisoned several of Knuckles' friends in the \"combi confiner.\" This contraption only allows Knuckles to free one of his friends at a time by using a ring force bond. \r\n\r\nNew characters featured include Vector the Crocodile, Mighty the Armadillo, Espio the Chameleon and Charmy Bee. There also two characters whose sole purpose is to slow you down, Heavy the Robot, and Bomb. Chaotix adds several new power-ups and 3D bonus levels as well.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2f1f2585ed3d4e68a571bf1ca5ffa9c16a922c2eb50d425dc2f72b2fb6c11f82",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=19&jeuid=12670&media=fanart",
+   "fetched_at": "2026-11-07T00:09:59+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4e783b24c1b93acc94e29581ba266b27efde7b5c806e48c8fe862346b4daec21",
+   "width": 400,
+   "height": 143,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=19&jeuid=12670&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T00:10:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5b925005f74efa0ae20fe4eb041965a6f22ce88537e2925e141556dce9409925",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=19&jeuid=12670&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T00:10:02+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8b7cca8cf4deecad7b9c60f7e56869bc3f31b7c59078448d7091c94ba03170eb",
+   "width": 600,
+   "height": 395,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=19&jeuid=12670&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T00:10:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d7d1152bdcfb8ee4cc3394cff0236f9f447271f7543bdcc0d88639402e0f0045",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=19&jeuid=12670&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T00:10:05+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0eef8aafd9bc41c8443923efd1b16c46e076a672475825fdaa60c9a0a4342028",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=19&jeuid=12670&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T00:10:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:09:59+00:00",
+ "status": "done"
+}

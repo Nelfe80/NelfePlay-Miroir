@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "video-pinball-arcade-pinball",
+ "title": "Video Pinball: Arcade Pinball",
+ "source": "screenscraper",
+ "ss_game_id": 14128,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14128,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Sears",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Video Pinball : Arcade Pinball",
+   "genre": "Flipper",
+   "synopsis": "Video Pinball pour Atari VCS 2600 est un jeu de flipper développé par Atari. Le jeu reprend le principe d'un flipper. Le but est de gagner un maximum de points. Il y a deux niveaux de difficulté et 4 modes de jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Video Pinball : Arcade Pinball",
+   "genre": "Pinball",
+   "synopsis": "Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9f793f2819901ebe2bee0fd3e8966f2f295d7f742dde34cd6112b6ca53a14588",
+   "width": 400,
+   "height": 49,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14128&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:08:21+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3f1da8ab6c818c50f13a74ccbd1533bd5cad643b90fdacf462821666e6fee983",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14128&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:08:22+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9bdd1ea33eb4e3b14352bf3917e41ceaed8010d3a56b8c72258d867cd1e87b04",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14128&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:08:24+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "a954f0dfb0343c216ae38a7d9562fd85d7606d3123db96fcc6090caeeda6926c",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14128&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:08:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "42f777f8e45f5308f9f8cfe88cd9d042c3a7a63eb8aee1856b7da2b7cf239b8f",
+    "width": 320,
+    "height": 217,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14128&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:08:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:08:20+00:00",
+ "status": "done"
+}

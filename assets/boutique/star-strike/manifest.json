@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "star-strike",
+ "title": "Star Strike",
+ "source": "screenscraper",
+ "ss_game_id": 87907,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87907,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "Mattel Electronics",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Star Strike",
+   "genre": "",
+   "synopsis": "Star Strike est clairement inspiré de la séquence de bataille de Death Star dans le film Star Wars. Vous faites voler un vaisseau spatial dans la tranchée de lancement ennemie. Votre mission : détruire la station extraterrestre avant que la Terre ne passe directement au-dessus de la tranchée de lancement. Vous devez échapper aux vaisseaux extraterrestres qui défendent la tranchée de lancement tout en étant sûr de bombarder les \"cibles chaudes\" rouges.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Star Strike",
+   "genre": "",
+   "synopsis": "Star Strike was clearly inspired by the Death Star battle sequence in the movie Star Wars. You fly a space craft into the enemy launch trench. Your mission: to destroy the alien station before Earth passes directly over the launch trench. You must evade the alien ships that are defending the launch trench while being sure to bomb the red \"Hot Targets\". The very first red target that is missed when the Earth is directly in the middle of the launch trench becomes a missile. The missile is launched and destroys Earth.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b8c9c28e2bc8fdf1da81a38a3c999f3da51f7f712aa2327e45e09e3ad90574c0",
+   "width": 400,
+   "height": 46,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87907&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:04:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2c17c80fb17f12f2bf4670daf0585331381eeae46fb11f42aadd0ae91fb31db9",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87907&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "aaa3d45f8269dd463e83a9243fab0bbb643f713937c4d8a5343e7bcb7c67dbbc",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87907&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:04:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "a324a9d2083c24c0ea14072cf66164481024e5246c942e51df985868c14a62f0",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87907&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:04:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cffd69a134751a84b71aec481135ef9a839da009f6a2fb49adc11f027c88a3cd",
+    "width": 304,
+    "height": 192,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87907&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:04:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:04:43+00:00",
+ "status": "done"
+}

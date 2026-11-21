@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-monkey-ball-jr",
+ "title": "Super Monkey Ball Jr.",
+ "source": "screenscraper",
+ "ss_game_id": 84721,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 84721,
+  "release_year": 2002,
+  "publisher": "SEGA",
+  "developer": "Realism Entertainment",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Monkey Ball Jr.",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Super Monkey Ball Jr : guider un petit singe qui se déplace dans une sphère très mobile, au sein d'un univers labyrinthique. Les niveaux (plus d'une soixantaine !)ainsi que des mini-jeux complètent intelligemment l'ensemble.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Monkey Ball Jr.",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Based on the Gamecube series of the same name, Super Monkey Ball Jr. has you in control of 3D style arenas, each with a varying degree of difficulty and objectives. Your little monkey, inside a ball, relies on your movement of the arena to get to the required objectives (collecting items, getting to the finish line in under a certain time limit, etc.).\n\nApart from the single player puzzle experience (which includes more then 60 arenas), up to four people can play a collection of mini-games (which you must unlock in the single player game). Play monkey bowling (aka ten pin bowling), monkey fight (knock the other 3 players' monkey ball out of the circle arena) or an 18 hole mini golf challenge.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f1cd5d4f8a36856b80ad656f5fd9088161df7b0bd4bc4448168d494319a503ae",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84721&media=fanart",
+   "fetched_at": "2026-11-06T23:57:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "845683651ec49415b708ccf59fcc03a980ef5d14a54a4bd6e18d74d2868b8cfe",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84721&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:57:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ba5495a9c1d3e35ca44f712814a4107d21442ff0454e5b0db204687060cc9cb2",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84721&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:58:01+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "208db1af218e6a32a841630e8373eb761b6a856b7a30a8811736d8800cefb511",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84721&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:58:02+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "55a9dadb3c50856cf1b80cfebfb70c1ef7050a4e19a52ffad570194cbeef4402",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84721&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:58:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5c6127e62b7188dce8831968563aeffe5232ce035672469c539b0c66f7be2514",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84721&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:58:05+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:57:56+00:00",
+ "status": "done"
+}

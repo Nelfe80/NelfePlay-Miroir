@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "bubsy",
+ "title": "Bubsy",
+ "source": "screenscraper",
+ "ss_game_id": 2411,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2411,
+  "release_year": 1993,
+  "publisher": "Accolade",
+  "developer": "Solid Software",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Bubsy in : Claws Encounters of the Furred Kind",
+   "genre": "Plateforme",
+   "synopsis": "Dans ce jeu d'action de 15 niveaux, le joueur incarne Bubsy, le lynx roux, qui doit vaincre les Woolies, des extraterrestres qui volent des pelotes de laine. Le jeu se déroule dans cinq environnements différents, tels que la jungle, le Far West, etc., où le joueur doit sauter et atterrir sur ses ennemis pour les éliminer. À chaque fin de niveau, le joueur doit vaincre le boss, qui se trouve à l'intérieur d'un vaisseau extraterrestre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bubsy in : Claws Encounters of the Furred Kind",
+   "genre": "Platform",
+   "synopsis": "In this 15-level action game the player is Bubsy the bobcat, who has to defeat the Woolies the aliens, which steal balls of yarn. There are five different locations such as jungle, wild west, etc., where the player has to jump and land on their enemies to kill them. Each time to finish the level the player has to defeat the boss, who sits in an alien ship.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7f07ebd5b92f1a0a86c76b40d62703fce2a78b1c28b1f9107b877eb9ef1816f7",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2411&media=fanart",
+   "fetched_at": "2026-11-07T20:24:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b66c042df825421656519c1a2f5d1a2422f68c1091e95485b7ddaab639d10096",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2411&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:24:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "54289d914e8f14d4ccb4d7786b28330557f90de46a09c18a925c2a7969070906",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2411&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c20422afb8d86f07f11eed8cc9f9ce3670fda382339eda9e09c8d70f706cb296",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2411&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:24:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4de04fe5861350d54dc10bcc15dceac04d8708c5bc98055f5b61260733d20b57",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2411&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:24:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e7df0b9d79701447cb408c6ded7e4cbf3d6fb509d45e561048fb5be1ec1bb210",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2411&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:24:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:24:39+00:00",
+ "status": "done"
+}

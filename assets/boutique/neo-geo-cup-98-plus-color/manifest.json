@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "neo-geo-cup-98-plus-color",
+ "title": "Neo Geo Cup '98 Plus Color",
+ "source": "screenscraper",
+ "ss_game_id": 47042,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47042,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "NeoGeo Cup '98 Plus",
+   "genre": "Sport / Football",
+   "synopsis": "Dans le mode story vous choisissez une équipe parmi les meilleures au monde avec l'objectif de remporter la fameuse Neo Geo Cup. Cela n'est toutefois pas de tout repos et remporter le titre demandera de longues heures de match intense.\nChaque rencontre vous donnera droit a un certain nombre de points qui pourront ensuite êtres utilisés dans la boutique, ce qui ajoute un petit côté RPG non négligeable. Acheter des shorts, crampons, maillots et plein d'autre objets parmi une sélection donnée augmenteront les capacités de votre équipe selon plusieurs critères et rendra vos joueurs plus rapides ou adroits devant le but.\r\n\r\nLe jeu est également disponible sur Neo Geo Pocket.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "NeoGeo Cup '98 Plus",
+   "genre": "Sports / Football (Soccer)",
+   "synopsis": "Neo Geo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c5c2dd76442fae48212591ca8f71dadabd71c275a97b7088bd7b422eaacf7ef2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=fanart",
+   "fetched_at": "2026-11-06T23:43:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "11d7b8a20c3aa322e9051d3a75a89f4440b11763aa15537a7626150173944cf4",
+   "width": 505,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:43:11+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "159545633897e15e2c9ae3fee9d50f1860b64de298670a88e6c77401a5d0082a",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:43:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b1e7e995f2975b6b863e5bda269aa207d3a4cf00ca99026e739f893bfa68f859",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:43:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "cd4d81c582b4db964ad63e25622566a3254d59919b1bc830f97dafad9bc5a4ce",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:43:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "086c2a5b0d498ce07bb99863d956ee1275d9287aa5d7990628b350a6098831e8",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:43:16+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "b7b1e91d0c45505980411d47ee6262d3c19f3f82967ac1f2b993b103adc49795",
+    "width": 160,
+    "height": 152,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47042&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:43:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:43:08+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "final-fight-arcade",
+ "title": "Final Fight",
+ "source": "screenscraper",
+ "ss_game_id": 37362,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37362,
+  "release_year": 1989,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Final Fight",
+   "genre": "Beat'em All",
+   "synopsis": "Final Fight peut être joué par deux joueurs simultanément, chaque joueur contrôlant un personnage différent. Avant le début du jeu, le joueur choisit entre les trois personnages principaux, Guy, Cody et Haggar, chacun ayant son propre style de combat et ses propres attributs. Guy est le plus faible mais a des attaques plus rapides, Haggar est le plus fort mais aussi le plus lent, et Cody a des attributs polyvalents.\r\nFinal Fight se compose de six étapes ou \"rounds\", ainsi que de deux rounds bonus. Chaque round se déroule dans une section différente de Metro City, comme les taudis et le métro, et la plupart des rounds comportent plus d'un niveau. À la fin de chaque round, le joueur affronte un boss propre à ce round.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Final Fight",
+   "genre": "Beat'em Up",
+   "synopsis": "Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.\n\nFinal Fight consists of six stages or \"rounds\", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8c82fbaedbb73c4e4c5844190b6697f4f62b570bfb59b43f263d874354512316",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=fanart",
+   "fetched_at": "2026-11-06T15:29:54+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8ac176cb017c9fd151aa6c128dd20d32b0784eb83c16fb00a5ccd6474994daa6",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:29:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "93a740836fbcd95ad7f26455a26e8adbdfc5cf3df18e67ed6c36cacf5ec0b263",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:29:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "dcc9fe4d904af5df62ae7197396b4d017f5daeda44b7dad90d0bc8af1c3b03f9",
+   "width": 496,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:29:59+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b920cf027734dc021c69facbbb729c3b9f85d915f768cafcaf47fe71f2c04e40",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:30:00+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "7cbd9a85f1a774503d6b5af2fd8a1b2a05d16cf17db56dd7da453240923d37d2",
+   "width": 850,
+   "height": 1189,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:30:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "83ba4dc5f9896efc686d245a2de493c4eabbd9801f104d6e4d4484a4f34a1af9",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37362&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:30:03+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:29:53+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "missile-command-partially-converted-but-playable",
+ "title": "Missile Command (partially converted, but playable)",
+ "source": "screenscraper",
+ "ss_game_id": 78936,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 78936,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Missile Command",
+   "genre": "Tir",
+   "synopsis": "utilisez trois bases de lancement de missiles atomiques, vous défendez vos villes contre les missiles entrants. Les missiles ennemis peuvent se séparer en plusieurs missiles, alors tuez-les tôt car vous n'avez qu'un nombre limité de missiles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Missile Command",
+   "genre": "Shooter",
+   "synopsis": "Missile Command is a one or two-player game depicting the outbreak of a nuclear war. Players must defend six cities from waves of incoming nuclear missiles by launching their own anti-ballistic missiles (ABMs) from one of three missile batteries. \r\n\r\nThe game is played by moving a cross-hair across the sky and pressing one of three buttons to launch an ABM from the corresponding battery (either Alpha Base, Delta Base or Omega Base). Upon reaching the cross-hair the player's ABM explodes, creating a fireball that lasts for several seconds and destroys any enemy missiles that enter it. Each battery is initially armed with ten anti-ballistic missiles and becomes useless when either all of its missiles have been fired or it's been destroyed by enemy missiles.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ba704ab4c7ac9694a42220ab16556aad14286178f3772f28c61fe46a1e8ef2a0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=fanart",
+   "fetched_at": "2026-11-06T23:22:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2882780d6ececdf6e0ee334ba0e650f8c49a3c268d95fc7b0aeb589ac71dba69",
+   "width": 400,
+   "height": 108,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:22:54+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "73f8c8287af9d982f55adccb769e04ca343b81e0d5687d496a4c6b175fc8ea8b",
+   "width": 1088,
+   "height": 1400,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:22:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "483d24afa629f3ac3f3b87be5605b1420cf3adf79e89348d80706347282fe7e1",
+   "width": 550,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:22:57+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "655e1e26e9fcd8dfe3665cb4d81a9101769f10a6d0fcd9e5eda7a38da1a30dbd",
+   "width": 256,
+   "height": 231,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:22:59+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8534d673ccc660380f31a8b3c4b9e43e5de3686ad4d262c9850619ca7782f8da",
+   "width": 850,
+   "height": 1193,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:23:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8f154167fad61d7392d7eecbf28d095a18e098994f7c6a07414ed45e72a175fb",
+    "width": 256,
+    "height": 231,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=78936&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:23:02+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:22:52+00:00",
+ "status": "done"
+}

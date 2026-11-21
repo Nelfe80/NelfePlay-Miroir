@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "giga-wing",
+ "title": "Giga Wing",
+ "source": "screenscraper",
+ "ss_game_id": 41446,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41446,
+  "release_year": 1999,
+  "publisher": "Capcom",
+  "developer": "Takumi",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Giga Wing",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Shoot faisant partie de la nouvelle école dite \"manic shooter\" (la profusion des tirs remplace la précision mais en compensation la zone destructible du vaisseau est très réduite) il se joue verticalement mais sur un écran large (pas besoin de retourner la télé). 4 vaisseaux avec tirs et bombe différents, et un bouclier qui renvoie les tirs adverses. Tout le principe du jeu réside dans l'utilisation de ce bouclier au bon moment à  fin de se sortir de situation désespérée. Graphismes sublimes, animation sans faille, Capcom à  réaliser un des meilleurs shmups à  mettre aux coté de Dodonpachi, Batrider, Batsugun, Dragonblaze, ...\r\n\r\nIn short, this is one of the best 2D shooters ever made. It was also released on the Dreamcast. And if you like this game, check out the sequel Mars Matrix. Good game.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Giga Wing",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "'Medallions' are mystic stones sent from heaven, brought evolution to human technology and lead tremendous progress to the armories. To gain their powers which the 'Stones' hold for the promised victory, many nations fought over the mystic stones and reheated the world of war. Within all the 'Stones' is the 'Medallion of Wisdom', known as the power source of all mystic stones, it had enough energy to terminate humanity. The whole world was in despair. And now, four brave worriers have risen to fly straight into the combat zone! All four had different reasons, but their ultimate goal was the same: to destroy the Medallion of Wisdom! Fight to save the humanity!\r\n\r\nGiga Wing is a shoot-em-up set during a fictional war. The player controls one of four different futuristic aircraft and must destroy enemy aircraft, tanks, ships, and buildings using both guns and missiles mounted on the aircraft and a limited supply of bombs which damage or destroy all enemies on-screen when used.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "54a92ce33c372f3cac074c0bdad975b7cd9774f36840d99000d369e36ca32e0f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41446&media=fanart",
+   "fetched_at": "2026-11-06T15:32:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bf7929c57abcbfbe1cd77d530005016af06f9aea4e64fac457f3335429806395",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41446&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:32:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6a96cbab0e29dc0a626a27079cb088e3da8bb363e23dd2776340f70682292f91",
+   "width": 850,
+   "height": 1202,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41446&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:32:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "12cf10456e3aa7a1761e00b4c0c17ed61c906030c56718339f3d433812f966f2",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41446&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:32:20+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "becb0c98d9534573d315ef369a51abb2de2472944b91886f43b104022110a909",
+   "width": 850,
+   "height": 1202,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41446&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:32:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9086011e7a71c53697046ebc7e9bc7ead812f0fdbd3415c158ad58fb379b6e37",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=41446&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:32:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:32:14+00:00",
+ "status": "done"
+}

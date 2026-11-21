@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "atari-video-cube",
+ "title": "Atari Video Cube",
+ "source": "screenscraper",
+ "ss_game_id": 58692,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 58692,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Atari Video Cube",
+   "genre": "Puzzle-Game",
+   "synopsis": "Semblable au populaire jouet de Rubik's Cube, les joueurs contrôlent un puzzle cube multicolore pour essayer d'aligner toutes les couleurs. Contrairement au jouet, le jeu Atari utilise un homme comme un avatar qui court le long des couleurs pour faire tourner des sections du cube.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Atari Video Cube",
+   "genre": "Puzzle",
+   "synopsis": "In this game, you control Marvin the Cube Master. You move him around a six-sided cube with nine squares to a side.\nThe object is to get all nine sides to be one color each in the least amount of time or fewest moves, depending on the game variation you select.\n\nMarvin changes a space's color by standing on it and you pressing the fire button. Marvin will then exchange the color he is with the space. Marvin cannot move onto a space of the same color as he is.\n\nTo rotate the cube, just move to the edge and press the joystick in the direction to rotate.\n\nThe game variations allow for normal or fast speed or timed race or fewest moves.\nOther variations cause the cube to show all the spaces as black except when it rotates, so you don't know what color your on.\nTwo of the game variations, one a timed race and the other a fewest moves challenge, restrict you rotations to up and right only, but do not black out the spaces.\n\nEight of the game variations have the computer play the game itself.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6fac8550236512d47d7c12cb253cf7397776bada8fe49f722b91a6f5598632f6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58692&media=fanart",
+   "fetched_at": "2026-11-06T16:47:52+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3cddb4c89b6b0b2eafece25e8145b10dfb711300143df447b9be5dbbaacbd2c3",
+   "width": 400,
+   "height": 33,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58692&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:47:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c7c867bd39af3d756623eb07a3c29b990dd5e556bea3c09c8e9446a24230088f",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58692&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:47:55+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "946e1be21b7364dab4b38f57f20d2c37b327a712951c322d8eeb1ce1e12cb5ad",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58692&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:47:57+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "6ac04acc88f6617df7877572085c44fe898fc9b6589d245fb7611f5ee1c7befe",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58692&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:47:58+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b50bf5f0a66a1852ee0386d964d621fb32c8bef3fdb6ae96661068a4730095e7",
+    "width": 320,
+    "height": 226,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58692&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:48:00+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:47:51+00:00",
+ "status": "done"
+}

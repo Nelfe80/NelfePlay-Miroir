@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "astroblast",
+ "title": "Astroblast",
+ "source": "screenscraper",
+ "ss_game_id": 51184,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 51184,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "Mattel Electronics",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Astroblast",
+   "genre": "Tir",
+   "synopsis": "Astrosblast est un jeu vidéo conçu par John Sohl et commercialisé par Mattel Electronics en 1981. Le jeu consiste à utiliser un canon laser pour détruire les météores, les bombes et autres cibles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Astroblast",
+   "genre": "Shooter",
+   "synopsis": "For 1 player at a time- compete with friends for the best peak score! 2 firing modes- 2 speed options. Shoot down a variety of fast-moving targets: falling meteors, spinning bombs, guided missiles- even a bomb-dropping UFO! The computer keeps score, and gives you more challenging game action the higher you go!\r\n\r\nThis is the Atari version of the Intellivision game Astrosmash. There is a bug in the original release of this cartridge - when two controllers are plugged in and moved simultaneously, unpredictable graphic effects can occur, and the joysticks may stop operating until the game is reset. The bug was fixed in later productions of the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "53d9e15d5228e5d30f244c61c864f136960f1574a277e7e2fd49de131dba51d5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51184&media=fanart",
+   "fetched_at": "2026-11-06T16:47:27+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ab36e2b8e1f7d7f03133f0ed2cb112003dc17f8ee336af3cd6db93b8138f767d",
+   "width": 400,
+   "height": 64,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51184&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:47:28+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a78b9b7dcfa718c8cc67f1c0b62b55994057dabaf8f205053f7c5daa7afeb473",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51184&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:47:30+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "748920157d04a282bb4f25bb88106dc143e59b72b2d37da2e75d89cb74911e1b",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51184&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:47:31+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "6f971df1d4abde1f60e09f7f3969050795a9b8c4475745ac010d0e6501350755",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51184&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:47:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1fdbc701a9b86de3001df0ade7a5872e49a6e74d19815d75a7d2abe71c0539cb",
+    "width": 320,
+    "height": 202,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51184&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:47:34+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:47:26+00:00",
+ "status": "done"
+}

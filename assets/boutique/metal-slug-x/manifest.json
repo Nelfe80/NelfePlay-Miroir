@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "metal-slug-x",
+ "title": "METAL SLUG X",
+ "source": "screenscraper",
+ "ss_game_id": 37607,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37607,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Metal Slug X : Super Vehicle-001",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Remake de Metal Slug 2, cet opus ne s'est pas contenté de régler le problème de ralentissement, il a aussi apporté quelques nouveautés:\r\n-De nouvelles armes font leurs apparitions: Iron Lizard, Drop Shot et ainsi que les versions plus puissantes des armes déjà existante.\r\n-Deux nouveau véhicules: le Slug Noid et le Metal Slug Type-R (version plus résistante, plus puissante et plus rapide)\r\n-Une refonte de tous les décors.\r\n-Une nouvelle mise en scène dans la mission finale.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Metal Slug X : Super Vehicle-001",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "98c5fd28eb40bebdf798612f84bafaa2e8d131caea9e5d3bc3c7175b27ae51c3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=fanart",
+   "fetched_at": "2026-11-06T23:41:38+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c613576e680d984de65026d7a10782c04e6930c0feefe6255c5c015796656994",
+   "width": 600,
+   "height": 299,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:41:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c8344d9c27a1c7578255221f6fadbac024967858837f6431c50957ca7ec31fa9",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:41:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5b0787a1556bd0a2da24e49c7b5d9ea9704ec6eeb2734257a46a24ff4cb50679",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:41:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a9c0f4d99cba228c7f229c28c3fe2656a50171184bef2a70a7bdf13ed51b3613",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:41:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "e7b53fd01e09a0cdd5b647e09544de9520af5afe65cac38dcd431d6f42789309",
+   "width": 1000,
+   "height": 1429,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:41:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "abec84cab6b72431e21c6f6f3b67f4d7402085338df8ecd7f4e7763349cc0c86",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37607&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:41:49+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:41:38+00:00",
+ "status": "done"
+}

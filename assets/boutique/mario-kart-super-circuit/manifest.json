@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mario-kart-super-circuit",
+ "title": "Mario Kart: Super Circuit",
+ "source": "screenscraper",
+ "ss_game_id": 3790,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3790,
+  "release_year": 2001,
+  "publisher": "Nintendo",
+  "developer": "Intelligent Systems",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mario Kart : Super Circuit",
+   "genre": "Course, Conduite",
+   "synopsis": "Mario revient à fond les manettes dans le jeu de courses Mario Kart : Super Circuit sur Gameboy Advance. Vingt nouveaux circuits, des bonus classiques et des heures de courses sont au programme de ce soft. Le mode Grand Prix, le mode Bataille ainsi que la possibilité d'affronter vos amis sont également présents.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mario Kart : Super Circuit",
+   "genre": "Racing, Driving",
+   "synopsis": "All your favourite kart-racing characters are back and ready to kick it into high gear! 20 brand-new tracks await on Game Boy Advance, loaded with classic power-ups and primed for the type of frenzied racing that only Mario Kart: Super Circuit can deliver. It's time to burn rubber in the Grand Prix, challenge your pals, race your own ghost, clash in battle mode and feel the power in the palm of your hand!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5a8bda65578fbf1b109ab5d6151cdc10f4ece3538b58538cde83440fa1279adb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3790&media=fanart",
+   "fetched_at": "2026-11-06T23:47:50+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2aedba4024683cd4f3f313006fd131597e404b7a47531e6a1df4840fcb60600e",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3790&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:47:51+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f38e85dc3d6a7644fbd175d9b5b4848becc1df01f8be8deb0436010b2c9e0002",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3790&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:47:53+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9263f807b2d7691a9319922632379bcad76581a2f981acbea7f95961ea862003",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3790&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:47:54+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1705b282c7b2c19765be20a3d210b8e859677691cda28a8fb1e860f805c2d057",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3790&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:47:56+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "83a65ef391f9594fd8604fea17063ef000686593f7ba4b3935b42c5c847c4268",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3790&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:47:57+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:47:49+00:00",
+ "status": "done"
+}

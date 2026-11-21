@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "raiden",
+ "title": "Raiden",
+ "source": "screenscraper",
+ "ss_game_id": 149501,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 149501,
+  "release_year": 1991,
+  "publisher": "",
+  "developer": "TOURVision",
+  "players": "",
+  "system_label": "Mame"
+ },
+ "text": {
+  "fr": {
+   "name": "Raiden",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Premier volet d'une série, le jeu vous met a disposition un avion pour combattre l'ennemi\r\nIl y a 2 grands type d'arme, une qui tire les balles en \"pluie\" et l'autre un grand rayon plus pluissant mais qui couvre moins de surface et des bombes.\r\nIl y a des ennemis terrestres et aériens mais rien ne change dans la facon de jouer.\r\nLes armes évoluent au fur et à mesure que l'on réccupère le même type d'arme, si l'on prend un autre type d'arme celui-ci revient au niveau de base.\r\nUn boss se trouve a chaque fin de niveau.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Raiden",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "In the year 2090, Earth is invaded by extra-terrestrials. The World Alliance of Nations has developed a supersonic attack fighter, Raiden, to defend the Earth. A pilot must take control of the experimental fighter to destroy the alien warships that just happen to look like odd variations of typical military tanks and planes with gadgets attached to them. Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scrolling shooter, based on an arcade game of the same title. It features two forms of weapon upgrades and two types of missiles (normal or homing). You start the game with several bombs which you can use to destroy most enemies on the screen to get yourself out of a jam. Each level ends with a large boss or bosses.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f3597df363a399cf1d8b0729c9b9d10678c90039d891c617b4170375b1fab2c2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=149501&media=fanart",
+   "fetched_at": "2026-11-06T16:32:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "00c7715a59be542ec193ec91dd69d7e168aaa0d09da91f035bfcc9e091dde70e",
+   "width": 600,
+   "height": 300,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=149501&media=wheel-hd%28ss%29",
+   "fetched_at": "2026-11-06T16:32:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "dfc774cb478f5bf836e3a0c5027330e29f5362b20fd29f023247295fc522c38c",
+   "width": 497,
+   "height": 680,
+   "region": "ss",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=149501&media=box-2D%28ss%29",
+   "fetched_at": "2026-11-06T16:33:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "741a9d7ac50d7f90a3ae18257a5f8f7ce54865bcfe738a7495f9413c904b0dab",
+   "width": 456,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=149501&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:33:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "b4dfd12f6209684177ee411a530a26dd90d164d73a994313cbe60304e4999090",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=149501&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:33:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "961a0b2176d9d8252878f7fbe6cde2011120c95659ae7300818d5918bc1126eb",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=149501&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:33:05+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:32:56+00:00",
+ "status": "done"
+}

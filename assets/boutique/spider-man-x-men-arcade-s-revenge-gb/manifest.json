@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "spider-man-x-men-arcade-s-revenge-gb",
+ "title": "Spider-Man/X-Men: Arcade's Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 70542,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 70542,
+  "release_year": 1993,
+  "publisher": "LJN",
+  "developer": "Unexpected Development",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Spider-Man - X-Men - Arcade's Revenge",
+   "genre": "Plateforme",
+   "synopsis": "Spider-Man and the X-Men : Arcade's Revenge est un jeu d'action/plate-formes sorti sur Game Boy en 1994.\nOn a plaisir à prendre en main les différents super-héros. Ceux-ci offrent d'ailleurs des pouvoirs bien diversifiés. Malheureusement, l'absence de points de sauvegarde et le nombre limité de vies entachent le tout.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Spider-Man - X-Men - Arcade's Revenge",
+   "genre": "Platform",
+   "synopsis": "Spider-Man and his mutant pals need your help to escape from Arcade's diabolical amusement park - battling killer clowns, hungry piranhas, lethal doom balls and deadly robot replicas of super-villains like Carnage and Juggernaut! Will Spidey's webs, Wolverine's claws, Gambit's energy cards, Storm's lightning bolts and Cyclops' optic blasts mean GAME OVER for Arcade? That depends on YOU!!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4249fef497e80f34e3a3da1ab7b9dd8c31f03165d9f707277f893dc460df82dd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70542&media=fanart",
+   "fetched_at": "2026-11-06T23:25:58+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "567d92d934a439e16a69074ead7098418e3e310342cb784f2b01a4fc9199e830",
+   "width": 400,
+   "height": 100,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70542&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:25:59+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2f60aa5ec2a19c5603d75fe59abe28127619c92350594e78a70d1f4286b63b7e",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70542&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:26:01+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6b8076740201dfd69ec28862df5763a970d4d10b5f6800bd65c942a05f172c02",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70542&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:26:02+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "375d840164adc48028a042b0f5bed1b66405ba493daff1440a3831a3d504d147",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70542&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:26:04+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "294fbbe831998f5c1b1c69377bc7091ffa2b13f28d5f25720cda7f6112132429",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70542&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:26:05+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:25:57+00:00",
+ "status": "done"
+}

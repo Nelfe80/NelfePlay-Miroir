@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "the-king-of-dragons",
+ "title": "The King of Dragons",
+ "source": "screenscraper",
+ "ss_game_id": 37366,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37366,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "The King of Dragons",
+   "genre": "Beat'em All",
+   "synopsis": "The King of Dragons est un beat'em all original qui reprend les éléments classiques de l'heroic fantasy. Le Grand Royaume est en très mauvaise posture : Gildiss, un dragon rouge, ancien et très maléfique, a décidé de l'envahir. Heureusement, une équipe de 5 héros se décide à l'affronter : le rapide elfe et son arc magique, le puissant mage et ses sortilèges, le chevalier tout en force, le prête-guerrier qui progresse vite en puissance et enfin le nain rapide muni de sa fidèle hache. The King of Dragons rappelle fortement Golden Axe ! Il faut dire que le thème du jeu (l'heroic fantasy) et la vue de trois quarts y sont pour beaucoup. Pour changer, les tableaux de The King of Dragons ne sont pas très longs, mais cela est compensé par la difficulté posée par les habituels monstres de fin de niveau. Ces derniers ne sont d'ailleurs pas loin d'être plus nombreux que les monstres que l'on rencontre durant le jeu ! Rappelons qu'il y a 16 niveaux, donc 16 gros monstres !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The King of Dragons",
+   "genre": "Beat'em Up",
+   "synopsis": "The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons & Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.\n\nThe game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bcc6c46c94f4c0729eee284aa697ae434b56b3ff8762db3d2ab37b5ee33da529",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37366&media=fanart",
+   "fetched_at": "2026-11-06T15:55:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1b69342ea8ddd9b917d521c523ad21c5945e659b4f7d260d9b11933f411858ff",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37366&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:55:19+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e204c813817b701e88904c2e02cad9ff619fb159be5c258614eddfd826a0c293",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37366&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:55:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1d31982a4b7a3490a726d71e99389501177d178c010b284d5eb6ffe62b21a18d",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37366&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:55:22+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "7fefc7fff11cd1b1c96081af51779787cfcb48b9a6b511737d5d468bc8ab50dd",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37366&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:55:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5b84a7a571a00252dc81ca3e355d36852dc972edc82057486db6f09134ee46ff",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37366&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:55:25+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:55:16+00:00",
+ "status": "done"
+}

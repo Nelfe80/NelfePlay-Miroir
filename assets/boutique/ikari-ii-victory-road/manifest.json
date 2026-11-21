@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ikari-ii-victory-road",
+ "title": "Ikari II: Victory Road",
+ "source": "screenscraper",
+ "ss_game_id": 1772,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1772,
+  "release_year": 1988,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Ikari Warriors II : Victory Road",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "L'histoire reprend directement à la fin d'Ikari Warriors. Félicités par le général Kawasaki pour l'avoir sauvé, Paul et Vince (aussi nommés Ralf et Clark) retournent dans leur pays natal dans un avion affrété par le général. Une mystérieuse tempête apparaît et ils sont précipités des milliers d'années dans le futur (ou une autre dimension !). Ils sont accueillis par une créature extraterrestre qui leur annonce que le méchant Zang Zip (Zangelt) a pris le contrôle de ce monde.\r\nPour les aider à rentrer chez eux, utilisez leurs anciennes armes à feu ainsi que de nouvelles pour vaincre toujours plus d'ennemis comme des hommes verts cyclopes, ou encore des bêtes à tête de pierre et enfin le maléfique Zangelt.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ikari Warriors II : Victory Road",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "The story picks up directly at the end of Ikari Warriors. Congratulated by General Kawasaki for saving him, Paul and Vince (also named Ralf and Clark) return to their homeland in a plane chartered by the general. A mysterious storm appears and they are thrown thousands of years into the future (or another dimension!). They are greeted by an alien creature who tells them that the evil Zang Zip (Zangelt) has taken over this world.\r\nTo help them get home, use their old firearms and new ones to defeat more and more enemies like cyclops green men, stone headed beasts and the evil Zangelt.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5298edb4a6a5bf689ed6e9de2421a084533366f64b1f4cbe57f11a8b7ecdec9b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1772&media=fanart",
+   "fetched_at": "2026-11-07T06:34:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7539e7c77129a160934902ca95c82b96149157e513859c95cbaecd58bb9fbd11",
+   "width": 600,
+   "height": 190,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1772&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T06:34:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "98a6edac0efb4a14bb9a5fc4697c9c1e7167c10387d17a904201bef05d58e96d",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1772&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T06:34:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3230924beee5c36b409b0c8641c501657bf2d6930fe009fdcbc1da7a4563830c",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1772&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T06:34:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "704cd149336a50f80182e1d7f959501915d90986bac963cdca68206ebb856e88",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1772&media=sstitle%28us%29",
+   "fetched_at": "2026-11-07T06:34:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a2d2998d787b5640f15ea49d9d739fbade7e05b4071ffc0e5b259234b4f03f05",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1772&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:34:52+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T06:34:43+00:00",
+ "status": "done"
+}

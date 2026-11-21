@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "double-dragon",
+ "title": "Double Dragon",
+ "source": "screenscraper",
+ "ss_game_id": 149432,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 149432,
+  "release_year": 1987,
+  "publisher": "Taito",
+  "developer": "Technos Japan",
+  "players": "1-2",
+  "system_label": "Technos"
+ },
+ "text": {
+  "fr": {
+   "name": "Double Dragon",
+   "genre": "Combat",
+   "synopsis": "Double Dragon, ces deux mots associés font trembler les vieux de la vieille qui ont découvert les jeux vidéos sur de vieilles bornes Jeutel dans les bars-tabac de quartier à la fin des années 80. C'est un peu comme s'il n'y avait rien avant! Edité par Technos, DD est, dans l'esprit, la succession de Renegade du même éditeur, mais quelle révolution! 1987, un mode deux joueurs super bien foutu, de nombreux coups, une grande variété visuelle, une difficulté parfaitement dosée. Le chef d'oeuvre de l'époque, 3 boutons tous combinables 2 à 2, sans compter le 2x avant pour le coup de boule; même si ce jeu peut vous sembler désuet aujourd'hui, prenez le temps de l'explorer (à deux, c'est mieux), il le mérite vraiment!\r\nDouble Dragon est tout simplement une légende des jeux d'arcade!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Double Dragon",
+   "genre": "Fighting",
+   "synopsis": "Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, \"Billy & Jimmy Lee\". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.\r\n\r\nMany of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.\r\n\r\nThe Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: \r\nWilliams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.\r\nRowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.\r\nLinda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).\r\nAbobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.\r\nBoss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.\r\nBoss 2 - The second boss. A head swap of the player who uses almost all the same techniques. \r\nWilly - The game's final boss, armed, somewhat unfairly, with a machine-gun.\r\n\r\nDouble Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b4fbfb2ab9dbbf95c34741cf17cfcf3fba603a631c13bb309a1b6197ecafee81",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=fanart",
+   "fetched_at": "2026-11-07T20:18:52+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9fa5389eb01bab86b85891585575dbcc9a0068dfba7f855fe144a987686cb6c5",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:18:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0f02ab988b76386f3a8fa7f89ba84742b084efe50ea0b60c6b22f33da7d0bf29",
+   "width": 589,
+   "height": 775,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:18:55+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "412266c23bcfec65bd1d9a7119c7fd56287f270b53dadf880a8edbe56eee7efe",
+   "width": 442,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:18:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f3752fc532c14e5102b4aa3e46f7ea97cd154655acbc9c273e0231d11535a3ec",
+   "width": 256,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:18:57+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "9d03bd8bafe030602a38ab3163a92af0642d477a7371d8c3960fb9e8b9755439",
+   "width": 600,
+   "height": 783,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:18:59+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3217d33f564025da0537d5d3f0d5b91f3747aec5614501f27f2f68f1edd803fd",
+    "width": 240,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=169&jeuid=149432&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:19:00+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:18:50+00:00",
+ "status": "done"
+}

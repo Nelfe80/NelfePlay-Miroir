@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dark-chambers-atari7800",
+ "title": "Dark Chambers",
+ "source": "screenscraper",
+ "ss_game_id": 38010,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38010,
+  "release_year": 1989,
+  "publisher": "Atari",
+  "developer": "Sculptured Software",
+  "players": "1-2",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Dark Chambers",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Dark Chambers est un jeu d'action d'arcade similaire à Gauntlet. Vous êtes un explorateur dans un labyrinthe souterrain ; votre but est de survivre aux 26 niveaux différents et de rassembler autant de trésors cachés que possible. Cachée quelque part dans chacun des niveaux se trouve une sortie qui vous mènera au niveau suivant. Pour vous empêcher de terminer votre quête, il y a une grande variété de créatures, y compris des zombies, des spectres, des squelettes, des sorciers et la sinistre faucheuse.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dark Chambers",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Dark Chambers is an arcade game similar to Gauntlet. You are an explorer in an underground maze. Your goal is to collect as many of the hidden treasures as you can and survive the 26 different levels.\r\n\r\nTrying to stop you from completing your quest are a wide variety of creatures including zombies, wraiths, skeletons, wizards and the grim reaper himself. Each of the creatures in the game has a several strength levels so various shots must be shoot to completely terminate a creature.\r\n\r\nIn addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields and bombs.\r\n\r\nThe game is played from an overhead point of view, and is for 1 or 2 players simultaneously.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0df1aa2013268f534d3cb299084075112dc912cee8c64049de26d771078a6d39",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38010&media=fanart",
+   "fetched_at": "2026-11-06T16:52:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0a08e410b842fa6ece5e450d7b0984aa819cfedbf7606a83470e4c871c06fa39",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38010&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:52:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "23f60b201d5bb5f0c6ff4dcef967a2acf1e25737ea96ce79d2c440bd4427e1ae",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38010&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:52:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4676ad587d88b88447c7dc7a40d6c70864267d0f8696039c0c873c747a75970f",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38010&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:52:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "031a28e813c0aaf58752737f4ffd5166419e5b0f2b79b2605c77d0522b3f3c28",
+   "width": 320,
+   "height": 223,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38010&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:52:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f61cbe926a3ad833f8e64f3936951f9a25c7ae76eee46d1c7109e2f797c1aa12",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38010&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:52:21+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:52:12+00:00",
+ "status": "done"
+}

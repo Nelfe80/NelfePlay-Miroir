@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "capcom-sports-club",
+ "title": "Capcom Sports Club",
+ "source": "screenscraper",
+ "ss_game_id": 37390,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37390,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Capcom Sports Club",
+   "genre": "Sport / Multisports",
+   "synopsis": "Capcom Sports Club représente une des rares incursions de Capcom dans un domaine qui n'est pas sa spécialité, la simulation sportive ! Capcom Sports Club est en fait une compilation de simulations sportives regroupant le basket, le tennis et le football ! Après tout, un petit peu de sport ne peut faire de mal à personne, surtout derrière son PC !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Capcom Sports Club",
+   "genre": "Sports / Multisports",
+   "synopsis": "Capcom Sports Club is an arcade game released by Capcom in 1997. It is a multi-sport game that consists of Smash Stars (Tennis), Dunk Stars (Basketball), and Kick Stars (Football/Soccer).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "46de60987a859b179d0564eaa60f3236edf362a47ff05802b6de42706e1463c2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37390&media=fanart",
+   "fetched_at": "2026-11-06T17:25:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4e29977a40cad87866972faee72f3bf6990d437a94bfd7589ccea9307ae9724d",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37390&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:25:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9827dd794f4880e011ed5f07a769b10cc51b0f16ed8f2b0c393612800422e4f0",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37390&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:25:10+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b4ffe50b676db3024bd0e2bfc59ad44495795c6f73f07e87215edb08c22dc230",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37390&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:25:11+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "20da1a32ad956e2a376358f7c78511847796eca1ccec5179cbe0871bfc49d19f",
+   "width": 1143,
+   "height": 1600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37390&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T17:25:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c937e5b9c0f4b4697bb529181f6477f31d0a14864495245c41370daec6edd642",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37390&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:25:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:25:06+00:00",
+ "status": "done"
+}

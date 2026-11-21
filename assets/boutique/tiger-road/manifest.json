@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "tiger-road",
+ "title": "Tiger Road",
+ "source": "screenscraper",
+ "ss_game_id": 43612,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43612,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Tiger Road",
+   "genre": "Plateforme",
+   "synopsis": "Un jeu de plate-forme et d'action dans lequel vous incarnez un jeune moine combattant. A la base armé d'une hache, votre périple commence juste a l'extérieur du temple. Les ennemis vous attaqueront des deux cotés en jouant sur la vitesse pour vous surprendre. Heureusement, vous trouverez sur votre route des bonus et surtout de nouvelles armes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Tiger Road",
+   "genre": "Platform",
+   "synopsis": "Tiger Road is a beat 'em up in which you (as Lee Wong) must rescue the village children from the evil Ryo Ken Oh. Many levels are horizontally scrolling, although with high ledges to jump onto and follow for a slightly different path. Magic urns containing improved weapons appear frequently. Most enemies are easy to attack and only need one hit to kill, although they come at you in large hordes. Once you get to the indoor sections you will find big enemies with the ability to kill you with one hit, in sections set on multiple levels complete with stairways.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "be70357f7d7bb2245537618874f3254b25b1bd2575e80bba878687e16195d630",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=fanart",
+   "fetched_at": "2026-11-06T17:22:12+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "dbaf3de3ee9ee6b71a2fa930095250e11e6df8fa506c56b87a5d1b5bd31627df",
+   "width": 600,
+   "height": 238,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:22:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "76c3733049b75d73a80f16a970ed2ef070cdc8cffb4296c385bbe8d7a5e6b0c7",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:22:15+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c71db135bc3bce0425c3201bf2423400ca09e154d23bf1f827e465f0bf848767",
+   "width": 447,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:22:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d3fc90fac769f96f9205ffe88afc61cd45d81cdb5974078791d909f9f017bc8c",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:22:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "aa73605a41fbfe7212063fedcbb549f80d848a59c9f7bff70778d1d50ce3a812",
+   "width": 850,
+   "height": 1191,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:22:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "71cb16b14b3135d97929e7fedeb4b553eb0abcd5a03054f8da3b857acfcc8f61",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=43612&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:22:20+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:22:11+00:00",
+ "status": "done"
+}

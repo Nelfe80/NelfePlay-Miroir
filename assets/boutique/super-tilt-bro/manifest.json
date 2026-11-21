@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "super-tilt-bro",
+ "title": "Super Tilt Bro.",
+ "source": "screenscraper",
+ "ss_game_id": 422604,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 422604,
+  "release_year": 2023,
+  "publisher": "Broke Studio",
+  "developer": "Broke Studio",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Tilt Bro.",
+   "genre": "Combat",
+   "synopsis": "Super Tilt Bro is a demake of the Super Smash Bros. series compatible with the good old Nintendo Entertainment System from the 1980s. Featuring online play, thanks to a Wi-Fi chip in the cartridge!",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Super Tilt Bro.",
+   "genre": "Fighting",
+   "synopsis": "Super Tilt Bro is a demake of the Super Smash Bros. series compatible with the good old Nintendo Entertainment System from the 1980s. Featuring online play, thanks to a Wi-Fi chip in the cartridge!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4da89f8335212c06ca90f13c9a99417e775edc910041a552afa3cf0457ea65ad",
+   "width": 600,
+   "height": 80,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=422604&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:40:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1c764b40a008f1962b5dcddb39cf887b91877a30881f3e8f032cc51eb4c4f660",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=422604&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:40:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1a8aaabbd4afe7fb588f464fe724684ce8f7bea29f400b1320baf09460e115c6",
+   "width": 543,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=422604&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:40:48+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "89cae6815c9644a4c17a0f859a54ead198e58c5f14032067deed350904771ac3",
+   "width": 438,
+   "height": 360,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=422604&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:40:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "cc3cf6d543e764212b09a8cb6061a460eb7c48dbcc86738c2bcfcd4d8ca86332",
+    "width": 347,
+    "height": 323,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=422604&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:40:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:40:44+00:00",
+ "status": "done"
+}

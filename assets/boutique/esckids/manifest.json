@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "esckids",
+ "title": "Escape Kids",
+ "source": "screenscraper",
+ "ss_game_id": 41116,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41116,
+  "release_year": 1991,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-4",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Escape Kids",
+   "genre": "Sport",
+   "synopsis": "Jeu de course pour 4 joueurs.\r\nEn début de partie, vos crédits vous font gagner des dollars que l'on utilisera pour l'achat d'améliorations, comme le saut qui permet de franchir de grandes distances rapidement.\r\nLes joueurs doivent tenter de finir premier de la course, celle-ci se déroulant sur 3 tours.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Escape Kids",
+   "genre": "Sports",
+   "synopsis": "Escape Kids © 1991 Konami Industry Company, Limited.\n\nAn unusual take on the overhead racing genre, Escape Kids has up to 4 players taking on the role of an athletic runner and competing to be the first to cross the finish line in a number of 3-lap races. As well as running, each player has a limited number of 'Super Jumps'; these allow the player to leap over both rival runners and obstacles.\n\nMoney is awarded for finishing first, and players can upgrade their runner depending on the amount of money they have available. Runners can be given extra super jumps, an upgrade to stop the runner from skidding when going through a bend in the track, quicker recovery time from falls, or be made stronger (and thus less likely to be knocked over by a rival runner). Special items occasionally appear and can be picked up and used. These range from an item that causes a small earthquake (causing all of the rival runners to tumble along the ground, thus slowing them down) and a bomb, which renders any runner that runs into it unable to move for several seconds.\n\nEach race has a total of five competitors (either human or computer controlled) and players must finish in first place or are disqualified. Any player who wins all three races in a round will be taken to a bonus screen. Here, the player's on-screen counterpart rides a bike and the player must collect as much money as possible.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c3572e20683d12cdd4d9885ef2788fb4f50787d3c7e5431d7a7385d71ab27c1e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41116&media=fanart",
+   "fetched_at": "2026-11-06T23:47:36+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4f53bb3bbe629f67a5cd00b7f7d498a3c662475ed76c77274455fefdb7ad410f",
+   "width": 400,
+   "height": 125,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41116&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:47:38+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d648ed8cceab025a6fd473766a28688d9f58b06d40bd2c976b62e75ddfd966de",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41116&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:47:40+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9d1d0b557e560fa736fa411d0dcb9066b5366a4130096a8e19977514791ea8ae",
+   "width": 288,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41116&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:47:41+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "788d687378489ea4f22edd373995547ede4c6e63e9b38fa09b58c90410ae0704",
+   "width": 222,
+   "height": 335,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41116&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:47:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f1a8403840282852a610294c915890b32635fd9e34e3be57450ade28088fd518",
+    "width": 288,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=41116&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:47:44+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:47:36+00:00",
+ "status": "done"
+}

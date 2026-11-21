@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "badlands",
+ "title": "Badlands",
+ "source": "screenscraper",
+ "ss_game_id": 40131,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40131,
+  "release_year": 1989,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Badlands",
+   "genre": "Course, Conduite",
+   "synopsis": "Une suite du célébre \"Off road\" & \"Championship sprint\" à la sauce Mad Max. Vous pilotez votre voiture en vue de dessus. Vous devrez battre les trois autres concurrents et pour cela il vous est maintenant possible de leur tirer dessus, mais notez que eux aussi. Pensez à prendre les raccourcis et les bonus qui sont forts utiles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Badlands",
+   "genre": "Racing, Driving",
+   "synopsis": "Bad Lands is a top-down single-screen racer for one or two players set in a post-apocalyptic future and is the last in Atari's Sprint series of racing games. It has been 50 years since nuclear disaster changed the world forever and the sport of sprint racing is now a ruthless battle between armed cars. \r\n\r\nRaces take place on tracks built in the ruins of the dangerous nuclear zone known only as the BADLANDS, with each race taking place over three laps. Cars are equipped with front-facing cannons that can be used to fire on rival racers to slow them down. Missile upgrades can also be earned or bought that will completely destroy a rival vehicle that then takes several seconds to be replaced. Races feature three cars so there is always at least one drone car to compete against.\r\n\r\nEach track features play-field targets that can be shot for extra points and bonus missiles and as with previous Sprint games, bonus wrenches appear at regular intervals that can be collected and used to upgrade the player's vehicle between races. The available upgrades are: \r\nMissiles\r\nTires\r\nTurbo\r\nIncreased speed\r\nShields \r\n\r\nBad lands features eight different circuits, each with its own unique, post-apocalyptic setting and background.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b63d84e6bb39851e9c8d20b2e68854c75e140c1c2a4642ec661bd45bb4c949ed",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=40131&media=fanart",
+   "fetched_at": "2026-11-06T23:46:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "983ff184194908278337bb1dc2a7208f8bd772fad12b865b3e53958e72387a01",
+   "width": 400,
+   "height": 91,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=40131&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:46:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ae973bbd21d2826aa1413d5d6f3a5905db3bf9c14647d6f11a8023243690cf3d",
+   "width": 850,
+   "height": 1101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=40131&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:46:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ea8459c984a2dcde27cba0592dfd5acf4b32b41d1470c7b5225f02cadc7e7867",
+   "width": 336,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=40131&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:46:21+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1dbccaee4030707caf1f6411fdd4d6c1d7ad9edb4e3ea8b801199c7c9ed8c993",
+   "width": 850,
+   "height": 1101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=40131&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:46:23+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5db47bb867d0fb64b489f38aa1fc3d294c4db7580f8b575ac3926deeafbce89c",
+    "width": 336,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=160&jeuid=40131&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:46:24+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:46:16+00:00",
+ "status": "done"
+}

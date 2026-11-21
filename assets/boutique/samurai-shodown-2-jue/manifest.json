@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown-2-jue",
+ "title": "Samurai Shodown_ 2 (JUE) [_]",
+ "source": "screenscraper",
+ "ss_game_id": 47048,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47048,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown! 2 - Pocket Fighting Series",
+   "genre": "Combat / Versus",
+   "synopsis": "Une des séries de jeux de combat légendaires de SNK a fait son grand retour! Dans Samurai Shodown II, vous pouvez jouer l'un des rôles de 15 guerriers alors que vous vous frayez un chemin à travers le pays pour vaincre le méchant Mizuki! Entaillez et coupez vos adversaires en deux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown II",
+   "genre": "Fighting / Versus",
+   "synopsis": "One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "820849431dd1ab2797575dc178e5c7a2d07262d4c9b96ca22abf338b4d3bc222",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47048&media=fanart",
+   "fetched_at": "2026-11-06T23:42:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d15b1954c496146f739039162b0d97c3a2d19cbdd6c6c3842efe3387b0f6ca6c",
+   "width": 600,
+   "height": 280,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47048&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:42:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "51b700f7b3a5c333f1cbe9abac290de100812038eb782081b338dad53ef5e686",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47048&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:42:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "346f3eadfa1bae2c178dbae771102772a154d202671e60e2ac588fe9ddd6ebc8",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47048&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:42:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "587a21c25f0ebb0f324bd99bd5c8c3f59e6d814b7dab0320e02960052313bc8b",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47048&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:42:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9aacabe5da52208f07a0fb1f659d7264b638265396204266db6cd74015889b67",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47048&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:42:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:42:30+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "section-z",
+ "title": "Section Z",
+ "source": "screenscraper",
+ "ss_game_id": 42955,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42955,
+  "release_year": 1985,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Section Z",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Dans ce jeu, vous incarnez un petit bonhomme rouge portant un casque et une arme simple qui tire horizontalement; on shoot avec le premier bouton, le deuxième bouton permet de se retourner. Le scrolling commence de gauche à droite, puis il va de bas en haut, de droite à gauche, de haut en bas pour finir comme au début, de gauche à droite, ça c'est du multi directionnel.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Section Z",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "As a sole astronaut, you must penetrate the Balangool alien spacecraft and destroy the L-Brain.The player maneuvers the space ranger throughout the enemy space station, which consists of 26 alphabetically ordered sections, from A to the titular Section Z. The game is divided into five stages, each consisting of five sections (the final stage having six). The player will fight a boss at the end of each stage. The game's stages alternate between horizontal and vertical-scrolling. The player will lose a life every time they get hit. Additional lives can be obtained if the player achieves a high enough score. The controls consist of two buttons, one for shooting and the other for changing the character's aim to the left or right. This allows the player to shoot in one direction while moving away in the opposite. By destroying certain dome-shaped containers, the player can obtain one of three power-up items represented by letters: S (speed), P (power), and B (bonus points).",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "99c05afbf4a0807dae389b55af0ac9743124f6b5b3da47db322a592c9a2da047",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=fanart",
+   "fetched_at": "2026-11-06T17:17:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b54758df46774a5174c8c411bb4a12ec15e061127e865a93399bdba97de10c1a",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:17:15+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8efc0bb921dbfe84f4409b54aaad225a6c99ef9981707b5ea48c3c1637c0313a",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:17:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "729afb54ac7c2f92381415dc8fc1a9cf10e9ec03eb3512ad58782645d2eecbcf",
+   "width": 491,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:17:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b8bec667d77c4ff2bb3fdc0e47b1cf4f9668599cf7a98041bb5d3d4eff44d5d8",
+   "width": 256,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:17:19+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1d9624ebd1dde478c14db0ce8ed430da61209f9ddd10cb84f1fa9eb0877fe19f",
+   "width": 850,
+   "height": 1119,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:17:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2c11f24b572e2f1c5442a3d1eb12b459286857a799afa22428351839ebfa9cac",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42955&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:17:22+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:17:12+00:00",
+ "status": "done"
+}

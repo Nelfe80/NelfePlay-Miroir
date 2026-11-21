@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "zero-tolerance",
+ "title": "Zero Tolerance",
+ "source": "screenscraper",
+ "ss_game_id": 361,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 361,
+  "release_year": 1994,
+  "publisher": "Accolade",
+  "developer": "Accolade",
+  "players": "1",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Zero Tolerance",
+   "genre": "Tir / 1ere Personne",
+   "synopsis": "Zero Tolerance sur Megadrive est un jeu de tir à la première personne qui vous place au milieu d'un groupe d'intervention de secours qu'il faut sans cesse protéger. Vous devez vous occuper des voyous tandis que les pompiers font leur possible pour dégager le chemin et parvenir jusqu'aux civils toujours prisonniers des flammes. Tout un panel d'objets est à votre disposition pour repousser les flammes et combattre les opportuns.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Zero Tolerance",
+   "genre": "Shooter / FPV",
+   "synopsis": "The space station Europe-1 has been overrun by aliens. During one of the fights the nuclear cooling system has been damaged, resulting in a meltdown within hours. Your mission, as a team of five of the toughest persons in the Corps, is to infiltrate and gain control of Europe-1. You must sweep the entire station clean of aliens.\n\nOne of a few first-person-shooters on this console. It is required that you kill every single alien on each of the levels (hence the name). The five members of your team, who have different skills, start out with different weapons, are your five chances of seeing this through. This adds a level of strategy to the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0ce724ea6050a6e5c83139fca979df5cdd291833691c536dfbfc0de7ef9c73e3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=361&media=fanart",
+   "fetched_at": "2026-11-06T15:40:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d8b627bf56e4b54b9f2717d7acedfdd054003671e9db8b6da128a8c43361226b",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=361&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:40:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fa95578fa2938e1895368a76cff2f7c349d3157ead238d7553ecb125a8f0a6f4",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=361&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:40:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0cd1ac9fa9adc0050e3a01a232700f08022a1a481349fadd157cb5efdce56edf",
+   "width": 682,
+   "height": 624,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=361&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:40:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8f1bfd64a3f0c79545de51df038e6d515409b45ea385754a400beebd09f2c491",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=361&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:40:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0311e299f2718b9fa3ed752e877282a48fe02080a9b83fb95b0f70e45306b5d2",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=361&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:40:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:40:01+00:00",
+ "status": "done"
+}

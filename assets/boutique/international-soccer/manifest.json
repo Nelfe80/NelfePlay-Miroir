@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "international-soccer",
+ "title": "International Soccer",
+ "source": "screenscraper",
+ "ss_game_id": 59455,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 59455,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "M Network",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "International Soccer",
+   "genre": "Sport / Football",
+   "synopsis": "Ce jeu est pour 2 joueurs seulement. Dans cette version du football, chaque joueur contrôle 4 hommes, mais un seul à la fois. L'ordinateur déplace les 3 autres pour vous. Un gardien de but contrôlé par ordinateur aidera lorsqu'un but est tenté. Frappez le ballon pendant 90 minutes et essayez de marquer plus que votre adversaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "International Soccer",
+   "genre": "Sports / Football (Soccer)",
+   "synopsis": "This Game is 2-Player Only. In this version of soccer, each player controls 4 men, though only one at a time. The computer moves the other 3 for you. A computer-controlled goalie will help out when a goal attempt is made. Kick the ball around for 90 minutes, and try to score more than your opponent.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f9320da7d50ba72ca8c3f8b2f9421b035b9e1ab8ee254a8797f2cf0b5cdd1c32",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59455&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:55:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e317a6f92bdf4d7ef527b11a10af376204333341db00855b99bba810439204ab",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59455&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:55:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "bbccd77899da4dfbb5943dfbd638c48e463d27b9b2a222f74a8208fe16eff99b",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59455&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:55:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9c07be204676b065f88efeeb18a3370a71e392697ea1411d0ec47a2826291dc9",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59455&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:55:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "97163b166cde42105fca5fd6992f994cee85925f51bb5a02994671a27e1b48b5",
+    "width": 304,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59455&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:55:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:55:46+00:00",
+ "status": "done"
+}

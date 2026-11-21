@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "dangun-feveron",
+    "title": "Dangun Feveron",
+    "source": "screenscraper",
+    "ss_game_id": 37333,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 37333,
+        "release_year": 1998,
+        "publisher": "Nihon Systems",
+        "developer": "Cave",
+        "players": "1-2",
+        "system_label": "Cave"
+    },
+    "text": {
+        "fr": {
+            "name": "Fever SOS",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "Shooter sans doute unique en son genre, l'ambiance de tout le jeu baigne dans l'éclairage funky d'une boule à facette rutilante. Qu'il s'agisse du style graphique, ultra saturé et acidulé, des incroyables titres disco qui constituent la géniale bande son, des smarts bombs en forme de danseurs roses ou encore de la voix off surexcitée braillant des \"let's dance!!!\" à tout rompre, pas de doute possible: on est bien en pleine saturday night fever... \r\n\r\nSi le thème peut dérouter, la réalisation n'en est pas moins excellente, reprenant les grandes lignes du gameplay de DoDonPachi, avec la même qualité dans la conception graphique. Les levels sont magnifiques, les boss croulent sous les détails... L'ensemble est parfois (disco oblige!) un peu criard ou décousu, mais c'est plus une affaire de goût.\r\n\r\nLe joueur peut choisir parmi 3 vaisseaux, au tir de plus en plus évasé, sélectionner son type de tir spécial (scies qui visent toutes seules, bombes ou bouclier) ainsi que la vitesse de déplacement de son engin. La smart bomb dépend du vaisseau choisi. Autant d'éléments customisables qui influent sur la façon de jouer, et principalement... la vitesse du vaisseau. En effet Dangun Feveron est un jeu un rien rapide: une cadence hystérique et déchaînée, sans une seconde de répit, un vrai concentré d'adrénaline et d'action pure. \r\nPour contrebalancer la difficulté du jeu et la frénésie des ennemis, le vaisseau se voit doté d'un armement efficace (comme dans DoDonPachi, on se noie sous les power ups, ca crache sévère dès le début) et d'un masque de collision microscopique, même pour un manic. Les séances de \"CA PASSE! CA PAAAAAASSE!\" sont légion =) Le gameplay est donc assez particulier, dépendant pas mal de la vitesse choisie, mais l'ensemble est d'une jouabilité surprenante pour un jeu aussi furieux.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Fever SOS",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "Planet Meruto, a well known powerful military force in the Milky Way, sends out a Flagship under the command of Admiral Gratze, to attack the earth in order to gain one of it's most desired raw materials in the Galaxy: Water\r\nOn Planet Fever, a small planet between Meruto and the Earth a base was planned to be installed, from there the attack vessels should start the invasion of Planet Earth. But before Admiral Gratze's plan was fullfilled, a mysterious wave appeared in space and confused the instruments of Meruto's fleet, and disrupted Admiral Gratze's love chat with his wife Irene Catharine. About this he got angry to such an extent that he forced his fleet to land on the source of this wave. So the wheel of fate began to spin...",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "16997202001e1ee90b16e37bece225366fa4cd7f2898c62641d529d559b273ca",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=fanart",
+            "fetched_at": "2026-11-09T22:09:15+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "94b9c5fa290568f1fd219864f649d61e18ef201f88c2f5014177098b57038589",
+            "width": 600,
+            "height": 300,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=wheel%28wor%29",
+            "fetched_at": "2026-11-09T22:09:17+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "d2c8b2abc6bd5e2ba883b3e12e154f045495cce0fb8136130eecb80676dd6513",
+            "width": 497,
+            "height": 680,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=box-2D%28jp%29",
+            "fetched_at": "2026-11-09T22:09:18+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "c002ad7dda229ee99e8c8ea3b8d3e78aad27d3125e7bf86e299739b4d536b9d1",
+            "width": 582,
+            "height": 900,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-09T22:09:19+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "188ede9d4a2fa439dd1b9020afbada1c0f2e7bb6e7332d3f02c4c3869b433f8e",
+            "width": 240,
+            "height": 320,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:09:21+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "10d1c450f18b1bd50f098cbdcdd63e9202b1113aee1b74ff78f8ff03df8209f7",
+            "width": 1177,
+            "height": 1600,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=flyer%28jp%29",
+            "fetched_at": "2026-11-09T22:09:22+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "3b8827c71af02f2119f5193a877a81e968b62d15bc06094bcfb68064e4c1aafd",
+                "width": 240,
+                "height": 320,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37333&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:09:24+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-09T22:09:14+00:00",
+    "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "gunstar-heroes-megadrive",
+ "title": "Gunstar Heroes",
+ "source": "screenscraper",
+ "ss_game_id": 89,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 89,
+  "release_year": 1993,
+  "publisher": "SEGA",
+  "developer": "Treasure",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Gunstar Heroes",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Le Colonel Red et l'armée de son empire ont décidé de voler la Gemme Mystique et de rendre plus puissant encore le Destructeur, un robot qui avait presque détruit la planète Gunstar, il y a 9 ans déjà. Les jumeaux Gunstar ont promis que, plus jamais, le Destructeur ne menacerait leur planète et maintenant, ils doivent passer à l'action! Etes-vous un héros, prêt à les suivre?",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Gunstar Heroes",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Chaos has broken out on the planet Gunstar-9!!\n\nThe mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!\n\nUnleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ac1a6aa69eb73a5d9fd3676606672ae6535198e2ed7450896a874f58218582bb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=89&media=fanart",
+   "fetched_at": "2026-11-06T23:55:34+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c103d6592009e0b4e24d1e0895c02f3bdafe355ed3355b1c30629dcedc7154dd",
+   "width": 600,
+   "height": 230,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=89&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:55:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5eaa42637fd1ec33368b3c278b2508a3347f0248e5e318f74094b50f4c76b0e6",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=89&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1aecfc5caba29862468fe3e1127ca4412fc556645de466afd44d0220d6fb1247",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=89&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "209ebe69fd91922576653dcce736dc1c15d64f81f39e830d01cad36403070bf5",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=89&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:55:40+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "9dac4dda41334bd9ff1f51cf167c65b5d488f298e6a4c1bd8d8c366d7116d683",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=89&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:55:41+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:55:33+00:00",
+ "status": "done"
+}

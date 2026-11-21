@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "strider",
+ "title": "Strider",
+ "source": "screenscraper",
+ "ss_game_id": 37380,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37380,
+  "release_year": 1989,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Strider",
+   "genre": "Plateforme / Fighter Scrolling",
+   "synopsis": "Vous incarnez Hiryu, un membre de la confrérie des Striders, sorte d'ordre chevaleresque des temps modernes, en lutte avec le sinistre \"Grand Master Meio\", qui souhaite conquérir le monde. Votre confrérie décimée, vous êtes l'un des seuls Striders encore en vie pour réclamer vengeance. Le jeu se présente sous la forme d'un jeu de plates-formes. Armé de votre sabre laser (Cypher), il vous faudra éliminer de nombreux ennemis au grès de niveaux variés allant de l'Union Soviétique à la forêt vierge.  Vous pourrez aussi vous accrocher aux parois grâce à un crochet métallique\r\nOccasionnellement, des bonus obtenus en détruisant des capsules vous permettront d'agrandir la portée de votre sabre ou encore de vous faire accompagner par un petit robot détruisant vos ennemis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Strider",
+   "genre": "Platform / Fighter Scrolling",
+   "synopsis": "Strider is a multi-directional scrolling platform beat-em-up in which the player takes control of 'Strider Hiryu', a ninja-style warrior who must defeat a legendary being known as 'Grandmaster Meio'. \r\n\r\nSet in a dystopian future in the year 2048, Meio has been watching Earth from his own distant galaxy and has created a space station (known as 'The Third Moon') between Earth and its moon in order to rule over the Human race.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "733257004bc4494c4afff100f07369695f4faccb0cd371a7aab1735b9e82e4f8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=fanart",
+   "fetched_at": "2026-11-06T17:18:47+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "990275612dbc0f212a84ebfa1efa62bd3e630efc3442b6366f24f28c54c6a70b",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:18:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f222fea3eeaaa8e16e83de40e18367b7a5d5ecbcce73d33feaba5f182d01a722",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:18:50+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ba1dcf1849c5c14c70530bd8fadf40197a6b438471931e567b299264fc4128f4",
+   "width": 434,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:18:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "18e976b7b82a0ef081a93856441c361f94b3e1a0f50c15009a5d2d1ec8540a16",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:18:53+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "889766d3c6271763dc28767fadac16107c35f59160ce95de38812adbce7ad5e3",
+   "width": 843,
+   "height": 1136,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:18:55+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "37b9628b2630e101c99d8af56f7ad01c5b35c3d49dbf8fcf051ab448b80100d5",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37380&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:18:56+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:18:46+00:00",
+ "status": "done"
+}

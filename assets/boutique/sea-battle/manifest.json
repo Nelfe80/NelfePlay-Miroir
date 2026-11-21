@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "sea-battle",
+ "title": "Sea Battle",
+ "source": "screenscraper",
+ "ss_game_id": 87858,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87858,
+  "release_year": 1983,
+  "publisher": "M Network",
+  "developer": "APh Technological Consulting",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Sea Battle",
+   "genre": "Stratégie",
+   "synopsis": "Sea Battle is a strategic game for two players only. Each player controls a fleet of ships including Submarines, Destroyers, and Battleships. The goal is to engage and sink enemy ships. The winner is the player who commands the troop transport ship into the opponent's harbor. There are two phases in Sea Battle; the strategy phase, and the combat phase. The strategy phase includes maneuvering your fleet into different strategic positions on the map, laying mines, and repair fleets. Opponents engage in ship-to-ship warfare in the combat phase, triggered by the ENGAGE button. Each of the different types of ships has there own strengths and weaknesses, such as weapon range and maneuverability.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Sea Battle",
+   "genre": "Strategy",
+   "synopsis": "Sea Battle is a strategic game for two players only. Each player controls a fleet of ships including Submarines, Destroyers, and Battleships. The goal is to engage and sink enemy ships. The winner is the player who commands the troop transport ship into the opponent's harbor. There are two phases in Sea Battle; the strategy phase, and the combat phase. The strategy phase includes maneuvering your fleet into different strategic positions on the map, laying mines, and repair fleets. Opponents engage in ship-to-ship warfare in the combat phase, triggered by the ENGAGE button. Each of the different types of ships has there own strengths and weaknesses, such as weapon range and maneuverability.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "80bfa6b39bc44fc277e09963cae9a9d3d11b359983fc4467ff2be05eb9458374",
+   "width": 400,
+   "height": 52,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87858&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:03:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f0dc9943d4c807a63e31154f8069f4a1b221cebb3d8d6b694028173e88b7d4bf",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87858&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:03:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f34809941a4fa2905db678e09ebf6e92ad2b7de88aebceabd7b7891529a01cd1",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87858&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:03:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c1d5d0a18843a4a4e587a782624502f53d8f67da2b618329e914d30f183c33b0",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87858&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:03:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "536944c20ec59804b10d82f4d9d14ff3c50901f58ebc3f789ae7dcb066de70f5",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87858&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:03:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:03:47+00:00",
+ "status": "done"
+}

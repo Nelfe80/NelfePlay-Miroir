@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-3",
+ "title": "Mega Man 3",
+ "source": "screenscraper",
+ "ss_game_id": 1286,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1286,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man 3",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Mega Man 3 explose dans un enchainement de combats contre des robots!\r\nC'est la révolte des robots et personne n'est en sécurité! Mega Man l'est encore moins que quiconque. Cette fois, notre ami cybernétique superpuissant en découd avec une horde de cinglés métalliques qui en ont par dessus la tête d'obéir!\r\nEt ils utilisent tous les destructeurs d'androïdes conçus à ce jour pour que vous en soyez pleinement conscient!\r\nLa rage saisit Mega Man, qui fonce tête baissée vers une galaxie de centres miniers à la recherche de cristaux d'énergie. Mais il faut plus que du cœur au ventre pour lutter contre les Maîtres Robots phénoménaux qui règnent sur ces mondes. C'est une mission hors du commun, la pire - et la meilleure - que Mega Man a eu à accomplir jusqu'ici!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man 3",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "It's the robot revolt, and no one is safe! Mega Man is even less safe than anyone else. This time, our super-powered cybernetic friend is up against a horde of metal crazies who are sick and tired of obeying!\r\n\r\nMega Man 3 is a traditional action-platformer: you jump from brick to brick while avoiding pits and shooting robots.\r\nIt's the first time in a Mega Man that you can slide instead of merely walking and that you get a sidekick. Rush is your dog who helps out by offering other modes of transportation when you need it.\r\nEnemies will often supply you with both energy and ammo refills. You can also collect Energy Tanks which can only be used once but will entirely restore your health. And, of course, you do get infinite continues and a password feature to resume play at the beginning of any level.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ceceee81e89fb8b776ee49339cbafa9ffa28ba8ce2c03ac7fa9e60afcf008734",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1286&media=fanart",
+   "fetched_at": "2026-11-06T16:06:16+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c2fb396b8700c411bd95708549be84d9b07f3b0b4352b82f12aeb6893cc7efbe",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1286&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:06:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fd41f7348d4a564aff02f1c1abbf181802d3385807f4320c0830893e4b4d72bd",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1286&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:06:19+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b7ed8403344cfb7fa875af45a4f58776eb439df37bfec683f29c67ff180221e7",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1286&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:06:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "692475f10e7214dbe2b6150bfbff6952c9f5566d7e83134f69cd0da25695e57b",
+   "width": 240,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1286&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:06:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "04ae061b4b68987f463703565695124df3519bdf014784f4d79181dca740c035",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1286&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:06:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:06:15+00:00",
+ "status": "done"
+}

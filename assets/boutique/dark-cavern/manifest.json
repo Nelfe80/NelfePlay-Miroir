@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "dark-cavern",
+ "title": "Dark Cavern",
+ "source": "screenscraper",
+ "ss_game_id": 59432,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 59432,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "M Network",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Dark Cavern",
+   "genre": "",
+   "synopsis": "C'est une bataille pour survivre dans une caverne souterraine ! Vous avez cinq hommes. Ils entrent dans la caverne un à la fois par la trappe centrale. Une fois à l'intérieur, des gouttes, des araignées et des robots commencent à entrer dans les portes gauche et droite. Ni les créatures ni l'homme ne peuvent sortir par ces portes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dark Cavern",
+   "genre": "",
+   "synopsis": "It's a battle for survival in an underground cavern!  You have five men. They enter the cavern one at a time through the center trap door.  Once inside, blobs, spiders and robots begin to enter the left and right doors. (Neither the creatures nor the man can exit through these doors.)\n\nDirect your man down the tunnels.  Pick up ammunition as you go.  Keep clear of the creatures... avoid robot fire.  Shoot to destroy!  Get hit by a robot's bullet... action stops.\n\nNow bring out your next man... get them before they get you!!!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "18f317b31730ba0d3840fad5ebf672db2e8f34c73b43ea190c82b88247ac5835",
+   "width": 400,
+   "height": 44,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59432&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:51:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c0e84b90121f9ba86567b140f8bb6aae10d77b077d6d83c7855f72de40335e11",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59432&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:51:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5c42acfaa71e9d88872585b2b3833ee44f7f7acebd3f00517bf1a5c529572931",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59432&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:51:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4060fd6ba9991280f520fe56ed39795185fb03b1ad83eac41d74ccefd14ab320",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59432&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:51:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "bee596d1dfa642e042224467b7616b01b3cf9a310b4c078e357f8cf9becd1daf",
+    "width": 304,
+    "height": 189,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59432&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:51:54+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:51:47+00:00",
+ "status": "done"
+}

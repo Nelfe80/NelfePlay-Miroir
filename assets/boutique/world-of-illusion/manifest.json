@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "world-of-illusion",
+ "title": "World of Illusion Starring Mickey Mouse and Donald Duck",
+ "source": "screenscraper",
+ "ss_game_id": 46,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 46,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "World of Illusion Starring Mickey Mouse and Donald",
+   "genre": "Plateforme",
+   "synopsis": "Alakazam! Et revoici les inoubliables aventures de Disney avec vos amis Mickey Mouse et Donald Duck. Transportés vers un monde de fantaisie, Mickey et Donald doivent accomplir d'étonnantes prouesses de magie pour vaincre un Sorcier habile et retrouver le chemin de leur maison!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "World of Illusion Starring Mickey Mouse and Donald Duck",
+   "genre": "Platform",
+   "synopsis": "World of Illusion is sort of a follow-up to Castle of Illusion. Mickey Mouse and Donald Duck are taken to a magic world and have to get back home. In order to do that, they can play magical tricks and interact to each other in a 2-player mode. Like other Disney games for SEGA consoles of the same period, the game has cartoon-like graphics and is played as a side-scrolling platformer.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c0214c50a252c79421872a387cca5272ffb9a18a7ea1f3b72f04872c5b8f6feb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=46&media=fanart",
+   "fetched_at": "2026-11-06T23:55:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "256b3882eecfbafaefe8c74f58889c890f8fd347cc92d67306f597887e86c64c",
+   "width": 600,
+   "height": 197,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=46&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:55:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3f3c160a9b2b49e88d0266193e25cd9ae0a8afdbd7cff5576cbf84535dba0beb",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=46&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "692eb85089da9b3ca2d37ee9d2be815bd1ef5d00b27601daa1c8c9f84301fb81",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=46&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:55:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ef85f420cad5ad06c6a23c513a95c65a2c76722703de20d8ff9fd142822ae38b",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=46&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:55:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9e3349cd2eb139b37ea8c69d6298c1ac1ae52d41e49c8570b376aa22ee644756",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=46&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:55:23+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:55:14+00:00",
+ "status": "done"
+}

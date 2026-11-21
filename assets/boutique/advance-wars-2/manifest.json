@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "advance-wars-2",
+ "title": "Advance Wars 2: Black Hole Rising",
+ "source": "screenscraper",
+ "ss_game_id": 3773,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3773,
+  "release_year": 2003,
+  "publisher": "Nintendo",
+  "developer": "Intelligent Systems",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Advance Wars 2 : Black Hole Rising",
+   "genre": "Stratégie",
+   "synopsis": "La suite du célèbre jeu tactique Advance Wars fait son retour sur Gameboy Advance avec Advance Wars 2 : Black Hole Advance. La menace de l'armée Black Hole pèse plus que jamais sur Wars World, et c'est devant l'imminence d'une invasion que les différentes forces vont devoir s'allier. Accomplissez l'objectif qui vous est fixé dans chaque mission, parfois avant un laps de temps donné. A vous de mettre en place la meilleure stratégie pour prendre l'avantage sur votre adversaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Advance Wars 2 : Black Hole Rising",
+   "genre": "Strategy",
+   "synopsis": "Just when you thought you'd seen the last of them, the Black Hole Army is storming back in this sequel to the award-winning Game Boy Advance strategy game. With new COs under his command, Sturm is leading a new invasion force, and it'll take advance strategy to stop him!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "35ad4e614d41b1aa1f16f4b6c3e391b8f29a07815930003f56d6aae03725e754",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3773&media=fanart",
+   "fetched_at": "2026-11-06T23:49:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "efb8e4ceaed8594b01061cf67d592d80b006b0bf4cf980d4389ddb69415c0cc6",
+   "width": 600,
+   "height": 182,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3773&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:49:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e5b9a3e05cae9debf8a2bad92e3e6f1b977223f03fa90b667f6f58d94da48611",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3773&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:49:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7f573165094c260293eb9a4b84b775992dd3465213cacb93024e865dfea5b2aa",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3773&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:49:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "ecff3f1121239d9096910e9d1b14503039c7939c5a37bf9d60406369d57b7d78",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3773&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:49:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9c374774df582b2934d5b727d7870cae1f828243cdc1b5dcf3c8216731c4d84a",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3773&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:49:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:49:01+00:00",
+ "status": "done"
+}

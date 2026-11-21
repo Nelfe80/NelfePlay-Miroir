@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "snk-vs-capcom-card-fighters-clash",
+ "title": "SNK vs. Capcom: Card Fighters' Clash",
+ "source": "screenscraper",
+ "ss_game_id": 47052,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47052,
+  "release_year": 1999,
+  "publisher": "Capcom",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "SNK vs. Capcom - Card Fighters Clash - SNK Version",
+   "genre": "Jeu de rôles",
+   "synopsis": "Participez au tournoi Card Fighter's Clash avec votre deck SNK dans ce jeu de cartes NGPC. Collectionnez les 300 cartes des franchises SNK et Capcom et affrontez-vous en duel et échangez avec vos amis en utilisant le mode lien étendu. Avec des mécanismes similaires à ceux de la GCC tels que Yu-Gi-Oh et des personnages populaires de SNK et de Capcom, Card Fighters Clash offre à la fois un jeu de stratégie et un jeu de stratégie. Ce jeu permet également la liaison entre SNK et Capcom: Match of the Millennium pour transférer des points à collectionner.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "SNK vs. Capcom : Card Fighter's Clash - SNK Version",
+   "genre": "Role Playing Game",
+   "synopsis": "Compete in the SC Card Fighters' Clash tournament with your SNK deck in this NGPC card game. Collect the 300 cards from both SNK and Capcom franchises and duel and trade with your friends using the extensive link mode. With mechanics similar to CCGs such as Yu-Gi-Oh and popular characters from both SNK and Capcom, Card Fighters clash offers both collection and strategy gameplay. This game also allows linking with SNK vs. Capcom: Match of the Millennium to transfer collectible points.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4d1d18d935a303ace3b05261ca87004bc346411ac32f53dd96464a57ea3ad075",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=fanart",
+   "fetched_at": "2026-11-06T23:40:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a42ddf12251cee397a77503a7ca0b49d7d4fc1f9106fc88eaa5b52ea3b3b6a6c",
+   "width": 581,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:40:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8628475466f6a8dc5af32c38c4377aa204a8a3310eea179c07c5228afd646715",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:40:30+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a7df3d76f843a850ff9d114331d6a21f43d7d444befca413446bd1fddc57e659",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:40:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f80d03e8620d3679094cab16316c7d7b4d285fc5ed6e1b230bc11c22d24da6d3",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:40:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7b9dbf542f8146c83fc5592bc2720dd62f17277530948b8275c39be25671fc19",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:40:35+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "b3fa66f20b89432bc5b6eb4978a394c90f616ee12de79f312cd7ee7217401c81",
+    "width": 160,
+    "height": 152,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47052&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:40:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:40:22+00:00",
+ "status": "done"
+}

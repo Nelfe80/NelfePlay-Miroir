@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "breakers-revenge",
+ "title": "Breakers Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 37570,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37570,
+  "release_year": 1998,
+  "publisher": "SNK",
+  "developer": "Visco",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Breakers Revenge",
+   "genre": "Combat",
+   "synopsis": "Breaker's Revenge est un jeu a la croisé des chemins : se jouant de manière très old school, il regorge néanmoins de spécificités qui le rendent pratiquement inusable. Doté d'une ambiance décalée et survoltée, il fait partie de ces titres auxquels on s'adonne toujours avec plaisir.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Breakers Revenge",
+   "genre": "Fighting",
+   "synopsis": "8 initially selectable characters face off to become the Tae Kwon Do master! After defeating the absolutely WACKY Master Taekuk, he becomes selectable as well to face off against end boss Karate Kenji.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "85b77b6bd88063706e410d6da43c3c2bb6cf4aff097775afd53377299422c775",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=fanart",
+   "fetched_at": "2026-11-06T16:35:38+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "417a3c6addf01a3d541570deb108b21d6e8cebdaf1e4bdb5a69c8c1fd9a4c844",
+   "width": 600,
+   "height": 239,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T16:35:39+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "08361926a15a660f3d494a1c7d8f44039d77b516d4b4f909a3b8c61d35159f1e",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:35:41+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b6c609ca15866e34ec1d8de10c8d6a7f80943d393e3de4898b06515eca06f7f1",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:35:42+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3edc70da09866a09502a70ccae59e51504518569fe75bb4df6087d3535dbcf02",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:35:43+00:00"
+  },
+  "flyer": {
+   "file": "flyer.png",
+   "sha256": "9f98d5ab3019d4354072ead314d27b4dbcd1c7999ed3f03ab9ea4b83c7fb8db5",
+   "width": 577,
+   "height": 823,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:35:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "c4e38c82f666f86c147628751cbfe0d337b9f19a3933eb32eddd59fc04d7a90b",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37570&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:35:47+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:35:37+00:00",
+ "status": "done"
+}

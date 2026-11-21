@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "world-wars",
+ "title": "World Wars",
+ "source": "screenscraper",
+ "ss_game_id": 44116,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44116,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "World Wars",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Un shoot-em-up où le joueur survole des paysages en tirant diverses formations d'avions, d'OVNIS, etc. Évitez les tanks et battez le boss de fin de niveau.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "World Wars",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "World Wars and an early \"Bermuda Triangle\" version, it have different gameplay and graphics from the other versions.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "de9848f8d8f77f6a77d150aed7e9812ef17ad57ed8b1714de86c4c7778ae53ce",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=44116&media=fanart",
+   "fetched_at": "2026-11-06T16:03:38+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7612057b627dfff71f600fc57bcd93f745ad35ebb3dd598e5f70e162e5b7af26",
+   "width": 400,
+   "height": 219,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=44116&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:03:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0fd3bec9e90d63aef1acfe8e12fa9e23bc531f051535967c38a7590044fd24b5",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=44116&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:03:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "34428caecdafc3752c3503273a6043d5a7642454f69d4599cee3ac643ab0a3dc",
+   "width": 482,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=44116&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:03:43+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "97d9166068dda6bf4a5bb7ce52843e6578cb18e16348d481e18af255caff3a86",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=44116&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:03:44+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "580aa9a9614a07140919fa9c524c2135c4c40f8c9c76abb47c9abd0d9e312103",
+    "width": 224,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=44116&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:03:46+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:03:38+00:00",
+ "status": "done"
+}

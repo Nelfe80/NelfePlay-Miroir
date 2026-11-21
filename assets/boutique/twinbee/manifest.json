@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "twinbee",
+ "title": "TwinBee",
+ "source": "screenscraper",
+ "ss_game_id": 43798,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43798,
+  "release_year": 1985,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Twinbee",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Twin Bee est un jeu de défilement vertical mettant en vedette une paire de robots en forme d'abeille, Twinbee (le bleu) et son homologue féminin Winbee (le rose), Twin Bee fait partie de ce qu'on appelle les `` cute 'em ups' ', un surnom pour des jeux de shoot-em-up qui présentent des personnages mignons, des animaux et d'autres créatures amusantes, entre autres thèmes fantaisistes et paysages aux couleurs vives. C'est un jeu amusant à jouer avec au moins 6 étapes qui se répètent avec une difficulté accrue au fur et à mesure.\r\n\r\nDes power-ups et des points supplémentaires peuvent être trouvés dans des cloches spéciales cachées dans certains ennemis qui, lorsqu'elles sont tirées un certain nombre de fois, changeront de couleur et ensuite, lorsqu'elles seront touchées par le joueur, fourniront un bonus, comme une vitesse supplémentaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Twinbee",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Twin Bee is an overhead scrolling game starring a pair of bee-shaped robots, Twinbee (the blue one) and his female counterpart Winbee (the pink one), Twin Bee is part of what are called 'cute 'em ups', a slang for shoot-em-up games that feature cute characters, animals and other funny looking creatures, among other whimsical themes and brightly colored landscapes. It's a fun game to play with at least 6 stages that repeat themselves with increased difficulty as you go along.\r\n\r\nPower-ups and extra points can be found in special bells hidden in some enemies that, when shot a certain number of times, will change color and then, when touched by the player, will provide a powerup, such as extra speed.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f9ea2749816afcb789bb807441721ee82cc91705693ecda2fb365e459898da06",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43798&media=fanart",
+   "fetched_at": "2026-11-06T16:13:59+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "609f69511ffae4cbcbd3028d8cb7c0ce390a691e785ccf5c9957d0170bb38d38",
+   "width": 600,
+   "height": 170,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43798&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T16:14:00+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a706b34c442dd10d6deff0bc3f2c9146ad787147234bdc2eb51c0b581f7256ec",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43798&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:14:02+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "537c602f7799aff8a229829741954f701f9220259ee5b683590f2c420b7db983",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43798&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:14:03+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "183a768cecd87da1c4b53634050adddd6fb34c4fc212aee361361ecf80dfaa47",
+   "width": 1280,
+   "height": 1796,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43798&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T16:14:05+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "0fc9204eba300f43e6dcfbab4d01fb92e74bc6716ec1d05cd8d770dff62a04c5",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=43798&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:14:06+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T16:13:58+00:00",
+ "status": "done"
+}

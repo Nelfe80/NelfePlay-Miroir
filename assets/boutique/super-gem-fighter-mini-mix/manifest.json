@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-gem-fighter-mini-mix",
+ "title": "Super Gem Fighter Mini Mix",
+ "source": "screenscraper",
+ "ss_game_id": 37410,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37410,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Gem Fighter: Mini Mix",
+   "genre": "Combat / Versus",
+   "synopsis": "Le système de jeu de Super Gem Fighter: Mini Mix / Pocket Fighter est légèrement différent d'un Street Fighter standard : les gemmes rouges, bleues et jaunes dont il est question servent à alimenter 3 jauges distinctes (de couleurs identiques, évidemment), ces jauges servant à alimenter un super combo particulier.Par exemple, Une fois sa jauge bleue remplie, Ryu pourra lancer une Shinku-Hadouken.De plus, les contrôles sont simplifiés : les trois boutons de poing et ceux de pied deviennent un bouton poing, un bouton pied, un bouton special et un bouton taunt (provocation). Les coups poing/pied peuvent s'enchainer, au contraire des combos. Le spécial induit de maintenir le bouton enfoncé afin que l'adversaire tombe à portée au moment de lancer le coup.Les coups induisent souvent une touche humoristique, les personnages prenant parfois des costumes ou des animations amusantes, notamment Chun-li frappant l'adversaire avec une poêle, ou encore Dan se transformant en Elvis.En dehors de ces particularités, le principe du jeu reste standard : 8 combats de 2 reprises, contre 7 adversaires aléatoires puis un adversaire final précis par personnage. Ainsi Dan cherche à vaincre Sakura pour la convaincre de devenir sa première apprentie, la succube Morrigan cherche à prouver qu'elle est plus belle que Chun-Li, qui en retour cherche à capturer Felicia la femme-chat.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Gem Fighter: Mini Mix",
+   "genre": "Fighting / Versus",
+   "synopsis": "Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary \"Street Fighter\" series, as well as \"Darkstalkers\" and the little-known \"Red Earth\".\r\n\r\nDuring a bout, players will be able to release coloured gems from successful attacks against their opponent, as well as from wooden chests that regularly appear. Collecting these gems will 'power-up' the player's character, giving them more powerful attacks. There are two bars and three sub-bars in the interface. The two main bars are the life bar and the super bar; the first indicates the player's health and the second their ability to throw super combos. The Super Bar itself can be filled up to nine levels, allowing players to execute more super combos. Each super combo has a level assigned to it, and it uses Super Bars depending on it.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6553d5f7a0f1d546f2eca6a2e73d668d02d9915183fd0e3c29e5e9e6a70b8051",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37410&media=fanart",
+   "fetched_at": "2026-11-06T15:51:38+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "31b3c3654c4de29c5d910ed6c4ffa452e262ac2dd39f19aba6e82743f5d0dfd6",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37410&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:51:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4dec1fcf6a942df33d6fe7d5fac850c6466bbed2375610c041dcd2aa8ab60946",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37410&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:51:42+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5d12ca770c3980ba0d7da9f4bdae10f120277a9c91732cd9a323699d8f5bbfab",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37410&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:51:43+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "026a2f3879049e0eef06586743008a4fc4aa6588e7578803fb2b0e379946dceb",
+   "width": 850,
+   "height": 1190,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37410&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:51:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c9dcdfae3062a9d7810fbb5ad79b2ec1c8a2ef93f93ff0ab45b9662b92acd9e3",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37410&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:51:46+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:51:38+00:00",
+ "status": "done"
+}

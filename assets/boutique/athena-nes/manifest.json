@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "athena-nes",
+ "title": "Athena",
+ "source": "screenscraper",
+ "ss_game_id": 1462,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1462,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "Micronics",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Athena",
+   "genre": "Plateforme",
+   "synopsis": "Dans ce jeu de plates-formes sur Nes vous incarnez Athéna la déesse de la sagesse qui part à l'aventure en dehors du château ennuyeux où elle vit, elle rencontre de nombreux ennemis qu'elle combat avec diverses armes comme un boulet, un arc et une épée très puissante, elle peut également se transformer en sirène ou monter sur des ailes pour explorer la mer ou les cieux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Athena",
+   "genre": "Platform",
+   "synopsis": "Athena, the Goddess of Wisdom, has grown tired of her life within the castle and ventures into the Fantasy World beyond the castle walls. Strange and fearsome creatures will attack you at every turn, but you will find weapons along the way: a ball and chain, a bow and arrow, and a mighty sword.  You can also put on wings and take to the sky, or become a mermaid to explore the ocean depths.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9377583f22e791d212ade7fe70dd8f216959c9d20bc721bfe4276c5398e9b789",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1462&media=fanart",
+   "fetched_at": "2026-11-06T15:56:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "657a439e9e6618e0515c244cebde95fe8f46a1ab76dd7ae53f35628374f01e0a",
+   "width": 600,
+   "height": 200,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1462&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T15:56:35+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "56e2cabd5d71e5aca9ce3b2f6a4e58495853ff0938099d0985afaf66f5d9e2f9",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1462&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:56:37+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "22259ed75a3561ef6182e2ff9f7b80c69a523412a6efdf0cb207e613c6fbe5d0",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1462&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:56:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "eb4aa728933be2078ebd8ebbe8e926ff43d26f12e2bc41ef88e2e2efc5eabfa7",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1462&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:56:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "17c5a8f29d31514d5f02b362893cf61dfb79c249d6249a0ff8ab79364756d579",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1462&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:56:41+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:56:32+00:00",
+ "status": "done"
+}

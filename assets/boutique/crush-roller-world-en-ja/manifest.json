@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "crush-roller-world-en-ja",
+ "title": "Crush Roller (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47027,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47027,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "ADK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Crush Roller",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Crush Roller est un jeu pour le Neo Geo Pocket Color basé sur le jeu d'arcade de 1981 Make Trax, qui a été publié comme Crush Roller en Europe et en Asie.\r\n\r\nLe but du jeu est de colorer l'ensemble du labyrinthe avec un pinceau. Pendant que vous peignez, deux ennemis se promènent dans le labyrinthe, quand ils vous frappent, vous perdez une vie.\r\n\r\nUn niveau a des rouleaux que vous pouvez pousser vers l'avant avec votre pinceau. Si vous capturez un ennemi , il meurt et est temporairement sorti du jeu. Cela vous marque des points supplémentaires. \r\n\r\nDe temps en temps, une autre créature apparaîtra, elle fonctionnera en laissant derrière vous des marques de pas dans votre peinture.\r\n\r\nLorsque le labyrinthe entier est complètement peint, vous gagnez. Contrairement à la version arcade, la version Neo Geo Pocket Color a plusieurs niveaux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Crush Roller",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Crush Roller is a game for the Neo Geo Pocket Color based on the 1981 arcade game Make Trax, which was released as Crush Roller in Europe and Asia.\n\nThe object of the game is to color the entire maze-like playing field with a paint brush. While you paint, two enemies walk around in the maze, when they hit you, you lose a life.\n\nA level has rollers which you can push forward with your paint brush. If you capture an enemy in the path of the roller he dies and is temporarily taken out of the game. This scores you extra points. Each subsequent enemy rolled over is worth more points.\n\nEvery once in a while another creature will pop up, it will run around leaving behind track marks in your paint. Painting over this creature removes it from the game and scores you additional points. His tracks have to be repainted.\n\nWhen the entire maze is painted you win the level. Unlike the original arcade version the Neo Geo Pocket Color version has multiple levels.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "cc30ccf27b9d40b04bdb92d96ab5eef580c8fd0c744be062ce113696f1d90fc9",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47027&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:36:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d899d5d12bf1bca2b3dfa8cfd0610144df040daa4819c1f28e192405bf2cabb6",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47027&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:36:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9f5421aec1929f4e66bf5f86369c3e6f8adaa07b88cd1faf54249b32cc77460a",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47027&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:36:17+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7be2e19c580c0bd01f00bc8c5b60329ee73c9d186836a95bf77df4364dcb728d",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47027&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:36:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3c6470fe04504885387a34b743cf5995255e2b3979739f34c84a64a80bf5a411",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47027&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:36:20+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:36:13+00:00",
+ "status": "done"
+}

@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "saboteur",
+ "title": "Saboteur",
+ "source": "screenscraper",
+ "ss_game_id": 37833,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37833,
+  "release_year": 1983,
+  "publisher": "AtariAge",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Saboteur",
+   "genre": "",
+   "synopsis": "Vous êtes Hotot, une forme de vie cybernétique originaire d'une planète sereine dans une galaxie lointaine. Malheureusement, même dans une galaxie lointaine, tout n'est pas aussi paisible qu'il n'y paraît, car Hotot a découvert une base de missiles extraterrestres cachée sur sa planète. Habités par d'étranges aliens bleus, ces intrus maléfiques utilisent votre planète comme site de lancement pour leur ogive mortelle qui est censée détruire la source d'énergie de la galaxie. Avec l'aide de l'oiseau Gorfons, vous devez détruire l'ogive, et empêcher la destruction de la galaxie ! Bonne chance Hotot. Vous êtes le Saboteur.\r\n\r\nSur le premier écran, vous essayez d'empêcher les robots de construction Qotile et les esclaves Yar de terminer un missile. Vous êtes aidé par les Gorfrons. Pendant que les robots de construction Qotile et les esclaves Yar construisent le missile, les Gorfrons volent des pièces pour l'abaisser. Méfiez-vous du robot maître qui se trouve sur la passerelle supérieure car il essaiera de vous tirer dessus ainsi que sur les Gorfrons pour empêcher votre intervention. Après avoir terminé le chantier de construction de fusées, vous pouvez passer à l'assemblage d'ogives.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Saboteur",
+   "genre": "",
+   "synopsis": "You are Hotot, a cybernetic life form from a serene planet in a distant galaxy. Unfortunately, even in a galaxy far far away not everything is as peaceful as it first seems, for Hotot has discovered an alien missile base hidden on his planet. Manned by strange blue aliens, these evil intruders are using your planet as a launching site for their deadly warhead which is posed to destroy the galaxy's power source. With the help of the birdlike Gorfons, you must destroy the warhead, and prevent the destruction of the galaxy! Good luck Hotot. You are the Saboteur.\n\nOn the first screen, you are trying to prevent the Qotile construction robots and Yar slaves from completing a missile. You will be helped by the Gorfrons. While the Qotile construction robots and Yar slaves will build up the missile, the Gorfrons will steal pieces to lower it. Beware of the Master robot on the top catwalk as it will try to shoot you and the Gorfrons to prevent your interference. After you finish the Rocket Construction Site, it is off to Warhead Assembly.\n\nIn Warhead Assembly, you must destroy the warhead parts on the conveyor belt. There is just one little problem; the conveyor belt is protected by a field. The good news is that the Master robot's energy is on the same frequency so what you do is shoot the Master robot and the shot will then head for the conveyor belt. Of course, the Master robot isn't just standing there, letting you bounce shots off him. He has released a security drone that bounces around the screen trying to hit you.Also, the Master robot will hurt you if you touch him. If you destroy the parts before time runs out, you will advance to a harder round. If not, you must destroy the warhead one-on-one.\n\nIn the Warhead Showdown, you must destroy the warhead with a shot. Of course, the warhead isn't gonna stand for that as it has an impressive defense matrix that will try to hold you off. If you take to log to destroy the warhead, it will escape into space. Whether you destroy it or not, you will then return to the Rocket Construction Site at a harder level.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8f08ce100e042acdf902457ab0aecb00941307774c949950696800cdc4583336",
+   "width": 400,
+   "height": 129,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37833&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:02:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "43e08bfc6db629cc07eff367a7f6a13672f33f1d5d70a4c6856a8862d0fe9e5e",
+   "width": 600,
+   "height": 829,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37833&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:02:44+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "29b6e6ba36ebc8014cc8cef35388afd29f0a8c2d59cf3ac438d540651a359505",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37833&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:02:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "3f790f35c490d23d2f718cab37b4f8fc31f64e0479ce6f2d434814ab71209e47",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37833&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:02:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3de6261cb4872c0542fbd1dbae3f908e185903215596f0554b786590bbe16941",
+    "width": 320,
+    "height": 190,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37833&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:02:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:02:42+00:00",
+ "status": "done"
+}

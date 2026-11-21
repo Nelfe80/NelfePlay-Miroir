@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "bonk-3-bonks-big-adventure",
+ "title": "Bonk 3: Bonk's Big Adventure",
+ "source": "screenscraper",
+ "ss_game_id": 59779,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 59779,
+  "release_year": 1993,
+  "publisher": "Turbo Technologies",
+  "developer": "A.I Co",
+  "players": "1-2",
+  "system_label": "PC Engine"
+ },
+ "text": {
+  "fr": {
+   "name": "Bonk III : Bonk's Big Adventure",
+   "genre": "Plateforme",
+   "synopsis": "Après avoir fait les beaux jours de la PC Engine pendant plus de 3 années de suite. Bonk est de retour pour un 3eme épisode tout aussi coloré et sympathique que le second mais avec encore plus de fun et de pouvoir !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bonk III : Bonk's Big Adventure",
+   "genre": "Platform",
+   "synopsis": "Bonk's Big Adventure is the third instalment in the side-scrolling platformer series. As in previous games, the player assumes the role of a caveman named Bonk who headbutts his way through various enemies in order to defeat King Drool. Familiar moves include swinging on trees, bouncing off walls, breaking blocks and climbing walls with his teeth. Compared to the previous games, he walks and moves a little faster.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "164659d53bb1541b86f2871d5915bd9694c9ebfb42312bc7644b528f9b0d38f4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=59779&media=fanart",
+   "fetched_at": "2026-11-06T23:56:19+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0306b8bb33b0219187dfea73515221a5797e879c2ebd171facfd2689b405680f",
+   "width": 600,
+   "height": 250,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=59779&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:56:21+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ee17261b67cf6753dd126e6a54ecc5d8549aa906cf57e2cda636b11af72d0f00",
+   "width": 580,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=59779&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:56:23+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "33c700fa9551fd2863c8f5ab5c1cd28dc1c2dd529811ae087f51b924d7d9ca4b",
+   "width": 474,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=59779&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:56:24+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "20f2edd76aa4087bc4ce4c65cd6255ae8cb6a06a9c822342af833dd890fc7517",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=59779&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:56:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7be007deb81463862365c8799b65b24ee7733a1b45dad1a54d71bb1eb843dba3",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=31&jeuid=59779&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:56:27+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:56:19+00:00",
+ "status": "done"
+}

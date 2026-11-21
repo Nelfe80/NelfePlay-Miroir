@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "aladdin",
+ "title": "Aladdin",
+ "source": "screenscraper",
+ "ss_game_id": 3025,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3025,
+  "release_year": 1994,
+  "publisher": "Virgin",
+  "developer": "Virgin",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Aladdin",
+   "genre": "Plateforme",
+   "synopsis": "Reprenant les différentes séquences du film d'animation de Disney, Aladdin sur Gameboy permet de retrouver tous les personnages de l'histoire. Ce jeu de plates-formes propose effectivement de suivre Aladdin des rues d'Agrabah aux couloirs du palais royal en passant bien sûr par la célèbre caverne aux merveilles. Le Génie est aussi de la partie et permet de gagner des bonus.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Aladdin",
+   "genre": "Platform",
+   "synopsis": "HANG ONTO YOUR MAGIC CARPET FOR ACTION AND FUN!\r\n\r\nAladdin must slash his mighty scimitar to fight and dash through the city of Agrabah, escape the Sultan's dungeon. survive the fiery Cave of Wonders, snatch the Genie's Lamp and save Princess Jasmine from the evil Jafar in the most magical desert adventure of all time! \r\n\r\nFEATURES: \r\n- Nine levels of magical adventure filled with desert warriors, spitting camels and flying carpets.\r\n- Hilarious fun with pants-dropping Palace Guards and dirtwad-spitting camels.\r\n- One exciting bonus round that takes you deep into the Genies magical lamp.\r\n- Academy Award winning music straight from the movie with favorites like A WHOLE NEW WORLD and FRIEND LIKE ME. \r\n- Super Came Boy compatibility means Aladdin's entire adventure, from the market at Agrabah to the interior of Jafar's evil palace, is gorgeously color-enhanced.\r\n\r\nThe player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0f900b312d288702dbf38c910c9fa4b3964a777da3a372d6426a84a409839a89",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3025&media=fanart",
+   "fetched_at": "2026-11-06T16:14:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "dd1711103fad9646baa517fc0d182db0f9e6867eef91bd089ed2278150ba9348",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3025&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:14:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "50d4c9267bc38907052f54e45a6a30316f62b84dcd44b01887a86d978912784d",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3025&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:14:14+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "38e1b0feecf330374e3000aec739c91a97d45bfe3d44ba8633f8da61b845c990",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3025&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:14:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "25c8d8e90edf0d2c9b8e7efa8b10af8d7a9629042ee54c74ea978cec0b120e4c",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3025&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:14:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fa722133c8f425ef7df3e5d3af165cb0c7cec4210c23cfdb3ccd901426c8b1e2",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3025&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:14:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:14:10+00:00",
+ "status": "done"
+}

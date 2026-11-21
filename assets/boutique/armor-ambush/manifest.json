@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "armor-ambush",
+ "title": "Armor Ambush",
+ "source": "screenscraper",
+ "ss_game_id": 58688,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 58688,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "M Network",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Armor Ambush",
+   "genre": "Tir",
+   "synopsis": "Armor Ambush est un jeu qui permet aux joueurs de contrôler des chars qui s'affrontent sur des terrains offrant différents degrés de texture et de maniabilité.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Armor Ambush",
+   "genre": "Shooter",
+   "synopsis": "Armor Ambush is a game that gives players control over tanks that battle one another over terrain that offers varying degrees of texture and traversability. Dueling tanks was a theme familiar to owners of the Atari 2600 since Combat, the game packaged with nearly every Atari 2600 system, had a very similar premise. However, Armor Ambush expands upon the simple battles available to players of Combat. The game takes place on a different randomly selected battlefield each round. Additionally, players can drop mines on the battlefield by simultaneously pressing the fire button and pulling down on the joystick. The mines remain active for the duration of the battle, destroying either tank that runs over them. Players are able to control two tanks and switch between them on command. The terrain is more diverse, featuring areas of foliage, water, and natural barriers. But as with \"Combat\", there is no AI for the computer, and the game cannot be played solo.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "70937096930f3e4ee4bb99181dfbfabbd51e269a1179e8aa327f8fb9c88801dc",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58688&media=fanart",
+   "fetched_at": "2026-11-06T16:46:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "eb845a98470ef261aea918041bdb3a501be025968a744a4408c9d416d5043b01",
+   "width": 400,
+   "height": 46,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58688&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:46:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5c328b40991b7d45f27a6e773d6859aff9af0ad69c9b5980b511f81274c6fe88",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58688&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:46:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e71e07cb93578593e9b7d071b3efea7f16b87615bf27f6f0d7e67b2233bb0aec",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58688&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:46:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "0b4aa47a45f720b8085c2082df2ec3ce0cd817a4807821a47602719a47ec5166",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58688&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:46:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "17377ad3af30eccf7e0f86c998df2bfdb5d212dbf9909e579b4f45217269a4e7",
+    "width": 320,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58688&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:46:16+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:46:07+00:00",
+ "status": "done"
+}

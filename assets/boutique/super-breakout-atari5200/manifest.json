@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-breakout-atari5200",
+ "title": "Super Breakout",
+ "source": "screenscraper",
+ "ss_game_id": 37988,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37988,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-4",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Breakout",
+   "genre": "Action / Casse briques",
+   "synopsis": "Super Breakout propose un gameplay similaire à l'original, mais avec plusieurs nouvelles variantes de jeu. Votre objectif est de gagner autant de points que possible en détruisant les briques en haut du terrain de jeu. Pour ce faire, vous devez utiliser la palette en bas de l'écran pour garder une balle rebondissante dans le champ de jeu. Il existe quatre variantes de jeu différentes. Le premier est «Breakout» et joue de la même manière que le jeu original.\r\n\r\nCela laisse trois nouveaux concepts de gameplay. Dans 'Progressive', les murs de briques tomberont lentement vers le bas de l'écran et la balle se déplace progressivement de plus en plus vite. Quand il y a de la place, une nouvelle couche de briques apparaîtra en haut.\r\n\r\nLes deux autres jeux ajoutent une deuxième palette. Dans «Double Breakout», vous avez deux balles pour continuer à jouer et marquer avec. Dans 'Cavity', il y a une seule balle en jeu lorsque vous commencez, mais deux balles supplémentaires coincées dans les briques. Ceux-ci sont libérés lorsque leurs briques environnantes sont détruites.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Breakout",
+   "genre": "Action / Breakout games",
+   "synopsis": "Super Breakout features similar gameplay to the original, but with several new game variations. Your goal is to earn as many points as possible by destroying the bricks at the top of the playfield. To do this, you need to use the paddle at the bottom of the screen to keep a bouncing ball within the playfield. There are four different game variations included. The first is 'Breakout', and plays the same as the original game. \n\nThis leaves three new gameplay concepts. In 'Progressive' the brick walls will slowly drop towards the bottom of the screen and the ball moves progressively faster and faster. When there's room, a new layer of bricks will appear at the top. \n\nThe other two games add a second paddle. In 'Double Breakout' you have two balls to keep in play and score with. In 'Cavity' there is a single ball in play when you start, but two additional balls trapped within the bricks. These are freed when their surrounding bricks are destroyed.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3cb379a80b54363855ae22592268be778d8276c5ff630ed49ee5827cb0bc5cba",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37988&media=fanart",
+   "fetched_at": "2026-11-06T17:05:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b73cde2426211da169b1b4386c78b03ad90a5a2600ca2fbd72c2e7a9814672a2",
+   "width": 600,
+   "height": 199,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37988&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:05:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fe4c22da5ef384fc69ff4d6cf48ffe894050ac8fb9bbd780464fed9ffcc3276c",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37988&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "59bf36c77e5881430a173e489a6eebadb51fe52908ab22323982bd0843f37266",
+   "width": 600,
+   "height": 552,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37988&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8fa5578062fc6bdadff21808d6b0271290e874fc95d604d07a466eea55635955",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37988&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:06:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c58e674af2a18d37a5e7b6a3ff802f76d79e79b645985f4125011a0760095314",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37988&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:06:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:05:55+00:00",
+ "status": "done"
+}

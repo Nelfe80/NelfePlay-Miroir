@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "chopper-i",
+ "title": "Chopper I",
+ "source": "screenscraper",
+ "ss_game_id": 40550,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40550,
+  "release_year": 1988,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Chopper I",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Chopper I (Koukuu Kihei Monogatari) est un shoot'em up vertical jouable à deux simultanément, dans lequel vous pilotez un hélicoptère de combat à travers six stages remplis d'unités ennemies terrestres, aériennes et navales. \r\nAbattez les gros hélicos pour obtenir des power‑ups, utilisez bombes et tirs spéciaux, et progressez dans un territoire hostile jusqu'aux boss de fin de zone. \r\nUn classique de l'arcade rythmé et représentatif des productions SNK de la fin des années 80.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Chopper I",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Pilot a helicopter in this vertically scrolling shooter from SNK.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "21eaba4e3abb6e08478e278115d997c00f469c81260bf4049c2c00f869f87872",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40550&media=fanart",
+   "fetched_at": "2026-11-06T15:57:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0485dd10b882ceb69f2aab13ffa09acc7427bba8868e5fcd59efacf0f5b6f2e1",
+   "width": 400,
+   "height": 182,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40550&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:57:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4040a8484d81433c6bcb3fbf4f5c6c6bf67c84a4451fdf3f3a2c872c669ca052",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40550&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:57:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1014fad2e78a899ac35c85ad6e75ac395e0a24ae7a419f24db34f8ccda7f1e0b",
+   "width": 224,
+   "height": 400,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40550&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:57:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8f72b95588d7acbce2756077bfce03e3a4d65dc7a94efeff343ebf64625b6920",
+   "width": 598,
+   "height": 783,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40550&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:57:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7dc715f257313943bc0d0fb61406fd1f955b018138ed897ecd97d6b5075c996a",
+    "width": 224,
+    "height": 400,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40550&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:57:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:57:02+00:00",
+ "status": "done"
+}

@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "slug": "super-castlevania-iv",
+ "title": "Super Castlevania IV",
+ "source": "screenscraper",
+ "ss_game_id": 2173,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2173,
+  "release_year": 1991,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Castlevania IV",
+   "genre": "Plateforme",
+   "synopsis": "Lorsque l'horreur dépasse l'imagination, que les caveaux s'ouvrent sous vos pas et vous engloutissent... Voici Castlevania, l'aventure d'outre-tombe.\r\nVoici venue la fin d'un siècle de tranquillité pour le peuple de Transylvanie. Une fois de plus, les cris angoissés des villageois sans espoir font vibrer le sol tandis qu'ils luttent contre les nouvelles horreurs cauchemardesques dispensées par le Prince des Ténèbres, le Comte Dracula. Et cette fois-ci, une pierre tombale est gravée à votre nom: Simon Belmont.\r\nVous devez descendre dans le terrifiant Château des morts-vivants et ses bas-fonds horribles... 11 terribles niveaux de labyrinthes vous attendent. Vous serez aux prises avec le donjon pivotant, les Ruines enfouies des Esprits perdus, les salles de torture et des grottes grouillant de diverses créatures.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Castlevania IV",
+   "genre": "Platform",
+   "synopsis": "Simon Belmont returns in the first Castlevania title to grace the SNES.  The console may be different, but the setup is very familiar: The place is Transylvania.  The villain is Count Dracula.\n\nBelmont has the classic Castlevania assortment of weapons (the famous whip, daggers, axes, fire bombs, boomerangs) at his disposal, and he gains strength and points by collecting various-sized hearts, coin purses, and pork chops. \n\nLike most Castlevania games, Super Castlevania IV is a 2D side-scrolling action game. However, it is 2D with more depth than ever before. Parallax scrolling and rotating chambers are some of the \"Mode 7\" effects made possible by the SNES hardware.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "7fd8c5e6f5ecf27ba4cf3db74041e6ca1936c0c0c826364beb18633beb12b72c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=fanart",
+   "fetched_at": "2026-11-06T16:22:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bb03f9b0f8cbb468b2480666f9e4d29e6b2f65ecf41204685d74909921c1a6c4",
+   "width": 600,
+   "height": 240,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:22:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f6b9274547d64b438d930a564054d346506a351eff962480625d8a16c9cbd996",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:22:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f1ca63f35fdc6465a13f9faecb68d9f770ffc11d5261909083d16db2ec5a6793",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:22:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "3fdea57e49f101f2a2266a5d5bec4d598edc8b6750aafc45d7a7fcf6a34e29c3",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:22:14+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "4621b31553ea5746cc94c4d7ef1b5aa1fdede3083a20e433315ac11a4a8285bb",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:22:16+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "7b5a057ea92b4f6fa82878848f92d3b9a13d91f0708b1acc40c8a0d1ce584417",
+    "width": 256,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2173&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T16:22:17+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:22:07+00:00",
+ "status": "done"
+}

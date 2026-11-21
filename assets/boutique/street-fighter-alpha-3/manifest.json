@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-alpha-3",
+ "title": "Street Fighter Alpha 3",
+ "source": "screenscraper",
+ "ss_game_id": 37409,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37409,
+  "release_year": 1998,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter Alpha 3",
+   "genre": "Combat",
+   "synopsis": "Street Fighter Alpha 3 intègre un système de combat baptisé « ISM » avec une jauge de furie classique mais déclinée en trois styles de combat différents. Le joueur choisit son style en même temps que son combattant. Le premier style s'intitule « X-ISM », la jauge est caractérisée en rouge, elle permet le déclenchement d'une super attaque une fois la jauge totalement remplie et se vide ensuite entièrement. La garde aérienne est impossible dans ce système et la défense du personnage est légèrement en dessous de la moyenne, mais il frappe aussi légèrement plus fort. Il s'agit du système original de la franchise Street Fighter, adopté dans le premier de ses jeux intégrant les super attaques, Super Street Fighter II Turbo.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter Alpha 3",
+   "genre": "Fighting",
+   "synopsis": "Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "892aba9de979896564fcc8fea0f510fc312ebdbcb1b32681234568a72308d244",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=fanart",
+   "fetched_at": "2026-11-06T15:46:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a2bddea874f02cebefe1b68103a87a87e2d9ca3e5db65f0dbc09d47349a4f08a",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:46:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9d45719436a2caa99ee5df5fa548d8025d982c78914bb38358535973dd2666a7",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:46:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8f0c367b621a0a3df556418870079853eb86bb0f8708e9be534bea5082834bd1",
+   "width": 300,
+   "height": 690,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:46:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b65194dec9a1820d551b359c63b196fa9c2eac0b1aaf5ef7e055c4fd7eacc1d1",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:46:19+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "ab48ca3fc95f95f410c9e05a269e62f2ae99a7026183e79b6683e5ae398a4fc4",
+   "width": 850,
+   "height": 1105,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:46:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "df7c4e271d60930e87f1b6f2bf12716e1d21b6791aeecf6c59989fd3be9e5aac",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37409&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:46:22+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:46:13+00:00",
+ "status": "done"
+}

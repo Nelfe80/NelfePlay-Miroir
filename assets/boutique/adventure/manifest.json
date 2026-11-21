@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "adventure",
+ "title": "Adventure",
+ "source": "screenscraper",
+ "ss_game_id": 13992,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13992,
+  "release_year": 1980,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Adventure",
+   "genre": "Aventure",
+   "synopsis": "Un méchant sorcier a volé une coupe enchantée. Vous avez mission de la retrouver. Trois dragons implacables et une chauve-souris noire vont vous barrer le chemin.Fort heureusement, dans ce jeu, il suffit de presser un bouton pour se réincarner.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Adventure",
+   "genre": "Adventure",
+   "synopsis": "An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. \r\n\r\nThis is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.\r\n\r\nThere are three castles in the Kingdom; the White Castle, the Black Castle, and the Golden Castle. Each castle has a Gate over the entrance. The Gate can be opened with the corresponding colored Key. Inside each Castle are rooms(or dungeons, depending at which Skill Level you are playing).\r\n\r\nThe Castles are separated by rooms, pathways, and labyrinths. Common to all the Skill Levels is the Blue Labyrinth through which you must find your way to the Black Castle. Skill Levels 2 and 3 have a more complicated Kingdom\r\n\r\nAdventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Adventure creator Warren Robinett even described the dragons as looking like ducks.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6075bce5bb8d0b543c7bf83a5d494df06a92c5b7c3a6bd1a251f21fa3e2cdc34",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13992&media=fanart",
+   "fetched_at": "2026-11-06T16:44:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ba9468115f805639471e3fbf811647190fff9023e611cc65cabd7d88e566ae6d",
+   "width": 600,
+   "height": 93,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13992&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:44:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "be7aa1ac9851a953b3c53451a70576b9d524b4187696c3eacfb2a2d76106483c",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13992&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:44:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "140693baa1b9a33e09fb20bc7b35bf23530665ff3bf816d82e03116269ae8c33",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13992&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:44:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "ed3dc4c9d9020a09b925b984e8336961f98ffc8fd12ab66755b975a4a773ae2b",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13992&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:44:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "533d1db145f1936ada0c7378aac5133f770bee23315f66714bc2d14aed8c677e",
+    "width": 320,
+    "height": 212,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=13992&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:44:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:44:06+00:00",
+ "status": "done"
+}

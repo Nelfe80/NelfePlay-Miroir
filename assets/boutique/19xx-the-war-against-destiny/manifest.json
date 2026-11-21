@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "19xx-the-war-against-destiny",
+ "title": "19XX: The War Against Destiny",
+ "source": "screenscraper",
+ "ss_game_id": 37386,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37386,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "19XX : The War Against Destiny",
+   "genre": "Shoot'em Up",
+   "synopsis": "Un très bon shoot avec tous les ingrédients qu'il faut: des bonus à profusion, des ennemis variés, le choix de son appareil, des graphismes agréables et une bonne jouabilité sans trop de difficulté. Un shoot accessible à tous et comme d'habitude, à 2 c'est encore mieux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "19XX : The War Against Destiny",
+   "genre": "Shoot'em Up",
+   "synopsis": "19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "02676bdad2f89797497a11c4b65b6c1cdaa8755beefb3b064acbba5c44bb27c3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37386&media=fanart",
+   "fetched_at": "2026-11-06T15:32:03+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "25cf9bc08fa8ea528c8eb62a7d1bfa65b163dfd7aa4bfaf1a637d629df023d9c",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37386&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:32:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "adcb4a266495c823c54f97ba3dc9ebfb1459341f732f8f7187ba78f3b3e5e09d",
+   "width": 514,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37386&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T15:32:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e6d710f6cbc2ebfd8740e07635f72b58bc0bcf1f4d1e0758e435ab5a7de915f0",
+   "width": 224,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37386&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:32:07+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1f739cf1b58cb2d100f797dd744c59d9307f33a8a9cd377b908eb72ae6cfb840",
+   "width": 850,
+   "height": 1185,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37386&media=flyer%28jp%29",
+   "fetched_at": "2026-11-06T15:32:09+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "2f91613ba4af7400709f69db2adea0cd1de942b57b0bbd037993add661cbb0d8",
+    "width": 224,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37386&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:32:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:32:02+00:00",
+ "status": "done"
+}

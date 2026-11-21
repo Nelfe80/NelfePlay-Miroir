@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "the-king-of-fighters-2002",
+ "title": "THE KING OF FIGHTERS 2002",
+ "source": "screenscraper",
+ "ss_game_id": 13857,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13857,
+  "release_year": 2002,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "The King of Fighters 2002",
+   "genre": "Combat / Versus",
+   "synopsis": "The King of Fighters 2002 est le neuvième épisode de la célèbre série de jeux de combat. Cet épisode est le signe d'un retour aux sources en délaissant le système de strikers instauré dans l'édition 99 pour un retour à la traditionnelle bataille en équipe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The King of Fighters 2002",
+   "genre": "Fighting / Versus",
+   "synopsis": "The second plotless \"dream match\" in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven't appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, \"Riot of the Blood\" Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms.\n\nThe gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed. In their place are the old-school three man teams and the \"Advanced system\" from The King of Fighters '97 and The King of Fighters '98.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d71bb096d6c0f8646ea72909f592d3bca200b56bb40d1512048f6eb148c35343",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=fanart",
+   "fetched_at": "2026-11-06T15:38:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e6fbd1843c53a053dc1af71805eea7c562a8a80f35b7ef6fbf3957c5e440aa48",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:38:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "40cc56d46e2f81c5beffb94e2a0a34a2b9f77551c43f5649cc55b093c90fe8bd",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:38:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ecc57bdf891826e1cb20074b6b68ec28b0433906a83ffc22f4bce07ca3869d6b",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:38:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "da31085158eb170c1be46f493eed1a336e55c23fcda69b45995e28f37e8bd3c2",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:38:13+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bcd8b8b9af049853f61d6d0111188d5f8dc000102e42f7d083d84a2373505acd",
+   "width": 900,
+   "height": 1273,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:38:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "65dbed0c5d793f49cab060179c5136600588f4d04c0fd21165bf1d3ea2a03b81",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13857&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:38:16+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:38:06+00:00",
+ "status": "done"
+}

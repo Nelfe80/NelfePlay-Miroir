@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "demons-to-diamonds",
+ "title": "Demons to Diamonds",
+ "source": "screenscraper",
+ "ss_game_id": 14060,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14060,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Demons to Diamonds",
+   "genre": "Tir / Vertical",
+   "synopsis": "Demons to Diamonds sur Atari 2600 est un jeu de tir à la troisième personne dans lequel vous devez tirer sur des ennemis en mouvement avec votre laser. Le but est de gagner le plus de points possible notamment en tirant sur les objets de la même couleur que votre laser afin de récupérer des diamants. Il est possible de jouer seul ou à deux sur différents modes de jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Demons to Diamonds",
+   "genre": "Shooter / Vertical",
+   "synopsis": "In Demons to Diamonds, you control a laser zapper which moves horizontally at either the top or the bottom of the screen. Your goal is to earn as many points as possible by shooting objects in the center of the screen. Wandering back and forth in the middle are demons which can be one of two colors. If you shoot a demon that is the same color as your zapper, it will turn into a diamond. Shooting the diamond before it disappears will earn you bonus points. If you shoot a demon of the opposite color, it will instead turn into a skull which will rapidly fire at your zapper. You begin the game with five zappers, and the game ends when all five have been destroyed by skulls. The game can be played by one or two players, and several game variations are included to set the level of difficulty.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5f91b659e4a6b06650f055a6510435d5c31a0afaa825ed4e62e9d80345405e35",
+   "width": 400,
+   "height": 30,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14060&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:52:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "439dd56729ae2efab7c86d63039e44cbf0d9558056519c94f8fa6b54c753d13a",
+   "width": 600,
+   "height": 830,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14060&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:52:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "970bd2da2034916c2431710e26f54301d58312d676a661f529b777c5668a34ab",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14060&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:52:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4bcc603aabf068f628ec4b1596b897b0e54dad56448131b920688694a07bc64c",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14060&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:52:32+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "08092bafd5f54aca76259fadefe540301013d9b11c9fca7b83ca8e934c99dc6b",
+    "width": 320,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14060&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:52:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:52:27+00:00",
+ "status": "done"
+}

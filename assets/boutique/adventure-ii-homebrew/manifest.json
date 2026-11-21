@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "adventure-ii-homebrew",
+ "title": "Adventure II (homebrew)",
+ "source": "screenscraper",
+ "ss_game_id": 511547,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 511547,
+  "release_year": 2005,
+  "publisher": "Atari",
+  "developer": "Curt Vendel",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Adventure II",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Adventure II s'inscrit dans la lignée des premiers jeux axés sur l'exploration, vous permettant de parcourir un monde ouvert où secrets, objets et dangers sont étroitement liés. Vous traversez diverses zones, découvrez des clés ainsi que d'autres objets utiles, et les utilisez pour ouvrir des passages ou résoudre des énigmes. En chemin, vous affrontez des ennemis et surmontez des obstacles nécessitant vigilance et sens du timing, tout en reconstituant peu à peu la structure de cet univers. Tout son attrait réside dans la liberté d'expérimentation : une aventure placée sous le signe de la curiosité, de l'observation et de la découverte.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Adventure II",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Adventure II builds on the roots of early exploration-driven design, letting you roam an open world where secrets, items, and dangers are closely connected. You travel through different areas, discover keys and other useful objects, and use them to unlock paths or solve puzzles. Along the way you encounter enemies and obstacles that require awareness and careful timing as you gradually piece together how the world fits together. Its appeal lies in the freedom to experiment – an adventure centred on curiosity, observation, and discovery.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1ccfb3ca3496db29d4b4f5d53ea5b03f33464d85687c8e092b74900d2e53e424",
+   "width": 600,
+   "height": 121,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=511547&media=wheel-hd%28us%29",
+   "fetched_at": "2026-11-07T00:08:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c57da539f1cf7dfe163a811f101458380db0bc98ddbf2e2379fa1e455951b3af",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=511547&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T00:09:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "97450dfe31c6e3a05fece6a343692158f88f0fa2ef06776a80e01a002f2e7b0e",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=511547&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T00:09:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "389839c27c7ab486b7b16ad138901497d56cdcc67797d0c28dfca7b80fa92049",
+   "width": 637,
+   "height": 476,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=511547&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T00:09:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "dd9155b32b5c58ed994f0502c6e18b20e7ecb6c6a6aa44db38248382fb79f56c",
+    "width": 1663,
+    "height": 1246,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=511547&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T00:09:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:08:58+00:00",
+ "status": "done"
+}

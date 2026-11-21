@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "dino",
+ "title": "Cadillacs and Dinosaurs",
+ "source": "screenscraper",
+ "ss_game_id": 37360,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37360,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-3",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Cadillacs and Dinosaurs",
+   "genre": "Beat'em All",
+   "synopsis": "Cadillacs and Dinosaurs se joue comme beaucoup de titres du genre, le joueur progresse en faisant face à des vagues successives d'ennemis composées de truands et de dinosaures. Pour se défendre chaque personnage possède une palette de coups et de projections qui lui est propre ainsi qu'une attaque spéciale puisant dans la jauge de vie. De nombreuses armes sont disponibles, celles-ci allant de la simple planche en bois aux armes à feu.Il existe également des passages où le joueur se retrouve au volant d'une Cadillac et dont le but est de renverser un maximum d'ennemis tout en évitant divers obstacles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Cadillacs and Dinosaurs",
+   "genre": "Beat'em Up",
+   "synopsis": "The plot is based on the comic Cadillacs and Dinosaurs and takes place in the \"City In The Sea\" and its neighboring nearby jungle. The story starts 500 years from the 20th century, when an ensemble gang called the Black Marketeers begin hunting the dinosaurs to serve their unknown purpose. The continuous hunting process has made the dinosaurs violent and now they have started attacking villages and people. In order to get things sorted again, mechanic and shaman Jack Tenrec, diplomat and explorer by profession Hannah Dundee, friend and engineer Mustapha Cairo, and mysterious Mess O'Bradovich have decided to teamp up against the evil deeds of the Black Marketeer. The protagonists reach \"the City in the Sea\" where they suspect the whole hunting network being operating from.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9f5192488dac1b4364db50c2c27c9684cf5a13dc23336312cf5f64529bc7a8f3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=fanart",
+   "fetched_at": "2026-11-06T23:51:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b7c6c8ea826a92be1dd275a4413d59f240276357b55bbcb8d817e0139490bbf2",
+   "width": 600,
+   "height": 230,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:51:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "611a104c4512b468584627ad50b51b08bcd205256776e7d0c0b7275c4b689816",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:51:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f096223f57ae44eeff63be5712d9df6da3773ce25d8085bebe663db2007c6d5c",
+   "width": 517,
+   "height": 999,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:51:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ae9bc8e7d04c786a12a877c129e7bcdca742b9bc695d10eb14bf2eb014bb15c4",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:51:51+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "4c22d5c3f378bd85e5a835b130b32aae2e5534057e08ba635fe970b737449ab0",
+   "width": 850,
+   "height": 1110,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=flyer%28us%29%5B1%5D",
+   "fetched_at": "2026-11-06T23:51:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "735a128ce06dbc6cdc00f4854d4762146e21a3eddd8f5f52b92afded8d01c0b8",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37360&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:51:54+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:51:44+00:00",
+ "status": "done"
+}

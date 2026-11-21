@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-asteroids-missile-command",
+ "title": "Super Asteroids & Missile Command",
+ "source": "screenscraper",
+ "ss_game_id": 14279,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14279,
+  "release_year": 1992,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Lynx"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Asteroids & Missile Command",
+   "genre": "Compilation",
+   "synopsis": "Super Asteroids & Missile Command sur Lynx regroupe deux grands classiques de l'arcade made in Atari et remis à jour pour cette compilation. Dans cette version, les deux titres contiennent des fonctions améliorées afin de justifier le \"Super\" du titre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Asteroids & Missile Command",
+   "genre": "Compilation",
+   "synopsis": "Two classic Atari arcade games were updated for this compilation. This Lynx version of Asteroids and Missile Command contains some enhanced features to justify the \"super\" in the title.\r\n\r\nSuper Asteroids has all new graphics to replace the vector outlines of the original. Your ship has a shield that can absorb several collisions before it blows up. There are also power ups to increase your firepower.\r\n\r\nSuper Missile Command also has all new graphics. Between rounds, you can trade credits earned during gameplay to purchase special weapons that will help you later in the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6684d709062d5d68b90efce48a06ed005830e32dbfc51bcb558a39bd7dc17ab3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14279&media=fanart",
+   "fetched_at": "2026-11-06T17:05:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "82eb2b05b664fc9f9ad58563c74da0bd85e1898505b26ec30baeb4f5d4ae2f6d",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14279&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:05:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "402a1031016829b2302ab42d6c7c32c7f944ce9b3b71dab0bd4fcb31affb6e29",
+   "width": 554,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14279&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:05:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9c177848a31da7268a5eb7272c8fccb661b51d34e3aa65f1dbaf0f200f2f8eda",
+   "width": 576,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14279&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:05:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "59b6b934201febef3fe6732ad08f4e3e7414a32a1f2ecc95c85d0aa1d59ab5ed",
+   "width": 160,
+   "height": 101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14279&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:05:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5895a30c6ecc7ad63c226fd92771976f1de9e95bb6079b50912f01a95ceefe19",
+    "width": 160,
+    "height": 102,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14279&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:05:39+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:05:31+00:00",
+ "status": "done"
+}

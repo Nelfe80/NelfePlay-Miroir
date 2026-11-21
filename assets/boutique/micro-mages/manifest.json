@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "micro-mages",
+ "title": "Micro Mages",
+ "source": "screenscraper",
+ "ss_game_id": 192712,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 192712,
+  "release_year": 2019,
+  "publisher": "Morphcat Games",
+  "developer": "Morphcat Games",
+  "players": "1-4",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Micro Mages",
+   "genre": "Plateforme / Run & Jump Scrolling",
+   "synopsis": "Micro Mages est un jeu de plateformes développé pour la NES sorti en avril 2019 et enterement programmé en Assembleur 6502, afin de proposer un jeu complet dans la capacité memoire des premiers jeux de l'époque, à savoir 40ko. Il réuni le savoir faire de compression des jeux de l'époque avec le gameplay des run and guns modernes.\r\n\r\nEnfilez votre robe de mage et entrez dans la forteresse du démon, cachette de monstres terrifiant et de trésors fabuleux. Frayez-vous un chemin et escaladez les murs jusqu'au sommet de la tour pour terrasser les boss démoniaques qui vous attendent à chaque fin de niveau.\r\n\r\nJouez seul, ou unissez vos forces jusqu'à 4 joueurs. \r\nAiderez-vous vos amis à surmonter tous les pieges qui stopperont les plus imprudents, ou est-ce que vous vous servirez d'eux pour obtenir le meilleur score?? \r\nPas d'attente en multijoueur: Si vous mourrez alors qu'un autre joueur est encore en vie, vous vous tranformerez en fantome, capable de franchir les murs et de geler les ennemis pour faciliter la progression de vos amis. Essayez d'ouvrir les coffres pour trouver une plume ou une fée afin de vous ramener à la vie.\r\n\r\n1 à 4 joueurs simultané\r\nCoopératif ou compétitif sur le high score \r\n26 niveaux effrayants (normal + mode difficile)\r\nPièges mortel, monstres et Boss de fin de niveau\r\nPassage Secrets et trésors enfouis dans chaque niveaux\r\nSauvegarde NES par mot de passe",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Micro Mages",
+   "genre": "Platform / Run & Jump Scrolling",
+   "synopsis": "Slip into your wizard robes and enter the Demon Fortress, home of great treasure and ghastly creatures alike. Shoot and wall-jump your way up the fortress's towers and battle the evil bosses lurking at the top.\r\n\r\nPlay solo or join forces with your friends. This game supports up to 4 players. Will you help each other overcome the dangerous traps built to stop nosy adventurers or will you turn on your comrades to snatch the high score? No downtime: If you die while at least one other player is still alive, you will turn into a ghost and can help by freezing enemies. Try to open crates and treasure chests to find a Fairy or Feather that will bring you back to life.\r\n\r\n1 to 4 players simultaneous\r\nCooperate or compete for score\r\n26 spooky levels (normal + hard modes)\r\nDangerous traps, monsters and bosses\r\nAncient secrets\r\nPassword function allows you to continue your game",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9c03bf77ac14933c3d6e5c8399abf83881a537610dd707aee07b1e87630868cb",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=192712&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:25:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a9735f47b05aa4bc2dc219c065aaed7eab5beedd9010bdca06200aef3d9dd442",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=192712&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:25:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6ccc43733c223d1fd8230cf9895384da1117ebb76f3d0c405008e9029bc78a2e",
+   "width": 543,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=192712&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:25:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0befa3ba4335dbd6ca2657fbb6141126dbdf77da975fa90bcfe5973d3fc8167f",
+   "width": 256,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=192712&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:25:34+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "545c925dd976e8303b5b955aa1d9a923e9d4beee1797384263baf8a9cdff81b3",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=192712&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:25:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:25:25+00:00",
+ "status": "done"
+}

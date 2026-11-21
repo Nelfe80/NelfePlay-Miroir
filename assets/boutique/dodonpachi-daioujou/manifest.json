@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "dodonpachi-daioujou",
+    "title": "DoDonPachi DaiOuJou",
+    "source": "screenscraper",
+    "ss_game_id": 37323,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 37323,
+        "release_year": 2002,
+        "publisher": "AMI",
+        "developer": "Cave",
+        "players": "1-2",
+        "system_label": "Cave"
+    },
+    "text": {
+        "fr": {
+            "name": "DoDonPachi III",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "Quatrième épisode de la série DonPachi \r\n\r\nLe système de scoriing est globalement le même, avec toujours le même système de chaîne. \r\nLa principale nouveauté, c'est le mode hyper. En fonction de la jauge en haut à droite, vous récupérez de temps en temps l'un de ces fameux items. Vous pouvez en transporter jusqu'à cinq et les activer à votre guise. Que vous en ayez un ou cinq, tous seront automatiquement utilisés, définissant la puissance de feu et la durée de votre attaque. Seulement voilà : durant ce laps de temps, les boulettes vont plus vite et la difficulté est relevée d'un cran. Il faut savoir prendre des risques pour scorer. Si vous paniquez, n'hésitez pas à lance une bombe, histoire de casser le mode Hyper et repasser en mode normal.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "DoDonPachi III",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "The fourth game in the Donpachi series and the first to be ported to the PS2, courtesy of Arika.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "cb70dc2dc812ec0432a92a922cd61ab98b494e8a15f7fbdb56be70142aedb7f1",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37323&media=fanart",
+            "fetched_at": "2026-11-09T22:05:41+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "165b0d8e7bbfd2ab4034bd9a9911143a156e7c6e458bc7f47d0eaddcc99a7041",
+            "width": 600,
+            "height": 120,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37323&media=wheel%28wor%29",
+            "fetched_at": "2026-11-09T22:05:43+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "aabc7ee1baa77a7c522b8886db63814fc411cbdd31bdedaf6bb457a4c305d6b2",
+            "width": 497,
+            "height": 680,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37323&media=box-2D%28jp%29",
+            "fetched_at": "2026-11-09T22:05:44+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "28ffdfdfeaa0bb1d86be21d3446481656efed9ba21b97bc5ec8e253914789c43",
+            "width": 224,
+            "height": 448,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37323&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:05:46+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "590f6659e29694d189bb0b1905bde2d63bacc89eedae972c2a1ed6dc4f8e165b",
+            "width": 675,
+            "height": 900,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37323&media=flyer%28jp%29",
+            "fetched_at": "2026-11-09T22:05:47+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "b2271dbc70876ed7368bcc4c87b66475fea69944fab3571f0767bb1d7d03b28f",
+                "width": 224,
+                "height": 448,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37323&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:05:49+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-09T22:05:41+00:00",
+    "status": "done"
+}

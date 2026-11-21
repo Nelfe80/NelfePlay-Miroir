@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "big-bang-pro-wrestling",
+ "title": "Big Bang Pro Wrestling",
+ "source": "screenscraper",
+ "ss_game_id": 47071,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47071,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "S-Neo",
+  "players": "2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Wrestling Madness",
+   "genre": "Sport / Lutte",
+   "synopsis": "Big Bang Pro Wrestling est un jeu developpé par SNK et S-NEO, pour la NGPC. C'est l'un des rare jeu destiné au marché japonais à inclure une optaion de langue \"Anglaise\".\r\n4 modes de jeu sont disponible. L'habituel \"Story Mode\", ou le joueur doit battre 7 autres catcheurs avant d'affronter Joseph.\r\nLe \"one Match\" et le '\"Tournament Mode\", qui permet des affrontements contre l'IA avec diverses options de modification comme la limite de temps, les couleurs du ring, la difficulté, etc...\r\nEt enfin le \"VS mode\" possible entre 2 possesseurs de NGPC.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Wrestling Madness",
+   "genre": "Sports / Wrestling",
+   "synopsis": "Only a handful of top wrestlers can be show their face on the TV for their fans at home. In the I.E.W mat, this rule is no exception. In an event practiced for 300 years, only the best performances are in demand. This year, the great king of the I.E.W, Joseph Steel, returns to defend his throne. The story of eight top wrestlers competing for the greatest prize on the ring, the I.E.W champion belt, is about to begin...",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e3c65794ed5fc4b8eab0fffa972e01e49ba56bb28acc675dc91d1c91791a167c",
+   "width": 400,
+   "height": 175,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47071&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T23:23:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c8f6f1b8c4a80fbf83bbc599ddce3f0125e4ebddaaf7fb6a67c86b9d2e66e841",
+   "width": 599,
+   "height": 700,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47071&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:23:50+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ebc2743066c0158dc22c08f52f98d119ccbdf0113f6fda6feb48f2ac26d03959",
+   "width": 600,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47071&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:23:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "076b2a16a4a800784700840d4b79dcefd345969d064f43c837a0d58ebc31b261",
+   "width": 160,
+   "height": 152,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47071&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T23:23:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "18f21b6af5248c38110933e21b408a27927d42ead695d58701a987e467f2ab1e",
+    "width": 160,
+    "height": 152,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47071&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:23:54+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:23:47+00:00",
+ "status": "done"
+}

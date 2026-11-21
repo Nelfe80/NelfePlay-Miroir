@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "puzzle-bobble-2",
+ "title": "Puzzle Bobble 2",
+ "source": "screenscraper",
+ "ss_game_id": 37613,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37613,
+  "release_year": 1999,
+  "publisher": "Taito",
+  "developer": "Taito",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Puzzle Bobble 2",
+   "genre": "Puzzle-Game / Lancer",
+   "synopsis": "Dans Bust A Move 2 sur Neo Geo, vous devez faire disparaître toutes les billes en regroupant celles de même couleur, par groupe de 3 ou plus. Ce second opus intègre un mode deux joueurs dans lequel chaque joueur doit défier une intelligence artificielle de plus en plus coriace.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bust-A-Move Again",
+   "genre": "Puzzle / Throw",
+   "synopsis": "Bub and Bob are back! Like in Tetris in reverse, you shoot bubbles at an array of different-colored bubbles stuck in an ever descending ceiling, attempting to match them up three by three to make them disappear. This edition contains both puzzle challenges, multiplayer and normal progressive stages.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0614eb0e7021dbe3884a0a80e9ce5f5f763ed634f72ce79702e4166652b19d10",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=fanart",
+   "fetched_at": "2026-11-06T23:40:54+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "86065c4f6817aba51487c4762cc1de5ae8eb418da470de6889a3a47bfaefc92f",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=wheel-hd%28us%29",
+   "fetched_at": "2026-11-06T23:40:55+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8612e9d39f5c2e4e4d7f1d39147c2a255b910d8add967ecf52fbb1e75b2673f3",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:40:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f4b138fd1788aef1268cfc0382ff1c5014c60dbc2e2d5afb1b5c743ba222d157",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:40:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0f69827a4a94787fa518a0c080ff4197b609bae1e1f597c3fc7a482dda7cad00",
+   "width": 304,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:40:59+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "0ae48045db9d698a87e7adac6777ff8b6bdcf58c1ed3dfe4e2d77911ad9dc913",
+   "width": 850,
+   "height": 1204,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:41:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "73aba971adcfe706444e30309f919296d78b05cc9cfddcd0f849a7c7a7a51823",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37613&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:41:02+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:40:53+00:00",
+ "status": "done"
+}

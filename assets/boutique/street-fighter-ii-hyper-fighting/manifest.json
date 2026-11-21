@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-ii-hyper-fighting",
+ "title": "Street Fighter II': Hyper Fighting",
+ "source": "screenscraper",
+ "ss_game_id": 37378,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37378,
+  "release_year": 1992,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter II' : Hyper Fighting",
+   "genre": "Combat",
+   "synopsis": "Street Fighter II': Hyper Fighting (Street Fighter II' Turbo: Hyper Fighting au Japon) est la deuxième amélioration de la série Street Fighter II après Street Fighter II': Champion Edition. Il s'agit d'une simple modification du jeu effectuée par Capcom USA (James Goddard), pour tenter de contrer la prolifération des nombreux hacks non officiels disponibles à l'époque, et d'incorporer dans le jeu officiel certaines des améliorations les plus populaires apportées par ceux-ci , notamment la vitesse d'attaque et de nouvelles palettes sur certains hacks.\r\nLa vitesse du jeu a été grandement augmentée (d'où le Turbo sur le portage consoles du jeu) ; et de nouveaux coups spéciaux sont à la disposition de certains personnages, rendant les combats bien plus stratégiques :",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter II' : Hyper Fighting",
+   "genre": "Fighting",
+   "synopsis": "Street Fighter II': Hyper Fighting (Street Fighter II' Turbo: Hyper Fighting in Japan) is the second upgrade to the Street Fighter II series after Street Fighter II': Champion Edition. It is a simple modification of the game made by Capcom USA (James Goddard), in an attempt to counter the proliferation of the many unofficial hacks available at the time, and to incorporate into the official game some of the most popular improvements made by them, including attack speed and new paddles on certain hacks.\r\nThe speed of the game has been greatly increased (hence the Turbo on the console port of the game); and new special moves are available to certain characters, making combat much more strategic.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bac3190233147866acb85c7cc891d8760c41f64a30aefb1c204e156174c4ad8f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37378&media=fanart",
+   "fetched_at": "2026-11-06T15:47:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "339c604505cedc27e26a612781aa8e8b47614146c477b67f95052e95b5d17740",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37378&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:47:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9bf64fad3b0ee540b0d9b4ecce25fc83362cb0cc8aee75cbc96455ba1e17d79e",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37378&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T15:47:10+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "dc586af0068d2f8ba429da4b8464d980a22799ce1e9defc48f49503e8275b003",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37378&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:47:11+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "e313cc5844abb33a5933a45c9c17de11b5a03eb30c3416ab03220a18dddd9f2f",
+   "width": 528,
+   "height": 740,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37378&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:47:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "50b4ac08d8f4890ce2c1b0bddce8e0c9797e14ddb8d60dde3171608be20927b1",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37378&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:47:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:47:06+00:00",
+ "status": "done"
+}

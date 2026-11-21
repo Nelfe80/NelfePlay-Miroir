@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-metroid",
+ "title": "Super Metroid",
+ "source": "screenscraper",
+ "ss_game_id": 2147,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2147,
+  "release_year": 1994,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Metroid",
+   "genre": "Plateforme",
+   "synopsis": "Associez-vous avec la puissance de Samus pour un choc Super Metroid!\r\nPrenez à parti la légion des pirates de l'espace et endossez une nouvelle force Métroïde alors que vous progressez dans le monde souterrain de la planète Zèbes! C'est à vous et à Samus qu'il incombe de retrouver la larve Métroïde avant que des forces maléfiques utilisent à mauvais escient son énergie.\r\nChaque recoin vicieux, chaque passage dissimulé de la planète Zèbes renferment des créatures menaçantes prêtes au combat... y compris l'horrible Ridley et le lézard géant, Kraid. Au moyen de votre saut périlleux létal, faites mordre la poussière aux ennemis. Utilisez un rayon électrique au trvers des interstices. Personne ne vous arrêtera, ni vous ni Samus. Mais attention! Il semble que Mother Brain soit de retour...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Metroid",
+   "genre": "Platform",
+   "synopsis": "Join forces with the power of Samus for a Super Metroid clash!\r\nTake on the legion of space pirates and take on a new Metroid force as you progress through the underworld of the planet Zebes! It's up to you and Samus to find the larval Metroid before evil forces misuse its energy.\r\nEvery vicious corner, every hidden passageway on the planet Zebes holds menacing creatures ready for battle... including the horrible Ridley and the giant lizard, Kraid. Use your lethal somersault to make enemies bite the dust. Use an electric beam through the gaps. No one will stop you or Samus. But beware! It seems that Mother Brain is back...",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cef4663300c3e3aad19c2144f60a55f4a87605e80620f0d2b5657b042f76e61d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2147&media=fanart",
+   "fetched_at": "2026-11-07T00:09:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "da35093b96b3176fd1fc782a98d8759d12c1ff75a37c9726d7245ee1b42c3194",
+   "width": 600,
+   "height": 270,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2147&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T00:09:17+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0b30e5fbf92cf31e79e72b3a9f7be824647f60232b98eb7ab683dbab1b6a45e9",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2147&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T00:09:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "cbaf70e0ba4864199a9e5341a3585ab87d18f62855a97163a919093e8b92af89",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2147&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T00:09:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7e0b5af8080e4b2d0aa5e0c89ef530873421489af533755fec0888af8e0065d9",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2147&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T00:09:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f6e655b5d9118ccf04d21600e3f68904f0f7cb07a03dc62cd9ab4d6094e8d342",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2147&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T00:09:24+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:09:14+00:00",
+ "status": "done"
+}

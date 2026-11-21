@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "1942",
+ "title": "1942",
+ "source": "screenscraper",
+ "ss_game_id": 39874,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 39874,
+  "release_year": 1984,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "1942",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "1942 est un shoot'em up vertical pour un ou deux joueurs. Vous êtes un pilote de chasse intrépide, \"Super Ace\", vous pilotez votre avion au combat contre l'ennemi sur terre et sur mer. Après avoir détruit certaines formations d'avions, vous pouvez collecter différents bonus pour augmenter votre puissance de feu et vos chances de survie. Vous pouvez également faire des loopings avec votre avion pour éviter les attaques ennemies.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "1942",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "\"1942\" is a vertically-scrolling shoot-em-up set in the Pacific theater during World War II, in which the goal is to reach Tokyo and destroy the entire Japanese air fleet.\r\nThe player pilots a plane, the \"Super Ace\" and has to shoot down waves of enemy planes while avoiding incoming enemy fire and performing a limited number of rolls to evade enemy planes and shots.\r\nDuring the game, waves of red enemy planes periodically appear. If the player manages to destroy a red wave, a power-up will be dropped and can be picked up to win either increased power (doubling the player's guns from two to four), a smart bomb that destroys all on-screen enemy planes the instant it's collected, two wingmen planes that flank the plane and increase firepower, or simply extra points.\r\nAt the end of each stage, the 'Super Ace' lands on an aircraft carrier and bonus points are awarded based on player performance. \"1942\" differs from other games in that its levels are numbered in reverse order.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4a4791d4eb99988cc838036e9b5b127ad902738ca5dacac6a4d2d5c7dad719f4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=fanart",
+   "fetched_at": "2026-11-06T15:31:27+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "796088dfef33663e34c08064550dca5942a182425cdab42c38f0a4b40687e961",
+   "width": 600,
+   "height": 201,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:31:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "75a8a485c7bff7959e1eadc65232492baa426fbb8fd0df7333b65ad32f836be2",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:31:31+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b96b81f3b1388bf7119329714fe8a3311ae8c0b5fbe0ffd44b93884e66bad621",
+   "width": 476,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:31:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "bc12dd53443b0c3a731a4f2fdb35d35b0a4baca5aff335833d9ffb6c8a8e78e4",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:31:34+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1bf412223e8ff3f5b199c2b819924be37c06f0b632afd6074bd9ac7f6debdef7",
+   "width": 850,
+   "height": 1123,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:31:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a7e7a30e770551bf373f3638fcf27e5985d35c57b7643bd976a6aa82d52943b0",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=39874&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:31:37+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:31:27+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "warbirds",
+ "title": "Warbirds",
+ "source": "screenscraper",
+ "ss_game_id": 14264,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14264,
+  "release_year": 1991,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-4",
+  "system_label": "Lynx"
+ },
+ "text": {
+  "fr": {
+   "name": "Warbirds",
+   "genre": "Simulation",
+   "synopsis": "Warbirds est une simulation d'aviation disponible sur Lynx. Ce jeu peut se jouer en multijoueur avec 3 amis ou hors ligne dans de nombreuses missions. Plusieurs arènes ainsi que différents avions sont disponibles avec chacun leurs caractéristiques de pilotage propres. Le jeu prend place durant la Première Guerre mondiale.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Warbirds",
+   "genre": "Simulation",
+   "synopsis": "A combat flight action/simulation with colorful graphics and pretty straight-forward gameplay.\n\nStep inside the cockpit of a World War I plane, when there were no sophisticated weaponry, and try to gun down the enemy. Simple as that.\n\nThe graphics were faux-3D, as the planes were 2D sprites (natural, considering the release date), but the sky seemed very vast and you could fly around freely.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "da21f81a52f05af291907c783df15ce16cc70bdb554f1d78b095112f1d86a5d8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14264&media=fanart",
+   "fetched_at": "2026-11-06T17:08:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1001c180760c1d988efd4569ee820a06a70dd8f93373e2e31cf25505143bc901",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14264&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:08:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2c9e0dfdf97c48b611eb8c68bf87aaef789d0b85ebbaabfb4a92dc6c877f2d3f",
+   "width": 554,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14264&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:08:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4b04078ce498ab23242e7b328145b8cb513a84089bea4d32ef43cb4831834eb4",
+   "width": 576,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14264&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:08:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "f2bf97799aa3bf3c8830ebafa85c22a590089c5f6189af6ff0d70e495d7b910a",
+   "width": 160,
+   "height": 101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14264&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:08:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "56ede5b37d5f2276261182e532224abad627024f93f4bffa6a6acf1020b972c8",
+    "width": 160,
+    "height": 102,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14264&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:08:39+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:08:30+00:00",
+ "status": "done"
+}

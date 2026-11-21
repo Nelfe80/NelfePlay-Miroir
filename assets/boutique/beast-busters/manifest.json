@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "beast-busters",
+ "title": "Beast Busters",
+ "source": "screenscraper",
+ "ss_game_id": 40179,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40179,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-3",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Beast Busters",
+   "genre": "Tir",
+   "synopsis": "Beast Busters: les joueurs contrôlent l'un des trois miliciens nommés Johnny Justice, Paul Patriot et Sammy Stately, qui doivent se frayer un chemin vers une ville envahie par les morts-vivants.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Beast Busters",
+   "genre": "Shooter",
+   "synopsis": "A city has been invaded by the undead, you as any of three soldiers must shoot & blast your way out or you'll become tonight's main course in this frantic first person shooter! Features excellent graphics and lots of challenge! No one knows how it happened but one thing is for sure, we'll risk our lives... and have lots of fun!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f03e938478e625e9219fd2619d631ce5a242b91e9afa31b4cc7e1c613118b29c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=fanart",
+   "fetched_at": "2026-11-06T15:27:34+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "b177db0666245034dc8a2382b7490d25aa6ba7f34042330ac888898edc3379d4",
+   "width": 400,
+   "height": 124,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:27:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "22c7bc3c2ed0b6ce9b82a4c4a7a1a59734a5257fa1395f4888e41ab283e845f9",
+   "width": 850,
+   "height": 1112,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:27:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ed24f491a09f79f7ed384e9ffb45db366b238f09fb15637b2bdc89e94a74e535",
+   "width": 589,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:27:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "50e2dcc0e6ef3e7b1929014e079dfc829466764b27b75dab9f42a9ba7f4c65eb",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:27:40+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "692d99e7858e2730765f4d433ec54672c483f506ea35ffeaafa8ac079e49b55e",
+   "width": 832,
+   "height": 1187,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:27:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "76d73afa9b867f499765c99b9db59fdfbfd675eb31f3e34691a1a813b2f44b12",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40179&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:27:43+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:27:33+00:00",
+ "status": "done"
+}

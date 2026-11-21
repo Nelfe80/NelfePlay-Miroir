@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "tails-no-skypatrol",
+ "title": "Tails no Skypatrol",
+ "source": "screenscraper",
+ "ss_game_id": 12995,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12995,
+  "release_year": 1995,
+  "publisher": "SEGA",
+  "developer": "Japan System House",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Tails no Skypatrol",
+   "genre": "Plateforme",
+   "synopsis": "Tails' Skypatrol sur Game Gear est un jeu de plates-formes spin-off de la série Sonic dans lequel vous incarnez le camarade du hérisson bleu, Tails. Ce dernier a fait la découverte d'une île abandonnée, toutefois une certaine Wendy Witchcart déclare que celle-ci lui appartient et qu'elle changera quiconque lui désobéit en cristal. Notre jeune héros est bien décidé à protéger les habitants de l'île de cette femme tyrannique.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Tails no Skypatrol",
+   "genre": "Platform",
+   "synopsis": "Tails' Skypatrol is the first solo adventure of the Sonic sidekick Tails in the Sonic the Hedgehog series and it was only released in Japan.\n\nWhile flying around, Tails discovers an island. It seems to be completely abandoned except for some mine cart tracks. As he lands on the island a cart approaches, and Tails hides in the bushes. The passing silver cart is driven by a woman who says she is Wendy Witchcart. She proclaims that everything on the island is hers and threatens to transform everyone in crystal who does not follow her rules. Tails, determined to save all the animals on the island, sets in a chase to the Witchcart.\n\nGameplay is fairly similar to the Sonic series. Tails need to defeat enemies and complete obstacles. He can fly, but is constantly suspended. He carries a golden rind that is used to take out enemies or to latch on to devices. Sonic, the emeralds and Dr. Robotnik are not presented, and neither are there rings to collect during the levels.\n\nThe game came to other territories as an unlockable minigame in the GameCube version of Sonic Adventure DX and as one of the titles in the Sonic Gems Collection.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c10ae7e8ff91902b3bc5ea8001f1dd614ce3a94cf7b6d16e67ee0acee08432ae",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12995&media=fanart",
+   "fetched_at": "2026-11-06T16:12:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f7ca16f61d28354b8dbb5328c97a51532e436bcd823ae7ecde403f03701b86ed",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12995&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T16:12:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2f2a7a342a23dfb69f76e76487ad4166468fb6e48a1cd8cfd4ccb0a6aef2bd87",
+   "width": 591,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12995&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:12:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b379029eb14b3d7fd18ab81a0dc1b70f97ac24e1fa86bc3d9f43134875e73309",
+   "width": 600,
+   "height": 604,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12995&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:12:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7c3e71a15e8c63c66e883ad8d147c23d7b85842e42b0eda69f5463fda1299fed",
+   "width": 160,
+   "height": 144,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12995&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T16:12:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "493ec1b768db7d08d18899af6804088dc454d4388dcf6fe8afa4306fe145475f",
+    "width": 160,
+    "height": 144,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12995&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T16:12:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:12:24+00:00",
+ "status": "done"
+}

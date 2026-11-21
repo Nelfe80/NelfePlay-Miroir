@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-labyrinth",
+ "title": "Sonic Labyrinth",
+ "source": "screenscraper",
+ "ss_game_id": 12908,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12908,
+  "release_year": 1995,
+  "publisher": "SEGA",
+  "developer": "Minato Giken",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Labyrinth",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Dans Sonic Labyrinth sur Game Gear vous devez aider le hérisson bleu à retrouver ses chaussures rouges et blanches que Robotnik lui a subtilisées. Votre seule arme sera de pouvoir vous mettre en boule afin d'éliminer vos ennemis et de retrouver 3 clefs par niveau permettant de passer au prochain.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Labyrinth",
+   "genre": "Action / Labyrinth",
+   "synopsis": "One day, Sonic woke up from a nap to find that his classic red sneakers have been replaced with Dr. Eggman's new invention, Speed Down Boots. Curses! In order to remove them, Sonic must go through Eggman's great labyrinth and retrieve the Chaos Emeralds.\n\nLike the later Sonic 3D Blast, this game uses a 3/4 isometric view. Make your way across four main zones, each divided into four stages. In order to complete a stage, you must find the three keys and open the exit before time runs out.\n\nBut watch out! Enemies want to hinder your progress. Knock them out with your Spin Dash. And be on the look out for obstacles like bumpers, flippers, teleporters, spikes, and conveyor belts. Collect power-ups to increase your chances of success.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d370b065b40a9ebd3641067ada9e42348903b08980952473c45f82fb2ab9da49",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12908&media=fanart",
+   "fetched_at": "2026-11-06T16:10:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4e741d08a124663bd362ce6ca48568f968604ffde6da5ce6b53171912023da45",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12908&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:10:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "69695ce159acd0b6ede1df338cec5535bca6e8fe519282662bead3b39ed5b487",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12908&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:10:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6ef1e2c66ae37ae2d0a17a916899feefe32eba3e4cb76a135cf9115de8d7f561",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12908&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:10:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "70c04ba94c2f7c9d6e7ae6fbe3b8d4c043f71868d2c1206ebf0aeb0687655be3",
+   "width": 159,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12908&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:10:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "14236c58cd9dbe3927da3cb1f7f364a452cd3d8a9a67bc6b2859a1e156f05dcd",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12908&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:10:31+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:10:20+00:00",
+ "status": "done"
+}

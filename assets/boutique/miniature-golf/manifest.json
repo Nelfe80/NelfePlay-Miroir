@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "miniature-golf",
+ "title": "Miniature Golf",
+ "source": "screenscraper",
+ "ss_game_id": 135555,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 135555,
+  "release_year": 1977,
+  "publisher": "Sears",
+  "developer": "Reuterdahl, Tom",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Miniature Golf",
+   "genre": "Sport / Golf",
+   "synopsis": "Pouvez-vous faire un par au golf? Neuf trous différents et uniques, chacun avec un obstacle mobile pour rendre la vie difficile, mais intéressante. Très amusant pour un ou deux joueurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Arcade Golf",
+   "genre": "Sports / Golf",
+   "synopsis": "Can you play par golf? Nine different and unique holes, each one with a moving obstacle ot make life miserable, but interesting.  Great fun for one or two players.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2d62b087935b7e3afa2e25dc1e967922584374983d73914a9d0ebe97e33818b4",
+   "width": 600,
+   "height": 100,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=135555&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:25:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f84d99254a0614e060994f370eaade292d56926431baebd805fbc22f6149f9e0",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=135555&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "00a1e025af76be74a9627317e8a625865db005e5596a3218f4d4dbfb2a18a55a",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=135555&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4ff1d9835692d04c5c0056c54a679d4064f8424053b545b97b9870ec0f8af925",
+   "width": 320,
+   "height": 210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=135555&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:25:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "5fad3fa2435b3e491fe8aa032ff88b9c40ac2069b68a471b6bd86157aa243946",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=135555&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:25:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:25:00+00:00",
+ "status": "done"
+}

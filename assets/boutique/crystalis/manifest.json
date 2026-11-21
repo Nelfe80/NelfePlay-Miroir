@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "crystalis",
+ "title": "Crystalis",
+ "source": "screenscraper",
+ "ss_game_id": 1538,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1538,
+  "release_year": 1990,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Crystalis",
+   "genre": "Jeu de rôles",
+   "synopsis": "Crystalis est un jeu de rôle sur Nes. À la suite d'une grande guerre impliquant le monde entier, l'espèce humaine était quasiment éteinte. Dans le but de ne jamais revivre cet enfer, les derniers survivants ont décidé de construire une tour à partir de laquelle ils peuvent surveiller le monde et repousser les forces du mal. Incarnez un jeune héros mystérieux dont le but est de percer les secrets de cette tour.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Crystalis",
+   "genre": "Role Playing Game",
+   "synopsis": "October 1st, 1997 is known as END DAY. A great war encircles the globe and brings about an end to civilization. The surviving humans concluded that they could never repeat their mistakes and build a great tower in the sky to watch over the world and act accordingly to combat \"evil\". One hundred years have passed since then and a hidden cryogenic chamber in the mountains springs to life...\r\n\r\nCrystalis is a top-down action RPG. Starting from the cryogenic chamber, the player takes the role of a mysterious hero who must uncover the mystery of the tower. He will meet up with the four wise people and learn their magic, while also obtaining the four elemental swords which will help him progress.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "1168fb4d4eb3a14cc2b3641c58d02f281ac335e42296a6bddda0936c6ef37825",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1538&media=fanart",
+   "fetched_at": "2026-11-06T15:57:19+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "94b71a9f5a1f6cc99050d19488eebda64c1e0b69adb50518996eef3b381a7e21",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1538&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T15:57:20+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3528c6655a7d4ab7a25eb81d91c5950f2d28681bb04d853e6de3514304ae10f3",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1538&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:57:22+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "efbfe43c66dafc48ff68aeaf053d4d9b63c56641e7090898c94ec1520c68c010",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1538&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:57:23+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7b1ddffafac4233d9dca36676d056140fdf47915026936f3869daa051905d5ba",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1538&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:57:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ceb55027b823ed1919ffc7c45b15df67180a0ba1efe22d9475c5348ca36971cb",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1538&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:57:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:57:18+00:00",
+ "status": "done"
+}

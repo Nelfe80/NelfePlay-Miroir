@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-street-fighter-ii-turbo",
+ "title": "Super Street Fighter II Turbo",
+ "source": "screenscraper",
+ "ss_game_id": 37413,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37413,
+  "release_year": 1994,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Street Fighter II Turbo",
+   "genre": "Combat",
+   "synopsis": "Super Street Fighter II Turbo souvent abrévié en 2X ou Super Turbo est un jeu vidéo de combat développé et édité par Capcom en février 1994 sur CP System II. C'est une version améliorée de Super Street Fighter II: The New Challengers1,2. Le jeu est considéré comme la version la plus aboutie de Street Fighter II, avant l'arrivée de Hyper Street Fighter II dix ans plus tard",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Street Fighter II Turbo",
+   "genre": "Fighting",
+   "synopsis": "Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.\r\n\r\nSuper Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "98760e4161c77fcfb62b277effc7f06e6dcff49454257ed2750e5232110882eb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37413&media=fanart",
+   "fetched_at": "2026-11-06T15:49:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "fd7bfc974e822e0871edd25c70de9074397f118081269a5b06417682acef4c0d",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37413&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:49:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a05c2e3d38eb7a36b9cee002e4b5b15a396205eed3123793e7d9fb6026cec2f2",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37413&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:49:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c68d790c62c7fe49a16db62d78e6d57d6bc1d2e4102a3962332b6bce9ed39b48",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37413&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:49:15+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "420edada06af9d289b44a4f2061685faa64213d825c7ebfae9d0f3002fd35280",
+   "width": 831,
+   "height": 1177,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37413&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:49:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "25401327c0e8a8afbfe93812731692ecdaaa56754849f96fc4549666185814f8",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37413&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:49:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:49:09+00:00",
+ "status": "done"
+}

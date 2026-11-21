@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "slug": "pac-attack",
+ "title": "PAC Attack",
+ "source": "screenscraper",
+ "ss_game_id": 366247,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 366247,
+  "release_year": 1996,
+  "publisher": "Public Domain",
+  "developer": "Cybernation Software",
+  "players": "2",
+  "system_label": "Atari ST"
+ },
+ "text": {
+  "fr": {
+   "name": "Pac Attack",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "",
+   "synopsis_lang": ""
+  },
+  "en": {
+   "name": "Pac Attack",
+   "genre": "Action / Labyrinth",
+   "synopsis": "",
+   "synopsis_lang": ""
+  }
+ },
+ "media": {
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1533dc2d914707b70e6db10a62e23b41eef99cf428ec9048d4bded8fbc690f5a",
+   "width": 320,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=366247&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:09:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "529e796781b3258c9feec1b557a7bb002aa970040ca1428642ad10fa79798174",
+    "width": 320,
+    "height": 200,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=42&jeuid=366247&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:09:31+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "wheel",
+  "box-2d",
+  "support-2d",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:09:28+00:00",
+ "status": "done"
+}

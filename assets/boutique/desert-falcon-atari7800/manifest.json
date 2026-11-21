@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "desert-falcon-atari7800",
+ "title": "Desert Falcon",
+ "source": "screenscraper",
+ "ss_game_id": 38011,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38011,
+  "release_year": 1987,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Desert Falcon",
+   "genre": "Shoot'em up / Diagonal",
+   "synopsis": "Desert Falcon est un jeu de tir de style arcade. Beaucoup de grands trésors du Pharaon sont perdus dans le désert, et votre but est d'en voler autant que possible pour gagner des points. Le jeu propose un point de vue isométrique défilant tandis que vous contrôlez votre faucon à travers les différents paysages désertiques. Les trésors que vous recherchez sont bien sûr gardés. Beaucoup de créatures du désert, y compris les vautours, les guerriers, les poissons volants, les sphinx et autres tenteront de vous empêcher de réussir dans votre tâche. Ainsi, à la fin de chaque niveau, vous devrez faire face à un grand sphinx hurlant pour pouvoir continuer. Votre faucon n'est pas complètement désarmé et a la capacité de tirer des fléchettes qui peuvent être utilisées pour détruire les différents ennemis et le sphinx. Dans le sable, vous rencontrerez parfois des hiéroglyphes. Plusieurs superpuissances différentes peuvent être gagnées en atterrissant et sautillant sur trois de ces hiéroglyphes. Selon les hiéroglyphes collectés, vous pouvez devenir invincible, se déformer jusqu'à la fin du niveau, gagner des points gratuits, tromper les ennemis en attaquant un leurre au lieu de vous, ou même obtenir une bombe aérienne qui détruit tous les ennemis aériens.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Desert Falcon",
+   "genre": "Shoot'em Up / Diagonal",
+   "synopsis": "Desert Falcon is an arcade style shooter. Many of the Pharaoh's great treasures are lost throughout the desert, and your goal is to steal as many as you can to earn points. The game features a scrolling, isometric point of view as you control your falcon through the various desert landscapes. The treasures you are after are guarded of course. Many desert creatures including vultures, warriors, flying fish, sphinxes and more will all attempt to stop you from succeeding in your task. Also, at the end of each level you will need to face a large, howling sphinx before you can continue on. Your falcon isn't completely unarmed, and has the ability to fire darts which can be used to destroy the assorted enemies and the sphinx. In the sand, you will occasionally come across some hieroglyphs. Several different superpowers can be gained by landing and hopping over three of these hieroglyphs. Depending on which hieroglyphs are collected, you may become invincible, warp to the end of the level, earn free points, trick enemies into attacking a decoy instead of you, or even get an air bomb which destroys all airborne enemies.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5908d03f7c908be03930c670501758e0550f2ddcebcd2b81381560fef5f4eecc",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38011&media=fanart",
+   "fetched_at": "2026-11-06T16:52:52+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4528df6db0ee9560a3f2b24b5b06e1ce0c2102ab23520ef1cefae2a2a39f5fdd",
+   "width": 600,
+   "height": 199,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38011&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:52:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d686007e76de6925cb3b69863db436ce03836fd051e3693ca2003d787cb85ff0",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38011&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:52:55+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e0f8210d45e78675df437575a3928730e0d29dad5d1769ad80c7a06cc3303877",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38011&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:52:55+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "49652813c21053e570d0510bf81378add566787350c5901f0e75050d95957daa",
+   "width": 320,
+   "height": 223,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38011&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:52:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "097e501f1aae91bd091d1b92e5f24cb8a347a2b764a087fdbebcf8b08d5b26d7",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38011&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:52:58+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:52:50+00:00",
+ "status": "done"
+}

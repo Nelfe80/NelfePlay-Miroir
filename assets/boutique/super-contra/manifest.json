@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-contra",
+ "title": "Super Contra",
+ "source": "screenscraper",
+ "ss_game_id": 42924,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42924,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Contra",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Un an après, l'organisation Red Falcon revient pour prendre sa revanche... Lance et Bill reprennent donc du service pour mettre un terme à la menace. Les armes à disposition du joueur ont changé : mitrailleuse, lance-grenades et laser en plus du fusil d'assaut de base. Au rayon des niveaux, il y a un changement de taille : les passages dans les souterrains avec une vue de dos du héros du premier sont remplacés par une vue de dessus. Le saut est remplacé par une grosse bombe à ramasser nettoyant l'écran.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Contra",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "A year after the battle with the Red Falcon organization, Bill and Lance are sent on another mission. This time, the alien forces have taken over an allied military base somewhere in Africa, possessing most of its troops. Bill and Lance must not only fight against their former comrades-in-arms, but also a new mutated form of the same alien creatures they fought during their previous mission.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "12dc9c7a519a4a0973eb41d8c495106b26e4f1bc7522ca372dce8f9f6e4d6d4a",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42924&media=fanart",
+   "fetched_at": "2026-11-07T20:20:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6258ea0bd2a2c5e7c605afad71a19449d0bc3ae845c92b0122710d83450a5843",
+   "width": 400,
+   "height": 194,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42924&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:20:54+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5ef4684f8b2851b77d4ec9ce7931ebd0faf75e4d7437f8225422ed826db95433",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42924&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:20:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "994e32a93b6f5af6a936f2acf2a931d9e59f9ee2e41bec3a3b50c4d140a90c9f",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42924&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:20:57+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6311e9394ebb922fcbb3e80125eefbd0feee6d15f114034bc45a1e9907648a34",
+   "width": 1000,
+   "height": 1415,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42924&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:20:59+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8b705490176f835735f34e383db611d48ec67598d89fc0c58afa4ecbc2992a8b",
+    "width": 224,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=42924&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:21:01+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-07T20:20:52+00:00",
+ "status": "done"
+}

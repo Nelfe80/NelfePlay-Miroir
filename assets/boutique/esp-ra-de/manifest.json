@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "esp-ra-de",
+    "title": "ESP Ra.De.",
+    "source": "screenscraper",
+    "ss_game_id": 37332,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 37332,
+        "release_year": 1998,
+        "publisher": "Atlus",
+        "developer": "Cave",
+        "players": "1-2",
+        "system_label": "Cave"
+    },
+    "text": {
+        "fr": {
+            "name": "ESP Ra.De.",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "En 2018, trois adolescents aux pouvoirs extra-sensoriels (ESP étant l'acronyme d'Extra Sensory Perception) doivent combattre une armée qui souhaite contrôler Tokyo.\r\n\r\nLe jeu se contrôle à l'aide de 3 boutons :\r\n\r\nUn bouton A pour tirer qui peut aussi permettre de ralentir le personnage s'il est laissé appuyé afin d'augmenter la précision des esquives et la puissance de l'attaque.\r\nUn bouton B pour utiliser le mandale psychique, sorte de laser orientable qui en plus de sa puissance de feu permet d'augmenter le score.\r\nUn dernier bouton permet d'utiliser un bouclier protecteur (guard barrier) qui transforme les boulettes en bonus et qui sert de bombe une fois la touche relâchée.\r\nÀ partir du moment où le personnage est au maximum de power-ups, des bonus orange à collecter apparaissent. Une fois le nombre de 200 bonus atteint (ou 300 si la barre des 200 a déjà été passée), ils permettent de remplir la barre d'utilisation du bouclier.\r\n\r\nESP Ra.De. est composé de cinq stages avec leurs classiques boss de fin. La difficulté du jeu est élevée, voir très élevée à partir du 3e niveau.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "ESP Ra.De.",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "ESP Ra.De. is a 1998 arcade game developed by Cave and published by Atlus. It is the first non-DonPachi game released by Cave. ESP Ra.De. received spiritual prequels in the form of the Espgaluda series; however, ESP Ra.De. is related to the Espgaluda series only by shared name and programmer Tsuneki Ikeda.\r\n\r\nBy 2018, Tokyo has reached its maximum extension, therefore falling prey of common problems such as overpopulation and criminality. For this reason, an artificial island, aptly named Tokyo-2, is created just offshore, thanks to the support of the shady \"Yaksa\" corporation, led by elusive billionaire Garra Ono, whose ties with the modern incarnation of Yakuza have not been proven. Another source of instability is given by the rising number of humans exhibiting extrasensory perception, the so-called ESPers, who are constantly hunted down by the Japanese Police Force. Unknown to everyone, Garra herself is an extremely powerful ESPer, bent on using her influence over the government and military to replace every living being in the city with clones (disturbingly enough, these ESPers take the form of a 10 years old girl, named \"Alice\" and implied to originate from Garra's own DNA). Just as her plans begin to unfold, three children are forced to take action, each one for his or her own personal motives.\r\n\r\nThe story takes place in December, during a 24-hour arc; each character has a specific stage which initiates his or her storyline, culminating with the final encounter.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "6eac2b5906793ba200949bc835ced4ca8b9a861ecb3df207f4ca42bca2785bc2",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37332&media=fanart",
+            "fetched_at": "2026-11-09T22:07:26+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "0135300ee7facd2e30a707cbe13c2807a040bfb5cbb5a9a9dc60bcd66eec0b0b",
+            "width": 600,
+            "height": 243,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37332&media=wheel-hd%28jp%29",
+            "fetched_at": "2026-11-09T22:07:28+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "716e069ed242acc2589a8fc72fd86c5d0badd440aa7435abf9229597c249a3a2",
+            "width": 698,
+            "height": 1035,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37332&media=box-2D%28wor%29",
+            "fetched_at": "2026-11-09T22:07:29+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "8660cee048709712ac7552499e3e71432c1772f4482da59c8dd19a856ab12fd0",
+            "width": 240,
+            "height": 320,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37332&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:07:31+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "b953db20f16298b8fce5dc1f4f4b8ed24750840e5a142ff269c2068c30a3080b",
+            "width": 809,
+            "height": 1200,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37332&media=flyer%28wor%29",
+            "fetched_at": "2026-11-09T22:07:32+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "a3de18b0505bf56b77e8556b7b3f8c600d666a5e9a9478b4ee07d89fe4bf60a5",
+                "width": 240,
+                "height": 320,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=47&jeuid=37332&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:07:34+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-09T22:07:26+00:00",
+    "status": "done"
+}

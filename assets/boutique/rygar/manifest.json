@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "rygar",
+ "title": "Rygar",
+ "source": "screenscraper",
+ "ss_game_id": 42853,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42853,
+  "release_year": 1986,
+  "publisher": "Tecmo",
+  "developer": "Tecmo",
+  "players": "1",
+  "system_label": "Tecmo"
+ },
+ "text": {
+  "fr": {
+   "name": "Argus no Senshi",
+   "genre": "Plateforme",
+   "synopsis": "Un jeu d'action dans la veine de ce qui se faisait de mieux dans les années 80. De l'action, encore de l'action, toujours de l'action, et un scénario minimaliste qui tient dans un vrai mouchoir de poche. Mais quelle punch!!! Vous incarnez un guerrier élu pour sauver tout un peuple et devrez traverser une vingtaine de niveaux pour affronter des monstres aussi nombreux que variés. Bref une histoire pas très fouillée mais de l'action intense en perspective. Avec ses graphismes léchés pour l'époque et sa difficulté vraiment élevée, vous allez l'adorer.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Argus no Senshi",
+   "genre": "Platform",
+   "synopsis": "Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "dc31fa4f60752385c99ac92ee961bfd23dd76292801e2fee1b796a5490e91931",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=fanart",
+   "fetched_at": "2026-11-07T20:27:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "2b2657c7ea0157aed5539551b8eaea56ce05f900ed6e1a27ccbd39165980e0ea",
+   "width": 400,
+   "height": 147,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T20:27:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fd110da2a570f02e08220111bf62ec0a6c05dc91a80e771c2d2350ac309da486",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:27:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8228273f7a6a4ffc6b338de80a2625eb7489a568618aee07f716fa49659292f2",
+   "width": 496,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:27:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6e79f42b6385b88010bbb3320a721de5cc4974e9b43b1eb6cf6d74fd2e807cd1",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:27:13+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "7c633467160200cfea3c551096739395b4f0a1b48bf8f6a6cb259175a5d27b5c",
+   "width": 850,
+   "height": 1099,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=flyer%28us%29",
+   "fetched_at": "2026-11-07T20:27:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9e61d09660b2851f23af0227560f8f7aa922b9d04a5ce9c83f9e241b2d1f7cfb",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=42853&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:27:16+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:27:07+00:00",
+ "status": "done"
+}

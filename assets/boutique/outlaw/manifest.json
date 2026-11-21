@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "outlaw",
+ "title": "Outlaw",
+ "source": "screenscraper",
+ "ss_game_id": 14026,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14026,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Sears",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Outlaw",
+   "genre": "Tir",
+   "synopsis": "Dans ce jeu basé sur les westerns, le joueur doit tirer le plus de fois possible sur une cible mouvante dans le temps imparti. Le mode 2 joueurs est un duel de cowboys. Le vainqueur est celui qui touche 10 fois son adversaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Outlaw",
+   "genre": "Shooter",
+   "synopsis": "You're a gunslinger in the old west! Outlaw features both one and two player games. In the one player version, your goal is to shoot a moving target as many times as possible in 99 seconds. In the two player version, each player tries to be the first to shoot his opponent ten times. Several game variations are included in both the one and two player versions. In the middle of the screen is one of several possible obstacles to make the game more difficult. A giant cactus, a stagecoach, a moving stagecoach, or a breakable wall all can block the target or provide some shelter for you to hide from your opponents shots. You also have the choice of unlimited fire, or only a six shooter. If you choose the six shooter, then each player must use up all six shots before either player can reload. And lastly, there is the \"getaway\" option. With getaway, a player may move immediately after firing; without getaway, a player must remain stationary for as long as his bullet is on the screen.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b9de7bb87c7f8416b60b0b0aa47d1c8a7f50ab1b2b76f6d1fca0fa02a11f8554",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14026&media=fanart",
+   "fetched_at": "2026-11-06T16:58:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0d3111ba3623b970518c31b90d03e03c6538da474ac0ab7314c1f88cf112fe44",
+   "width": 600,
+   "height": 140,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14026&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:58:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c5ea23fa29ad905219deee20e84590da62c1ca20b636d487fd5ff77b12076298",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14026&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:59:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4f9a8d9ba84d558e88e0d03ce153164f6da2d36bc418e472d84a9c02fa3d757a",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14026&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:59:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "94d40626e00f40ae9bd48dd80342d8d67eef642dbf83e3205e5d5ae1d776c2f9",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14026&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:59:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2dc29348e8e748754771a4b3ade9b2c7cd7a988b6c0dd780ff8c9cecf5b44566",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14026&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:59:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:58:56+00:00",
+ "status": "done"
+}

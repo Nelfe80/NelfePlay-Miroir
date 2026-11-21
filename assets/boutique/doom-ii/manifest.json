@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "doom-ii",
+ "title": "Doom II",
+ "source": "screenscraper",
+ "ss_game_id": 3905,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3905,
+  "release_year": 2002,
+  "publisher": "Activision",
+  "developer": "Torus Games",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Doom II",
+   "genre": "Tir / 1ere Personne",
+   "synopsis": "Doom II est un jeu de tir à la première personne sur GBA. Vous incarnez un space marine qui arrive sur Terre pour s'apercevoir que les démons ont envahi la planète. Le jeu propose de nouvelles armes telles que le super shotgun ainsi que de nouveaux ennemis plus dangereux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Doom II",
+   "genre": "Shooter / FPV",
+   "synopsis": "In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed all its inhabitants or turned them into demons. It's your task to kill all the demons and to save the Earth.\n\nDoom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The gameplay once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys. Unlike in Doom, which is divided into three episodes, the 30 levels of Doom II (plus the 2 secret levels) form one long episode. \n\nYou have the same weapons as in the first Doom, plus a new one: a super shotgun. There are also some new demons in this sequel, such as the chaingun-toting Heavy Weapon Dudes, the skeletal Revenants who launch homing missiles and the Arch-Viles who have a highly damaging fire attack. There is also one new power-up, a Megasphere which boosts your health and armor to the max.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9dedb73ef2a6fc8d50066ee771aa1aed968cc8708788c8b3a0434847149f5b8d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3905&media=fanart",
+   "fetched_at": "2026-11-06T23:48:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1055abccd5b6365b81d331519dca076417c8ea9a1407b5170c7cc8a690e09af7",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3905&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:48:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "befaf3fa90c83936dd695bdd94b0f5e1346262daa087352336eddf276a4ef842",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3905&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8e06629e5525481260e85f60145d03fc0f8962fdae40ed8583718c1fb7b03cbd",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3905&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "83039b2aafb0299f072dcbc99ef67819b38cd914cbf8f7125df65da62ede0948",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3905&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:48:45+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "653897f3b633f7d7d82b246a3b128aec9c77775e51afbf36f851cb2167e08df9",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3905&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:48:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:48:39+00:00",
+ "status": "done"
+}

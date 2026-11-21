@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "tetris-game-boy",
+    "title": "Tetris",
+    "source": "screenscraper",
+    "ss_game_id": 2976,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 2976,
+        "release_year": 1989,
+        "publisher": "Nintendo",
+        "developer": "Nintendo",
+        "players": "1-2",
+        "system_label": "Game Boy"
+    },
+    "text": {
+        "fr": {
+            "name": "Tetris",
+            "genre": "Puzzle-Game / Tomber",
+            "synopsis": "Tetris sur Gameboy est le célèbre puzzle-game dans lequel vous devez empiler des briques afin de constituer des lignes qui s'effaceront au fur et à mesure de votre progression. La difficulté augmente au fil de votre avancée.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Tetris",
+            "genre": "Puzzle / Fall",
+            "synopsis": "This version of Tetris is one of many conversions of the famous block-stacking game, and was included with the Game Boy upon its release in several territories. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well.\n\nThe game is very similar to Nintendo's own NES version of the game, featuring the same \"Type A\" endless and \"Type B\" set-clear modes. The game also features a 2-player versus mode that can be played with two Game Boys, two copies of Tetris, and a Game Boy link cable. Clearing lines in this mode will cause the other player's stack to rise, with the goal being to make the other player lose.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "269150422eef1983164acd86f68dff52e491be9ace59c6e2d41fa42cc92c2523",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=2976&media=fanart",
+            "fetched_at": "2026-11-20T05:57:27+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "42600cb19e73667233f910670d76a942538bc6c7de61452860de4da6347430b1",
+            "width": 600,
+            "height": 300,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=2976&media=wheel-hd%28wor%29",
+            "fetched_at": "2026-11-20T05:57:28+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "7e2c8d67156dd19ddcbd3b0db4fb597a9aa113aef9891122ae5a02fd880cec24",
+            "width": 700,
+            "height": 700,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=2976&media=box-2D%28us%29",
+            "fetched_at": "2026-11-20T05:57:30+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "1b0e783f12ad438936989c7b69d9623e9b51be16987255f1b10ffbc99f6913d9",
+            "width": 600,
+            "height": 678,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=2976&media=support-2D%28us%29",
+            "fetched_at": "2026-11-20T05:57:31+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "4f3739da46dbf03d834459344244d26b9942c201b8b82e5e4ddc7b393fb7cc66",
+            "width": 160,
+            "height": 144,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=2976&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-20T05:57:33+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "4f4991f2d77c00447ae0da3f6a17d5b9089d2f6a316a7e7575f7fbd9f32481fa",
+                "width": 160,
+                "height": 144,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=2976&media=ss%28wor%29",
+                "fetched_at": "2026-11-20T05:57:34+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "flyer"
+    ],
+    "fetched_at": "2026-11-20T05:57:26+00:00",
+    "status": "done"
+}

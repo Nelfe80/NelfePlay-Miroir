@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "collection-of-saga-final-fantasy-legend",
+ "title": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+ "source": "screenscraper",
+ "ss_game_id": 497564,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 497564,
+  "release_year": 2020,
+  "publisher": "Square Enix",
+  "developer": "Racjin",
+  "players": "1",
+  "system_label": "Switch"
+ },
+ "text": {
+  "fr": {
+   "name": "Collection of SaGa : Final Fantasy Legend",
+   "genre": "Jeu de rôles",
+   "synopsis": "Le premier jeu de rôle sur Game Boy à dépasser le million de copies vendues et le début mémorable de la série : THE FINAL FANTASY LEGEND.\r\n\r\nUn titre qui a gagné en popularité grâce à un style de jeu raffiné et le monde varié qu'il propose d'explorer : FINAL FANTASY LEGEND II.\r\n\r\nUne histoire unique qui traverse les âges et une méthode innovante pour monter le niveau des personnages : FINAL FANTASY LEGEND III.\r\n\r\nVivez la genèse de la série SaGa avec COLLECTION of SaGa FINAL FANTASY LEGEND, le premier portage complet de ces titres si populaires.\r\n\r\nLa collection offre de nouvelles améliorations comme un mode grande vitesse ainsi que des options uniques à la Nintendo Switch, la fonction de zoom et la personnalisation du fond d'écran de jeu, et bien sûr la compatibilité avec les modes portable et sur table.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Collection of SaGa : Final Fantasy Legend",
+   "genre": "Role Playing Game",
+   "synopsis": "The first Game Boy RPG to sell over a million units and the memorable first installment of the series: THE FINAL FANTASY LEGEND.\r\n\r\nA title that gained popularity through its refined gameplay system and the journey through a diverse world: FINAL FANTASY LEGEND II.\r\n\r\nA unique story that travelled across time that featured a new and an innovative character leveling system.: FINAL FANTASY LEGEND III.\r\n\r\nExperience the origins of the SaGa series with the COLLECTION of SaGa FINAL FANTASY LEGEND, the first complete port of these hugely popular titles.\r\n\r\nThe collection includes new enhancements like high-speed mode as well as features unique to the Nintendo Switch, such as adjustable screen magnification and game screen background customization. Featuring compatibility with, of course, handheld mode, but also with TV mode and tabletop mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.jpg",
+   "sha256": "f5acaaba7775f83f7196ef15146bc8a5f472d06ce38d7c767cd154f32482893f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=497564&media=fanart",
+   "fetched_at": "2026-11-06T16:23:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "090864f53ebec0936d24214c6b63c6ad69112fb783fb2737f4b4c5c055752741",
+   "width": 600,
+   "height": 229,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=497564&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T16:23:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "59067160c189179d82527a19cdffb32df97df483670592085fd140b4fe490a8a",
+   "width": 421,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=497564&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:23:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "42cda6e2668c08fa21d2a44eb66b78395d0c44225280864bcfa8b89909d314b3",
+   "width": 682,
+   "height": 979,
+   "region": "cus",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=497564&media=support-2D%28cus%29",
+   "fetched_at": "2026-11-06T16:23:48+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "7c3e7d0c3355f516298b456f0c3758f17ce47696908bc0ef55e5f73e49eb6101",
+   "width": 1280,
+   "height": 720,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=497564&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:23:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "f8a19e3b9e3b1812add4f31b0c6fecdee9162c40d0653a3c7fa25c390a2815ae",
+    "width": 1280,
+    "height": 720,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=225&jeuid=497564&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:23:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:23:43+00:00",
+ "status": "done"
+}

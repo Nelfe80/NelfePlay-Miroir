@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "metal-slug-2",
+ "title": "METAL SLUG 2",
+ "source": "screenscraper",
+ "ss_game_id": 37605,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37605,
+  "release_year": 1998,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Metal Slug 2 : Super Vehicle-001/II",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Vous incarnez Marco, Eri, Tarma ou Fio dans Metal Slug 2 sur Neo Geo. Tout au long des niveaux, vous pouvez collecter de puissantes armes et conduire des véhicules dans le but de barrer la route au General Morden. La recette qui a fait le succès de son prédécesseur est ici reprise, et améliorée.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Metal Slug 2 : Super Vehicle-001/II",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4e95c5fa749c8941036c380e8503c795bf1be4271b352c6a4eb4f48153ca7cfc",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=fanart",
+   "fetched_at": "2026-11-06T23:41:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c0a66501734165fa37cee36faf8f3a59ae43bb05b5401dc98ed283e5ed102e81",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T23:41:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5cb8d052d1f85b069b9d61194cfe027a05921b1c8ad633785899e6083ca107a5",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:41:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "deae5aa7726c75f12c024392d7504c93cfb65381b40e4c5c8946ea904224cedb",
+   "width": 600,
+   "height": 437,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:41:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9f7a5cbe2a6b0ba8df927b93ae111e9621e3394b3f955ddbc38a3bbd2323a802",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:41:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a33d6c131486e4f0068e97ef8ea1aac74fd4b73d8e8c0f631569ed76dc99313d",
+   "width": 850,
+   "height": 1118,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T23:41:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b56f7fc8a14c0f2460dbe3c4fdcc32fea533aa8d611133aeb7aa30cca64144f3",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37605&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:41:32+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:41:23+00:00",
+ "status": "done"
+}

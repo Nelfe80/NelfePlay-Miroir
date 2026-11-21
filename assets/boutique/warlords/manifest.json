@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "warlords",
+ "title": "Warlords",
+ "source": "screenscraper",
+ "ss_game_id": 14027,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14027,
+  "release_year": 1981,
+  "publisher": "Sears",
+  "developer": "Atari",
+  "players": "1-4",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Warlords",
+   "genre": "",
+   "synopsis": "Warlords est un jeu d'action sur Atari 2600 dans lequel vous devez défendre votre forteresse des autres joueurs (ou de l'IA). Vous contrôlez un bouclier afin de renvoyer la balle. Si celle-ci touche votre château, il se détruit petit à petit.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Warlords",
+   "genre": "",
+   "synopsis": "In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a90713b5dd7fbc5dc7c35f4f6c2a0f2cec815e4ba9d36b82ecce8c55d638bfa4",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14027&media=fanart",
+   "fetched_at": "2026-11-06T17:08:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f096bbe3e10af8f9ea59a748661f71419927e27c1c8420bb0cf41632d67155eb",
+   "width": 400,
+   "height": 91,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14027&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:08:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "af137603d9310a6c728dc4e359d01297746564249eb5c52f6328230939b50439",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14027&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:08:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eb3e136a80d9fd5531b471234efd0500fb89f393b1210f580aff8a560094ce6c",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14027&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:08:48+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "4d24e91c58f7dde4d0e33f51799380a86c03607736404a3f08750804da397d21",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14027&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:08:50+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4a744c7b61b64744af717a84a71905e03f6835c66cd045a33ecb0ea6ca0f50b5",
+    "width": 320,
+    "height": 194,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14027&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:08:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:08:43+00:00",
+ "status": "done"
+}

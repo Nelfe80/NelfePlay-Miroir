@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "marvel-super-heroes-vs-street-fighter",
+ "title": "Marvel Super Heroes vs. Street Fighter",
+ "source": "screenscraper",
+ "ss_game_id": 37402,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37402,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Marvel Super Heroes vs. Street Fighter",
+   "genre": "Combat",
+   "synopsis": "Marvel Super Heroes Vs Street Fighter est un jeu de combat. Comme son nom l'indique, ce jeu va mettre aux prises les habituels personnages de Street Fighter avec les célèbres héros des Marvel Comics. Vous allez donc pouvoir organiser des combats entre Spiderman et Ryu, Hulk et Dhalsim ou encore Captain America contre Ken. Soit au total 17 personnages accessibles dès le départ du jeu, 9 provenant du monde de Street Fighter et 8 personnages des Marvel Comics.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Marvel Super Heroes vs. Street Fighter",
+   "genre": "Fighting",
+   "synopsis": "The second entry in the Marvel Vs. Capcom series, pitting fan favorites from Street Fighter and Marvel heroes against each other!\r\nSpider-Man, Hulk, Captain America and more join the X-Men to team up with and against characters from Street Fighter, now able to use Cross-Over Assists!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0208a0094045b61246a24712817bd2b11e5479664285567737344826c744c331",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=fanart",
+   "fetched_at": "2026-11-06T15:52:54+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8f869d8292b7959499447f1d856cf0949275047bf5c6bfa6abaeeb7af425054c",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:52:55+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8b27e2a79d745b3bda1e58970864d2f5dfbf1e3a4e225e4bb3de90c9c3f54fe1",
+   "width": 518,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:52:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "11d7540f97e24114640cd57ac4c5c5f348d3d6e3bbf206a521fa6353dcf0dbc9",
+   "width": 442,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:52:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a9c863861b08f5df6d9746000e2fba6c71beed38ba1d833beace4d370a65c95b",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:52:59+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "406493a3707bee3591aa20d40bc107b8daf18ef906c6fdd828b48f67da171024",
+   "width": 850,
+   "height": 1094,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:53:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f573d0aa560dbc7ca2a9a25436bea0ccaeb5928f6a5ac065c4606089a8839b95",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37402&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:53:02+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:52:53+00:00",
+ "status": "done"
+}
