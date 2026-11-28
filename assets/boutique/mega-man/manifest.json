@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man",
+ "title": "Mega Man",
+ "source": "screenscraper",
+ "ss_game_id": 1274,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1274,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Mega Man (Rock Man au Japon) est un jeu de plateforme à défilement latéral. Mega Man a la capacité de sauter et de tirer avec l'arme implantée dans son bras. Il doit traverser les niveaux des six robots et les vaincre au combat. Ce faisant, Mega Man est capable d'acquérir le pouvoir détenu par le robot. Ces pouvoirs peuvent alors être utilisés de manière interchangeable avec son arme principale et cibler les faiblesses spécifiques de ses ennemis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "In the future city of Monsteropolis, the use of robot labour has helped civilization grow more than ever before. At the forefront of this technology is Dr. Light and his assistant Dr. Wily, who are commissioned to build six robots to handle a variety of specific tasks. They are named Bombman, Gutsman, Iceman, Cutman, Elecman, and Fireman in reference to their individual prime functions. Dr. Wily, however, has bigger plans and chooses to take control of the robots and let loose destruction in a bid for world control. Dr. Light fights back with the best tool he has, an experimental human-like robot, Rock aka Mega Man, who had been tested to perform cleaning duties. Now properly armed, it's up to Mega Man to take on the maverick robots, fight his way into Dr. Wily's castle, and end this madness.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "dc259413fba44a1eb659ebf20b4f93ecc980c58f18a7ac7778c48d8dd25b26ef",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1274&media=fanart",
+   "fetched_at": "2026-11-06T16:05:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "51bb4246c55cb3d75d1b56b946422c1870d38e5a14d39d631971839cd6fcf876",
+   "width": 600,
+   "height": 190,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1274&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:05:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6e6e179ca6ba32f670473191343db1ba8ea10ced485c5198d3d1ff18c1d8858d",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1274&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:05:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e6b6946078fe5158b79a809c0ee8db32c2dde97e7be7cfd569b157322725dbc0",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1274&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:05:37+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b906e7e652144581c95e061cec873e06abbf4ff3e978d21cc04a3ee6a1b6070c",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1274&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:05:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fac53a10b9d383f9be5518f8e2ac097b66148395dfcb685de70d3e9028b13579",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1274&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:05:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:05:32+00:00",
+ "status": "done"
+}

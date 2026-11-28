@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "a-jax",
+ "title": "A-Jax",
+ "source": "screenscraper",
+ "ss_game_id": 39962,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 39962,
+  "release_year": 1987,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Ajax",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Ajax semble à priori être un shooter vertical du genre classique (avec séparation entre air et sol), à la réalisation sympathique pour un jeu daté de 1987\r\nOn incarne un hélico disposant de plusieurs armes plutôt standard (frontal, 3-way, laser, etc), d'une smart, et éventuellement d'une petite option sous la forme d'un mini hélicoptère volant à ses côtés.\r\nAjax est techniquement sympathique pour son âge, mais son style, autant au niveau visuel qu'à celui du gameplay, a assez mal vieilli.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ajax",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "The player has been issued an emergency order. He must save the earth from being conquered by enemy forces. He climbs into his helicopter and prepares for intense aerial combat. Shooting oncoming enemy aircrafts and bombing the enemies below, he tries to make his way through the different stages to reach the enemy base. When he finishes the first stage, he is transported to his next mission by ab aircraft carrier. He hops into his jet fighters, tanks, ships, helicopters, and aircraft carriers. The player must also be aware of unseen enemies and surprise attacks.\r\n\r\nDifferent kinds of power ups can be obtained throughout the game. These include:\r\n'3' 3-Way: Bullets fire forward, right, and left.\r\n'L' Laser: Player can shoot double lasers.\r\n'T' Triple: Missiles are fired that spread out three ways in front.\r\n'V' Vulcan: Rapid bullets are fired in the directions controlled.\r\n'B' Bomb: Air to ground missles which can be upgraded twice.\r\n'O' Orbital: A small drone using the same weaponry as the helicopter which can be otained by clearing a special formation of little red fighters.\r\n\r\nThere is an additional super weapon that destroys all the enemies on the screen at once. However, use of this weapon is limited.\r\n\r\nAjax contains 2 different types of stages: 2-D and 3-D. In the 2-D stage, the player controls a helicopter. In the 3-D stage, the player commands a jet fighter.\r\n\r\nAjax features some impressive graphics filled with rotation and scaling effects (some may get a little dizzy, though!), a solid soundtrack and excellent game control. Highly recommended for any shoot'em up enthusiast!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "19c02c38d1a0afa7c8726cb5e394b5480e7debf7432825da35a0d40c23bb61c8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=fanart",
+   "fetched_at": "2026-11-07T20:22:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "91c05ea4991283228084eca11cf05c0a5a55cd28f4af8568187a69cd1754159f",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:22:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5c7d10bc4590d467445974c7465b298c399fcc244ff35e529eabb3f85b9f228f",
+   "width": 850,
+   "height": 1118,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:22:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "da1a31bc129ca6e7895c754fd0f63380c562e137877edb3cc571d3d617c1903f",
+   "width": 402,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:22:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b84faa7f03c14bd0af5701441874731cdf8e444e3f2afa2e7ce642152871234a",
+   "width": 224,
+   "height": 288,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:22:40+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "07daab7c0699460548c1353391fa0c4e83600fe23207f312219c7ae9d49f5fd2",
+   "width": 850,
+   "height": 1118,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:22:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a3ac9a30cbccf08b93b2dbcbdd6341c5981f43761760030e13e36dbaf1cae753",
+    "width": 224,
+    "height": 288,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=39962&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:22:43+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:22:34+00:00",
+ "status": "done"
+}

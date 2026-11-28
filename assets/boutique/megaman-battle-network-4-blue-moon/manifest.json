@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "megaman-battle-network-4-blue-moon",
+ "title": "MegaMan Battle Network 4 Blue Moon",
+ "source": "screenscraper",
+ "ss_game_id": 4045,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4045,
+  "release_year": 2004,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle Network 4 : Blue Moon",
+   "genre": "Jeu de rôles",
+   "synopsis": "Comme son prédécesseur, Mega Man Battle Network 4 se décline en deux versions (Blue Moon et Red Sun) qui diffèrent légèrement l'une de l'autre dans les pouvoirs acquis ou l'ordre des événements. Dans ce jeu de rôle, Lan et Mega Man trouvent des Dark Chips qui altèrent grandement l'esprit de celui qui les porte. Le héros lui-même peut tomber du côté obscur à cause de ces modules maléfiques.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle Network 4 : Blue Moon",
+   "genre": "Role Playing Game",
+   "synopsis": "The fourth installment in the Mega Man Battle Network series comes in two versions--Red Sun and Blue Moon--each with different enemies, battle chips, souls, and characters. Once again, you assume the role of Lan as he and his friend, Mega Man.exe, fight to rid the Internet of viruses and other cyberworld enemies. Unlike previous games in the series, Mega Man Battle Network 4 focuses on a tournament system where players encounter a variety of enemies that must be defeated. A new Soul Unison system lets Mega Man transform into his defeated enemies.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "68fbe8031e3ae653ed9430f8aada0b4c1ace8526e7cdd9fe910f49eaa4cc1d5f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4045&media=fanart",
+   "fetched_at": "2026-11-06T23:20:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5d18ae6fc7b2fe2a4f5491aa6b27eb763cc86db0b3575a2072130b84d5e1eea5",
+   "width": 600,
+   "height": 237,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4045&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:20:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "036d0c597d41d9630da9ee21823dda29be2fce3592c094eb561ef808b01f16c7",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4045&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a18d68609a24ad9b018ece3005da7ab0c898aafd9522cb55daf081bf0c0e3b2a",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4045&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "de1add6c94a3dee718d1b9d3a0989c4d30ccbcea73baf4495b8e6f2f52fa37de",
+   "width": 240,
+   "height": 160,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4045&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:21:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1d34850d6d5c2020a9bf89dc8365090ddcd0c262e1c855c14dc8fa03e10f0ecf",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4045&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:21:03+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:20:55+00:00",
+ "status": "done"
+}

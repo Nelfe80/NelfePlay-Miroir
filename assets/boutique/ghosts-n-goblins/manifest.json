@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ghosts-n-goblins",
+ "title": "Ghosts 'n Goblins",
+ "source": "screenscraper",
+ "ss_game_id": 149437,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 149437,
+  "release_year": 1985,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Ghosts'n Goblins",
+   "genre": "Plateforme",
+   "synopsis": "Ghosts'n Goblins est un jeu de plates-formes où le joueur contrôle un chevalier, nommé Arthur, qui doit combattre des zombies, des démons et autres morts-vivants dans le but de sauver la princesse Guinevere. Durant la partie, le joueur récolte diverses nouvelles armes, ainsi que des bonus et des pièces d'armure qui l'aideront dans sa tâche. Ce jeu est souvent considéré comme très difficile dans les standards du jeu d'arcade.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ghosts'n Goblins",
+   "genre": "Platform",
+   "synopsis": "Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, cyclops, dragons and other monsters in order to rescue Princess Prin Prin, who has been kidnapped by Satan, king of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.\r\n\r\nThe player can only be hit twice before losing a life. If the player loses a life, they are returned to the start of the level, or the halfway point if they have managed to get that far. Furthermore, each life can only last a certain length of time. After defeating the final boss, the player must then replay the entire game on a higher difficulty level to reach the genuine final battle.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "59e826948d5729fb60834d1023ea9b37908e84c14bd207b11e36b67bd25f1d2e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=fanart",
+   "fetched_at": "2026-11-07T20:26:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8a359a54bdcd769fe818ffd52c458b4a99aa0b74ee4ae4ba9f3702a2d988d4a7",
+   "width": 600,
+   "height": 237,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=wheel%28jp%29",
+   "fetched_at": "2026-11-07T20:26:11+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b96eaef55042c9290439d37c3e54bfe80b90df100fa7b7a2ff2aa003ab6fbe73",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:26:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "94c0755c0ab32b223af5c3f2fa6b3f72d130c0adb6de7ecf56e96736e4f944e5",
+   "width": 453,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:26:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d35e14df575cb85cdb569eb332893b81489a322ac6dc322b62cbb180ccef7271",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:26:16+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "59a4a25cb8c8d2b0232a88c9dcb1cc4558630aa63a977f458658becba4961532",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:26:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b9a96ee941f8df7484ff576e8854c3da5560267c44666f3eb6a4a87d235b41e6",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=149437&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:26:19+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:26:09+00:00",
+ "status": "done"
+}

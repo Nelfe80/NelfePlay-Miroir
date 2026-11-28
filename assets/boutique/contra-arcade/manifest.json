@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "contra-arcade",
+ "title": "Contra (arcade)",
+ "source": "screenscraper",
+ "ss_game_id": 40670,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40670,
+  "release_year": 1987,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Gryzor",
+   "genre": "Tir",
+   "synopsis": "Dans Contra, le joueur contrôle l'un des deux commandos militaires armés nommés Bill et Lance, qui sont envoyés en mission pour neutraliser un groupe terroriste appelé l'Organisation du Faucon Rouge qui a l'intention de s'emparer de la Terre.\r\n\r\nLe personnage principal est équipé d'un fusil avec une quantité illimitée de munitions. Le joueur peut également sauter, se déplacer et tirer dans huit directions, ainsi que se déplacer ou sauter simultanément pendant le tir. Un seul coup d'un ennemi, d'une balle ou d'un autre danger tuera instantanément le personnage du joueur.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Contra",
+   "genre": "Shooter",
+   "synopsis": "In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.\r\n\r\n'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also \"3D maze\" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.\r\n\r\nEach player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c06016fb0b9b8779e4afa8e9092e524f4082776fe4b23a4c84afd6485cc750db",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=fanart",
+   "fetched_at": "2026-11-06T20:40:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5cab63ad7688bc0a82562a2c571a942b5c2bc63ac614adf30e694bbc37164d56",
+   "width": 600,
+   "height": 271,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T20:40:40+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c3572339beb3b47518fd0cc23d796940c6b99bad05bfd35037e870ce133ee18c",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T20:40:42+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8f41b5df9915792634d8e405dd42bc57636966605ed62bc5a4d56344f38f3ad9",
+   "width": 466,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T20:40:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "302402b44ba245896666fbe2eb98608f7586f041d342db973197f408c7b77337",
+   "width": 224,
+   "height": 280,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T20:40:45+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d6472bda742607cd779516ef489117abf8b6724dce16831f95509e30a79cd4f6",
+   "width": 850,
+   "height": 1211,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=flyer%28eu%29",
+   "fetched_at": "2026-11-06T20:40:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f7cb34b7f084fdae83c38e126365c84523396511b4d3215d447810f48120d9ed",
+    "width": 224,
+    "height": 280,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=40670&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T20:40:56+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T20:40:39+00:00",
+ "status": "done"
+}

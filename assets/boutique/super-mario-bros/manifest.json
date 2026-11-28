@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-mario-bros",
+ "title": "Super Mario Bros.",
+ "source": "screenscraper",
+ "ss_game_id": 1245,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1245,
+  "release_year": 1985,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Mario Bros.",
+   "genre": "Plateforme",
+   "synopsis": "La princesse a été kidnappée par le diabolique Bowser, et c'est à Mario et à son frère Luigi de sauver la situation.\r\n\r\nLa toute première aventure de plate-forme pour les Mario Brothers permet au joueur d'explorer niveau après niveau, avec Bowser à affronter en tant que boss de fin de niveau. Les bonus incluent le Super Mushroom, qui augmente la taille et la puissance de Mario, la fleur de feu, lui permettant de tirer des boules de feu sur les ennemis, et le starman toujours important pour une courte rafale d'invincibilité.\r\n\r\nChaque niveau comprend une section bonus remplie de pièces de monnaie plus un raccourci à travers le niveau, de nombreux mauvais achats et obstacles à franchir, et un drapeau de fin de niveau, dans lequel plus le joueur l'attrape, plus il lui attribue de points. Certains niveaux incluent également des points de distorsion, ce qui amène le joueur à des niveaux plus élevés.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Mario Bros.",
+   "genre": "Platform",
+   "synopsis": "Super Mario Bros. follows Mario and Luigi as they race to rescue Princess Peach from the evil Bowser. In their debut platforming quest, the brothers leap through enemy-filled levels, dodge traps, and uncover hidden bonuses. The Super Mushroom makes Mario grow, the Fire Flower gives him firepower, and the Star grants brief invincibility. Each level ends with a flagpole and the higher you grab it, the more points you score. Secret bonus areas and warp zones allow shortcuts through the game. A timeless classic that defined a genre.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "98432dd82fa190098a51be6961faece6594d243d1f0c706bbe879e04fb7fe2a2",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1245&media=fanart",
+   "fetched_at": "2026-11-06T23:45:27+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8b3b187f112f8e62a6a71d54ad6f6e5218133aa89101f7ca3709e2c03da8e1d9",
+   "width": 600,
+   "height": 220,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1245&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:45:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7da011b3f4765fe5b47abf5d639f237bb23812114fcb17834d1dbbae5160a879",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1245&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:45:33+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c3f9d50ad17ca739b66e3e4f282f81537115a6a6a8a08e836ebb083231ea4d51",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1245&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:45:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "bd68afe0098f0db79e04448d99f4e992e783b04a9dd17a03e0f2797230cc0512",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1245&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:45:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a0980e3b598e04f46c602ed3552477ee84a41e8d12ebef5e61115390796b41d9",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1245&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:45:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:45:26+00:00",
+ "status": "done"
+}

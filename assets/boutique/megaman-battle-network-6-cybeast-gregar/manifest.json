@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "megaman-battle-network-6-cybeast-gregar",
+ "title": "MegaMan Battle Network 6 Cybeast Gregar",
+ "source": "screenscraper",
+ "ss_game_id": 4005,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4005,
+  "release_year": 2006,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle Network 6 : Cybeast Gregar",
+   "genre": "Jeu de rôles",
+   "synopsis": "Même après avoir déménagé, Lan et son double Mega Man se retrouvent confrontés à une grande menace sur le réseau. Le jeu de rôle Mega Man Battle Network 6 sur GBA se décline en deux versions (Cybeast Gregar et Cybeast Falzar) qui correspondent aux deux créatures impliquées dans le chaos qui se propage.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle Network 6 : Cybeast Gregar",
+   "genre": "Role Playing Game",
+   "synopsis": "In Mega Man Battle Network 6, Lan's father has received a job transfer and the family moves to Cyber City, a town known for conducting various technological experiments. Lan will meet new people and build new friendships in the real world while Mega Man befriends helpful Navis and encounters dangerous new enemies on the virtual plane. Together they will face threats far more powerful and perilous than they ever have before.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8099f031b9880c1be420b7482301e8b718aacc062248dd1f15b257b5a0679f48",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4005&media=fanart",
+   "fetched_at": "2026-11-06T23:21:30+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2f5791a89a05ba0949b41792cef3bf0e1bf94e155b05e2d1ea345562e42c401b",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4005&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:21:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "652fd152678b550bc1121a9cdd8053a13a85a0cd4982a9d5077ac8f88277583a",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4005&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:33+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4708260e889841aeecd664d92f10b046bff9f920f69000fa344b9b15cc659a9d",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4005&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "1b2fe9f7f69012660a1f1f9a5486db992036bed085bff84c029a8f9c40802433",
+   "width": 240,
+   "height": 160,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4005&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:21:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7a7a2ce145f5c8a084abd474e96e5cde254827b8399590613d0b8eb04d7b3aad",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4005&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:21:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:21:30+00:00",
+ "status": "done"
+}

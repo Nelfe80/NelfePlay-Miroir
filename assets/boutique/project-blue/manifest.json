@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "project-blue",
+ "title": "Project Blue",
+ "source": "screenscraper",
+ "ss_game_id": 213973,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 213973,
+  "release_year": 2019,
+  "publisher": "Broke Studio",
+  "developer": "Toggleswitch",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Project Blue",
+   "genre": "Plateforme",
+   "synopsis": "Dans les terres désolées de Neo Hong Kong, aidez Blue à échapper aux griffes maléfiques du conglomérat Omnicorp.\r\nÉvitez les robots, les lasers, les bassins de déchets toxiques et bien plus encore en vous frayant un chemin pour sortir d'un centre de recherche et vous venger de vos ravisseurs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Project Blue",
+   "genre": "Platform",
+   "synopsis": "In the dystopian wasteland of Neo Hong Kong, help Blue escape from the evil clutches of the Omnicorp conglomerate.\r\nAvoid robots, lasers, pools of toxic waste, and more as you fight your way out of a research facility and exact revenge upon your captors.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "fe19c9e4861dfda28121c97f6b29a5c4c0d645b717437d15bca9486a8ff39a39",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213973&media=fanart",
+   "fetched_at": "2026-11-06T15:40:56+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d502b9ff38b7571b3f69f5adfa781ab03c32f5f10abc27312d011c71db5e6fca",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213973&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:40:57+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "476e4bdbf95c8defb37cb8cdd6c34201362daf6b16470a1d6cbf956c7da9df68",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213973&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:40:59+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d13bba9ccbb64b90d868f0c4aba4c4cec618c730981a3ba6dbf463c0bf42c252",
+   "width": 543,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213973&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:41:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "cd0f033d7342631006fce059ef363cf51993d51a913668dad3946ac329d71239",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213973&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:41:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "6d03b341721c12c353ca7c852aa1258e3c51c171d13d448a993cf3338083d56f",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213973&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:41:03+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:40:55+00:00",
+ "status": "done"
+}

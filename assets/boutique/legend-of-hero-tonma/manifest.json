@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "legend-of-hero-tonma",
+    "title": "Legend of Hero Tonma",
+    "source": "screenscraper",
+    "ss_game_id": 42167,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 42167,
+        "release_year": 1989,
+        "publisher": "Irem",
+        "developer": "Irem",
+        "players": "1-2",
+        "system_label": "Irem Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Legend of Hero Tonma",
+            "genre": "Plateforme",
+            "synopsis": "Tommy, apprenti magicien, part sauver la princesse enlevée par un gobelin maléfique. Grâce à sa cape, il peut planer sur de courtes distances et tirer sur les ennemis à l'aide de ses gants magiques. Des orbes améliorent ses pouvoirs : tirs renforcés, boucliers, bombes ou projectiles à tête chercheuse. Il peut aussi étourdir temporairement les ennemis en leur sautant sur la tête. Parchemins et livres magiques révèlent des passages ou éliminent tous les ennemis. Le jeu compte sept niveaux, chacun se terminant par un combat de boss qu'il faut vaincre pour poursuivre l'aventure.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Legend of Hero Tonma",
+            "genre": "Platform",
+            "synopsis": "A little caped hero fights his way to the boss' castle through a cute scrolling world. Enemies can be killed by fireballs or stunned when jumped upon. Killed enemies and chests leave coins to increase a person's score and options give aiming shots and bouncing fireballs.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "59ba897c085dc421196631fc63985631a61311e1bcff9844358a28ddd5d8d173",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=42167&media=fanart",
+            "fetched_at": "2026-11-25T13:37:10+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "5f0a057db310827afc3f3e094e4995011d341034ef6f0f0ef25f0ad39e28c701",
+            "width": 400,
+            "height": 161,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=42167&media=wheel%28wor%29",
+            "fetched_at": "2026-11-25T13:37:11+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "f7f2f7b3bb98c3cc5faedc680ed93880a9ad77833ea56efca4130d5881a0b7f2",
+            "width": 834,
+            "height": 1180,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=42167&media=box-2D%28jp%29",
+            "fetched_at": "2026-11-25T13:37:13+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "9c2856ea9dc2142b5221c6786cfd4b36d398f068538e9147e5976503b8aa1554",
+            "width": 384,
+            "height": 256,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=42167&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-25T13:37:14+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "f1811a0a89886c4405468c0129d875f0ec41e2a47d49551f8886a18b816b0fe9",
+            "width": 834,
+            "height": 1180,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=42167&media=flyer%28jp%29",
+            "fetched_at": "2026-11-25T13:37:16+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "4ff529073c077e2305648c914b1959a18ba26d09141e1436ee7dea08b4092949",
+                "width": 384,
+                "height": 256,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=148&jeuid=42167&media=ss%28wor%29",
+                "fetched_at": "2026-11-25T13:37:17+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-25T13:37:09+00:00",
+    "status": "done"
+}

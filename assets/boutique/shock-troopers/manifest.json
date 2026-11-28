@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "shock-troopers",
+ "title": "SHOCK TROOPERS",
+ "source": "screenscraper",
+ "ss_game_id": 37639,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37639,
+  "release_year": 1997,
+  "publisher": "SNK",
+  "developer": "Saurus",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Shock Troopers",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Shock Troopers est un jeu d'action pur et dur. Seul ou à 2, commandez des guerriers prêts à tout et combattez la menace terroriste de plein front. Le jeu propose trois chemins d'accès distincts pour atteindre le quartier général ennemi. Armé d'une mitraillette, d'un bazooka ou d'autres armes du même genre, vous pouvez choisir de traverser la jungle, la vallée ou de passer par les massifs montagneux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Shock Troopers",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Shock Troopers is a 1-2 player game where players select one of eight characters to play as. Each character has their own attack. Players also have to choose one of three routes to take. The object of the game is to go toward the end of the level and defeat the end-of-level boss, which is usually a huge vehicle. Crates that are scattered throughout the levels can be broken into to reveal new weapons and power-ups.\n\nThere is a team mode where players have to select three characters. The characters can be switched on-the-fly during gameplay, which is useful if one of them is badly injured. Players can use the other teammates until life-ups can be found.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f621b785aca38d13bac49c2d6221b46e6bbc8504631d35e5163e006489b0a86b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=fanart",
+   "fetched_at": "2026-11-06T15:29:41+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1df0d31e1d28321dc98d47333e4be444713c983f17d2fc6c2e9bbfe92944e091",
+   "width": 600,
+   "height": 295,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:29:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6c085b544f973c94146c972d441ad9363956760de00c6257817783cd8faada09",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:29:44+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ba09a9bf418871efa8bd9af4e19acfe6f6608837d0fa013613a660576bcedbe7",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:29:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c06d6a9675d7baab9cea94577a6246dca4835d6dba3d0b50e1f48787d1676704",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:29:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "34a358bc1f215c1445892ec8ff25d7602e01fc5def14b414f5672896f3d61c28",
+   "width": 972,
+   "height": 1377,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:29:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "5f5f6baa91bd9c819881e408ac9f6e42bda59fc1a6d6e6220a558ca8c46098f0",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37639&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:29:50+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:29:40+00:00",
+ "status": "done"
+}

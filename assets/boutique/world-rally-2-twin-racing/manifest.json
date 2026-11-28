@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "world-rally-2-twin-racing",
+ "title": "World Rally 2: Twin Racing",
+ "source": "screenscraper",
+ "ss_game_id": 44122,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44122,
+  "release_year": 1995,
+  "publisher": "Gaelco",
+  "developer": "Gaelco",
+  "players": "1-2",
+  "system_label": "Gaelco"
+ },
+ "text": {
+  "fr": {
+   "name": "World Rally 2: Twin Racing",
+   "genre": "Course, Conduite",
+   "synopsis": "World Rally 2: Twin Racing reprend la jouabilité du précédent World Rally: Championship proposant la vue isométrique , les quatre championnats sont divisés en trois étapes devant être terminées en une minute. Parmi les innovations introduites, il y a un graphisme amélioré avec un défilement plus fluide, la possibilité de choisir entre trois voitures dès le début du jeu, mais surtout la possibilité de jouer à deux simultanément.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "World Rally 2: Twin Racing",
+   "genre": "Racing, Driving",
+   "synopsis": "World Rally 2: Twin Racing is the sequel to World Rally Championship with gameplay largely similar to the original game. Twin Racing in the title refers to a new gameplay element as the cabinet now has a setup with two units side by side, each with their own screen, seat, steering wheel and pedals. Only a single PCB is used to provide for both units. The first game was a standing single-player cabinet only with a steering wheel and buttons. Two players can challenge each other directly for a competition on the same track and the other player is shown as a ghost that cannot be harmed. Players can also choose to race side by side, but each their own single-player game. Both players can continue playing without spending an extra credit as long as they both finish under 60 seconds.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a6b96fb29b3bdccae88e16c3fcbb762b152c27dc495a5010ca75c757dd0efedd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=194&jeuid=44122&media=fanart",
+   "fetched_at": "2026-11-06T15:28:12+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f3fca7b0216eeaafdd76fee185078fd81873b50f004069624ed9c541ea8d542a",
+   "width": 600,
+   "height": 367,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=194&jeuid=44122&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:28:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e656f283e3e58bab5bbf1c7168b117272f2991f511ab85cfb0637c371439d8db",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=194&jeuid=44122&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:28:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "51d15a734a00c63c494b048d7f9cdcfefb3ce5f9bd3a660d900c5a51e0927c33",
+   "width": 384,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=194&jeuid=44122&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:28:16+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "af82c616e1204ab01fc1baea78b973dc8435f0b097f0a2793a01f89890b78ee7",
+   "width": 1280,
+   "height": 1850,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=194&jeuid=44122&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:28:18+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "b4d15b04876f3ee85c675784e4c68475545b8fc53e5c1d2a871accbd5715ef01",
+    "width": 384,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=194&jeuid=44122&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:28:19+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:28:10+00:00",
+ "status": "done"
+}

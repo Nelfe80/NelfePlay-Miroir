@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-drift",
+ "title": "Sonic Drift",
+ "source": "screenscraper",
+ "ss_game_id": 12880,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12880,
+  "release_year": 1994,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic Drift",
+   "genre": "Course, Conduite",
+   "synopsis": "Sonic Drift sur Game Gear met en scène Sonic, Tails, Amy et Robotnik dans des courses de voitures. Vous avez le choix entre six circuits, issus des environements du jeu de plates-formes, chacun avec trois niveaux de difficulté.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic Drift",
+   "genre": "Racing, Driving",
+   "synopsis": "Sonic Drift is a Sonic the Hedgehog racing game. The evil Dr. Robotnik has stolen the chaos emeralds and you have to win them back in a racing tournament. In Sonic Drift, you can play as Sonic, Tails, Amy, or Robotnik. Sonic Drift can also be found on Sonic Adventure DX and Sega Mega Collection Plus. There are six levels in each game and three different  tournaments, totaling 18 levels.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c81795327711e352fe7025bf1ced77b67465e8e0cca99adaf5dd18371cf4b029",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12880&media=fanart",
+   "fetched_at": "2026-11-06T16:09:51+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4c20105bd089e4358ba4fbacb373c19ae388e37da63ffb420a106c1b2df5286f",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12880&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T16:09:52+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "cd12749e7574d86fb03d3063f0c74b684428f1b769914045fc6523386362835b",
+   "width": 591,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12880&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:09:54+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d0deac14c732712869790bcd54077b493e7eec19abb6894d53e4299f604a2db9",
+   "width": 600,
+   "height": 604,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12880&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T16:09:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "826857ed51ddef6b1da2d477011af6bf206ff99c168b6ab6bd76c2102a115ac4",
+   "width": 320,
+   "height": 240,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12880&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T16:09:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fec7607c28c43043cf0f41673699cf88e7a3b0b1f01b19e90077eccf4414ec4a",
+    "width": 160,
+    "height": 144,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12880&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T16:09:58+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:09:51+00:00",
+ "status": "done"
+}

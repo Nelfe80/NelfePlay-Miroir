@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "legendary-wings",
+ "title": "Legendary Wings",
+ "source": "screenscraper",
+ "ss_game_id": 42200,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42200,
+  "release_year": 1986,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Legendary Wings",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "La race humaine était sur le point d'évoluer depuis une ancienne civilisation avec l'aide de DARK, un ordinateur ultra puissant laissé par des hommes de l'espace il y a longtemps. DARK commença soudain à défaillir.\r\n\r\nLe monde était en panique. La race humaine était au bord de l'extinction. \r\n\r\nARES, le dieu de la guerre, donna à deux jeunes hommes les ailes de l'Amour et du Courage, et leur confia la survie et le futur de l'humanité. Le temps est compté. Détruisez DARK.\r\nEnvolez-vous, légendaires soldats.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Legendary Wings",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "The human race was about to achieve the evolution from an ancient civilization to a state of millennium with the help of DARK, a super powerful computer left by spacemen long ago. DARK suddenly began to malfunction.\r\n\r\nThe world was in a panic. The human race was on the brink of extinction.\r\n\r\nARES, god of war, gave two young men Wings of Love and Courage and entrusted them with the survival and future of the human race. Time is of the essence. Destroy DARK Take wings, legendary soldiers.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6d83f8ed177b62499d63e37258226c521792aac4568c03267d62c43c1d5b4838",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=fanart",
+   "fetched_at": "2026-11-06T17:17:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a61852ff79b7e90542f813f43eb3db355d9ab1905c4f4a7fb389649089cfa0dd",
+   "width": 600,
+   "height": 251,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:17:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1097a4878029b9c5e2bd2506a4a2d4ce65c09898aa08a76ba851695b05b2a5ff",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:17:34+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "842b1f9f3e16b8387f4f8efb4dc94f6fc7c39edb91d68373b619b184643a5f07",
+   "width": 488,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:17:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4291197735088ff390d324c7a41fa6cc3cb2b580cd7f9cfcfebc389e84598111",
+   "width": 240,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:17:37+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "cb6c11f502ab8fedd53c4a2a6fb74567dac4c1d7cbc3359989525056ef2a4e1a",
+   "width": 850,
+   "height": 1143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:17:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3c2269f281b856b21bc1effca48abd6322fbb90659bb1d502f0732abff9d8242",
+    "width": 240,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42200&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:17:40+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:17:30+00:00",
+ "status": "done"
+}

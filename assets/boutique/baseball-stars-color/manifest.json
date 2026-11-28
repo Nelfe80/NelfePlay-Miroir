@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "baseball-stars-color",
+ "title": "Baseball Stars Color",
+ "source": "screenscraper",
+ "ss_game_id": 47070,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47070,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "Saurus",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Baseball Stars Color",
+   "genre": "Sport / Baseball",
+   "synopsis": "Baseball Stars Color est un jeu de sport sur le baseball. Le jeu est semblable à Baseball Stars de NES mais a des personnages et un gameplay moins réalistes. Vous gérez votre propre équipe de baseball et jouez des série de matchs. Le jeu a les règles typiques du baseball - un joueur jette le ballon, le deuxième frappe la balle, quelqu'un l'attrape, etc. Chaque personnage a ses propres statistiques.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Baseball Stars Color",
+   "genre": "Sports / Baseball",
+   "synopsis": "Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "deee26761fdb9e32d074d2274c30fb859dc7e6318c5d98877107db5dc37abacf",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47070&media=fanart",
+   "fetched_at": "2026-11-06T17:14:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "333046b6b22c7a2b4915bb7a094985851905c57333c4996e60ac632d91ebdc71",
+   "width": 477,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47070&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:14:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bbf11312e2316dfc62af396a8f3ae095ae1c74e839cd9ef790a6a57400235b89",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47070&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:14:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "88c84265d81c95d241f6d7fe2ebfddb5afb52895c59a6b712c92646faf898826",
+   "width": 600,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47070&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:14:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9f868e272190881757aa745bb5962b03b118192a76da2ce97ab7b85cce9a65eb",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47070&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:14:32+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "eeede3510ec3824079e8fd5d90ce337d14410f0909ec739afbfa449f7595d174",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47070&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:14:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:14:26+00:00",
+ "status": "done"
+}

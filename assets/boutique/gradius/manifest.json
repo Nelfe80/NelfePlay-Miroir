@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "gradius",
+ "title": "Gradius",
+ "source": "screenscraper",
+ "ss_game_id": 150955,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150955,
+  "release_year": 1985,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Nemesis",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Gradius, (parfois appelé Nemesis en occident) est un jeu vidéo de type shoot them up développé et édité par Konami en 1985 sur borne d'arcade.\r\n\r\nIl s'agit du premier épisode de la série Gradius, une des séries les plus prolifiques du genre.\r\n\r\nGradius est un shoot them up à défilement horizontal. Aux commandes du vaisseau Vic-Viper, le joueur doit traverser sept niveaux de jeu variés, sanctionnés par un boss.\r\n\r\nLe concept d'armement évolutif, déjà apparu en bribe dans quelques autres jeux, notamment 1942, est repris et développé dans Gradius. Il s'agit donc de ramasser les fameuses capsules de power-up laissées par les ennemis détruits, dans le but d'upgrader les capacités du vaisseau.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Nemesis",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Gradius / Nemesis is a horizontally-scrolling shoot-em-up in which the player pilots a spacecraft known as the Vic Viper as they search through unexplored galaxies looking for a lost armada. These new galaxies are teaming with alien life set upon destroying the Viper. \r\n\r\nThe game features a power-up system based on a selection meter at the bottom of the screen called a 'power meter', this allows players to 'buy' weapons and upgrades. To achieve this, players must destroy special individual enemies - usually red in colour - or enemy waves that then drop orange capsules. These capsules can be collected and used to upgrade the Viper's weapons. Each collected capsule advances the power meter by one step. Players can activate the highlighted item at any point, after which the power meter resets.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "73ef1d9c90eca484f7d7c1a3f6d9d542e85adb293460ac3cce3330de5e3e904b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=150955&media=fanart",
+   "fetched_at": "2026-11-06T23:19:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d1c70adc9c1721227fc4210b4c6b77c25b3ec0b9dabbe6b9168cb4ee9b9ba825",
+   "width": 600,
+   "height": 114,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=150955&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:19:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5b6de62ecb8396060d1a810d0c2cdb50035995757b254319458bce51648bcdeb",
+   "width": 850,
+   "height": 1117,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=150955&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:18+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "19e724178d2b653ab94f5b3750386388010e2592f6bc1e862c6cd301d230eea6",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=150955&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:19:19+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "c25fc78e3d3b98484a13fef5a4877f2795393de618743b1df9b71986d8eb4026",
+   "width": 850,
+   "height": 1117,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=150955&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:19:20+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "073833a63509da4c4d09bb73997b8437167f13e746ee413514c73f94892f9ca3",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=150955&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:19:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:19:14+00:00",
+ "status": "done"
+}

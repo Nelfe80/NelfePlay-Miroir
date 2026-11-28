@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "duke-nukem-advance",
+ "title": "Duke Nukem Advance",
+ "source": "screenscraper",
+ "ss_game_id": 3991,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3991,
+  "release_year": 2002,
+  "publisher": "Take 2 Interactive",
+  "developer": "Torus Games",
+  "players": "1-4",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Duke Nukem Advance",
+   "genre": "Tir / 1ere Personne",
+   "synopsis": "Duke Nukem Advance est un jeu de tir à la première personne sorti sur Gameboy Advance. Aidez Duke à arrêter les scientifiques qui ont pris possession de la zone 51. Pour cela, vous disposerez de 9 armes surpuissantes dont le rayon réducteur.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Duke Nukem Advance",
+   "genre": "Shooter / FPV",
+   "synopsis": "Alien scientists are working at taking over earth, and have already occupied the secret military base, Area 51. But little do they know that Duke Nukem is back and on their case, and he'll be travelling around the world, from Egypt to Australia, to make sure he's shot, frozen and/or stamped on every one of these creeps; and pick up a few girls while he's at it.\n\nThere are 19 stages to be completed, each hosting their own secrets and colored keycards, not to be mention the alien nasties themselves. Some of the classic weaponry is in, the shrink ray and freezer for instance. And in, also, are some old villains too, like the all time fav Pig Cop.\n\nUpto 4 GBA's can be linked together for the multiplayer deathmatch mode, but each player has to have his own gamepak.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "de309b7650934d14a9187e1124f3f74d49101f3cf4d8f11f42e9c46d3e0adf90",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3991&media=fanart",
+   "fetched_at": "2026-11-06T23:48:51+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "00df32b16e51145c8b5539b8e6971a032b80557a233b705cd06a7cfaf564ceb5",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3991&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:48:53+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "430c29b7b84296fda8d63b21fbdbfe10b7fdd3653ea06749e50919958055d91f",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3991&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:54+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7a589f9401d43dea66e567e4ef5a56b844f50c75c87dece8f0eb778601fd52d1",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3991&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "5e5b7dc56c49ad2894090c2ab0d8753baabc0e4bb89da9b69bd4eca1cfbe1937",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3991&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:48:57+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "42ce107101db756a9f189a86d8ed8f8114109a5df046f35c6c5bd8a9b39835f5",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3991&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:48:59+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:48:51+00:00",
+ "status": "done"
+}

@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "slug": "the-storied-sword",
+ "title": "The Storied Sword",
+ "source": "screenscraper",
+ "ss_game_id": 555938,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 555938,
+  "release_year": null,
+  "publisher": "",
+  "developer": "",
+  "players": "",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Storied Sword, The",
+   "genre": "",
+   "synopsis": "",
+   "synopsis_lang": ""
+  },
+  "en": {
+   "name": "Storied Sword, The",
+   "genre": "",
+   "synopsis": "",
+   "synopsis_lang": ""
+  }
+ },
+ "media": {
+  "ss": []
+ },
+ "absent": [
+  "fanart",
+  "wheel",
+  "box-2d",
+  "support-2d",
+  "sstitle",
+  "flyer",
+  "ss"
+ ],
+ "fetched_at": "2026-11-07T06:34:42+00:00",
+ "status": "done"
+}

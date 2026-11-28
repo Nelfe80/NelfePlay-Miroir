@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "the-legend-of-zelda-a-link-to-the-past-four-swords",
+    "title": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "source": "screenscraper",
+    "ss_game_id": 84036,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 84036,
+        "release_year": 2002,
+        "publisher": "Nintendo",
+        "developer": "Nintendo",
+        "players": "1-4",
+        "system_label": "Game Boy Advance"
+    },
+    "text": {
+        "fr": {
+            "name": "The Legend of Zelda : A Link to the Past & Four Swords",
+            "genre": "Jeu de rôles",
+            "synopsis": "The Legend of Zelda : A Link to the Past est un jeu d'aventure sur GBA dans lequel vous incarnez Link, jeune garçon d'Hyrule. Vous avez pour mission d'aller sauver la princesse Zelda des griffes du sorcier Agahnim avant qu'il ne libère le sceau des sept sages qui sépare le monde de la lumière et celui des ténèbres. Pour cela vous devez traverser de nombreux donjons remplis de monstres et trouver dans chacun d'eux des objets vous permettant de progresser dans votre quête.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "The Legend of Zelda : A Link to the Past & Four Swords",
+            "genre": "Role Playing Game",
+            "synopsis": "The Legend of Zelda: A Link to the Past & Four Swords for Game Boy Advance is a remake of A Link to the Past coupled with an entirely new game, Four Swords. This two-in-one game was released shortly before The Wind Waker.\r\n\r\nWhile A Link to the Past is largely a faithful port of the original, it does include an entirely new dungeon and a new quest as rewards for the player playing through the multiplayer-only Four Swords. Aside from these additions, it includes a number of smaller gameplay and dialogue changes, the latter of which are designed to correct a number of minor translation mistakes and inconsistencies with the original Japanese release and to unify the common terms used with the later games.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "18e9414b247a0d04d20015de4c1938cf97d577893412173ceb2e74e569fba01e",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84036&media=fanart",
+            "fetched_at": "2026-11-27T16:31:20+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "dbbabf21e9ad17d550962c4b57a0aa0abd7c2b4b6cc8a699a731444a1fe8a5df",
+            "width": 600,
+            "height": 300,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84036&media=wheel%28wor%29",
+            "fetched_at": "2026-11-27T16:31:22+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "b9f386a56c47e2b18260d66868df5507a1f48e82686e26a4368b3e105c7ea0ce",
+            "width": 705,
+            "height": 700,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84036&media=box-2D%28us%29",
+            "fetched_at": "2026-11-27T16:31:23+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "b575805d0075455d4b2fd41b5fec9c6053b7e1b34074026f6f95ebce0638a3f0",
+            "width": 600,
+            "height": 355,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84036&media=support-2D%28us%29",
+            "fetched_at": "2026-11-27T16:31:25+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "04c095854235c3301e44563e37418016beceb31f2515f8ce81d1c82710968d3d",
+            "width": 240,
+            "height": 160,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84036&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-27T16:31:26+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "84569dbc186ecbfe4ea8a22f29279812699308ec5741323f7d3308e5d79cdb49",
+                "width": 240,
+                "height": 160,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=84036&media=ss%28wor%29",
+                "fetched_at": "2026-11-27T16:31:28+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "flyer"
+    ],
+    "fetched_at": "2026-11-27T16:31:19+00:00",
+    "status": "done"
+}

@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "solaris",
+ "title": "Solaris",
+ "source": "screenscraper",
+ "ss_game_id": 14052,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14052,
+  "release_year": 1986,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Solaris",
+   "genre": "",
+   "synopsis": "Le jeu Solaris sur Atari VCS 2600 vous met aux commandes d'un vaisseau évoluant dans la galaxie Solaris. Le jeu offre 3 environnements différents dans lesquels le joueur peut se rendre. Le but est de détruire tous les combattants Zylon restant dans la galaxie.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Solaris",
+   "genre": "",
+   "synopsis": "The Zylons are back, and are attempting another takeover of the galaxy! Your goal is to destroy all of the Zylon fighters you encounter, rescue cadets that are trapped on Zylon planets, and to find the planet Solaris to protect it from the Zylons. Your spaceship is equipped with a galactic map which can be used to warp to different sectors of the galaxy. The map shows the location of Zylon squadrons, Zylon planets, federation starbases, wormholes, clusters of stars, and Solaris when you find it. By warping to the correct sector, you can battle the numerous types of Zylon fighters to keep them from attacking federation bases and planets. Your spaceship has a limited amount of fuel; when you see the fuel gage get too low, you will need to warp to a federation starbase to refuel (make sure you leave enough fuel to warp). When flying over a Zylon controlled planet, you will see your cadets on the surface. If you rescue all of the cadets as you fly past, you will receive bonus points and an extra spaceship. The Zylon's have many different types of fighters which you will encounter, as well as some narrow corridors with blockades which you will need to clear in order to reach new locations in the galaxy.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1fb664889b6817bed9e80d9a09562045c7412128f8cb09916736d0312974852b",
+   "width": 400,
+   "height": 66,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14052&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:04:11+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8d184a0706ca45e9d287ac6cc7fd61d49b092fb312b40bc11b51cafb29e8c490",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14052&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "8e4d472028229a0639ed8e147990a85d3133b2c4f9f40206c7065175ad92f5a2",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14052&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "ad92e028680065e8d4ddbec979fa622d5e98309064f63927e75c900bfe1582d2",
+   "width": 640,
+   "height": 480,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14052&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:04:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3efc9447fae4ededf130f7393ae8854752d131f90f6647d171724a3f3076671e",
+    "width": 304,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14052&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:04:17+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:04:11+00:00",
+ "status": "done"
+}

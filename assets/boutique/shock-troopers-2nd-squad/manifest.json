@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "shock-troopers-2nd-squad",
+ "title": "SHOCK TROOPERS: 2ND SQUAD",
+ "source": "screenscraper",
+ "ss_game_id": 37638,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37638,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "Saurus",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Shock Troopers : 2nd Squad",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Shock Troopers 2nd Squad vous offre à nouveau une série de niveaux dans lesquels vous devrez, seul ou à deux, défaire les sinistres plans du dictateur local. Cette fois-ci l'équipe de commandos doit intervenir au Billberk, une nation menacée par une mystérieux conglomérat produisant des armes de destructions massives, la D.I.C.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Shock Troopers : 2nd Squad",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.\n\nThe second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b45e5c5d6e34a60da0b6b8ca46607d37b1135924b6a7c33b6fec0a38f7f4cd01",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=fanart",
+   "fetched_at": "2026-11-07T20:19:28+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "92bdd24c9afe3a3ebdc708eeb12609eb91f6903db8c888d29ce2c8a36a3ce600",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-07T20:19:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "62aaa61e811d93c2d096759ca570eddfa036522768c238beff3b18e08f7e5911",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:19:31+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b7505a0771d44da5062c1b6a1e9edc3ebc52f0f366c3c6a27b999df28fe74f60",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:19:32+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ee78c7e427dac710d01cc88cb1192fdefa106456954dcf3b32054378def219c7",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:19:34+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "98af57a46de83fb7e0ceb8b74e73e148d1db25bcb8ba4833f8cb0fd802eff943",
+   "width": 511,
+   "height": 679,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:19:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "997f098f2e54b67b0e75ebe49a039bc5ca5400d9552836b43f4f2848cc7908e3",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37638&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:19:37+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:19:26+00:00",
+ "status": "done"
+}

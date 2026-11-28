@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "simpsons",
+ "title": "The Simpsons",
+ "source": "screenscraper",
+ "ss_game_id": 149954,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 149954,
+  "release_year": 1991,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-4",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "The Simpsons",
+   "genre": "Beat'em All",
+   "synopsis": "Un cambriolage de bijoux tourne mal , l'acolyte de Mr Burns, Smithers, kidnappant Maggie et s'enffouit . Entre un et quatre joueurs jouent le rôle de Homer, Marge, Lisa ou Bart dans ce beat-em-up coloré et horizontal de Konami. Chaque personnage Simpsons possède un mouvement d'attaque qui lui est propre. Marge est armée d'un aspirateur, Lisa a une corde à sauter, Bart a son skateboard et Homer se bat avec ses poings. Les joueurs doivent se frayer un chemin à travers une variété de niveaux sur le thème des Simpsons - tels que Springfield et Krustyland - des voyous , des zombies, des ivrognes, des pompiers et plusieurs habitués des Simpsons. Beaucoup de personnages de Simpsons qui n'apparaissent pas comme ennemis ont des scènes de \"caméo\" dans le jeu (Otto travaillant dans un stand à Krustyland, par exemple). Le personnage archétype du «boss» attend les joueurs à la fin de chaque étape. Le jeu se termine par une confrontation finale avec le maléfique M. Burns dans son luxueux manoir.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "The Simpsons",
+   "genre": "Beat'em Up",
+   "synopsis": "A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.\r\n\r\nThe Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "dc153d5681f673181bf38d348a2559a4d93ef115e07317eeb97963ad200d6f5c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=fanart",
+   "fetched_at": "2026-11-06T23:50:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "356749ddae29d18df9f3cef14901b725124cb0288e54da4c67121ee2f6be8f66",
+   "width": 400,
+   "height": 145,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:50:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5178171ddfa1a39a90c74d22ac021bab509ec0561cb7279143c9e1d3343c0855",
+   "width": 764,
+   "height": 1080,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:50:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b30533230eb33a55d47d2058a305e1bdaa755b702d8d09be4ac7401dfede93fa",
+   "width": 586,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:50:38+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b3542157b61f1c776545da8732b5fb67648a88240d1d6bd94b2e0ded9f9ddea0",
+   "width": 288,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:50:38+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1f09afea03aa2449b5928f8a25e926e1659b52fd39ce7036f4acd8e9a8d84b4e",
+   "width": 764,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:50:40+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "17aabd527cd66db81f6beef0ab997ed495ca0742be3d64ed825f31bb3b8ebf9c",
+    "width": 288,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=149954&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:50:41+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:50:30+00:00",
+ "status": "done"
+}

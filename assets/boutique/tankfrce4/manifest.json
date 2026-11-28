@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "tankfrce4",
+ "title": "Tank Force",
+ "source": "screenscraper",
+ "ss_game_id": 43515,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43515,
+  "release_year": 1991,
+  "publisher": "Namco",
+  "developer": "Namco",
+  "players": "1-4",
+  "system_label": "Namco Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Tank Force",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "A l'aide de votre char, résistez à l'attaque ennemie en protégeant votre base. Très fun avec une difficulté progressive.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Tank Force",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Tank Force is a multi-directional shooter arcade game that was released by Namco in 1991; it was the last game to run on their System 1 hardware (which had been in use for four years), is the sequel to Battle City, which was released six years earlier and is a sequel to Tank Battalion, which had been released five years before it (and eleven years before this title). The US version of the game was also the first of seven games from the company to display the Federal Bureau of Investigation's \"Winners Don't Use Drugs\" screen during its attract mode - the others are Steel Gunner 2, F/A, Cosmo Gang the Puzzle, Knuckle Heads, Lucky & Wild, and Numan Athletics. Exvania and Super World Court, which were Japan-exclusive, may also feature the screen in their attract mode if the \"Display FBI Screen\" setting in the games' options menus has been set to \"Yes\".",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b5116e9475b46d0712068c8e913e31234c929f4dad58f366e5299ecc62f83343",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43515&media=fanart",
+   "fetched_at": "2026-11-06T23:57:39+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8445a308e5cd0f5e21f53e963323eb73941451966a9a9e4f9ce850433c96b5d7",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43515&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:57:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8e5fe5af150ee9e44786c1d185d03d181a343ac879fbcf921690a7aac4ea1ffc",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43515&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:57:42+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "21c5f006944bb14dfa1cf78d7fa7985875b56413497beb60fa7f844e8fc2605c",
+   "width": 288,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43515&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:57:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "446ceb8e76e009525ce1fdc2c391da39cdec5789a6c9e2edc78a413acedbe2ed",
+    "width": 288,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=43515&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:57:45+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:57:39+00:00",
+ "status": "done"
+}

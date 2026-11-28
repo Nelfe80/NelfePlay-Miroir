@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "spider-man-venom-maximum-carnage",
+ "title": "Spider-Man/Venom: Maximum Carnage",
+ "source": "screenscraper",
+ "ss_game_id": 2304,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2304,
+  "release_year": 1994,
+  "publisher": "LJN",
+  "developer": "Software Creations",
+  "players": "1",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Spider-Man & Venom : Maximum Carnage",
+   "genre": "Beat'em All",
+   "synopsis": "Librement inspirée de la série de bandes dessinées, l'histoire commence lorsque Carnage s'échappe de l'asile psychiatrique et sème le chaos. Spider-Man prend immédiatement conscience de la nouvelle mission qui l'attend et part à sa poursuite pour l'arrêter.\r\n\r\nVous commencez avec Spider-Man, mais à certains moments, vous pouvez choisir entre lui et Venom, ce qui vous fait emprunter des parcours alternatifs. Le gameplay est celui d'un beat-'em-up classique, avec des coups de poing et des coups de pied en sautant, auxquels s'ajoute l'indispensable toile d'araignée : balancement, bouclier de toile, etc.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Spider-Man & Venom : Maximum Carnage",
+   "genre": "Beat'em Up",
+   "synopsis": "Loosely based on the comic book series, the story opens as Carnage breaks out of the insane asylum and wreaks mayhem. Spiderman immediately acknowledges the new job at hand and sets out to stop him.\n\nYou start off with Spidey but in certain parts you get to choose between him and Venom, which takes you through an alternate routes. The gameplay is your standard beat-em-up, the regular punching and jump-kicking, with the addition of the all important webbing - ie web swinging, web shield etc.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0e468c04941006804df8107b547cdf56126c2efa9b42cfcbda912ed23496c6b5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2304&media=fanart",
+   "fetched_at": "2026-11-06T23:24:47+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e65a64a35b2c4b060b60ced8f85546df9119720ac1bad7a75390f0cf1e19c1da",
+   "width": 600,
+   "height": 120,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2304&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:24:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "23afc9eeb4d83fc019f1b19d097a514b03d94ce608b8b763dbb222b1eb0b7fe4",
+   "width": 680,
+   "height": 500,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2304&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:24:50+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3fb56a65ec3e81b170060f3efa7f9b3b99abbb2bbadb4e1d88da267484f18ddd",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2304&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:24:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "e254775c15a0280526a97a24f63bab683c2da97def89ab0a81524361f963cc8b",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2304&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:24:53+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2d7dd318ac332a2c35d82c3cbeb00505ee8ab6b98c52cd053bc80be883f76651",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2304&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:24:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:24:46+00:00",
+ "status": "done"
+}

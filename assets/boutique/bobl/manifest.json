@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "bobl",
+ "title": "Böbl",
+ "source": "screenscraper",
+ "ss_game_id": 213969,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 213969,
+  "release_year": 2019,
+  "publisher": "Morphcat Games",
+  "developer": "Morphcat Games",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Böbl",
+   "genre": "Plateforme",
+   "synopsis": "Vous êtes une bulle, l'eau est votre amie et les éléments solides vous font éclater. Maintenez la touche A pour plonger, puis relâchez et laissez la flottabilité gérer le reste. C'est parti pour trouver tous les canards perdus!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Böbl",
+   "genre": "Platform",
+   "synopsis": "You're a bubble, water is your friend and solid tiles kill you. Hold A to dive, then release and let buoyancy handle the rest. Let's find all the lost duckies!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "51d0a225cc08f5d44285763f1939991c5601398e7559bbc2b1e22679af43fcba",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213969&media=fanart",
+   "fetched_at": "2026-11-06T15:41:37+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "51c21aac4d5cfd3b79c7c2122cbf9af36b17d42625b108889353d57cc73c7db2",
+   "width": 600,
+   "height": 273,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213969&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:41:39+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "168144256493110685995471304e2191dbf40db244d67263e3b8acea1a8deab4",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213969&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:41:41+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "20a7534fe960c0eb0bbe1d39460b50edcf99372141f0d3bc729e895c1fde605d",
+   "width": 543,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213969&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:41:42+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0f7925a3918edbb2a0648d8d87961852382c76544a9e406cea8b23748d0cca0e",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213969&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:41:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f86ca169324313246e9e21416146b838a816180a5067b9370b00915d1e37ac70",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=213969&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:41:45+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:41:37+00:00",
+ "status": "done"
+}

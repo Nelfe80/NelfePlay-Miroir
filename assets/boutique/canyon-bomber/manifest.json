@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "canyon-bomber",
+ "title": "Canyon Bomber",
+ "source": "screenscraper",
+ "ss_game_id": 14073,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14073,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Canyon Bomber",
+   "genre": "",
+   "synopsis": "Canyon Bomber pour Atari VCS 2600 est un jeu d'action développé par Atari. Deux hélicoptères survolent un canyon rempli de blocs. Le but du jeu est de détruire plus de blocs que votre adversaire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Canyon Bomber",
+   "genre": "",
+   "synopsis": "Two aircraft (yours and your opponent's) fly over a canyon filled with layers of colorful bricks, a la Breakout. Using the fire button on your paddle controller, you earn points by dropping bombs into the canyon and destroying as many blocks as possible. The player with the highest score at the end of the game wins.\n\nThis game is extremely limited in that it is played using only the paddle controller's fire button. You do not control the movement of the planes and helicopters, but rather you must time your shots to do the most damage.\n\nThe cartridge includes a secondary variation titled \"Sea Bomber\" that is a little more interactive. In this game, you deploy bombs onto seafaring ships, but this time you can use the paddle controller's knob to determine the depth of the bombs.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "482247beceaa18f5d3b87ce557d0e352516e62a8cf744bdeeffa2e365088a7ec",
+   "width": 400,
+   "height": 41,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14073&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:50:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "49e167c200855c49fb6b62918a28def5c54e8364bc62f2136e5a0bb3bd61dd45",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14073&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:50:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ad0963749c71b5b936ae7313cb37cdfd5d5d47c81142899d27e2cc1a017545f7",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14073&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:50:07+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9f2dacd449737f3f8e22851bba01fdd15595cd048837365f951913205a541767",
+   "width": 320,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14073&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:50:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "95d8e0b916f2df656115dac1f4f6dd4a49bab8dd44857fabd8419c302be4b24f",
+    "width": 320,
+    "height": 195,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14073&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:50:10+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:50:03+00:00",
+ "status": "done"
+}

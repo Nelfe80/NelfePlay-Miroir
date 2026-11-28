@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "over-top",
+ "title": "OVER TOP",
+ "source": "screenscraper",
+ "ss_game_id": 13948,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13948,
+  "release_year": 1996,
+  "publisher": "SNK",
+  "developer": "ADK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Over Top",
+   "genre": "Course, Conduite / Course",
+   "synopsis": "Over Top sur Neo Geo est un jeu de courses proposant 8 véhicules (Hummer, Ferrari, Moto...) qui s'affrontent dans des environnements divers (ville, désert, campagne...). L'objectif est de terminer les courses avant que le chronomètre n'atteigne zéro. Les virages sont annoncés par des flèches et le joueur peut s'aider d'un radar, notamment pour dénicher les raccourcis.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Over Top",
+   "genre": "Racing, Driving / Racing",
+   "synopsis": "In 1991, ADK (then Alpha team) released Thrash Rally for the Neo Geo. While fun to play, it was most noted for its woefully bad graphics. Five years later, ADK released another \"look-out-for-the-next-turn!\" game called Overtop. This time they got it almost all right: Great graphics, good sounds, lots of vehicles, and kept the excellent playability of its predecessor.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6bd08999ff63d2914f4540ea1f14a0ea60e456c9c1c8105e4569974e68c6b9e8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=fanart",
+   "fetched_at": "2026-11-06T15:39:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0f6636255f9748598e255efa122b800650923f4f99e8697fd5ac5e033feadceb",
+   "width": 600,
+   "height": 179,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:39:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ba7cd8e81e650044e85aa072fe6bd13a4d40d18efb337069f6617760dba51d89",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "c4d67113fef772db0feae3e6ea46e9b4234b85845c78f947cb96252ddc4b5ca2",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:39:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3f5071581cdaf9a7525d14014b137260110e7df05f9cd52f67f47770ece29fac",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:39:52+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "096d9dc3c27a4721aa409d30754573749d0868425395617f26f484601cb93d24",
+   "width": 948,
+   "height": 1200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:39:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c0ad17bba96818715ee25c1380ec81e290ec51b2dcc625e890b92080376b76e5",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13948&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:39:55+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:39:46+00:00",
+ "status": "done"
+}

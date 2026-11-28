@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "art-of-fighting-3-the-path-of-the-warrior",
+ "title": "ART OF FIGHTING 3: THE PATH OF THE WARRIOR",
+ "source": "screenscraper",
+ "ss_game_id": 37567,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37567,
+  "release_year": 1996,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Art of Fighting 3 : The Path of the Warrior",
+   "genre": "Combat / Versus",
+   "synopsis": "The Path of the Warrior : Art of Fighting 3 sur Neo Geo possède très peu de liens scénaristiques en rapport avec les deux précédents volets. Qu'importe, l'essentiel ici est la baston. Tout d'abord comptez huit persos jouables, plus deux à débloquer. Ajoutez à cela une animation d'une fluidité accrue et bluffante pour l'époque. La clé de la victoire réside dans l'esquive, plus importante que jamais dans un Art of Fighting.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Art of Fighting 3 : The Path of the Warrior",
+   "genre": "Fighting / Versus",
+   "synopsis": "In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks... because Robert is not the only one looking for Freia.\n\nArt of Fighting 3: The Path of The Warrior features ten playable characters with different fighting styles, a completely new fighting system based on joystick and button combinations, and incredibly detailed graphics and animation.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "631abcfac7de27223b3857e265dd94964d0f8ea50d6f936f7ebc1cd371c0572e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=fanart",
+   "fetched_at": "2026-11-06T23:41:55+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9d8fbfaab33622e1dc931f43e107e39176a3741b0d15a1ad991830468ebac131",
+   "width": 600,
+   "height": 265,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:41:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4005da83f3d595e20b3f2ac540de4ee11d90379fde58fa780b93bef336cb925a",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:41:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ac6e44b50e641338e5fbccd147c92121a6f67639d0e4d60cabfea53336360141",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:42:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "bbe907386a4995cfd57705ebdfb72f9dd708c93e11d6dac362857e2dc82a6853",
+   "width": 304,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:42:01+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "bbd902d1035c686719c836b4c38a11ad5d1622a04b654a4d86b066a880b8b41e",
+   "width": 850,
+   "height": 1192,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T23:42:04+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e9e93ed32b2d1b16df5c2d3f28a28f6562010fa3629f588d96c4c0eadc3137c8",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37567&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:42:04+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:41:54+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "metal-slug-2nd-mission-world-en-ja",
+ "title": "Metal Slug - 2nd Mission (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47041,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47041,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "Ukiyotei",
+  "players": "1",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Metal Slug : 2nd Mission",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Prenez le contrôle du réservoir Metal Slug sur le NGPC une fois de plus, cette fois pour vaincre la force de frappe rebelle \"Phantom\". Voyagez à travers 38 champs de batailles non-linéaire pour vaincre les troupes ennemies et sauver les otages. Pilotez le tank Metal Slug, le jet de combat Slug Flyer et le sous-marin Slug Sub et tirez à la mitrailleuse lourde, le lance-roquettes et le canon.\r\nUne liste d'otages sauvés et un mode time attack ajoutent de la profondeur à cette version.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Metal Slug : 2nd Mission",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force \"Phantom.\" Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ea995f1ae2c7751d1cd1a6b330323e5d4dc6dba6dd54ca54f5cbffec66011b41",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47041&media=fanart",
+   "fetched_at": "2026-11-06T16:38:37+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c75160bf0ddbb97fc1bef46b7fadcc058b391556a6a17cea3ef8dac09a3136ae",
+   "width": 494,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47041&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:38:38+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a68d8dd0313a4f50696ee00ff829425d42e8d6bfbb9f394178ec58e9516d25ee",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47041&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:38:40+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "98c29932e9668b0519198b74abee225f73652a270b65ede266074d011bb9db35",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47041&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:38:41+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "6dbee897cf7dd386a6290d478f53ffb90e6f24d8b90a65f48696148751c50878",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47041&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:38:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "dbc894ef2f0e071977f04e62f44728d69718fc06f2a4da604b05330d02388522",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47041&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:38:44+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:38:35+00:00",
+ "status": "done"
+}

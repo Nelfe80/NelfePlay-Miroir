@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ducktales-2",
+ "title": "DuckTales 2",
+ "source": "screenscraper",
+ "ss_game_id": 71346,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 71346,
+  "release_year": 1993,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Disney's DuckTales 2",
+   "genre": "Plateforme",
+   "synopsis": "Oh là, là! Le voilà de retour!\r\nOncle Picsou est sur la piste de l'aventure la plus fructueuse qu'il ait jamais entreprise. Des morceaux de la carte du Trésor Perdu de McDuck ont été éparpillés tout autour du monde et Oncle Picsou doit les retrouver avant Gripsou, ce gredin avide au coeur de pierre. Parions que la compétition sera rude sur la ligne d'arrivée: tous deux veulent retrouver le trésor à tout prix pour devenir le plus riche canard du monde!\r\nRejoignez l'équipe formée par Oncle Picsou et ses neveux. Explorez avec eux les anciennes pyramides d'Egypte ou combattez les pirates dans le triangle des Bermudes. Aidez-les dans leurs recherches tout au long des couloirs hantés d'un ancestral château écossais et escaladez les rocs qui entourent les chutes vertigineuses du Niagara. Aidez Oncle Picsou dans sa poursuite du secret de l'île de Mu et vous découvrirez le dernier indice qui vous permettra de découvrir l'emplacement du Trésor de McDuck!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Disney's DuckTales 2",
+   "genre": "Platform",
+   "synopsis": "Scrooge McDuck is hot on the trail of the richest adventure ever. Pieces to the map of the Lost Treasure of McDuck have been scattered across the globe, and Scrooge must find them before the greedy Flintheart Glomgold grabs them. It's going to be a race to the finish as both of them try to find the treasure and become the richest duck in the world! Join Scrooge and his nephews as they explore the ancient pyramids of Egypt and do battle with swash-buckling pirates in the Bermuda Triangle. Help them search the haunted halls of an ancient Scottish castle and scale the watery heights of Niagara Falls. Aid Scrooge in his quest for the secret of the island of Mu and you'll gain the final clue to unravel the hidden location of the Lost Treasure of McDuck!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ca5d5a91d347612586d56dbc389f346ac6f8d954dd1460b49ec1ecf2ff8226eb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71346&media=fanart",
+   "fetched_at": "2026-11-06T23:19:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "60fc924fe9c6df4f33762fdd756489160393203000bafd63bf269bd4f7f03320",
+   "width": 600,
+   "height": 220,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71346&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:19:54+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e6ba2faae44c8d03509271609c2e77a4c2e68bbba7768c23970c91ffc712be95",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71346&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:56+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2d38d17f61c0a787dc84d38b43bb39662ced9a1b71725d09b17f7764496397a2",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71346&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:19:57+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4c775520ac034ed2232df68b3f69a6490e367e1f3eeea053c6a1fc991b29ce93",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71346&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:19:59+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e90721c9952807ee98f5882d91c34fc6c1fc707b87fd445b789be5679715f1b4",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=71346&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:20:00+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:19:52+00:00",
+ "status": "done"
+}

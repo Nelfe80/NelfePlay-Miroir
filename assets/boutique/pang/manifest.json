@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "pang",
+ "title": "Pang",
+ "source": "screenscraper",
+ "ss_game_id": 150069,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150069,
+  "release_year": 1989,
+  "publisher": "Mitchell",
+  "developer": "Mitchell",
+  "players": "1-2",
+  "system_label": "Mitchell"
+ },
+ "text": {
+  "fr": {
+   "name": "Pang",
+   "genre": "Tir",
+   "synopsis": "Pang est un jeu vidéo d'action-réflexion.\r\nUn ou deux joueurs se déplace(nt) dans un tableau où rebondissent des boules géantes. Il est possible d'éclater ces boules à l'aide de grappins ou d'autres armes récoltées en cours de jeu. Les boules se divisent alors en 2 boules plus petites, et ainsi de suite jusqu'à leur destruction complète.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Buster Bros.",
+   "genre": "Shooter",
+   "synopsis": "One or two players control safari-suited characters armed with harpoon guns, who must destroy the numerous different-sized balloons that litter each stage. When hit by a harpoon, the balloons break down into smaller fragments.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "88553ac866a364e5ae541091b197c7f461f710ab9b94bd301158be8e5ae7982f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=fanart",
+   "fetched_at": "2026-11-06T23:53:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d7cb9550c07ea7c3e878654773e995831bb816665f90a378ba11417d781cab6c",
+   "width": 400,
+   "height": 140,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:53:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "73c7fe34f101237f4aa55da2ad51c3075b3fc68a7e061477f162f2c97bb2b5e3",
+   "width": 606,
+   "height": 787,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:53:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9d3caa436dfdff81255ad8227703700080faf8101631b512fff301980c217a29",
+   "width": 407,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:53:28+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "544fcc7fc502b73d00e195e16056541c4872c38a1c9d38019bc475e713db963f",
+   "width": 384,
+   "height": 240,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:53:29+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "ba681413605337df2d3b426797306d08b8ad914f0f3b299d0cdd92a4540b7dda",
+   "width": 606,
+   "height": 787,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T23:53:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cdb9b2f5b85afa71840242486cf908b866ae96ac611319f588f3c043e360c655",
+    "width": 384,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=189&jeuid=150069&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:53:32+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:53:22+00:00",
+ "status": "done"
+}

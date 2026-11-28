@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "mutation-nation",
+ "title": "MUTATION NATION",
+ "source": "screenscraper",
+ "ss_game_id": 13896,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13896,
+  "release_year": 1992,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Mutation Nation",
+   "genre": "Beat'em All",
+   "synopsis": "Des expériences génétiques ont très mal tourné et ont transformé toute la population d'un ville en mutants. Dans Mutation Nation sur Neo Geo, vous incarnez un des deux braves gaillards chargés de ramener l'ordre dans ce village maudit.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mutation Nation",
+   "genre": "Beat'em Up",
+   "synopsis": "The Slum... an area of town completely forgotten. No one could imagine the cruelness suffered by innocent people who were transformed into horrible mutant creatures by genetic experiments. They hovered everywhere and completely took control of the town.\n\nMutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "473dab9012b01ac41276be0ea566f607219cec72ed111340881201f5f229cd1f",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=fanart",
+   "fetched_at": "2026-11-06T15:36:32+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e186b17462eacc44eb39b86a81a791788fe32b1d29fbcf57f82d12f58c6208d8",
+   "width": 600,
+   "height": 219,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T15:36:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0aa8d704336097f57328796058d08bf1f8e72a79416c588849db21960ed7f891",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "dc9201e5bbea238214841486d98ff317d72ba4d8292201c78f592f8a59b60fd3",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "45c08eb305a5210571422c48f01f4f92a3770083957ce0eda1c4c9c099e42cc5",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:36:38+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "5b99007a3a1d783bc2d9bc46ae863349c72384c0fcebf968066980a48fa2e9d9",
+   "width": 850,
+   "height": 1183,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:36:40+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "61e8c47e645a35bb2457640e0895d6a671cfd2c6f8fd2b2e58ebac7ff12124de",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13896&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:36:41+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:36:30+00:00",
+ "status": "done"
+}

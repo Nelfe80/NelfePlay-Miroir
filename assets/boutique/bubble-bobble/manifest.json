@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "bubble-bobble",
+ "title": "Bubble Bobble",
+ "source": "screenscraper",
+ "ss_game_id": 40393,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40393,
+  "release_year": 1986,
+  "publisher": "Taito",
+  "developer": "Taito",
+  "players": "1-2",
+  "system_label": "Taito Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Bubble Bobble",
+   "genre": "Plateforme",
+   "synopsis": "Le jeu met en scène Bub et Bob, deux enfants transformés en dragons et dont les fiancées ont été enlevées par le Baron von Blubba. Bub, aidé de Bob en mode deux joueurs, doit parcourir les quelque 100 niveaux du jeu pour les délivrer.\r\n\r\nChaque niveau se compose d'un écran fixe avec pour environnement un ensemble de plates-formes plus ou moins alambiquées. Des monstres évoluent dans ce décor et le but est de tous les éliminer sans se faire toucher. Les dragons ont le pouvoir de cracher des bulles qui emprisonnent les ennemis pendant quelques secondes ; ils n'ont ensuite plus qu'à faire éclater la bulle pour tuer le monstre et faire apparaître un objet qui vient gonfler le score. Il y a différents paramètres qui entrent progressivement en jeu, venant complexifier le challenge : au-delà d'une certaine limite de temps, les monstres accélèrent brutalement ; la durée de « capture » des bulles est variable et des courants d'air peuvent altérer leur trajectoire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bubble Bobble",
+   "genre": "Platform",
+   "synopsis": "One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. \r\n\r\nAny trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6d868a9fab08c9c2fcc87a82b0740c425acd0821081d5612240a6f7c34bc75a3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=fanart",
+   "fetched_at": "2026-11-06T15:33:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6a31845ecb0d99f0e5d14ece0ed1c8aae17bc6eeb142138ef243441e80c8955b",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:33:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3eb9d219d835d415f8b12c00144e96a19525bc09db52e4db3460acfadcbc1c38",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:33:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "86198548408f50b85be6ce17c9274508b807e2f59aaafac02c449e7ca5c7f544",
+   "width": 457,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:33:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "d37470eb036e1d6be7ad147ae8b8b1861cc710bf746a508bd15787ac87398229",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:33:37+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "01ceee76a195aa6e544af2c1d8d568af93e2d26c9e4c7f06d96e7cae07c7b49f",
+   "width": 473,
+   "height": 667,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T15:33:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "04500196ecd47413f0ba765f03d06b97ab506d3c61cd756f4c390df378bea72a",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40393&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:33:40+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:33:30+00:00",
+ "status": "done"
+}

@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "off-the-wall",
+ "title": "Off The Wall",
+ "source": "screenscraper",
+ "ss_game_id": 59480,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 59480,
+  "release_year": 1989,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Off the Wall",
+   "genre": "",
+   "synopsis": "Off The Wall est un jeu d'action arcade avec un gameplay de style Breakout. Vous contrôlez Kung Fu Lu, dont la mission est de détruire un mur mystérieux et maléfique en renvoyant une balle rebondissante dans les briques qui composent le mur. Lorsque les briques sont touchées par la balle, elles sont détruites. En haut de l'écran se trouve un dragon mystique qui garde le mur. Chaque niveau peut être terminé soit en détruisant toutes les briques du mur, soit en frappant le dragon six fois avec la balle. Une fois le premier niveau terminé, un merle apparaîtra également à l'écran juste en dessous du mur. Le merle fera dévier la balle et essaiera de se mettre en travers de votre chemin pour rendre votre mission plus difficile. De temps en temps, un jeton magique tombera vers le bas, ce qui vous donnera des pouvoirs spéciaux s'il est attrapé. Ceux-ci peuvent rendre la balle magnétique et suivre votre joueur, vous donner une plus grande raquette ou rendre la balle explosive et éliminer de plus gros morceaux de briques. Vous commencez le jeu avec un niveau de compétence Paysan et progressez en rang chaque fois que quatre vagues de briques sont éliminées. Vous perdez une vie à chaque fois que la balle tombe du bas de l'écran, et le jeu se termine lorsque vous perdez vos cinq vies.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Off the Wall",
+   "genre": "",
+   "synopsis": "Off The Wall is an arcade action game with Breakout style gameplay. You control Kung Fu Lu, whose mission is to destroy a mysterious, evil wall by reflecting a bouncing ball into the bricks that make up the wall. When the bricks are hit by the ball, they are destroyed. On the top of the screen is a mystical dragon which guards the wall. Each level can be completed by either destroying all of the bricks in the wall, or hitting the dragon six times with the ball. Once the first level is completed, a blackbird will also appear on screen just below the wall. The blackbird will deflect the ball, and tries to get in the way to make your mission more difficult. From time to time, a magic token will fall downward which gives you special powers if caught. These can make the ball magnetic and follow your player, give you a larger paddle, or make the ball explosive and take out larger chunks of bricks. You start the game at a skill level of Peasant, and advance in rank every time four waves of bricks are cleared. You lose a life every time the ball falls off the bottoms of the screen, and the game ends when you lose all five of your lives.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8ae017eb33c156f031c16b398bf7e4e19ed26113284ead2674dd6200ae52fbea",
+   "width": 400,
+   "height": 84,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59480&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:58:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "047f51c31cb0f8859ca24f9151c8170ec4ac349fcecdad195fd2d1e750aaadad",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59480&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:58:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "6d9c49d190464a98d7ae492a0178f61c12dcf714171fbbfe956085f7d6770f47",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59480&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:58:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "77830e34e1bd09fd86d3923bcfd6a7d9f23fdf6fd8c7a15f33aecfc7df37fd69",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59480&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:58:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "eb470381195099c3ad1a39bb482b4ac63d1ebff0e6ec755b25b6d6f9302421c6",
+    "width": 320,
+    "height": 210,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=59480&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:58:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:58:43+00:00",
+ "status": "done"
+}

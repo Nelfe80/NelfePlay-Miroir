@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "carrier-air-wing",
+ "title": "Carrier Air Wing",
+ "source": "screenscraper",
+ "ss_game_id": 37359,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37359,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Carrier Air Wing",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Carrier Airwing est né d'une époque bénie de l'Arcade. Capcom n'a presque jamais raté de jeu sur ses bornes CPS et CPS2, d'une part parce que les mêmes routines étaient tout le temps utilisées ? tous les titres tournant sur ces systèmes partagent une apparence graphique et un style sonore très similaires ? mais aussi grâce au talent incontestable du développeur dans le domaine de l'action pure et dure.\r\nAu premier coup d'?il, cette suite de U.N Squadron / Area 88 a l'aspect d'un shoot'em up à scrolling horizontal tout à fait ordinaire. On ne se rendra pleinement compte de son intérêt qu'à une seule condition : ne s'autoriser qu'un seul crédit par partie, seule méthode efficace pour retrouver le stress inhérent à la jouabilité de cette époque. Le niveau de difficulté minimal, par défaut celui de M.A.M.E, est abordable. Le plus élevé est humainement impossible, mais il y a suffisamment de degrés intermédiaires pour trouver challenge à sa mesure.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Carrier Air Wing",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. \r\n\r\nPlayers chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8b646003500832e6ed1237a7e3a7cdf40934216e105beda2843ffd4391ffd618",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=fanart",
+   "fetched_at": "2026-11-06T17:20:00+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "51a16bb464a1af3d84101abed7e5a39306d368bb510bddcd961038f8a32f943a",
+   "width": 600,
+   "height": 260,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:20:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "11b54c89a3cbe6c055327871bf87f07d157099d0bc23e412865ae171ca34bd9e",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:20:03+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fd0ba103c846c83cbdf744b0d0073b7b77fe7bbf11c5b980b1a2717c4e3fe598",
+   "width": 475,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:20:04+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3adf02cebb9f59eeaabd026ac3408c6dd70f7f9469a6adca83f5d9c6bac18b7a",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:20:06+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8059a8b105bb07c963a2139d21d9eaa28e483eeaff489079e4b1173791962412",
+   "width": 602,
+   "height": 787,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T17:20:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8b11f28772253bb28e014368f8500ada491de31714f2641172730738e1433323",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37359&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:20:08+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:19:59+00:00",
+ "status": "done"
+}

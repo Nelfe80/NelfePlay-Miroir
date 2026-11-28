@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "orunners",
+ "title": "OutRunners",
+ "source": "screenscraper",
+ "ss_game_id": 79101,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 79101,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "OutRunners",
+   "genre": "Course, Conduite",
+   "synopsis": "De 1 à 8 joueurs s'affrontent dans cette version haute en couleur du classique de 1986, «Out Run». \r\nOut Runners reprend les multiples parcours du jeu original, mais propose cette fois un grand nombre de véhicules sélectionnables.\r\nChacun présente des atouts et des faiblesses spécifiques, comme une vitesse plus élevée ou une meilleure maniabilité. \r\nOut Runners retranscrit l'esprit d'Out Run en y ajoutant des personnages, de l'humour, de nombreuses bandes sonores sélectionnables (dont une retransmission radio de la course par Jake Elwood) et une expérience de conduite fluide, à peine interrompue par les accidents.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "OutRunners",
+   "genre": "Racing, Driving",
+   "synopsis": "Between 1 and 8 players (the latter requiring the use of link-up cabinets) compete in this colourful update of the 1986 classic, \"Out Run\". Out Runners features the multiple routes of the original but this time includes a large number of selectable vehicles; each of which poses different strengths and weaknesses, such as higher speed or better handling. Out Runners captures of the spirit of Out Run adding characters, humour, numerous selectable soundtracks (including a radio broadcast of the race by Jake Elwood) and a seamless driving experience barely interrupted by crashes.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d70be164e93224c5d349f8ddff4b2c415d6dfd7babc38772b152ac28b067d2cd",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=fanart",
+   "fetched_at": "2026-11-06T23:48:14+00:00"
+  },
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "7b25a9a69f39fb5e1dfc8f3fb0a6cadb3057461c0776943dfa0e1764a22acbcf",
+   "width": 400,
+   "height": 191,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:48:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "621cfafc2076e0831096c99947bce4ace12d674b9017bac8e233748f10cb0637",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:48:17+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9c72d943135e29f5c35bc22b6c95a09c4c83dbe433ffc48d15e9cbde4de51fa8",
+   "width": 869,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:48:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c11db68085009c5775ceff5e652f753906eabc0734648e04c8ebf95d17305e20",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:48:20+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "953dc6264f1df62fae54a2be34275f884621c4ae13035315b181c9dd72467143",
+   "width": 850,
+   "height": 1121,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:48:22+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "9c9d7e999fc86d056ae385df74d1b32488ec7561ba6b49d6578785e799a581ab",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=79101&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:48:23+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:48:13+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "castlevania-iii-dracula-s-curse",
+ "title": "Castlevania III: Dracula's Curse",
+ "source": "screenscraper",
+ "ss_game_id": 1278,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1278,
+  "release_year": 1990,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Castlevania III : Dracula's Curse",
+   "genre": "Plateforme",
+   "synopsis": "Il n'y a que vous qui puissiez empêcher Dracula de faire couler le sang!\r\nConduit par l'immortel comte Dracula, une armée diabolique, la plus gigantesque qui ait jamais été rassemblée, se tient prête à enterrer l'humanité dans une tombe de terreur. La destruction de cette légion composée de Dragons des Marais, de Squelettes balafreurs et de monstrueux démons ne pourra être assurée que par un combat suprême mené par le plus rusé des guerriers.\r\nL'histoire se situe cent ans avant la naissance de Simon Belmont. Dracula est jeune et il faudra plus qu'un pieu pour neutraliser ce démon. Heureusement, vous incarnez Trevor, l'aïeul de Simon, celui qui fut le premier de la lignée des Seigneurs Belmont.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Castlevania III : Dracula's Curse",
+   "genre": "Platform",
+   "synopsis": "Only you can stop Dracula from drawing first blood!\r\n\r\nLed by the immortal Count Dracula, the greatest army of evil ever assembled is poised to bury mankind in a Tomb of Terror. Destroying this legion of Swamp Dragons, Slasher Skeletons and Forces of the Undead will be the supreme challenge for the mightiest of warriors.\r\n\r\nYour place in history is 100 years before Simon Belmont's birth. Dracula is young at heart, and it will take more than a stake to penetrate his evil. Luckily, you command the role of Trevor - Simon's forefather and the origin of the Belmont Warlord Chromosones.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "eaa0ea8d082f38301d1232609151b387e9f18cc39da6592d2a9d98c84d867887",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1278&media=fanart",
+   "fetched_at": "2026-11-06T16:20:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3d6d443e05a0049b252a564d0f706e6979b5306a7417cc8d8ed30688402b0712",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1278&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:20:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8c5ce03cea59f1b5995cc93b8a02dc163de43505dc13af7914a2841ee218a129",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1278&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:20:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "bd3765d018ee634f53de8880b8de3fb12ed7f76a16658591fbdb8dcc92110168",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1278&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:20:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "eed2e309aeec86600664a943f9247a3520abcb88063dd834c47188e10c969672",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1278&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T16:20:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2a886d5b752002cb2a5a5a05fbb171a3430ee8c52614f451686184d400bb9fab",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1278&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:20:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:20:39+00:00",
+ "status": "done"
+}

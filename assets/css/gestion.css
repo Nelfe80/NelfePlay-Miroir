@@ -1,0 +1,64 @@
+/* /gestion : l'editeur des fiches de la boutique. Tout par variables de app.css : jour et nuit suivent. */
+.gs-bar { position: sticky; top: 0; z-index: 30; background: var(--surface); border-bottom: 1px solid var(--line); box-shadow: 0 6px 18px rgba(var(--shadow-rgb), 0.12); }
+.gs-bar-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; padding-top: 10px; padding-bottom: 10px; }
+.gs-back, .gs-view { color: var(--brand-bright); text-decoration: none; font-size: 0.9rem; }
+.gs-langs, .gs-format { display: inline-flex; gap: 4px; }
+.gs-lang, .gs-format button { min-width: 36px; min-height: 36px; padding: 0 10px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface-raised); color: var(--text); cursor: pointer; font: inherit; font-size: 0.85rem; }
+.gs-lang[aria-pressed="true"] { background: var(--brand); border-color: var(--brand); color: var(--surface); }
+.gs-format { opacity: 0.45; pointer-events: none; }
+.gs-root.is-riche .gs-format { opacity: 1; pointer-events: auto; }
+.gs-status { margin-left: auto; font-size: 0.85rem; color: var(--muted); }
+.gs-status.is-error { color: var(--danger); }
+
+/* Un seul texte par langue est visible. */
+.gs-edit[data-lang], .gs-field input[data-lang] { display: none; }
+.gs-root[data-lang="fr"] [data-lang="fr"], .gs-root[data-lang="en"] [data-lang="en"], .gs-root[data-lang="es"] [data-lang="es"],
+.gs-root[data-lang="ja"] [data-lang="ja"], .gs-root[data-lang="ko"] [data-lang="ko"], .gs-root[data-lang="zh"] [data-lang="zh"] { display: block; }
+.gs-root [data-set-lang] { display: inline-block; }
+
+.gs-edit { min-height: 1.6em; border-radius: 8px; outline: 1px dashed transparent; outline-offset: 4px; transition: outline-color 0.15s; cursor: text; }
+.gs-edit:hover { outline-color: var(--line-strong); }
+.gs-edit:focus { outline: 2px solid var(--brand); background: rgba(var(--ink-rgb), 0.04); }
+.gs-edit:empty::before { content: attr(data-vide); color: var(--muted); font-style: italic; pointer-events: none; }
+.gs-edit.is-manual { box-shadow: -4px 0 0 0 var(--brand); }
+span.gs-edit[data-lang].gs-edit, .gs-chap-titre .gs-edit { display: none; }
+.gs-root[data-lang="fr"] .gs-chap-titre [data-lang="fr"], .gs-root[data-lang="en"] .gs-chap-titre [data-lang="en"], .gs-root[data-lang="es"] .gs-chap-titre [data-lang="es"],
+.gs-root[data-lang="ja"] .gs-chap-titre [data-lang="ja"], .gs-root[data-lang="ko"] .gs-chap-titre [data-lang="ko"], .gs-root[data-lang="zh"] .gs-chap-titre [data-lang="zh"] { display: inline-block; }
+.bq-h1 .gs-edit { display: inline-block; min-width: 4ch; }
+
+.gs-panel { display: grid; gap: 10px; padding: 14px; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); }
+.gs-panel--inline { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); background: transparent; border: 0; padding: 0; }
+.gs-field { display: grid; gap: 4px; font-size: 0.85rem; color: var(--muted); }
+.gs-in, .gs-credit input { width: 100%; box-sizing: border-box; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface-raised); color: var(--text); font: inherit; }
+.gs-in.is-manual { border-color: var(--brand); }
+.gs-quote-meta { display: grid; gap: 8px; margin-top: 12px; }
+.gs-sub { margin: 18px 0 8px; font-size: 0.9rem; }
+.gs-captures { border: 0; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.gs-captures legend { font-size: 0.85rem; color: var(--muted); margin-bottom: 6px; }
+.gs-capture { display: grid; gap: 4px; justify-items: center; cursor: pointer; }
+.gs-capture .gs-in { width: auto; }
+.gs-capture img, .gs-flyer { width: 96px; height: 64px; object-fit: cover; border-radius: 8px; border: 1px solid var(--line); }
+.gs-flyer { width: 120px; height: auto; max-height: 160px; margin-top: 8px; }
+.gs-check { display: flex; gap: 8px; align-items: center; }
+.gs-check .gs-in { width: auto; }
+
+.gs-credits { list-style: none; margin: 12px 0; padding: 0; display: grid; gap: 8px; }
+.gs-credit { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)) auto; gap: 8px; align-items: center; }
+.gs-del { min-width: 36px; min-height: 36px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface-raised); color: var(--danger); cursor: pointer; font-size: 1.2rem; }
+.gs-hint { color: var(--muted); font-size: 0.85rem; max-width: 70ch; }
+.gs-h2 { font-size: 1.2rem; }
+.gs-journal ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; font-size: 0.85rem; }
+.gs-journal li { display: flex; flex-wrap: wrap; gap: 10px; color: var(--text-soft); }
+.gs-journal small { color: var(--muted); }
+
+/* La liste */
+.gs-search { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0; }
+.gs-search input[type="search"] { flex: 1 1 260px; }
+.gs-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 32px; }
+.gs-list { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 4px; }
+.gs-list a { display: flex; justify-content: space-between; gap: 8px; padding: 8px 12px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); text-decoration: none; color: var(--text); }
+.gs-list a:hover { border-color: var(--brand); }
+.gs-list small { color: var(--muted); }
+.gs-edited { color: var(--success); font-size: 0.75rem; font-weight: 700; }
+.gs-new { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.gs-new input { flex: 1 1 200px; }

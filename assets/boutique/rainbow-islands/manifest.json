@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "rainbow-islands",
+    "title": "Rainbow Islands",
+    "source": "screenscraper",
+    "ss_game_id": 42708,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 42708,
+        "release_year": 1987,
+        "publisher": "Taito",
+        "developer": "Taito",
+        "players": "1-2",
+        "system_label": "Taito Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Rainbow Islands",
+            "genre": "Plateforme",
+            "synopsis": "Rainbow Islands - The Story of Bubble Bobble 2 est la suite du légendaire \"Bubble Bobble\" - sorti un an plus tôt - où un à deux joueurs (qui, contrairement à 'Bubble Bobble' ne jouent pas simultanément) jouent le rôle de Bub et Bob, qui ont retrouvé leur forme humaine originale après leur succès dans Bubble Bobble. Il leur a été demandé à leur retour de secourir l'île arc-en-ciel (Rainbow Island) des nombreux ennemis qui ont pris possession de l'île en leur absence.\r\n\r\nBub et Bob sont dotés du pouvoir de créer des arc-en-ciel. Cet accessoire ingénieux est à la fois une arme (qui peut emprisonner les ennemis et les tuer instantanément, en les traversant ou en leur faisant tomber l'arc-en-ciel dessus), un moyen de collecter des bonus et des gemmes, ou une plateforme éphémère permettant d'atteindre des endroits inaccessible du niveau. L'objectif étant d'atteindre le sommet du niveau avant la fin du temps imparti.\r\n\r\nCe jeu de plateforme est une pure réussite, à essayer sans hésiter.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Rainbow Islands",
+            "genre": "Platform",
+            "synopsis": "Rainbow Islands - The Story of Bubble Bobble 2  is a sequel to the legendary \"Bubble Bobble\" - released a year earlier - one or two players (who, unlike 'Bubble Bobble', no longer play simultaneously) take on the role of Bub and Bob, who have now been returned to their original human form after their success in Bubble Bobble. The returning heroes have been asked to rescue the Rainbow Islands from the clutches of the various enemies who have overrun the islands in their absence.\r\n\r\nBob and Bob are each armed with the ability to create solid rainbows. This ingenious game-play device acts as both a weapon (to either kill an enemy instantly, or trap it then collapse the rainbow onto it, the latter essential for collecting bonus gems - as detailed in 'Tips and Tricks') and as a temporary platform that allows the players to reach previously inaccessible parts of the level, as they race to reach the top of the island before the game's tight time limit expires.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "0cdd356fb2fb622ab9a36ebce247063b358d93fa4f5b824479c6359f45716874",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=42708&media=fanart",
+            "fetched_at": "2026-11-26T00:00:03+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "7e0109d0105c3b61975375c7a25a5b3c676c2c4d9b6473ee3f28622ef948a893",
+            "width": 600,
+            "height": 270,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=42708&media=wheel%28jp%29",
+            "fetched_at": "2026-11-26T00:00:04+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "61bafcadf20a189cf922fe5c38681b7a3f753ce84be1d056a79fc0aef764fd32",
+            "width": 480,
+            "height": 674,
+            "region": "jp",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=42708&media=box-2D%28jp%29",
+            "fetched_at": "2026-11-26T00:00:05+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "927e832942f121d3dfe938f3634002506fd30936b8d1a6c9a2cdd0cb5ec39ada",
+            "width": 320,
+            "height": 224,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=42708&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-26T00:00:07+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "45a734b68061027972b09642fd1d5b856ea84cf13ce6df8f7e36a25f420aed18",
+            "width": 1205,
+            "height": 850,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=42708&media=flyer%28wor%29",
+            "fetched_at": "2026-11-26T00:00:08+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "0d287f2ac29b8d06fd7ffd28f1f750e7d77b0f62b13e5333757f2889e40d95d8",
+                "width": 320,
+                "height": 240,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=42708&media=ss%28wor%29",
+                "fetched_at": "2026-11-26T00:00:10+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "support-2d"
+    ],
+    "fetched_at": "2026-11-26T00:00:01+00:00",
+    "status": "done"
+}

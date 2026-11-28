@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sky-diver",
+ "title": "Sky Diver",
+ "source": "screenscraper",
+ "ss_game_id": 14070,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14070,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Sears",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Sky Diver",
+   "genre": "",
+   "synopsis": "Sky Diver pour Atari VCS 2600 est un jeu de sport développé par Atari mettant le saut en parachute à l'honneur. Le jeu se joue à 2 et le but est de récolter le plus de points après avoir effectué 9 sauts. Les points sont calculés selon le moment d'ouverture du parachute et le point d'atterrissage.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sky Diver : Dare Diver",
+   "genre": "",
+   "synopsis": "Sky Diver is an action game for two players. The goal is to score the most points by jumping from a plane, opening your parachute,  and guiding your sky diver safely to a landing pad. The longer you wait to open your parachute, the more points you earn for a successful landing, but don't wait too long or your chute won't open at all! For each jump, there will be varying wind conditions which blow your sky diver off course. A wind sock at the bottom of the screen will help you determine the wind speed and direction so you can compensate. There are nine jumps total, and the player with the most points at the end wins.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2da457bc829fe57fff7585cdcc2fbe34e44114194c8838aefe6605fca64f160c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14070&media=fanart",
+   "fetched_at": "2026-11-07T20:25:11+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "79a0a7c2ba8b97a9b4c2f667bd520279ba6636c68ffc2e1385d38d4643468886",
+   "width": 400,
+   "height": 70,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14070&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:25:13+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5768956634b6349eae849594ea6aca86dbe35e25f92d688fefe756294a7f1377",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14070&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:15+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "22baf77a75cc044b2983fddc0611664c2981360ced2c2a8be6f63114140a6b95",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14070&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T20:25:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "adbf2959648a2a07d3f1f54e74b049babb54bc8c861b51e3fdc245a2e52abc1f",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14070&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:25:17+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "579352914c91b85b49c8b4eb83bea4b418dead613821e6e0088ad462afcdb201",
+    "width": 320,
+    "height": 222,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14070&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:25:19+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:25:11+00:00",
+ "status": "done"
+}

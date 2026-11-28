@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "star-raiders",
+ "title": "Star Raiders",
+ "source": "screenscraper",
+ "ss_game_id": 37984,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37984,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Star Raiders",
+   "genre": "Stratégie",
+   "synopsis": "Toutes nos félicitations! Vous êtes maintenant membre d'élite des Star Raiders!  Repérez et détruisez à vue tous les vaisseaux Zylon, tout en luttant contre le temps, la perte d'énergie, les dégâts des vaisseaux et les menaces ennemies sur des bases stellaires vitales. Commencez en tant que novice et progressez jusqu'à devenir un Star Commander ... ou régressez pour finir comme cuisinier galactique...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Star Raiders",
+   "genre": "Strategy",
+   "synopsis": "As the pilot of an interstellar starship, your mission is to destroy all of the Krylon fighters which are closing in on your starbases! There are three different types of fighters roaming throughout the galaxy; cruisers, fighters, and basestars. With the help of your galactic map, you can find the sectors of the galaxy where these fighters are located and then warp there to destroy them. When all of the fighters in a sector are destroyed, you can warp to a new location for the next battle. Be sure to keep an eye on your starships energy; warping to new locations, being hit by enemy fire, or colliding with an asteroid will drain your energy. If you completely run out of energy, your starship will be destroyed, however you can warp back to a starbase to refuel at any time. Returning to a starbase will also repair other types of damage your starship can receive, such as faulty engines, loss of your shield, and faulty photon torpedoes. When all of the Krylon that are visible on your galactic map have been destroyed, you win this round and can advance in rank (or even be demoted if you performed poorly on a mission).  The games difficulty will gradually increase as you rise in rank from ships cook up to captain.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d83430b12507cbf5206f8f1d1b3da26598b6ecd123d91e94f1122885e5df775e",
+   "width": 600,
+   "height": 100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37984&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:04:33+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "abda929b39ec79bbab51e16980f8bc72daedbbae259642e9674b85a10428fb79",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37984&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9e4929b3fca5233156765396ade5b1e4d49211bb9d2f90459532c8100f01df32",
+   "width": 600,
+   "height": 552,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37984&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:04:36+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a85222294c8c39c61aac5b0628c81f2d02a4b2e636dd86b5ff2abe37ade51e88",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37984&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:04:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "82025bbe64daf87b97259aff587140c920d00286c5add0bf9cabaa10c9624aee",
+    "width": 336,
+    "height": 225,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37984&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:04:39+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:04:32+00:00",
+ "status": "done"
+}

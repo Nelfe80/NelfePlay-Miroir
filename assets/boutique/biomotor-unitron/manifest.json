@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "slug": "biomotor-unitron",
+ "title": "Biomotor Unitron",
+ "source": "screenscraper",
+ "ss_game_id": 47025,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47025,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "Yumekobo",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Biomotor Unitron",
+   "genre": "Jeu de rôles",
+   "synopsis": "Suite à la chute d'une météorite et l?avènement d'une nouvelle source d?énergie, la construction de Robots Géant s'est démocratisé à travers le monde.\r\nCes robots sont utilisés dans l'organisation de combats d?arènes, pour obtenir le titre suprême de \"Master of Masters\".\r\nLe joueur incarne un duo de personnages qui participent justement dans ces combats de gladiateurs moderne. On peut avoir le contrôle sur les 2 protagonistes, le but premier étant de gagner de l'argent et de l?équipement pour améliorer notre Unitron.\r\nOn dénombre plus de 200 combinaisons d'armement possible, chaque armes ayant des forces et faiblesses.\r\nLes combats sont comme beaucoup de J-RPG de l?époque, a base de menu dans lequel on sélectionne l'action voulu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Biomotor Unitron",
+   "genre": "Role Playing Game",
+   "synopsis": "Biomotor Unitron is a RPG for the Neo Geo Pocket Color.\n\nAfter a meteor brings a new source of energy to the world, the construction of giant robots begins. These robots are used for entertainment and fight in arena fights against one-another for the title Master of Masters. You play a duo of characters that participates in these gladiator battles. You can control both characters and have to explore and perform quests to earn money and items to upgrade your Unitron robot with. You can talk to inhabitants of the city and buy new items at stores.\n\nThe Unitron changes visibly when you apply upgrades and a great deal of upgrades are at hand. Over two hundred different weapon configurations are possible. Each weapon and part has a certain material and element. Fire weapons will work better against wooden robots than water-based robots.\n\nBeneath the city there are large dungeons where most quests will have to be solved and most items will be found.\n\nThe battles are like in Pokémon, completely menu based. You pick whatever powers you want to use from a drop-down list.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.png",
+   "sha256": "48b2a95b7fc2a9634dba814f295c7759d6f2c57af82e6dcb964d9c09324e1115",
+   "width": 400,
+   "height": 119,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:12:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e7921baa552ef2cb5309e13daee1d618c282d00ef87ad34578584ef61c9074d8",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:12:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b4c35df012f199d87a82930afc563e367591cea7f6e2a900685fac060c97892c",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:13:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3e50cb679e43107fb63678d3801adf4315f94ed1fbbc7e00ae6129ccdc8cbc42",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:13:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "699ff8f20d01e3a3683a04bd6f6b55f8c6730aec303b95da917773baf4a6a8e7",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:13:02+00:00"
+   },
+   {
+    "file": "ss2.png",
+    "sha256": "b3cbbd53f07a22a4d300d9fc85eff9d4bbfbfd4acadc92f2f4d6530f638afe03",
+    "width": 160,
+    "height": 152,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=ss%28cus%29",
+    "fetched_at": "2026-11-06T17:13:04+00:00"
+   },
+   {
+    "file": "ss3.webp",
+    "sha256": "0cc953b28d36ab57c3edb3ff1d01387f6b59338e39f59535352aba295880b24b",
+    "width": 320,
+    "height": 302,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=ss%28us%29",
+    "fetched_at": "2026-11-06T17:13:05+00:00"
+   },
+   {
+    "file": "ss4.png",
+    "sha256": "b3cbbd53f07a22a4d300d9fc85eff9d4bbfbfd4acadc92f2f4d6530f638afe03",
+    "width": 160,
+    "height": 152,
+    "region": "cus",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47025&media=ss%28cus%29",
+    "fetched_at": "2026-11-06T17:13:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:12:55+00:00",
+ "status": "done"
+}

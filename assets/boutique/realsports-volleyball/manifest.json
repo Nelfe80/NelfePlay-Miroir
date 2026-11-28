@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "realsports-volleyball",
+ "title": "RealSports Volleyball",
+ "source": "screenscraper",
+ "ss_game_id": 87549,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87549,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Volleyball",
+   "genre": "Sport / Volleyball",
+   "synopsis": "Volleyball sur Atari 2600 est un jeu d'action fidèle aux règles classiques du sport : la première équipe à atteindre 15 points remporte la partie. Le joueur contrôle les deux membres de son équipe, capables de servir, de faire des passes, de smasher et de bloquer.  \r\n\r\nLe jeu propose plusieurs variantes : deux niveaux de difficulté et deux vitesses de déplacement. En mode facile, la balle repart automatiquement de l'autre côté du filet lorsqu'elle est frappée. En mode avancé, il est possible de réaliser de véritables échanges entre coéquipiers avant de renvoyer la balle. La vitesse des joueurs peut être réglée sur rapide ou lente, permettant d'ajouter du challenge ou de créer un handicap entre les équipes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Volleyball",
+   "genre": "Sports / Volleyball",
+   "synopsis": "Volleyball is an action game which can be played by one or two players. The game follows traditional volleyball rules; the first team to score 15 points wins! You control both players on the team, which have the ability to serve, set, spike, and block. There are several game variations included; two game difficulties and two player speeds.  In the easier version of the game, the ball will automatically be sent back over the net when hit. In the advanced version, the game also allows you to set the ball between teammates. In either version of the game with either one or two players, the speed at which the players run can be set to either fast or slow for an extra challenge or to handicap one team.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b792a63a110fbdef2015b2af8e0b32fdce7ad9f3936532aac566b736331e7ad5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87549&media=fanart",
+   "fetched_at": "2026-11-06T17:01:34+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "bc92212c2c50ff1cc5cff64c374590c02587271b286eab4a3f00c75460e162c8",
+   "width": 400,
+   "height": 32,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87549&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:01:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "968136b5fba7ccdc5660f1f77e8e1fac3caf70e4aeb7c9a1f7237edcdb902ff9",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87549&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:01:37+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f158c1fe83043e71068098b8d0108dc3b6f3d6d688ede6de4c7b0ecdaba19a8f",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87549&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:01:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "20ff6c82f3afbc32773d8819da39b163a1ff61beb63210924f72679e2fb40d51",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87549&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:01:40+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "499fb15296b6545bdcb9bfea15e1864c1517e7cf47b77528ff63daba2f1b4684",
+    "width": 304,
+    "height": 215,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87549&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:01:42+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:01:34+00:00",
+ "status": "done"
+}

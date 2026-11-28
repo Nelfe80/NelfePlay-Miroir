@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "club-drive",
+ "title": "Club Drive",
+ "source": "screenscraper",
+ "ss_game_id": 14148,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14148,
+  "release_year": 1994,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Club Drive",
+   "genre": "Course, Conduite",
+   "synopsis": "Dans un monde futuriste, des scientifiques ont réussi à inventer des voitures indestructibles. Les propriétaires du parc à thème le plus populaire de la ville, Club Drive, en tirent parti et proposent des courses délirantes dans des environnements imaginaires comme une ville fantôme tirée du far west, San Francisco, une maison gigantesque et un circuit de voitures miniatures.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Club Drive",
+   "genre": "Racing, Driving",
+   "synopsis": "It is the future, and the most popular theme park around is Club Drive.  Scientists have managed to invent indestructible cars. Patrons to Club Drive can drive these cars around imaginative environments and play outrageous driving games.\n\nClub Drive as a Jaguar game is a simple driving simulator.  You are put in the drivers seat, and can race through some large environments.  The racing areas available are: an old west ghost town, San Francisco, a giant house, and a simple hot-wheels style track.  In addition to the racing modes, there are object collection and 2-player tag modes.  These modes are played out in smaller versions of the areas described above.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c1f1dc1e74b994cdd129590635bcb03b9f66c440923ec7e8e4736088d03426a9",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14148&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:50:56+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "22b80b37fbdd276f432632f54a5bb5a049acf6732cf978aac3b716273fc6c5a4",
+   "width": 724,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14148&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:50:58+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "7f04a8eee0a567651f3a4470615ba674035f291c24c571238e77f486560d1ca7",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14148&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:51:00+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "9b5d500380c2a23206e0027294acd07c54aaf9aa9d1ef48723f87fe4613e9882",
+   "width": 360,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14148&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:51:01+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "bbc1776e7acf33581ad7f91fe33110dce535d0a227c41241d10a1b30ff4b8a4f",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14148&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:51:02+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:50:55+00:00",
+ "status": "done"
+}

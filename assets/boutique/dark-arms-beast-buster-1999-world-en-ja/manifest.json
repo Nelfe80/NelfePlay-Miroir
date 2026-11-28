@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dark-arms-beast-buster-1999-world-en-ja",
+ "title": "Dark Arms - Beast Buster 1999 (World) (En,Ja)",
+ "source": "screenscraper",
+ "ss_game_id": 47028,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47028,
+  "release_year": 1999,
+  "publisher": "SNK",
+  "developer": "Noise Factory",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Dark Arms - Beast Buster 1999",
+   "genre": "Jeu de rôles",
+   "synopsis": "Dark Arms: Beast Buster 1999 est un RPG pour la Neo Geo Pocket Color. C'est un spin-off du jeu d'arcade Beast Busters.\r\n\r\nParallèlement à notre monde, nous trouvons le Royaume des Ténèbres. En tant que joueur, vous avez accès à cette dimension parallèle après avoir signé un pacte avec le Maître du Royaume des Ténèbres. Dans son royaume, vous êtes censé attraper des monstres. Ceux-ci servent à  alimentés à vos armes biologiques: Dark Arms. Vos armes gagnent en capacités à chaque monstre consommé et peuvent évoluer en un équipement plus puissant. Vous pouvez également trouver des graines dans le Royaume des Ténèbres qui se transforment en nouvelles armes.\r\n\r\nLe jeu dispose de puzzles qui doivent être résolus et un large éventail de monstres / morts-vivants.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dark Arms : Beast Buster 1999",
+   "genre": "Role Playing Game",
+   "synopsis": "Dark Arms: Beast Buster 1999 is a RPG for the Neo Geo Pocket Color. It's a spin-off from the arcade game Beast Busters.\n\nParallel to our world we find the Dark Realm. As the player, you find access to this parallel dimension after signing a pact with the Master of the Dark Realm. In his realm, you are supposed to catch monsters. These can be fed to your biological weapons: Dark Arms. You weapons gain abilities from consumed monsters and can evolve into more powerful equipment. You can also find seeds in the Dark Realm that turn into new weapons.\n\nThe game features puzzles that have to be solved and a wide array of undead monsters that can be fed to your Dark Arms.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0ae9e1352336b05e81a2eb9a1ec5146042b300c9809eb845fb4e7024bc2f3e8e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47028&media=fanart",
+   "fetched_at": "2026-11-06T16:36:40+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "decacc69f16de777308a8ee3334b2fe443fd07fc8147d6f11109d85026d6741f",
+   "width": 600,
+   "height": 243,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47028&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:36:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "49b0ba9e3c209edf90b96338301edd02b4aba2ac129c2367c44de3cde75a9e9b",
+   "width": 599,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47028&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:36:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "da44d47ab3ff2c6a7883532cf43aee45265c8fead046cdc47f38bcd1675def2d",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47028&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:36:45+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f542f530c04a396440b508cbd258345b6d65115376a4caf0991b57ed8bc0aec3",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47028&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:36:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2cde834e39965b78a34a369f9e5d389916819393d2ad0cf9dc8b4176e7214916",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47028&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:36:48+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:36:39+00:00",
+ "status": "done"
+}

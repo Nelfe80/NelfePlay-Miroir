@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "scrapyard-dog-lynx",
+ "title": "Scrapyard Dog",
+ "source": "screenscraper",
+ "ss_game_id": 14228,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14228,
+  "release_year": 1991,
+  "publisher": "Atari",
+  "developer": "CSD",
+  "players": "1",
+  "system_label": "Lynx"
+ },
+ "text": {
+  "fr": {
+   "name": "Scrapyard Dog",
+   "genre": "Aventure",
+   "synopsis": "Scrapyard Dog est un jeu d'action/aventure sur Lynx. Un gang a décidé de kidnapper le chien de notre ami Louis pour demander une rançon. Ainsi, vous devez aider Louis à vaincre les divers dangers des 15 niveaux qui l'attendent pour retrouver son animal préféré.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Scrapyard Dog",
+   "genre": "Adventure",
+   "synopsis": "In Scrapyard Dog you play the role of Louie, the junkyard guy, who's companion Scraps has been dognapped by the dastardly Mr. Big. Louie has bombs and cans at his disposal to use against the enemies, which include gangsters, rats, and mice. He can also use shields to protect himself on route to the sixteen checkpoints in the game. Louie must reach each checkpoint in a certain amount of time in order to save Scraps.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3d5ca36c3c91922a06f01909a3e98d5302662f704e39ac8736a62507d31821d6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14228&media=fanart",
+   "fetched_at": "2026-11-06T17:03:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2a2478924323fcfca1b9e121bf6739d5126da581e1ee85df854746ef537bd503",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14228&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:03:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5aeca30f3e571cd01ecc7acd40442e2de04588763aee3c9fc7d0786636a7dc9e",
+   "width": 554,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14228&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:03:36+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0ba75d4d9bb2fdee3d18c5f46a990c8fce8bab1d8f010af3c6f16145576510ba",
+   "width": 576,
+   "height": 600,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14228&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:03:37+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "e8425a407c70e5dc15f1847804f01b7d01e89324c5fd36d4b98148f2c8c252df",
+   "width": 160,
+   "height": 101,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14228&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:03:39+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "53a30ac08cc2dcdf7dadf51b1645c1f12fa6617545d2a0f72d9d371b02fc2fec",
+    "width": 160,
+    "height": 102,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=28&jeuid=14228&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:03:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:03:31+00:00",
+ "status": "done"
+}

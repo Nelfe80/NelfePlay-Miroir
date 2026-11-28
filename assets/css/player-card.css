@@ -1,0 +1,131 @@
+/* Carte joueur publique.
+   Reprise fidèle de l'original : c'est une identité visuelle déjà vue par les
+   joueurs, pas un endroit où refaire le style. Seul l'accent suit la charte. */
+
+* { box-sizing: border-box; margin: 0; }
+
+body {
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px;
+    background: radial-gradient(ellipse 80% 60% at 50% -10%, #2a1a4d 0%, #0b0714 55%), #0b0714;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    color: #f1edfa;
+}
+
+@keyframes ring { to { filter: hue-rotate(360deg); } }
+@keyframes floaty { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+
+.ring {
+    padding: 3px;
+    border-radius: 26px;
+    background: conic-gradient(from 180deg, #865DFF, #22d3ee, #ff3fa4, #ffb02e, #865DFF);
+    animation: ring 8s linear infinite;
+    box-shadow: 0 0 55px rgba(134, 93, 255, .5), 0 0 120px rgba(34, 211, 238, .18);
+}
+
+.card {
+    width: min(92vw, 380px);
+    border-radius: 23px;
+    padding: 26px 22px 20px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(165deg, #1b1130 0%, #0e0e1e 60%, #131024 100%);
+}
+
+/* Trame fine : donne du grain à un fond plat, sans image. */
+.card::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: repeating-linear-gradient(0deg, rgba(255, 255, 255, .022) 0 1px, transparent 1px 3px);
+}
+
+.avatar {
+    width: 132px;
+    height: 132px;
+    image-rendering: pixelated;
+    border-radius: 20px;
+    animation: floaty 4s ease-in-out infinite;
+    box-shadow: 0 0 34px rgba(134, 93, 255, .65), 0 0 90px rgba(34, 211, 238, .25);
+}
+
+.pseudo {
+    margin-top: 14px;
+    font-size: 30px;
+    font-weight: 800;
+    letter-spacing: .4px;
+    background: linear-gradient(90deg, #22d3ee, #865DFF, #ff3fa4);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.honors { margin-top: 8px; font-size: 19px; letter-spacing: 2px; min-height: 24px; }
+
+.stats { display: flex; justify-content: space-around; margin: 18px 0 6px; }
+.stat b { display: block; font-size: 26px; font-variant-numeric: tabular-nums; }
+.stat span {
+    color: #a79fc0;
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: .12em;
+}
+
+.top3 { margin-top: 14px; text-align: left; }
+.top3 .row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(134, 93, 255, .08);
+    border: 1px solid rgba(134, 93, 255, .22);
+    border-radius: 12px;
+    padding: 9px 13px;
+    margin-bottom: 7px;
+    font-size: 14.5px;
+}
+.top3 .row .g { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.top3 .row .g.muted { color: #a79fc0; }
+/* Le rang mondial du jeu. Discret : c'est le SCORE qu'on vient lire, le rang
+   n'est que ce qui lui donne sa valeur. */
+.top3 .row .r {
+    color: #a79fc0;
+    font-size: 12.5px;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
+.top3 .row .s { font-weight: 700; font-variant-numeric: tabular-nums; color: #22d3ee; }
+
+/* Chaque ligne mene a son certificat. Elle reste une ligne, pas un lien
+   souligne : la carte se regarde d'abord, elle se clique ensuite. */
+a.row { text-decoration: none; color: inherit; }
+a.row:hover { border-color: rgba(134, 93, 255, .55); }
+
+.foot {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #8a84a5;
+    font-size: 11.5px;
+}
+
+.verified {
+    display: inline-block;
+    background: rgba(52, 211, 153, .12);
+    border: 1px solid rgba(52, 211, 153, .45);
+    color: #34d399;
+    border-radius: 11px;
+    padding: 1px 9px;
+    font-size: 10.5px;
+    letter-spacing: .06em;
+}
+
+/* Le halo tourne en boucle : on l'arrête pour qui a demandé moins d'animation. */
+@media (prefers-reduced-motion: reduce) {
+    .ring, .avatar { animation: none; }
+}

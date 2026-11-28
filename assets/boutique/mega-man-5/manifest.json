@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-5",
+ "title": "Mega Man 5",
+ "source": "screenscraper",
+ "ss_game_id": 1305,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1305,
+  "release_year": 1992,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man 5",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "La vengeance de Protoman!\r\nProtoman est devenu fou! Détruire la moitié de la ville ne lui semble pas suffisant. Maintenant, il a enlevé le Dr Light et le retient - ainsi que la cité - en otage. Armé de son Mega Buster perfectionné, Mega Man arrive à la rescousse. Mais huit des soldats cybernétiques de Protoman n'ont qu'une idée en tête: le mettre au rebut une bonne fois pour toutes!\r\nTout le poids du monde pèse sur vos épaules alors que vous affrontez Gravity Man! Esquivez les attaques de pierre de Stone Man et réduisez-le en poussière! Chevauchez les vagues et voguez vers la puissance marémotrice de Wave Man. Aidez Mega Man à anéantir les huit robots de Protoman. Enfin, soyez prêt au combat du siècle qui va opposer les frères ennemis!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man 5",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Dr. Cossack, humbled by his defeat and his allowing of Dr. Wily to influence his ways, decides to help Dr. Light by providing him and Rockman with tools and weapons to help foil Dr. Wily for good. All seems calm and peaceful, until...\n\nA sudden rampage breaks out, and the cause is found to be a group of robots, led by a mysterious figure. As Dr. Light begins to investigate this rampage and attempts to find a way to stop it, he is kidnapped by the leader of the robots. Rockman hurries to save Dr. Light, but is too late...the only thing he can find at the scene is a yellow scarf...one that almost seems to belong to...Blues!?\n\nCould Rockman's supposed brother, the strange but good-hearted Blues, be the one who kidnapped Dr. Light? Is Blues the one responsible for the rampages? With these questions racing through his mind, Rockman sets off to find Blues and get the answers he wants.\n\nLike the other early Rockman / Mega Man games, the Playstation version was only released in Japan, as part of the Complete Works series.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "63c7ae7363f6ce15bba85e721ffe25f6d911e4352708d634801727e86caffb49",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1305&media=fanart",
+   "fetched_at": "2026-11-06T16:07:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "96d13c86f74f32e89769bf623ec4edb75d38e2d4afdb4180c6921e857c33d422",
+   "width": 600,
+   "height": 230,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1305&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:07:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "18037d1d3bcff7f36d090071e506891bb6a7406f95cd9db32827955ae3d4f572",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1305&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5e0a64a93bb16c1c5f542843d25e42ca8509784b00a1b9a89bf2663c09743770",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1305&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:07:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "9b992c274e452d08c902d7662337fe16bd21887c82491ac040813eb21d0da194",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1305&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:07:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "86288f569ba11440158b83feeb2ebd900a16cf4057d699d5661fc58a7977dd0b",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1305&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:07:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:07:01+00:00",
+ "status": "done"
+}

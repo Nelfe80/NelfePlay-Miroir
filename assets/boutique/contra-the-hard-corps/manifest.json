@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "slug": "contra-the-hard-corps",
+ "title": "Contra: The Hard Corps",
+ "source": "screenscraper",
+ "ss_game_id": 69,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 69,
+  "release_year": 1994,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Probotector",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Probotector est un jeu d'action sur Megadrive. Un terroriste s'est emparé d'une cellule de Red Falcon (les aliens les plus dangereux ayant jamais existé) et projette de les cloner ! Il ne tient qu'à vous de l'en empêcher et de détruire cette cellule avant qu'il ne soit trop tard. Jouable en solo, ou à deux dans un mode coopératif, Probotector vous propose de traverser plusieurs niveaux en éliminant un maximum d'ennemis grâce à vos puissantes armes à feu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Contra : Hard Corps",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6a3f06fa34bea80ccb5168021fb8165442ba61a2956aed251640387fb6391e4e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=fanart",
+   "fetched_at": "2026-11-06T23:17:02+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ac8643dde6492a676e328d82df96de3f44bb5e0de31a2c6d3e660a2ca15b3de1",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:17:04+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f67bff22ee7af02cba70d31cdf2f2af19633017ecfba8730492e73908ae6f60d",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:17:05+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "43887e4deac984999cc634dbecdcd071a671ced6d72ed5a916e70e554a92c271",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:17:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "04c4cc402117bcdbcbf066517d679dbc82a5b95b9cac065aa2fb22834ed18c3f",
+   "width": 320,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:17:08+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "42124f1da0947effd64c8c6ee7e185eb2cdca761ad188847a0e3eba201670017",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:17:10+00:00"
+   },
+   {
+    "file": "ss2.webp",
+    "sha256": "2283a9dec69947e648cb343eea845d39f2ea36970ba1ec7aae12bb7effe7a193",
+    "width": 320,
+    "height": 224,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=ss%28us%29",
+    "fetched_at": "2026-11-06T23:17:11+00:00"
+   },
+   {
+    "file": "ss3.png",
+    "sha256": "8d332d3998c8f8e63afae77a68e7355815d8ab2e9240c1b4a2d4809fd7d198d4",
+    "width": 320,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=ss%28jp%29",
+    "fetched_at": "2026-11-06T23:17:13+00:00"
+   },
+   {
+    "file": "ss4.webp",
+    "sha256": "2283a9dec69947e648cb343eea845d39f2ea36970ba1ec7aae12bb7effe7a193",
+    "width": 320,
+    "height": 224,
+    "region": "kr",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=69&media=ss%28us%29",
+    "fetched_at": "2026-11-06T23:17:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:17:01+00:00",
+ "status": "done"
+}

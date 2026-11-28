@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "aquaventure-prototype",
+ "title": "Aquaventure (prototype)",
+ "source": "screenscraper",
+ "ss_game_id": 51182,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 51182,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Gary Shannon, Tod Frye",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Aquaventure",
+   "genre": "",
+   "synopsis": "Vous êtes un plongeur, vous plongez au large des côtes de l'Alaska. Votre objectif est d'éviter les poissons mortels, de saisir les trésors cachés sous la surface et de revenir à la surface pour reprendre de l'air.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Aquaventure",
+   "genre": "",
+   "synopsis": "Aquaventure is a bit of a mystery in the prototype world. It was never mentioned in any Atari press releases nor does it show up on any internal part lists.  Aquaventure seems to have popped out of the woodwork one day without any public fanfare nor any history behind its mysterious origins.  In any case, Aquaventure seems to be complete and ready for release, we can only speculate as to why it was shelved.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7112dce08b9d1c7f09736ecc68fb51482154e1dc0a622567b338a0af17c677e6",
+   "width": 400,
+   "height": 103,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51182&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:22:41+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bfaaad71ff75150e18f118020c2eeebd4ee7dcd8f7bcb7b88ebd0384b66e0c65",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51182&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:22:43+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3291dc1a3f2a05583c1ffe2e6677f3b106257a9dbdfb58adea4db4854112d6e5",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51182&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:22:44+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "3ffc29f882b1800007578d1eff5792710297709c6242c2bed30e44fe52d20d61",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51182&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:22:46+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6c44ce181e41ff26752b9aab2c398300d2ac62c70d0b8369b7d1bb091e598e50",
+    "width": 320,
+    "height": 200,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=51182&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:22:47+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:22:40+00:00",
+ "status": "done"
+}

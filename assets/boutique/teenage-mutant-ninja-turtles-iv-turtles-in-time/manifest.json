@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-iv-turtles-in-time",
+ "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+ "source": "screenscraper",
+ "ss_game_id": 2183,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2183,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles IV : Turtles in Time",
+   "genre": "Beat'em All",
+   "synopsis": "Teenage Mutant Ninja Turtles IV : Turtles In Time est un jeu d'action sur Super Nintendo. Choisissez votre Tortue Ninja préférée (Leonardo, Raphael, Donatello ou Michelangelo) et débarrassez-vous de vos ennemis à travers le temps. Jouable seul ou avec un ami en coopération, Turtles in Time vous offre la possibilité d'user de vos armes pour défier à nouveau le puissant Shredder (qui a une fois de plus kidnappé April).",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles IV : Turtles in Time",
+   "genre": "Beat'em Up",
+   "synopsis": "Doesn't this Shredder dude ever take a break? Now he's gone and kidnapped Channel 6's own reporter babe April O' Neill again, and just as the Ninja Turtles were about to kick his butt, he tore open some kinda time portal thingy and flung them back into the past!\n\nNow Leonardo, Raphael, Donatello, and Michaelangelo have to fight their way through time and tons of Foot Soldiers, mutant wackos, and more in order to save April and slam Shredder's butt all the way to Dimension X! Go, Turtles! Kick some shell and save April!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b43c27ae5117aefdb66f7ace97ea84f990212e123175ef85268978d6626a9f76",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2183&media=fanart",
+   "fetched_at": "2026-11-06T17:27:49+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "34aebf4d76627dbdc2a23bc1de116c7b1c404ed3bde1fde611bfad8054a18a57",
+   "width": 600,
+   "height": 260,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2183&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:27:51+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "714e278dedcb4221b569d8ab7106520e31c7c0c9402191ab39b25d2ccbfedc1b",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2183&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:27:52+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "103cd5ade82c1e72e5229c4084e29281fdbf37c4f54443658e4bc7afbcc0b0bb",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2183&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:27:53+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0cb74f34d855994ab7ce139ee2afc27ec5e4af15ecc6276cd4df59c0eb4f6ee1",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2183&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:27:55+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "bd4a6b5e90871b4fd18789556db9c5697fb7e7172dab1f184c77e5f434bd485f",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2183&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:27:57+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:27:48+00:00",
+ "status": "done"
+}

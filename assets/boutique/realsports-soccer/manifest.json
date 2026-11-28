@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "realsports-soccer",
+ "title": "RealSports Soccer",
+ "source": "screenscraper",
+ "ss_game_id": 14046,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14046,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Soccer",
+   "genre": "Sport / Football",
+   "synopsis": "RealSports Volleyball est un jeu d'action qui peut être joué par un ou deux joueurs. Le jeu suit les règles traditionnelles du volleyball; la première équipe à marquer 15 points gagne ! Vous contrôlez les deux joueurs de l'équipe, qui ont la capacité de servir, de définir, de doper et de bloquer.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Soccer",
+   "genre": "Sports / Football (Soccer)",
+   "synopsis": "The game is played from an angled overhead point of view of the field which scrolls to follow the action. If your team has the ball, you control whichever player is currently dribbling the ball, otherwise you can control any one player at a time while the computer controls the rest of your team. Various time lengths can be selected for each game, you can kick the ball low, medium or high, and there are throw-ins, corner kicks, goal kicks. When playing against the computer several different skill levels are available.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "565512cf48973b8da7f7eeab3c93d8d9c643eacee1a278a2c14d2c90457c3ee0",
+   "width": 400,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14046&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:01:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "524576331964d34f5c741a591bd55d2220e66e1a6f09b694884ad7db6b08bb33",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14046&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:01:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5907f49ec6b3ef14f8e4b57bc6c28f98ea489ab18d257f478044b8e0b027e5e2",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14046&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:01:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "213c3873bd599918c89ca2efe42b3bd23342f07d55399dbecff25c83e3174d1e",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14046&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:01:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5f39d6b4264112dfbcbbc65926c4b9c33798078b62b4e7a571c4c9473faff3e1",
+    "width": 320,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14046&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:01:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:01:08+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "ruiner-pinball",
+ "title": "Ruiner Pinball",
+ "source": "screenscraper",
+ "ss_game_id": 14179,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14179,
+  "release_year": 1995,
+  "publisher": "Atari",
+  "developer": "High Voltage",
+  "players": "1-4",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Ruiner Pinball",
+   "genre": "Flipper",
+   "synopsis": "Ruiner Pinball est un jeu de flipper sur Jaguar. Le titre propose deux environnements différents : Ruiner et Tower. Le premier se situe dans un contexte d'apocalypse nucléaire, le second repose sur une ambiance médiévale horreur. Dans les deux environnements de nombreux bonus sont disponibles et les tables foisonnent d'animations.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ruiner Pinball",
+   "genre": "Pinball",
+   "synopsis": "Ruiner Pinball is a collection of two fantasy pinball tables: Ruiner and Tower.\n\nRuiner is a two screen wide table that features flashy scaling and rotation effects. There are lots of ramps and animated moving targets to score on.  Ruiner has a cold war nuclear holocaust theme.\n\nTower is an extra-tall table that features a medieval horror motif. Like Ruiner, it contains animated targets and scaling effects.  Both tables contain missions, or series of targets to increase the scoring opportunities available.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "81f9a728b4c2e47cb683d834ae917b76c2965c7440c5b148971879436d7c8827",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14179&media=fanart",
+   "fetched_at": "2026-11-06T17:02:29+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2d24bd0f512a9a0e98d1829902218f6c67fa8569a7557bf1a6aea04e20e86953",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14179&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:02:31+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8f1c1be49ae9a8a587472d1eb0d98570daefae7e7808d99b8c334aa0c430aa7a",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14179&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:02:32+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b8a3fad7d9619b62b2dbe74995d64488ff172c26a239fc5f5cf08c9b0d7c5223",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14179&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:02:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "253ac4ff3f41f03a213afd3e31e53f9ecf32c752d5998c14c110cdb4e804c947",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14179&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:02:35+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "28c5d303e9d1434a03e3729766ca87991f0fccadcafc0df2ad97328988eb5611",
+    "width": 640,
+    "height": 433,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14179&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:02:37+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:02:28+00:00",
+ "status": "done"
+}

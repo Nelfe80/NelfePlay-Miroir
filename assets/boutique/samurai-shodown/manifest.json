@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "samurai-shodown",
+ "title": "Samurai Shodown",
+ "source": "screenscraper",
+ "ss_game_id": 37629,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37629,
+  "release_year": 1993,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Samurai Shodown",
+   "genre": "Combat / Versus",
+   "synopsis": "Samurai Shodown sur Neo Geo est un jeu de combat se déroulant au XVIIIème siècle au Japon. Le titre intègre des modifications par rapport aux classiques du genre telles que l'utilisation d'armes blanches, un système de zoom ainsi qu'une jauge POW se remplissant au fil du combat et débloquant des attaques puissantes.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Samurai Shodown",
+   "genre": "Fighting / Versus",
+   "synopsis": "In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.\nNow, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "6cdf3fb0aaf64b6186f7f72c082cd157b1847b83e4edf81bcf8b9fd8e4ad9316",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=fanart",
+   "fetched_at": "2026-11-06T16:41:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "76693f3745c2f370c68da225c306be8d5f41d60de448ab20ca1626d0d724c127",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:41:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6261f07d2ffa60207f5824a97a5c8c850b411bb5025fd895dcf546f60a981239",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:41:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fabbb944913744387ab9d18f3893688556aed2d49c746c1a9543861b7ad22e97",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:41:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "85363e8caf4bc872a33650f8cd676a2dc1bbf0dafc864af3de2ad914e6f18e21",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:41:41+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "2551af2bfe5cf1918aebd0742e71df6bdbc460dac4b74fe1e910a4fadb2fcbe9",
+   "width": 850,
+   "height": 1217,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=flyer%28wor%29%5B1%5D",
+   "fetched_at": "2026-11-06T16:41:43+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "344ec551af4b9b159126157ded370c82892bde419b975734d9f58626525f6778",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=37629&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:41:43+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:41:33+00:00",
+ "status": "done"
+}

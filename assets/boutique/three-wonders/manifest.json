@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "three-wonders",
+ "title": "Three Wonders",
+ "source": "screenscraper",
+ "ss_game_id": 37357,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37357,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Three Wonders",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Three Wonders fait partie de ces jeux qui ont été injustement oubliés par l'Histoire. Passé quasiment inaperçu à sa sortie, il est depuis demeuré dans l'ombre. C'est pour réparer cette injustice que je prends la plume des temps modernes afin de faire (re)découvrir cette merveille. Ou plutôt, comme son nom l'indique, ces trois merveilles. Edité par Capcom en 1991, Three Wonders a cette particularité d'être en fait une série de trois jeux, jouables sur la même borne. Ils ont pour titre Midnight Wanderers, Chariot et Don't Pull. Si le second est la suite du premier, le troisième n'a aucun lien avec ses \"colocataires\".",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Three Wonders",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Three Wonders contains three games from which a player may choose:\r\n\r\nMidnight Wanderers: Quest for the Chariot - A platform game that sees the player control a hobbit named Lou and his traveling companion, Siva, to run, climb, and shoot at enemies.\r\nChariot: Adventure through the Sky - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game.\r\nDon't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru. It involves the player controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2f9dbf5954d4c22926760a20f30aec0a64d319a35b1c8c1f4aa95ff0539c2483",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37357&media=fanart",
+   "fetched_at": "2026-11-06T17:22:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "0dc13ac45cbc83bef81cce0ac405211e79fa8443e6b84a0d466c12ac807c492b",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37357&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:22:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9c2485f30c83ffc3c020852081ca68a870efdeae39ca35b6874bdf497f950f90",
+   "width": 497,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37357&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:22:34+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "2526af21200b9e93654e8e8edda7b8f043e78d0fc01fbd2d9b9f99b7821ce81d",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37357&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:22:35+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1ce7a8156f83f33b262d8dda60452547e6b6b5b3a2820a2b3335afbe2cceba62",
+   "width": 850,
+   "height": 1094,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37357&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T17:22:37+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7e7df57921c5309acf4808d350eba2fbf3c2d6056f21ad358d4a29b6b3824432",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37357&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:22:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:22:30+00:00",
+ "status": "done"
+}

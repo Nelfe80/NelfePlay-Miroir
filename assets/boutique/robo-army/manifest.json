@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "robo-army",
+ "title": "ROBO ARMY",
+ "source": "screenscraper",
+ "ss_game_id": 13918,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13918,
+  "release_year": 1991,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Robo Army",
+   "genre": "Beat'em All",
+   "synopsis": "Jeed, un scientifique spécialiste de la robotique a levé en cachette une armée de robots et il compte bien prendre ainsi le contrôle de la ville de Neo-Detroit. Ce savant fou utilise les cerveaux humains pour les mettre dans des carcasses de robots et en faire de braves combattants à sa solde. Il robotise tout : humains, oiseaux, chiens, singes... Fort heureusement, son processus d'asservissement a mal fonctionné sur deux policiers devenus robots. Ces derniers vont se dresser contre lui et contrecarrer ses plans.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Robo Army",
+   "genre": "Beat'em Up",
+   "synopsis": "A mad scientist decides to create an army of robots to destroy the city, capture all the citizens, and use their brains for more robots to take over the world. You control one of two robots who use its fists and special attacks to take on the army throughout a jungle stage and various buildings in the destroyed city. Robots and robot dogs sometimes leave arms or metal bars that can be used as weapons. At the end of each area, you need to defeat a boss in order to proceed to the next area.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "40bc22c13a646f5eafd8f1b1feaf2b7abb12514f0c07ffbb946743d069b792b3",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=fanart",
+   "fetched_at": "2026-11-06T15:36:17+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c7e4b4d289d3f1c92c32ec1ea749e01289a1141afdf3e48da78282bc36d1143c",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:36:18+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "98b87d9b6977b994d349d3f30a6c195072fed11413ad74ea091e33df418c1364",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:20+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2c8671ff8e967bb84bd559d88e5dd963b6ea6afacebdfd3516df07d90d583738",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:36:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "13e848409febeeb1e58db51334e38b05ba72680479001dd38ddeb13d3b494ebd",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:36:23+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "1aee98f79fc64aab93a272c8015708bdc546206df63e1f5a0243663b2223b1a5",
+   "width": 523,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=flyer%28wor%29%5B2%5D",
+   "fetched_at": "2026-11-06T15:36:25+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b9cea60e63456e93bd8bc035e87f61182d789f7fb6b2210105cfda17d81a32d1",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13918&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:36:26+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:36:16+00:00",
+ "status": "done"
+}

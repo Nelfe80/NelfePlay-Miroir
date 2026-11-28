@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "basketball",
+ "title": "Basketball",
+ "source": "screenscraper",
+ "ss_game_id": 14024,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14024,
+  "release_year": 1978,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Basketball",
+   "genre": "Sport / Basketball",
+   "synopsis": "Basketball pour Atari VCS 2600 est un jeu de sport développé par Atari. Il permet au joueur de faire des matchs en un contre un face à l'ordinateur ou un autre joueur. Les matchs sont divisés en 2 mi-temps de 4 minutes. Le but est de marquer le plus de points et 2 niveaux de difficulté sont disponibles.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Basketball",
+   "genre": "Sports / Basketball",
+   "synopsis": "Basketball allows you to play a game of one-on-one against either the computer or another player. The court is viewed from the side with a basket at each end of the screen.  Using the joystick you can move your player around the court, dribble/shoot the ball, and attempt to block your opponent. The game is played in two 4 minute halves, and the player who scores the most points wins. There are two different skill levels available which can be set individually for each player.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "669b45e98db29fd044788632d038ad3a242e55321c8a1ddef53f23707ba58df8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14024&media=fanart",
+   "fetched_at": "2026-11-06T16:48:31+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ff4d8167e8de88a6f04d65d3f783d2eef27ea25eafec8eb72e8ef16de79d4806",
+   "width": 400,
+   "height": 58,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14024&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:48:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "7ab28e3cf82d594512c81041afa4fa94b75f877cbe170c090ffde0a47fffaf73",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14024&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:48:33+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e995e717555b54a064c81b1858c5dc23996ef1ebc5d907d34fe5d421d13c83ba",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14024&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:48:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "61c3755189fd5fd19ae58057408cd82684c6e652bf62ad99d917d82195f09d9b",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14024&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:48:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "2c6ac65d2ea84c7af2b943d725946865a8314fdd40c999b2a97ba96c413bed81",
+    "width": 304,
+    "height": 192,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14024&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:48:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:48:29+00:00",
+ "status": "done"
+}

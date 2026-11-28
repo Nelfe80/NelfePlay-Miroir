@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "megaman-battle-network-3-blue",
+ "title": "MegaMan Battle Network 3 Blue",
+ "source": "screenscraper",
+ "ss_game_id": 4094,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4094,
+  "release_year": 2003,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man Battle Network 3 : Blue",
+   "genre": "Jeu de rôles",
+   "synopsis": "Le Dr. Wily est tenace et n'a certainement pas dit son dernier mot. Il projette de libérer un prototype d'internet placé sous le signe du mal. Pour cela, il doit mettre la main sur des codes d'accès. Lan et son double Mega Man comptent bien l'en empêcher en parcourant le code réseau et en combattant les virus qui s'y trouvent. Mega Man Battle Network 3 sur GBA est sorti en 2 éditions : Blue Version et Blue Version. Les quêtes annexes et les pouvoirs varient légèrement d'une version à l'autre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man Battle Network 3 : Blue Version",
+   "genre": "Role Playing Game",
+   "synopsis": "Join MegaMan.EXE, his operator Lan, and friends as they keep the net safe from viruses and cyber menaces. You'll travel through new virtual and real worlds, fight new bosses, interact with new characters, and even find new Battle Chips. It's cyber mayhem at its best! Mega Man Battle Network 3 has two unique versions: Blue and White. Each version contains unique Battle Chips, characters, and styles for MegaMan.EXE to use.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c0318598346e47e3809a7d91b61dbe4d84a067f3cec13670de0e90d3d6d98252",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4094&media=fanart",
+   "fetched_at": "2026-11-06T23:20:33+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b296f9e3f51574e4268590e7cfccd84022aa3c20d36c6b2fd8e354b14bf20e22",
+   "width": 600,
+   "height": 219,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4094&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:20:34+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8757610beb8eb419224f1785ff9606a90b6d8a77eb16c25a6f24b648fe50fb2c",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4094&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:35+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "843a6774d41e13bc6143fbcde9bea3d57985b7057ff0f05eaca46a5775731c8c",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4094&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:20:37+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "951bf9057b22a528ad5b7c1ea35beaa76bfacb38637342c284d1c192411d0207",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4094&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:20:38+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c8c8e74837ce681b3e69268cec2fba36297741fad30e8d91d74d6a44d436e008",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4094&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:20:40+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:20:29+00:00",
+ "status": "done"
+}

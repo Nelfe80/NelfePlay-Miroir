@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "bionic-commando",
+ "title": "Bionic Commando",
+ "source": "screenscraper",
+ "ss_game_id": 150942,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150942,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Bionic Commando",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Ce jeu \"shoot them all\" lorgne du côté du jeu de plateformes. En effet, il se tient sur plusieurs niveaux de hauteur et de gauche à droite.\r\nL'originalité du jeu est le personnage qui, outre les diverses armes qu'il pourra avoir à sa disposition, possède un bras mécanique extensible lui permettant de s'accrocher n'importe où (donc aussi d'avancer dans le jeu quand il faut monter) et de se balancer.\r\nC'est du Capcom, c'est du bon.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Bionic Commando",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "Bionic Commando is a scrolling platform shoot-em-up set ten years after the end of World War III, with the player taking on the role of 'Super Joe'; an elite Commando tasked with infiltrating the enemy's heavily defended military base to discover their secrets plans and destroy their missile silos. \r\n\r\nTo aid him in his mission, Joe is equipped with a bionic arm; a telescopic grappling hook that is used to traverse the many platforms and ledges that make up the game's levels. The arm can also be used to temporarily stun enemies or knock them from platforms, as well as to retrieve the bonus items, wooden crates and weapons that are occasionally dropped into the war zone by parachute. \r\n\r\nAs well as the bionic arm, Joe is armed with a shotgun used to kill enemies and destroy obstructions. The shotgun can only be fired left and right, however, and cannot be used at the same time as the bionic arm. More powerful guns can be picked up throughout the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3b7c276ad68010e85c9396a9f38342ad6ec5e5d7e0e4ad498bb48e48746180d6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=fanart",
+   "fetched_at": "2026-11-06T17:17:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "2659d60f21dc86a24eaa4f7673463792be7e54c9d4364aec41005ba3054beee3",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:17:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "24373d2bfef38996f51fc3a4b7393de7e94c10c73357756589cb4a86bad572df",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:17:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eeea9ea5a8072e700e5d9c136f91be3590ad2d714266c9d1376093cbe945e319",
+   "width": 458,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:17:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ffd9a3c0edae52ee54d5e6384b89d02c176996eaca08b6adf2bec29cbcd6a157",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:17:52+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "94d66de839bd69a377a9a561e7daf6df4d09f39aef1a45f22543c0da2d77194d",
+   "width": 850,
+   "height": 1205,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:17:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "405d1e3bfc8ec654653fa9151411860ef21b930a79be326c8bacbab93c0a0265",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=150942&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:17:55+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:17:45+00:00",
+ "status": "done"
+}

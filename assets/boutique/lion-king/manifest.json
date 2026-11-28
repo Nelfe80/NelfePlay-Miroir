@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "lion-king",
+    "title": "Lion King",
+    "source": "screenscraper",
+    "ss_game_id": 70849,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 70849,
+        "release_year": 1995,
+        "publisher": "Virgin",
+        "developer": "Dark Technologies",
+        "players": "1",
+        "system_label": "Game Boy"
+    },
+    "text": {
+        "fr": {
+            "name": "Le Roi Lion",
+            "genre": "Plateforme",
+            "synopsis": "Le Roi Lion est l'adaptation sur Gameboy du film de Disney sorti en 1994. Vous parcourez la savane avec Simba, de son plus jeune âge jusqu'à son retour dans la tribu des lions à l'âge adulte. Tous les personnages et passages du film sont présents, de même que les musiques qui permettent aux nostalgiques de plonger pleinement dans l'univers d'un des classiques de Disney.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "The Lion King",
+            "genre": "Platform",
+            "synopsis": "Young Simba just can't wait to be king. His father is the current King of the Savannah and the young prince is able to frolic the lands at will; jumping on and around other subjects of this animal kingdom. When Simba's father, King Mufasa, is killed and his evil brother Scar takes over the kingdom, Simba is banished from the lands of his birthright and has to grow up fast, honing his skills, for the day of his return.\n\nThe Lion King, based on the famous Disney movie, is a platform game where you control Simba - initially as a young cub, and later as an adult lion. The plot of the game follows the plot of the movie. Each of the levels represents a part of the movie. \n\nAs young Simba, you can fight various beasts, such as lizards, by jumping on them. You can also roar to scare some creatures into submission, though every time you roar, you have to wait for your \"roar meter\" to charge. \n\nAs an adult lion, you can still roar and jump, but now you fight enemies by slashing at them with your claws (if you're skillful enough, you can also grab them and toss them off the screen). \n\nThe game features no in-game save function, and it needs to be replayed from the beginning every time.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "b3bd243796175dc8705bc95df499cb53bba351736b5fac1fc6271dbafa24a07a",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70849&media=fanart",
+            "fetched_at": "2026-11-09T22:02:30+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "b16f32b4dacb493341e076384f39dd1359901e4fc6366bc4807246a2f2d700ed",
+            "width": 600,
+            "height": 150,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70849&media=wheel%28us%29",
+            "fetched_at": "2026-11-09T22:02:31+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "9536495c09e82fccac395eed32188e7fb55c6a797f30e9bfc24de1783f7eba45",
+            "width": 700,
+            "height": 700,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70849&media=box-2D%28us%29",
+            "fetched_at": "2026-11-09T22:02:32+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "e810085b44be5030bbc038331ffaa5227095a6fb1d94fafb7e94c53b3c2c6b19",
+            "width": 600,
+            "height": 678,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70849&media=support-2D%28us%29",
+            "fetched_at": "2026-11-09T22:03:42+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "7f5067fca36b0c9b015e45dad7ab201a22aca5329ecdc6f4f613bf6b8e267500",
+            "width": 160,
+            "height": 144,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70849&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-09T22:03:43+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "65b820fb91a22d24ef6e35ad263f59fd85a8b1fb0765cb8de429d60005ef0137",
+                "width": 160,
+                "height": 144,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70849&media=ss%28wor%29",
+                "fetched_at": "2026-11-09T22:03:45+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "flyer"
+    ],
+    "fetched_at": "2026-11-09T22:03:41+00:00",
+    "status": "done"
+}

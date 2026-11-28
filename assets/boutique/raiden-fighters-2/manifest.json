@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "raiden-fighters-2",
+ "title": "Raiden Fighters 2",
+ "source": "screenscraper",
+ "ss_game_id": 150378,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 150378,
+  "release_year": 1997,
+  "publisher": "Seibu Kaihatsu",
+  "developer": "Seibu Kaihatsu",
+  "players": "1-2",
+  "system_label": "Seibu Kaihatsu"
+ },
+ "text": {
+  "fr": {
+   "name": "Raiden Fighters 2 : Operation Hell Dive",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Raiden Fighters 2 a lieu quatre ans après les événements du premier. À la suite de cela, quelques groupes de guérillas survivants se rassemblent sous un dictateur. Ensemble, ce groupe de voyous forme une nouvelle nation et lance une série d'attaques contre les forces combattantes. En réponse à ces attaques surprises, le gouvernement rappelle à nouveau les troupes précédentes, équipées de munitions réaménagées.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Raiden Fighters 2 : Operation Hell Dive",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "If you thought the first Raiden Fighters game was intense, you ain't seen nothing yet! Everything in Raiden Fighters 2 has been kicked into overdrive. The game's visuals have been substatially improved over the first Raiden Fighters.  The difficulty of the game varies greatly. Depending on how well you play, RF2 can be anywhere between medium to insanely hard in difficulty. In Raiden Fighters 2, there are many fighters to choose from, each with its own unique abilities. The fighters in RF2 are drawn in a more futuristic style.  They are still propeller-based planes, with the exception of the Hell Diver, which has ion propulsion thrusters. They for the most part no longer look like they are based on WWII planes.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8ab3b768253a1a5d2bc95a9954af1d03c5ef99670cf1cd013693e9923d8649fe",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=150378&media=fanart",
+   "fetched_at": "2026-11-06T23:21:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7bf00f3bd0f7fbc0295926374ddbd89057d28425fe0952cdfe7bd38c7e4992a2",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=150378&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:21:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "02a1f5ce7259aaba659fb4e7a362d1075ccbae119181534157bfef56cddbc69c",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=150378&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:21:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "2c7406e1893b8287f4c1b1f8faa395590c60bcb194bbfea082cb462ddb1b11dc",
+   "width": 240,
+   "height": 320,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=150378&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:21:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "3e09b38a62d78c1ae248d974d82a04b322b8fa87e078f61a91b0deca1fbe8604",
+   "width": 850,
+   "height": 1193,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=150378&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:21:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "75fd2501605d459e94604b360a23a97c771d43fa24bed57baf233f35ceedf46e",
+    "width": 240,
+    "height": 320,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=190&jeuid=150378&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:21:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:21:43+00:00",
+ "status": "done"
+}

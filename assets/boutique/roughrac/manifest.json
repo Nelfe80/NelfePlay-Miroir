@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "roughrac",
+ "title": "Rough Racer",
+ "source": "screenscraper",
+ "ss_game_id": 42821,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42821,
+  "release_year": 1990,
+  "publisher": "SEGA",
+  "developer": "SEGA",
+  "players": "1-2",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Rough Racer",
+   "genre": "Course, Conduite",
+   "synopsis": "Rough Racer est un jeu de course , jouable de un à quatre joueurs. Il s'inspire principalement de la série \"Sprint\" d'Atari, et plus particulièrement des titres \"Championship\" et \"Super Sprint\". Le jeu propose dix circuits différents, chacun avec son propre style. Après la première course, un drone fait son apparition avec pour unique but de gêner les quatre concurrents. Le drone se distingue visuellement des voitures et peut prendre la forme d'un rouleau compresseur ou d'une bétonnière.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Rough Racer",
+   "genre": "Racing, Driving",
+   "synopsis": "Rough Racer is a colourful top-down racing game for one to four players; Rough Racer takes most of its inspiration from Atari's \"Sprint\" series, and from \"Championship\" and \"Super Sprint\" in particular.\r\n\r\nThe game features ten different tracks, each with its own graphical theme. After the first race, in addition to the four racing cars a fifth 'drone' vehicle is added, whose sole intention is to hinder the four racers. The drone is visibly different from the racers and can be anything from a steam roller to a cement mixer.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "41d5e44466d1c28ee2769643cbf00944413ee304532e1960715bed86c644cea3",
+   "width": 400,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42821&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:46:07+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f1f30a3db28e01d8c75bdc55fd029d746e11c98cbbd769ae24466314fb9b19cd",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42821&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:46:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ec882318e379b6b477568d3a59fd438babbae4034a3c05363d1ce668bc85e97a",
+   "width": 496,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42821&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:46:11+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "3125be3d2f04fbe0a133f10d84adc22418360067df38c4c787a51d5ae18c1aa4",
+   "width": 850,
+   "height": 1203,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42821&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:46:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a681b62ccf0c7cdd33d6693b357f8c0f963cf0de987c75111754200f074e5c3a",
+    "width": 496,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=42821&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:46:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T23:46:06+00:00",
+ "status": "done"
+}

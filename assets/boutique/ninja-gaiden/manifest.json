@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "ninja-gaiden",
+    "title": "Ninja Gaiden",
+    "source": "screenscraper",
+    "ss_game_id": 43025,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 43025,
+        "release_year": 1988,
+        "publisher": "Ocean",
+        "developer": "Tecmo",
+        "players": "1-2",
+        "system_label": "Tecmo"
+    },
+    "text": {
+        "fr": {
+            "name": "Shadow Warriors",
+            "genre": "Beat'em All",
+            "synopsis": "Dans Ninja Gaiden, (renommé Shadow Warriors en Europe) le joueur incarne un ninja, Ryu Hayabusa, à travers son périple aux États-Unis afin de retrouver le meurtrier de son père. L'une des particularités de Ninja Gaiden tient à la variété des mouvements à disposition du héros, qui lui permettent de se déplacer avec aisance dans le décor : entre autres, un saut périlleux vers l'avant ou l'arrière, un saut latéral qui permet également d'atteindre les plates-formes supérieures ou encore le « Phoenix Backflip » (saut arrière retourné en prenant appui sur un mur). Les mouvements d'attaque se composent d'un enchaînement rapide de coups de pieds/poings, d'une projection “sautée” (« Flying Neck Throw ») et d'un coup spécial “tourbillon”.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Ninja Gaiden",
+            "genre": "Beat'em Up",
+            "synopsis": "Ryu, the Dragon Ninja, travels the world to defeat evil wherever he finds it.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "132b2399865054ac620a02ad8007e883ee38725a6df8235a9b0ce97a797f2b51",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=fanart",
+            "fetched_at": "2026-11-25T14:54:49+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "1dbb42d51f3cd01d71a01f755b981e1965a2d64116a7897e76b615e13a9bda5c",
+            "width": 400,
+            "height": 109,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=wheel%28us%29",
+            "fetched_at": "2026-11-25T14:54:50+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "55e59d0fa60442d0a6ec1b147af1c306d22c3419e1f22c4ad26cace5a6f105b9",
+            "width": 497,
+            "height": 680,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=box-2D%28us%29",
+            "fetched_at": "2026-11-25T14:54:52+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "30069a251c9fb3cfd772cd725d88106254d1ed93729b64ec1191baae91e3ed02",
+            "width": 425,
+            "height": 900,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-25T14:54:53+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "ec82c0e0416b801882a980d76b7716b54ff40675d244eac9e64bf0a26ecd92c8",
+            "width": 256,
+            "height": 224,
+            "region": "eu",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=sstitle%28eu%29",
+            "fetched_at": "2026-11-25T14:54:55+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "3360a8ab68499b8e6f762d2db45b4564d4e90ef8d519ce6b919e4c47462b7b46",
+            "width": 594,
+            "height": 832,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=flyer%28us%29",
+            "fetched_at": "2026-11-25T14:56:13+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "5a170daf1406562e07a77357a6e65d25f4302854dd283074b7fb066d25f9ffa1",
+                "width": 256,
+                "height": 224,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=153&jeuid=43025&media=ss%28wor%29",
+                "fetched_at": "2026-11-25T14:56:14+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-25T14:56:12+00:00",
+    "status": "done"
+}

@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "ganbare-neo-poke-kun",
+ "title": "Ganbare Neo Poke-Kun",
+ "source": "screenscraper",
+ "ss_game_id": 47036,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 47036,
+  "release_year": 2000,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo Pocket Color"
+ },
+ "text": {
+  "fr": {
+   "name": "Ganbare Neo Poke Kun",
+   "genre": "Simulation",
+   "synopsis": "Ganbare Neo Poke-Kun est un jeu de simulation, reservé au marché japonais et developpé pour la NGPC. Il est directement inspiré de l'histoire videoludique.\r\nOn a 2 modes de jeu bien distinct. L' \"Observation Mode\" qui consiste essentiellement à observer Neo Poke-Kun dans son studio (reference à \"Little Computer People\", qui inspira bien plus tard \"les Sims\"), lui amener des visiteurs et le distraire en lui jetant des objets sur la tete.\r\nLe second mode, quand a lui, propose de jouer à plusieurs mini-jeux inventés par Neo Poke-Kun (souvent des parodies de jeux existant comme \"Pong\" ou \"Breakout\") tant que celui est heureux.\r\nLes jeux, simples et rapides au depart, se complexifies rapidement pour parcourir tous les genres (combats, shoot, simulation, etc...). Le jeu utilise l'horloge interne de la console pour reguler le rythme de Neo Poke-Kun (Sa phase de sommeil, de travail, etc...)",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ganbare Neo Poke Kun",
+   "genre": "Simulation",
+   "synopsis": "In this unique game you keep watch on the wacky Neo Poke-kun, a cartoony programmer...thing that lives locked in his small Tokyo apartment. You don't have direct control of his actions but instead interact with him indirectly by switching stuff in his apartment on and off, which triggers different reactions from him. More importantly you can invite different characters to visit Neo Poke-kun, which will also trigger different reactions from him. Depending on the time of day and the visitor you may get different reactions from Poke-kun, and if you make him happy enough he'll get to work and code a mini-game for you.\n\nThese collection of 30 games form the bulk of the gameplay, and include different clones of other games, shooters, short platformers, and compact puzzle challenges similar to Wario Ware\n\nThe game has a distinctly bizarre sense of humor with tons of wacky animations played whenever something happens to your Poke-kun, and while some games use basic vector graphics, most use 2D sprites.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "010746d2d360fb9a2ca7206338831b98864f0fd4384a26a3336bd731b33de75a",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47036&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:13:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "f810c87de55fce4ef957d63c2380029dc07dcd4ab387f3af496b4820649f848c",
+   "width": 942,
+   "height": 984,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47036&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:13:50+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "376a68e98b468e752496d25d388318a1af5c1b2b4e5c92f7db5a0c12b64aade7",
+   "width": 600,
+   "height": 600,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47036&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T17:13:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4dd30e3dcdfdb1867328dd69b5d06e98fa8021d69f5f4c2374cc732f0985b961",
+   "width": 160,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47036&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:13:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f8c5b9f0e866ae7027cd9d8d1531a51931bf142e61f5717566f6ff50f93d6b23",
+    "width": 160,
+    "height": 152,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=82&jeuid=47036&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:13:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:13:47+00:00",
+ "status": "done"
+}

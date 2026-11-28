@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "breakers",
+ "title": "Breakers",
+ "source": "screenscraper",
+ "ss_game_id": 13877,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13877,
+  "release_year": 1996,
+  "publisher": "SNK",
+  "developer": "Visco",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Breakers",
+   "genre": "Combat",
+   "synopsis": "Breakers sur Neo Geo est un jeu de combat 2D. Choisissez parmi 9 personnages ayant leur technique propre et tentez les \"chain\", capables de créer une pluie de coups et d'attaques incessantes. A noter que les combattants bénéficient de voix digitalisées.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Breakers",
+   "genre": "Fighting",
+   "synopsis": "In Breakers, choose one of eight fighters who have their own moves and special attacks. There are eight stages in the game, and each stage has two battles. The object of each battle is to drain your opponent's energy in order to win the battle. If there is a draw, a third battle takes place. If the time limit expires, the player with the less energy loses the battle. Once you have completed all eight stages, you will face a opponent that is much tougher than previous ones. Different endings and in-game dialog are viewed depending on the character that you select.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "eb1e6ec78ec5a3912160354b862d520b5e4fd14df43b65c1e4250c27a0ee5b18",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=fanart",
+   "fetched_at": "2026-11-06T16:35:18+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "606137b058a5a89a09bc97897e0ad76e25cb95307738662694cc7d3814d5dc86",
+   "width": 600,
+   "height": 222,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:35:19+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1893959b2547cec1c54ca9f426e2ec5f8b14f549d4e06a65941b8ee270827adc",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:35:21+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d7ff018f43042f783c8cb8ccaedc52f0ea7bc805139de06853b984b344cca0a5",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:35:22+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7260e0410daf667bf5795d05ac458212bd3b7433e3560698bb62be28845eba37",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:35:24+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "819349ce39a6b9206d860579277c744e6e7c654db62f9c7e7417d3da5dc118e9",
+   "width": 835,
+   "height": 1200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:35:26+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "844b9b24752cb2ab32ad880ee21ae536726c8bd66bb91ab52da2db7e2f0853bd",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13877&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:35:32+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:35:17+00:00",
+ "status": "done"
+}

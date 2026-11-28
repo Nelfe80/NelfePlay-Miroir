@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "captain-commando",
+ "title": "Captain Commando",
+ "source": "screenscraper",
+ "ss_game_id": 37358,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37358,
+  "release_year": 1991,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-4",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Captain Commando",
+   "genre": "Beat'em All",
+   "synopsis": "A la belle époque du système CPS-1, Capcom nous a souvent servi des beat them all à la sauce Final Fight avec une licence de Comics célèbre. Et Captain Commando est un de ceux-là. Pas de réel storyboard ni d 'adaptation précise (un super méchant veux régner sur le monde et notre super héros vient à la rescousse), ce jeu est surtout un défouloir très soigné au niveau de la réalisation accompagné d un gameplay bien rodé (Capcom n'étant pas un novice dans le genre du beat them all).",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Captain Commando",
+   "genre": "Beat'em Up",
+   "synopsis": "Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9bb48a343c3f6e8af7004f1b440e8fa27f1987bf6fb4234e8c381c836aa555e1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=fanart",
+   "fetched_at": "2026-11-06T15:54:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e3d98b26d9a72f1629272207b0757d649dc0289247e1539498f82518bd64cf36",
+   "width": 600,
+   "height": 180,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:54:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4b22a030c70229a7688f4bdccb2188f35d8a5610e38df63ae99ac9254766686d",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:54:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "efdd267e8b07ce32ce27b503c456a04f5b33816663786693f14b4766de7be63c",
+   "width": 552,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:54:49+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "94ab94dead19682522caf8643c2863ceb11be6388d99c1ac8b32be5f0ae09deb",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:54:51+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "adc1927f8bc65b7f8718534253fa6040b9d48a40b39ea2ff596ee3701a16c181",
+   "width": 850,
+   "height": 1207,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:54:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b3dba72de8e04a2c0cad3cbe5d5488e90a7d0d6b0e5da13ebb2b11935853e919",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37358&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:54:54+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:54:44+00:00",
+ "status": "done"
+}

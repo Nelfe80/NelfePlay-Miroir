@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "probotector-ii-return-of-the-evil-forces",
+ "title": "Probotector II: Return of the Evil Forces",
+ "source": "screenscraper",
+ "ss_game_id": 1321,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1321,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Probotector II : Return of the Evil Forces",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Nous sommes en 2634. La Terre a enfin échappé à l'emprise diabolique de la magie noire, un an après la guerre avec la mystérieuse armée extra-terrestre. Au moment où la paix semble rétablie, le cauchemar recommence. Les mutants extra-terrestres sont de retour.\r\nLeur mission: prendre le contrôle du monde.\r\nLa seule chance de salut de la Terre consiste à faire appel aux Probotector, RD008 et RC011, les robots de combat les plus forts de tous les temps. Ils représentent l'unique espoir de sauver le monde d'une mort certaine. Mais qui survivra?\r\nLes extra-terrestres ou les Probotectors?!!!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Probotector II : Return of the Evil Forces",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "After losing a confrontation against Super Commandos Mad Dog and Scorpion, the juices of destruction drip from the spiked tongue of the vile alien warmonger - Red Falcon. Now, he's coming back stronger than ever, with a sinister plan that includes having his intergalactic warriors seep into the brains of the U.S. Army. To support his disguised forces of doom, he's recruited Jagger Froid, a demented alien from the Black Hole Galaxy. He's also shuttled in The Babula Destructoid Mechanism with its Beam of Death. With torrential terror about to rain down upon civilization, Earth's only hope rests with you, Scorpion, and your pal, the Dogster. And if your spread guns, lasers, flame throwers and mega shells fail to destroy Red Falcon's eight levels of terror, including radioactive lava fields, it's all over but for the shouting, the screaming and the cries from a disintegrating world!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b53cf5276ed6aa96007441803989dd565cf2d99ce7af61f3d4b3091681fc71f8",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1321&media=fanart",
+   "fetched_at": "2026-11-06T23:17:18+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7f01fb9b1b1f1ef94fa06ec4b9b9d1b1d0783789bd9db0b3ee5eae1f34689937",
+   "width": 600,
+   "height": 290,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1321&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T23:17:20+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "89d62ad714d49b2c64a27c8d873df9221d16a811491701e23aaff6e785cd5fab",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1321&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:17:21+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "5d0d7d4da5b74e3c28a4ffa71d6f58ffd0e78ddb703ad880bfff550a1d1c1a58",
+   "width": 543,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1321&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:17:23+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "32bc04edd6f1047d282a187b6ff659cd6a57b4b0210bef268f92e191dcfcdadf",
+   "width": 256,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1321&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T23:17:24+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f12568d33a3b4f192934be3af41c3b9151512d3161fe51d5b10e405eee612484",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1321&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:17:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:17:18+00:00",
+ "status": "done"
+}

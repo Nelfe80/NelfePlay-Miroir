@@ -1,0 +1,4 @@
+Contact: mailto:contact@nelfetech.com
+Preferred-Languages: en, fr
+Canonical: https://nelfeplay.com/.well-known/security.txt
+Expires: 2027-07-24T00:00:00Z

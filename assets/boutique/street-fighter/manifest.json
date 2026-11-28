@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "street-fighter",
+ "title": "Street Fighter",
+ "source": "screenscraper",
+ "ss_game_id": 42981,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42981,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter",
+   "genre": "Combat",
+   "synopsis": "Street Fighter, premier du nom... Comme sa suite beaucoup plus célébre, c'est un jeu de combat. Mais les graphismes sont sommaires, les animations et la maniabilite assez horrible. Difficile de comprendre comment un tel jeu a pu engendrer un jeu culte comme Street Fighter II. \r\nAutant le second gagne à etre connu, autant celui-ci ne restera pas -et n'est pas resté- dans les mémoires.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter",
+   "genre": "Fighting",
+   "synopsis": "Martial arts masters Ryu and Ken enter a worldwide martial arts tournament spanning 5 nations as they face 10 of the world's greatest fighters. The game can be played alone or with 2 players competing, with Player 1 taking the role of Ryu and Player 2 as Ken. The predecessor to the ultra-popular \"Street Fighter II - The World Warrior\".",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cfc611d7e27c5bd1df1ccea44920d3f902aa11e39274d6cfbfec08ec292c89eb",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=fanart",
+   "fetched_at": "2026-11-06T23:17:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ba948f461ad7336d3be924f3b485d8eb4f11fbe0140ca4068772e3e281f67b8a",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:17:54+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d40e7524df37d09451e87af3101f5081a56cf18b82e56976f08d2baaf494da19",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:17:56+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0388abda0221da039310ba237d2857eeae26466874b29c8cf4e86d19ad4513a2",
+   "width": 476,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:17:57+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a9f2cf0d194c516321bd5ea567e0d17ff9ac5017e3596f725e41799aac2a980f",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:17:59+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "112a0a9434184fd09457c06a461895bc7fe8199033186ea0dc23728de376f8c5",
+   "width": 1206,
+   "height": 850,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:18:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "aebccc902c5052ba19b96c03b95eb21d66cbff478178aff70edb6eab62260f91",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42981&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:18:01+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:17:52+00:00",
+ "status": "done"
+}

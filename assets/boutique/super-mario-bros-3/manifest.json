@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "super-mario-bros-3",
+ "title": "Super Mario Bros. 3",
+ "source": "screenscraper",
+ "ss_game_id": 1246,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1246,
+  "release_year": 1990,
+  "publisher": "Nintendo",
+  "developer": "Nintendo",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Mario Bros. 3",
+   "genre": "Plateforme",
+   "synopsis": "Combattez des monstres et de petits patrons, évitez les fantômes, le soleil brûlant et les boulets de canon et récupérez le sceptre royal.\r\nSuper Mario 3 compte encore plus de zones accessibles par tuyau, offre plus d'occasions d'obtenir des vies supplémentaires et comporte un élément nouveau: des costumes! Le costume de raton-laveur permet à Mario de voler et de briser des blocs de brique. Le costume de grenouille lui permet de nager plus vite que les poissons meurtriers.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Mario Bros. 3",
+   "genre": "Platform",
+   "synopsis": "Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. \n\nThis time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.\nIt's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.\n\nOld and new power-ups abound in each level for the Mario Brothers, including the return of the Super Mushroom and Fire Flower, plus the new power-ups including the frog suit, the warp flute, and the most important of all, the leaf, which allows the player to fly and attack enemies with your tail.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b6632c97f7495cde97b7d5e1d419f5f66844c2e77f1623f0b57afaba59a8c707",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1246&media=fanart",
+   "fetched_at": "2026-11-07T11:06:46+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "39dd505d720f185f5dd47162b710075ec0002f5b30386239735424788ee600fa",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1246&media=wheel%28us%29",
+   "fetched_at": "2026-11-07T11:06:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0154863e8f28094c3d4b6373c9a9683747f4298f6f938d9d488bc368be1b43c9",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1246&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T11:06:49+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "3c9328ca2fa467191629e02d30a68b3d95de76e59a89fce264422462be0c02fc",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1246&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T11:06:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3cb9d2fb184e3a5d721e9e9b0861a7ce85f72dae86283df2ea9c900ff711ddad",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1246&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T11:06:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3870249e1b9c43b8730b1c941c97f35f894325d9ff6eb39e1f05b93772a05d00",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1246&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T11:06:54+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T11:06:46+00:00",
+ "status": "done"
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "black-tiger",
+ "title": "Black Tiger",
+ "source": "screenscraper",
+ "ss_game_id": 40270,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40270,
+  "release_year": 1987,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Black Tiger",
+   "genre": "Plateforme",
+   "synopsis": "Dans ce jeu, vous incarnez un barbare qui doit tuer trois dragons descendus du ciel et qui ont plongé le royaume dans les ténèbres. Vous devez traverser plusieurs zones en détruisant les monstres qui se trouvent sur votre chemin. En chemin, vous rencontrerez des vieillards qui, une fois secourus, vous donneront des objets tels que du temps supplémentaire, plus de vitalité ou plus de pièces. Ils pourront également vous vendre des objets tels que des améliorations d'armures, des armes, des clés pour des coffres au trésor ou des potions anti-poison. Vous pouvez collecter des pièces en détruisant certains monstres ou en brisant des pots.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Black Tiger",
+   "genre": "Platform",
+   "synopsis": "\"Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, \"\"Ghosts'n' Goblins\"\".\r\nThe player takes on the role of a barbarian who must jump and fight his way through a variety of levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter them. Rescuing them awards 'Zeny coins'; these allow the player to buy weapon and armor upgrades, keys for treasure chests, and potions.Occasionally, a rescued wise man will also offer to sell the player weapon and armor power-ups.\r\nThe barbarian hero is armed with a spiked mace as well as unlimited throwing daggers. Both these and the armor worn by the barbarian can be upgraded by finding or buying power-ups.\r\nThe sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. Many levels also include a hidden dungeon. Special items can be found by attacking certain walls.\"",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "68f26f0c123c631410d7f23726a6057b3fe5c173c01a6ff1f4546dc221e56885",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=fanart",
+   "fetched_at": "2026-11-06T17:21:58+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "97e4422cd1c4302a69c5dbc4c7d34251643bd45e90a294db6e615a806e83a311",
+   "width": 600,
+   "height": 269,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:21:59+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4860d8440c18f7fcfa8a6c3cd944c8a3e215a12154e05a32eac3e5b5c13b316b",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:22:01+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a612fcf38119f5f0185ff04864bdf3bc213a4dc6afdb9a138254ee24d7d198d1",
+   "width": 456,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:22:03+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a19a0c980b2fcdd7321ce92372c1ab5a5b34b7c0dd3d733510ea71dbe0c98158",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:22:04+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "afca309cda9d4cd83f312242415c5b6176f5302b256c96b701e71dc1369069c5",
+   "width": 850,
+   "height": 1106,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:22:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b60f281be12c9d0f76f07c787c9140278843eb2c1150c2aeb32d0ccc636872ef",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=40270&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:22:07+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:21:57+00:00",
+ "status": "done"
+}

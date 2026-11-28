@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "x-men-vs-street-fighter",
+ "title": "X-Men vs. Street Fighter",
+ "source": "screenscraper",
+ "ss_game_id": 37420,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37420,
+  "release_year": 1996,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "X-Men vs. Street Fighter",
+   "genre": "Combat",
+   "synopsis": "Le début d'un mythe. Si X-Men vs Street Fighter est le premier cross-over à voir le jour, on ne sera pas étonné que la recette soit reprise tant de fois par la suite. Et pour preuve, ce premier titre est resté dans les mémoires comme étant un incontournable.Sorti donc en 1997 seulement au Japon dans une belle boîte cartonnée avec la RAM de 4 Mb qui va donner son potentiel explosif au jeu, X-Men vs Street Fighter est certainement le cross-over par excellence de la console, qui nous le restitue une fois encore dans une version parfaitement identique à l'arcade.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "X-Men vs. Street Fighter",
+   "genre": "Fighting",
+   "synopsis": "X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b88933d1d1dd24efd2798c5ce6ac5803e2b89be58b59738f3ed8a64c4c3ac195",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37420&media=fanart",
+   "fetched_at": "2026-11-06T15:53:13+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "79ed209f8cae4a89973426703b567417f649c159f8ccf854d69ffc8d04dc70e7",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37420&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:53:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "73d7899bf245ffbfdf0f6d14b05162191e24f2909b3ed590521aba4f58945726",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37420&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:53:16+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "02be23df379927b86410d67418e7abd98e88e6e8eaa811057ddc25a8f21f74f0",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37420&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:53:17+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "6df74fcdb7cb962a4bfe1e75bb8735444e877e7c4cf914ba2614252d58baefb3",
+   "width": 850,
+   "height": 1186,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37420&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:53:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6d1b19e51498846427eab07e1b6e50f15c47715d3ef229b0421d145e0df995e5",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=37420&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:53:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:53:12+00:00",
+ "status": "done"
+}

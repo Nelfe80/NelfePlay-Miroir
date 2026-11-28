@@ -1,0 +1,93 @@
+{
+    "schema": 1,
+    "slug": "shining-soul-ii",
+    "title": "Shining Soul II",
+    "source": "screenscraper",
+    "ss_game_id": 3832,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 3832,
+        "release_year": 2004,
+        "publisher": "THQ",
+        "developer": "Nex Entertainment",
+        "players": "1-4",
+        "system_label": "Game Boy Advance"
+    },
+    "text": {
+        "fr": {
+            "name": "Shining Soul II",
+            "genre": "Jeu de rôles",
+            "synopsis": "Shining Soul II est un jeu de rôle disponible sur Gameboy Advance. L'histoire débute alors que le peuple du royaume de Klantol lutte contre une sécheresse qui dure depuis plusieurs années. La cause de ce problème reste incertain et tout ce qu'on peut entendre (et voir) tourne autour de mystérieux nuages qui se formèrent dans le ciel, obscurcissant le ciel et qui déversent un flot de monstres sur le royaume.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Shining Soul II",
+            "genre": "Role Playing Game",
+            "synopsis": "Shining Soul II tells of a world where the balance between Light and Darkness is thrown off once again because people have long forgotten the danger that came before. After grim omens, the murder of a prophet, and dark intrigue at the royal court, it falls to a new hero to stand against the growing shadow. What begins with a tournament at the castle soon turns into a much larger journey filled with danger, monsters, and secrets. A particularly appealing touch is that characters do not just grow stronger through equipment and battles, but also become more resistant by directly enduring hazards. This gives the adventure a strong sense of momentum while pairing a classic save-the-world story with constant progress.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "8ed8bef2e67ee1ea3be8ff1f7d6ecbae18c79eeb32eb2391db6213a195a6148f",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3832&media=fanart",
+            "fetched_at": "2026-11-27T16:31:35+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "f695c8bdb9896c91ef00067e5378c5d05f652d1974248da8be28e9c72811e2e6",
+            "width": 600,
+            "height": 300,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3832&media=wheel%28wor%29",
+            "fetched_at": "2026-11-27T16:31:36+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "b0be4440a37c108f199870ddf39589c1419ee5601762425a76c7e4b69a95a5db",
+            "width": 705,
+            "height": 700,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3832&media=box-2D%28us%29",
+            "fetched_at": "2026-11-27T16:31:38+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "b4da3ac3835eec2334c2860798511494f364fd907f3abd3b6c9d534bb6d15e37",
+            "width": 600,
+            "height": 355,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3832&media=support-2D%28us%29",
+            "fetched_at": "2026-11-27T16:31:44+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "d5fb73565bba2a9e54641ee8fcb2e8814448465835a0ee5668af9fb51ae17745",
+            "width": 240,
+            "height": 160,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3832&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-27T16:31:46+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "7c8f642c23f862508998d67aa71514434cad68b6b1c1c20d3aa633b1b844572d",
+                "width": 240,
+                "height": 160,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=3832&media=ss%28wor%29",
+                "fetched_at": "2026-11-27T16:31:47+00:00"
+            }
+        ]
+    },
+    "absent": [
+        "flyer"
+    ],
+    "fetched_at": "2026-11-27T16:31:44+00:00",
+    "status": "done"
+}

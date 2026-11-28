@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "contra",
+ "title": "Contra",
+ "source": "screenscraper",
+ "ss_game_id": 3087,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3087,
+  "release_year": 1991,
+  "publisher": "Ultra Games",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Operation C",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Probotector (aussi appelé Contra ou Gryzor suivant les supports) est un jeu d'action sur Gameboy. Traversez les différents niveaux en éliminant ennemis et boss tout en évitant de mourir plusieurs fois de suite, sinon l'épuisement de crédits vous fera reprendre tout depuis le début.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Operation C",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Operation C is a Game Boy sequel to the popular NES titles Contra and Super C and is, essentially, a side-scrolling shooter. You play a Rambo-esque character that goes around shooting everything in sight, collecting weapon upgrades and bonuses.\n\nThe game introduces the character of Black Viper to the series' oft-jumbled continuity.  Black Viper would later return in the Nintendo DS title, Contra 4, as the primary villain.  \n\nThe game features only five levels, two of which are played from an overhead perspective similar to Super C.  Operation C is also notable in featuring the upgradable Spread Gun (from three to five shots) and introducing the Hunter Gun.  \n\nThere is also the occasional platform element such as jumping puzzles, moving platforms etc., and the mandatory end-level boss.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "15a218b4e5b968dfefa1dbc6a157937434303ed2e9c04f506f0594433ee15383",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3087&media=fanart",
+   "fetched_at": "2026-11-06T23:16:35+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "37e1dcbd7b1a43614900c28edb3da294668e394a260122ba8b2076d96171a425",
+   "width": 400,
+   "height": 175,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3087&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:16:36+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "933b56da67167b6bbb3e59a5afd991466454d9261f7f14981904ccc3e36cd40a",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3087&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:16:38+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0c5c61b7f6cae0c8be5788f845ebf6cfe68832ae8ece41de620b9a5358d384c6",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3087&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:16:39+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3770abec189ac7a230623808f34c527eb36adbc494329f8875ded924b38eb97b",
+   "width": 160,
+   "height": 144,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3087&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:16:41+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "e0459865c0d617f9243b8b06f90fedba6799170e1e8a5e7a51a29ceb9e8c9cb0",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3087&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:16:42+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:16:34+00:00",
+ "status": "done"
+}

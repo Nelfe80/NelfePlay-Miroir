@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "alpha-mission",
+ "title": "Alpha Mission",
+ "source": "screenscraper",
+ "ss_game_id": 1508,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1508,
+  "release_year": 1987,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Alpha Mission",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Dans la galaxie de Tetrenova, une guerre a été menée qui a épuisé les ressources et même les mondes. Les survivants se regroupent et cherchent un nouvel endroit pour reconstruire. Ils choisissent une planète apparemment non développée, la Terre.\r\nÀ l'aide de votre vaisseau de défense \"Syd\", vous devez détruire les forces d'invasion et les cibles terrestres à l'aide de bombes. Obtenez des bonus pour gagner de l'énergie afin d'améliorer votre vaisseau et le transformer en une machine plus puissante.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Alpha Mission",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "Out beyond, in the galaxy of Tetrenova, a war has been fought that has exhausted resources and even worlds. The survivors band together and look for a new place to rebuild. They choose a seemingly undeveloped planet, Earth.\n\nUsing your defense ship 'Syd,' you must destroy the invading forces and ground targets with bombs. Obtain power-ups to gain energy for ship upgrades that allow you to transform to a more powerful machine. The game itself is a vertical shooter, moving continuously up towards the top of the screen.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "82ef39a861a6071742cf5088214aecb52e78ad5d4392b0d4b6036e5ce2df0eb9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1508&media=fanart",
+   "fetched_at": "2026-11-06T15:56:09+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f5727335939eecd49a2ea9724d93b09bdb620da5e1b4a434af35bf4af42dae7a",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1508&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:56:10+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4dccd8d9006365eaff4a2fefd7e489bc781bc0ad9834a01f7c9cfa91558aa45b",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1508&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:56:12+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "121997dd4bf4f9900f41494fe08da43606c717a6ecd75766028c455cc5fce501",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1508&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T15:56:14+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3f56d627b8c4d9e592b129bf1cd747d6f7f138a8d2f5204e01d6300b54442c73",
+   "width": 256,
+   "height": 240,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1508&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T15:56:15+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f24ca6536918aa9b043a8189bf5b3f4b5eed0c4d43c84f7e7d23f29a3170feff",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1508&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:56:17+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T15:56:08+00:00",
+ "status": "done"
+}

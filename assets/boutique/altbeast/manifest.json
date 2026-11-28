@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "altbeast",
+ "title": "Altered Beast",
+ "source": "screenscraper",
+ "ss_game_id": 39992,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 39992,
+  "release_year": 1988,
+  "publisher": "SEGA",
+  "developer": "Team Shinobi",
+  "players": "1-2",
+  "system_label": "Sega Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Altered Beast",
+   "genre": "Beat'em All",
+   "synopsis": "Un trés bon beat them all, à l'époque sorti également sur Mégadrive à son lancement, où vous jouez le rôle de \"mort vivant\" capable de se transformer en diverses créatures (loup, dragon, ours..) pour affronter du mieux possible autres \"bestioles\" et fameux boss de fin. Se consomme à 2 de préférence ....",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Altered Beast",
+   "genre": "Beat'em Up",
+   "synopsis": "You are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive. The Altered Beast title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "84b0dd93fee549f3e18b762ddc1747be405015cdb70f4ac4a5c52699625ce698",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=fanart",
+   "fetched_at": "2026-11-06T23:52:41+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f1d9442026cbda8c05d020118c4dda3a7458c8cd3cf5a28ac2a8fdef4bc0ffdb",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:52:42+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "5d3898cb478eed7698f02b7027f1a813808af72b5127c250590b16b1c41beefc",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:52:44+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a686e2b619c608df38a8515a8cc26c1adef05d3386e0efbc57cc3338b4c16145",
+   "width": 444,
+   "height": 900,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:52:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "8d92558f9aaa66f1c80e0f7e17c47b6a0cd34e513bc23bb9e17ec47a7f9d5ec2",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:52:47+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "fe6e6146c0fc8576c9919a09e13b4730910577d5aeb9e4bea15953137ed2aa6d",
+   "width": 850,
+   "height": 1218,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:52:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "248a436fb2fb7cfd12e803f338f5a7a58d37c3d2cbfe2a92e2a8df4a8ea00adb",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=147&jeuid=39992&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:52:50+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:52:40+00:00",
+ "status": "done"
+}

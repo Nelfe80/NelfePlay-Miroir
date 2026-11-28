@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "kid-dracula",
+ "title": "Kid Dracula",
+ "source": "screenscraper",
+ "ss_game_id": 1489,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1489,
+  "release_year": 1990,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Akumajou Special : Boku Dracula-kun",
+   "genre": "Aventure",
+   "synopsis": "C'est le 19 octobre 1990 que Konami décide de proposer au jeune public une déclinaison « kawaii » de Castlevania sur Famicom, que l'on pourrait presque considérer comme une parodie. Le jeu est baptisé Akumajô Special : Boku Dracula-kun, le sous-titre signifiant à peu de choses près « je suis le petit Dracula ». Bourré de clins d'oeil aux premiers épisodes de la saga Castlevania, ce sympathique jeu de plates-formes / action nous glisse dans la peau du fils du seigneur des vampires, celui-ci n'ayant pas grand-chose de commun avec l'éternel adversaire des Belmont.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Akumajou Special : Boku Dracula-kun",
+   "genre": "Adventure",
+   "synopsis": "Kid Dracula is an unusual side-scroller from Konami.  It's  a parody of the company's popular Castlevania series. Instead of playing as a member of the Belmont family, you play as young Kid Dracula.\n\nYou have been woken up from your sleep by the evil demon Garamos, who's been wrecking havoc in Dracula's Castle. It's up to you to stop him by traveling across several different locations, including Dracula's Castle, New York, the Sea, and Egypt!\n\nGameplay consists of very standard jump and shoot platform action.  As you progress through the 8 levels, you gain the ability to perform spells, such as turning into a bat, and different special attacks, such as a spread / homing attack. You can also spend the coins you get when you defeat enemies in one of several mini-games that show up when you're between levels.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "9d7301c062efb5f06fce1b67c77c842b84ed0376ec6ea728f6f8cc6e517d3475",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1489&media=fanart",
+   "fetched_at": "2026-11-07T20:23:26+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3946ca62106af2db7ffd3c8da5b973b8880899863eeafb394496a849a6a536fb",
+   "width": 600,
+   "height": 300,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1489&media=wheel%28jp%29",
+   "fetched_at": "2026-11-07T20:23:27+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d26ecc5271d6a2b4c3233509027edabf351d7fa2b370f0a583909dabdd3f2502",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1489&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T20:23:29+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "e1044bc00915f569e61f2aba64db2fbe1242fbb5f226447520bbfb029bd13528",
+   "width": 600,
+   "height": 400,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1489&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-07T20:23:30+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "50b29e72754d7cffbaf97ca59a63d783036eae160cb2c2baaa82fef4a24c2999",
+   "width": 256,
+   "height": 224,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1489&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-07T20:23:32+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4fe217ae44858c2a95daa519b6709eb63e35758ae88923f70960c741371e936c",
+    "width": 256,
+    "height": 224,
+    "region": "jp",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1489&media=ss%28jp%29",
+    "fetched_at": "2026-11-07T20:23:33+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:23:25+00:00",
+ "status": "done"
+}

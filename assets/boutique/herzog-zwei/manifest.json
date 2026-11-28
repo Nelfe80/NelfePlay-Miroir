@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "herzog-zwei",
+ "title": "Herzog Zwei",
+ "source": "screenscraper",
+ "ss_game_id": 397,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 397,
+  "release_year": 1988,
+  "publisher": "SEGA",
+  "developer": "Technosoft",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Herzog Zwei",
+   "genre": "Stratégie",
+   "synopsis": "Herzog Zwei est un jeu de stratégie sur Megadrive dont le but estest de gérer le transport de ses troupes pour investir la base adverse. Les deux joueurs qui s'opposent disposent chacun d'un avion ainsi que de troupes au sol. Il faudra bien souvent acheter de nouvelles troupes pour les transporter sur le champs de bataille et ainsi s'assurer la victoire.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Herzog Zwei",
+   "genre": "Strategy",
+   "synopsis": "The premise is that two opposing forces are in combat with one another. Each player controls a jet airplane which zooms across the screen and may turn into a ground based soldier. These ground soldiers can hurt enemy units, but can not affect bases. To take over bases scattered across the map (and ultimately, the enemy base), players must purchase new units and transport them to certain positions. In this way, the player acts more like a transport and management for different types of units rather than a combat character themselves. If the plane is ever destroyed, it restarts at the player's base location. As previously mentioned, a level is complete when either side's base is lost to the opposing forces.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0f4bfbcb77543b9415e57fa95cc00daabf81bb1abc3c4c9e6110527caa7ad197",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=397&media=fanart",
+   "fetched_at": "2026-11-06T23:57:15+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "66e41ec4d8571195f24ee97c794d734d525f24d9896c8df570a10c5f00904e4d",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=397&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:57:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "fb06beec5ef497360588b2b94dd5b9f5e45e7e515ce7f3bae32d9b958d4c242e",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=397&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:57:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "383ea934757e599767ce51c29f05eb9f652dc747d32aca175655c82ea6a83479",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=397&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:57:19+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a81bccf252a3aa74b92974116e6b18d43227d67e5327b5da821dc4c169243c56",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=397&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:57:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "c5baf09d773618568ffa6b0e3ee8d2109f26f03f1a6f11c4d7df19b01c5dc808",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=397&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:57:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:57:14+00:00",
+ "status": "done"
+}

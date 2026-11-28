@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "slug": "anteater-prototype",
+ "title": "Anteater (prototype)",
+ "source": "screenscraper",
+ "ss_game_id": 54191,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 54191,
+  "release_year": 1982,
+  "publisher": "Romox",
+  "developer": "",
+  "players": "",
+  "system_label": "Atari 8bit"
+ },
+ "text": {
+  "fr": {
+   "name": "Anteater",
+   "genre": "Action / Labyrinthe",
+   "synopsis": "Ant Eater is a 2D arcade game (completely different from the arcade game with a similar title). The player controls an ant, who must steal picnic food from the surface (and can dig long tunnels). The ant must avoid anteaters, it can dump stones on opponents, but they are immediately reborn.\r\nSo you are an ant trying to collect food located near a picnic basket at the top of the screen, and return it to your nest. You can dig tunnels through the ground below the surface. Your ant travels slower when it's digging instead of moving through existing tunnels. If you can trick an anteater into following you, you can dig out a rock and drop it on the anteater, destroying it.",
+   "synopsis_lang": "en"
+  },
+  "en": {
+   "name": "Anteater",
+   "genre": "Action / Labyrinth",
+   "synopsis": "Ant Eater is a 2D arcade game (completely different from the arcade game with a similar title). The player controls an ant, who must steal picnic food from the surface (and can dig long tunnels). The ant must avoid anteaters, it can dump stones on opponents, but they are immediately reborn.\r\nSo you are an ant trying to collect food located near a picnic basket at the top of the screen, and return it to your nest. You can dig tunnels through the ground below the surface. Your ant travels slower when it's digging instead of moving through existing tunnels. If you can trick an anteater into following you, you can dig out a rock and drop it on the anteater, destroying it.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "bf12ba538311eb9f5410365a4a82926432d470a1f7a37b21c2649992f6fc79e7",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=43&jeuid=54191&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T00:09:08+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "9adbbaba830c541915f8d09e3ac2dc9e2e1fdf38b0d9f6ef679e0bc3d50d0e59",
+   "width": 481,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=43&jeuid=54191&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T00:09:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b278c06fc6a5c8d7581a911ab667f0105f1e20b41937a2469a84ed5fb242c56b",
+   "width": 336,
+   "height": 240,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=43&jeuid=54191&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T00:09:11+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8a0faf576bb3c3804e1cd75ed64d27bc80b1ad4e4ec099fa3c0afc47ad2537ce",
+    "width": 336,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=43&jeuid=54191&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T00:09:12+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "wheel",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T00:09:07+00:00",
+ "status": "done"
+}

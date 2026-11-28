@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "cabal",
+    "title": "Cabal",
+    "source": "screenscraper",
+    "ss_game_id": 40422,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 40422,
+        "release_year": 1988,
+        "publisher": "Tad",
+        "developer": "Tad",
+        "players": "1-2",
+        "system_label": "Mame"
+    },
+    "text": {
+        "fr": {
+            "name": "Cabal",
+            "genre": "Tir",
+            "synopsis": "Ah quel bonheur ce jeu! Un vrai bijou! Vraiment sympa à  jouer. On peut même détruire les décors pour récolter des bonus et faire des roulades. \r\nLe jeu est à difficulté progressive ce qui permet d'aller assez loin et toujours de plus en plus loin à  chaque fois qu'on y rejoue.\r\nPour ceux qui aiment les jeux de tir comme Operation Wolf, je vous le conseille. C'est un peu dans le même style sauf qu'on voit notre personnage.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Cabal",
+            "genre": "Shooter",
+            "synopsis": "Cabal is a war themed shoot-em-up with one or simultaneous two-player gameplay in which two unnamed commandos must battle through five different stages - each containing four screens of play - to reach and defeat an evil dictator.\r\n\r\nThe game is an into-the-screen shooter with the action viewed from an over-the-shoulder perspective. The commandos can move left and right to avoid incoming fire while the enemies themselves are targeted by moving an on-screen cross-hair over them and pressing fire. If the fire button is held down, the commando remains static, allowing for more accurate targeting of the cross-hair. While static, the commandos are vulnerable to incoming enemy fire.\r\n\r\nInitially, the commandos are armed with only a standard single-shot gun (albeit with unlimited-ammunition) and a limited number of grenades, but additional grenades and weapon power-ups can be earned as play progresses.\r\n\r\nAs well as enemy troops, vehicles such as tanks, armoured cars and helicopters also appear and take numerous shots to destroy. When destroyed or killed, some on-screen targets release points bonuses and weapon power-ups that drop to the bottom of the screen and can be picked up by the commandos. Weapon power-ups include additional grenades, a rapid-fire machine and an automatic shotgun, which has a slightly lower firing rate but has a larger targeting cross-hair, allowing it to strike a wider area with each shot.\r\n\r\nEach of the game's screens is littered with buildings and barricades that can also be destroyed. This removes enemy cover as well as earning players bonus points.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "792c95a61f812450319772af066dc5ef7d0b79b5bb111bedae14c181caa25932",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=fanart",
+            "fetched_at": "2026-11-25T13:36:56+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "ab3b327ac5c57f0322d50f83a3708980fbd8946593d8484be50ce6fc5e5fa434",
+            "width": 600,
+            "height": 187,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=wheel-hd%28wor%29",
+            "fetched_at": "2026-11-25T13:36:58+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "4dbdd049056ca56d1fe93a6d740702efffcf8eb3796e7aeac78e0fe880ceb2d2",
+            "width": 496,
+            "height": 680,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=box-2D%28us%29",
+            "fetched_at": "2026-11-25T13:36:59+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "86a59fbbf9a07075bcbd2b7da530aee7f22164cea7851da01c699357f690a97b",
+            "width": 508,
+            "height": 1000,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-25T13:37:01+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "206ff7ca50a5330f6abb1e8ab79712bbc80f2fe33abfec45e3314eb038209dd4",
+            "width": 256,
+            "height": 224,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-25T13:37:02+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "09db309b7e9fee34708c7943d61f8cf07b678c0e4a3a393a6d4c09bf86cf06f7",
+            "width": 850,
+            "height": 1104,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=flyer%28wor%29%5B1%5D",
+            "fetched_at": "2026-11-25T13:37:04+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "901ce319361304c66b0479631918404166e3953f5d654b2bcf5d0b07a90298bf",
+                "width": 256,
+                "height": 224,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=75&jeuid=40422&media=ss%28wor%29",
+                "fetched_at": "2026-11-25T13:37:05+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-25T13:36:55+00:00",
+    "status": "done"
+}

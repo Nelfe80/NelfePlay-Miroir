@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "mech-platoon",
+ "title": "Mech Platoon",
+ "source": "screenscraper",
+ "ss_game_id": 4067,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 4067,
+  "release_year": 2002,
+  "publisher": "Kemco",
+  "developer": "Kemco",
+  "players": "1-2",
+  "system_label": "Game Boy Advance"
+ },
+ "text": {
+  "fr": {
+   "name": "Mech Platoon",
+   "genre": "Tir",
+   "synopsis": "Mech Platoon est un jeu d'action/stratégie sur Gameboy Advance. Dans un futur lointain, les robots ont remplacé les fantassins humains. Vous devez choisir votre camp parmi 3 forces aux caractéristiques différentes : les troupes Léon, les Monos et les Trampler.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mech Platoon",
+   "genre": "Shooter",
+   "synopsis": "A real-time strategy (RTS) game for the GBA.  Players build an army of robot mechs to capture 5 planets in a series of missions against two other nations.  A player's mechs are built and improved by building laboratories, bases and by salvaging battlefields for enemy parts.  All the key elements of a classic RTS in your GBA.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ef3ae4531094aef93292f43bccd4c90984905f9c0a8e64c67d86c2baf7aba318",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4067&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:57:48+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "0273461b893c153390d0afa7833ed31c565fb36f50ca1f8f343b93e88667aac5",
+   "width": 705,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4067&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:57:50+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "513dbd83a7b074667c6f1f6d26ca9cdcb8d66230b9cbecb69e45988907427dd9",
+   "width": 600,
+   "height": 355,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4067&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:57:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "c5bd636909aa47d5b7400acb3631f924b604d05d184a215fa9924a1115da7829",
+   "width": 240,
+   "height": 160,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4067&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:57:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "1443b890f84c68e63ab94faf5816904a17dd105c80b0db6065d671dcf4392d93",
+    "width": 240,
+    "height": 160,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=12&jeuid=4067&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:57:54+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:57:47+00:00",
+ "status": "done"
+}

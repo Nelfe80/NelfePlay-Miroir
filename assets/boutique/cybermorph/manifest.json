@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "cybermorph",
+ "title": "Cybermorph",
+ "source": "screenscraper",
+ "ss_game_id": 14168,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14168,
+  "release_year": 1993,
+  "publisher": "Atari",
+  "developer": "Attention To Detail (ATD)",
+  "players": "1",
+  "system_label": "Jaguar"
+ },
+ "text": {
+  "fr": {
+   "name": "Cybermorph",
+   "genre": "Tir",
+   "synopsis": "Cybermorph est un jeu d'action sur Jaguar. L'empire maléfique de Pernitia est en train d'engloutir toutes les planètes de la galaxie et les forces résistantes se sont fait voler leurs armes secrètes. Devenez le pilote du T-Griffon et attaquez toutes les planètes pour récupérer les armes secrètes dans le but de dissoudre l'empire Pernitia.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Cybermorph",
+   "genre": "Shooter",
+   "synopsis": "Cybermorph was the first game released for Atari's Jaguar console. It's a 3d sci-fi shoot-'em-up.  The story goes like this:  The evil Pernitia Empire is swallowing up the galaxy's planets left and right.  What's worse, the resistance forces have had their secret weapons stolen from them and put into pods spread out on many different planets.  You must pilot the T-Griffon morphing attack craft to each planet and recover the pods to stop the Pernitians.\n\nSo, in each planet, or level, you must collect a certain number of pods and make it to the exit before the enemies shoot you down. Fortunately, there are power-ups that can strategically enhance the T-Griffon's offensive capabilities.  After clearing 8 planets, you take on a boss creature/ship before moving on to the next sector.  There are 4 levels like this to clear, each with progressively increasing difficulty.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b4b65a0bdcd1413ddc73ae89607c3bd0ba925f61cf977676df43e8114389203c",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14168&media=fanart",
+   "fetched_at": "2026-11-06T16:51:36+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "446a8972c5eb913dfae300def7adadf274cba77e71fc59bbb384e4f5b69e3bdd",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14168&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:51:38+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "73cd42e74ca38adb42443cb7df75569098212f24d253780fc574d921248052c8",
+   "width": 731,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14168&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:51:40+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "4aec8e2ad5a977c13b40ca782ef4ca181f5f471ee9cb1666a63d609150dae6f4",
+   "width": 600,
+   "height": 503,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14168&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:51:41+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "d8745ac15818b032e8491ace3c83ce3631e2e58519f998e79367c2cb3e604b04",
+   "width": 320,
+   "height": 227,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14168&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:51:42+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "627732b972bcfa9904c254e4e29bdc495a7137d95b42135c4ee47df49a7e22ee",
+    "width": 320,
+    "height": 227,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=27&jeuid=14168&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:51:44+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:51:36+00:00",
+ "status": "done"
+}

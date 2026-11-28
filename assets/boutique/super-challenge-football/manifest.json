@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "super-challenge-football",
+ "title": "Super Challenge Football",
+ "source": "screenscraper",
+ "ss_game_id": 87929,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87929,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "Mattel Electronics",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Challenge Football",
+   "genre": "Sport",
+   "synopsis": "Le but du jeu est de sur-marquer votre adversaire. Il y a des passes, des courses, des blocages et des touchés ! Simulation de quarts de 15 minutes. Vous définissez à la fois l'offensive et la défense. Contrôle individuel du quarterback et du linebacker.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Challenge Football",
+   "genre": "Sports",
+   "synopsis": "The object of the game is to out-score your opponent.  There's passing, rushing, blocking, and touchdowns!  Simulated 15 minute quarters.  You set both offense and defense.  Individual control of both the quarterback and linebacker.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7d607e31f8f4326608366becc998f75a728b304f354ae8520a872000a84a7ea0",
+   "width": 400,
+   "height": 38,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87929&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:06:19+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "e88f4f06471097db44f0de8268faa40436c4e531c414dec4e5818cf4a04b8063",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87929&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:21+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "440eb359eb7d50ffc37137649bdc4bfe4d69e153a25b857d926e6adc4ed70f63",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87929&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:06:23+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "0bb218e787e36a92fb16c099b81ac8a451743ae7d61b5a208b4fb6618e1cada9",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87929&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:06:24+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "abb5bf06b3c2717a7d9aaa534e8456aa5fd0d35129a2fe572a6a2efefc700510",
+    "width": 320,
+    "height": 226,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87929&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:06:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:06:19+00:00",
+ "status": "done"
+}

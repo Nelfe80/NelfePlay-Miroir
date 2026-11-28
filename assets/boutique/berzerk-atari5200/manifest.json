@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "berzerk-atari5200",
+ "title": "Berzerk",
+ "source": "screenscraper",
+ "ss_game_id": 37921,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37921,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Stern",
+  "players": "1-2",
+  "system_label": "Atari 5200"
+ },
+ "text": {
+  "fr": {
+   "name": "Berzerk",
+   "genre": "Tir",
+   "synopsis": "Vous avez été envoyé dans un bâtiment infesté de robots et vous devez faire de votre mieux pour le nettoyer. Chaque pièce possède un certain nombre de murs en son milieu, ce qui limite vos mouvements. Il y aura un certain nombre d'ennemis dans la pièce. Sur les premiers écrans, ils peuvent être immobiles et ne pas tirer, mais après quelques niveaux, ils deviennent capables de tirer dans plusieurs directions. Vous pouvez tirer dans 8 directions, mais vous ne pouvez pas tirer en diagonale lorsque vous vous déplacez. Il y a des ouvertures sur le côté de chaque pièce, par lesquels vous pouvez sortir, avant ou après avoir nettoyer la pièce (il y a un bonus pour le nettoyage). Vous obtenez une vie supplémentaire tous les 2000 points.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "BerZerk",
+   "genre": "Shooter",
+   "synopsis": "You have been sent into a building infested with robots, and must do your best to clear it out. Each rooms has a number of walls through the middle, which restrict your movement. There will be a number of bad guys in the room - on early screens they may be immobile and not shoot at you, but after a few levels they become capable of shooting in multiple directions. You can shoot at them in 8 directions, but can't shoot diagonally while moving. There are gaps at the side of each room, through which you exit, before or after clearing the room (there is a bonus for clearance). You get an extra life every 2000 points.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "c485a074f8753656fde8c3044db251b9ed7c315d46c416d54fe8da88d3fdf6c9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37921&media=fanart",
+   "fetched_at": "2026-11-06T16:49:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "93cbf3533b7a704f012110048b3fe79e5f6b535b42b907218d8baf0a8560defc",
+   "width": 600,
+   "height": 130,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37921&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T16:49:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "35d7f718507e497f28c214ceb0855450804e4f5c0b7b06faa3942ec161af2aea",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37921&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:49:25+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "59c973522e6bfd06373055a683e22691d7f41bc07d55b4fcddfee95c5b1c247d",
+   "width": 600,
+   "height": 552,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37921&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:49:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "5b9e9f5859f555f7db9d4885966de4ca286ab1d9c7c17562a516cd0f5172dc52",
+   "width": 336,
+   "height": 225,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37921&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:49:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "6a0cb56b0359ed839c7c7c16bc1c4a685ef153aa42a689c9c030886e80123db1",
+    "width": 336,
+    "height": 225,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=40&jeuid=37921&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:49:29+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:49:21+00:00",
+ "status": "done"
+}

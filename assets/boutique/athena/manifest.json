@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "athena",
+ "title": "Athena",
+ "source": "screenscraper",
+ "ss_game_id": 40095,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 40095,
+  "release_year": 1986,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Athena",
+   "genre": "Plateforme",
+   "synopsis": "Dans ce jeu de plates-formes, vous incarnez Athéna la déesse de la sagesse qui part à l'aventure en dehors du château ennuyeux où elle vit, elle rencontre de nombreux ennemis qu'elle combat avec diverses armes comme un boulet, un arc et une épée très puissante, elle peut également se transformer en sirène ou monter sur des ailes pour explorer la mer ou les cieux.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Athena",
+   "genre": "Platform",
+   "synopsis": "This is a pretty hard platform game where you take the role of Athena fighting your way through different worlds inhabited by all kinds of different enemies, ranging from moving pears to huge golems and flying devils.\r\n\r\nYou start out with nothing more than your feet to fight with and no more protection than Athena's underwear (she actually loses her dress in the intro to the first world) but can collect a huge number of different weapons and armour, as well as a great number of power-ups ranging from the usual more-power-for weapon or armour, through boots that allow her to jump higher and wings for flying, to one where Athena becomes a semi-god and actually growths to twice her usual size and gets a huge burning sword and full armour.\r\n\r\nThe worlds are filled with stone blocks that can be smashed when searching for secrets and items, as well as several levels connected by ladders or other means of transportation.\r\n\r\nAthena is a great game, and will give even the most hardened platform-player a real challenge, for it is NOT an easy game, even with the dip switches in 'Easy' mode.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "e965ab5cf17436fdc78788866f46617d8dc2b777a042899ba7818d83e56b5326",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40095&media=fanart",
+   "fetched_at": "2026-11-06T15:56:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "a62e7b518c2ae3bf1147148b04140f763dfffd26e906d7f0a93d3600ee9ae1de",
+   "width": 400,
+   "height": 125,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40095&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:56:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b1e5d9c4f11c9db07c16752bb28c6c0057646c0b17538d153ec0eb502bfbabf3",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40095&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T15:56:24+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3c0ccd96f0e37073abde40a3a157385195babd3a24642852cbd4e6eacae51d8a",
+   "width": 288,
+   "height": 216,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40095&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:56:26+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8a579c11a5c40ab9a84cc76ae95b0b73c4ea195e04efe0860dc619c932b9379b",
+   "width": 850,
+   "height": 1201,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40095&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:56:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ac984064530fc9688f794271abc2d25b115f9ab2f9bf306053f1cf733dce3c7c",
+    "width": 288,
+    "height": 216,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=40095&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:56:29+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:56:20+00:00",
+ "status": "done"
+}

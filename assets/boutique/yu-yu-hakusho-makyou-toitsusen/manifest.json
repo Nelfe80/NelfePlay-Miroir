@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "yu-yu-hakusho-makyou-toitsusen",
+ "title": "Yu Yu Hakusho: Makyou Toitsusen",
+ "source": "screenscraper",
+ "ss_game_id": 362,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 362,
+  "release_year": 1994,
+  "publisher": "SEGA",
+  "developer": "Treasure",
+  "players": "1-4",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Yu Yu Hakusho : Makyou Toitsusen",
+   "genre": "Combat",
+   "synopsis": "Yu Yu Hakusho est basé sur la série d'animes et le manga du même nom. Il raconte l'histoire d'un ado délinquant, Yuusuke Urameshi, qui se fait tuer par une voiture alors qu'il allait sauver un enfant. Malheureusement, il ne reste plus de place pour lui ni en enfer, ni au paradis, et c'est sur Terre qu'il est envoyé pour lutter contre les démons, dans un jeu de combat où 11 personnages de la série sont jouables.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Yu Yu Hakusho : Makyou Toitsusen",
+   "genre": "Fighting",
+   "synopsis": "Yusuke Urameshi and his friends are invited to a tournament by Makyou Toitsusen, a mysterious martial arts society. In this tournament they are gonna face again some demons who fought them in the past, and decide who are the strongest.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5aa8decae135ce1341bf16399a422a9f7a44f4e9ca8eee06c40cf35c7715080d",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=362&media=fanart",
+   "fetched_at": "2026-11-06T23:56:30+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f4a834ab4263736cb3012c6271dd0be7839237ceddc9a02d6691deb544a2c661",
+   "width": 500,
+   "height": 219,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=362&media=wheel%28jp%29",
+   "fetched_at": "2026-11-06T23:56:32+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "d97b7e06d3b5955213c7e04e44f37cc7e8d474bb955ccbe14b675551fc48ed4a",
+   "width": 484,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=362&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:56:33+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "87c034622ea4b84bcf59a76cda9f3b1ad6de37fd457098266e4935b8c6e02f0d",
+   "width": 600,
+   "height": 407,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=362&media=support-2D%28jp%29",
+   "fetched_at": "2026-11-06T23:56:35+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "3b0627e73473580db03c7910c242d1c2e681c60981f3a69727980e870eca45fc",
+   "width": 320,
+   "height": 224,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=362&media=sstitle%28jp%29",
+   "fetched_at": "2026-11-06T23:56:36+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "b64a747d9bf6f344504fbfc19aa2b3c9ae13d2523ec24536fb8affd5cdd78369",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=362&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:56:38+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:56:29+00:00",
+ "status": "done"
+}

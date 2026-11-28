@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "metal-slug-3",
+ "title": "METAL SLUG 3",
+ "source": "screenscraper",
+ "ss_game_id": 13852,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 13852,
+  "release_year": 2001,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "Neo-Geo"
+ },
+ "text": {
+  "fr": {
+   "name": "Metal Slug 3",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Metal Slug 3 est un jeu vidéo du type run and gun développé et édité par SNK en 2000 sur Neo-Geo MVS et Neo-Geo AES (NGM 256)1,2,3. C'est le quatrième épisode de la série Metal Slug, il a été porté sur PlayStation 2 en 2003 et sur Xbox en 2004 Xbox.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Metal Slug 3",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. You guide one of the heroes: Marco, Tarma, Eri or Fio as they blast their way through sidescrolling levels with a unique theme, filled with countless enemies and difficult bosses. You have to free hostages and you can ride bizarre vehicles such as camels, elephants, tanks and robots.\n\nIn the Xbox version, additional game modes, such as Storming the Mothership and Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A co-op mode has been included, but no online multiplayer. The only Xbox Live feature available allows you to compare singleplayer scores.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3af23d1333d5b7b68ba3699f23ac1b1be9aed9caee3419b8e8f2c76f9db9dc7b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=fanart",
+   "fetched_at": "2026-11-06T15:24:24+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "7a2e958676614353bb87b6bc992cf5928d21d5d5eeea9af623947b7bc38481ff",
+   "width": 600,
+   "height": 290,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:24:25+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "12d3c6a927728e3d0d610fd4a98727826fee7b5b36dd0879168cb26acc195f7a",
+   "width": 496,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:24:27+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d0ebc89b4a669edc0e080a2f4da7fd847d623725ed6aa9ce730da9e4be6a4fe1",
+   "width": 600,
+   "height": 437,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T15:24:29+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "af38130c476a972ceda7020cc6f8afdd31f2f007e70ac3cabfecb665ad4451a4",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:24:30+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "fcc77e1c1e24c1c5f74112ea46710b46ea09109dad6ee7a0d778cf557c4cdad2",
+   "width": 222,
+   "height": 312,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=flyer%28us%29",
+   "fetched_at": "2026-11-06T15:24:31+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "41d69de20c51ee0ad7fd7e29f3b51d71babca419d5747f156c0d24bdae01b0a4",
+    "width": 304,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=142&jeuid=13852&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:24:33+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T15:24:23+00:00",
+ "status": "done"
+}

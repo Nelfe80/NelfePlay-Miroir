@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "night-warriors-darkstalkers-revenge",
+ "title": "Night Warriors: Darkstalkers' Revenge",
+ "source": "screenscraper",
+ "ss_game_id": 44387,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44387,
+  "release_year": 1995,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 2"
+ },
+ "text": {
+  "fr": {
+   "name": "Night Warriors: Darkstalkers' Revenge",
+   "genre": "Combat",
+   "synopsis": "Suite de Darkstalkers : The Night Warriors.\r\n\r\nOn retrouve donc l'intégralité du casting de l'épisode précédent, boss compris, plus deux petits nouveaux. Donovan est un chasseur de démons. Il est armé d'une épée et protégé par un énorme génie, façon Aladdin. Un personnage équilibré. Hsien Ko pour sa part (Lei Lei au Japon), est une revenante façon \"Histoires de Fantômes Chinois\". Elle est rapide, douée dans les airs et elle peut faire sortir à peu près n'importe quoi de ses manches.\r\n\r\nNotez que vous pouvez toujours choisir votre vitesse de jeu. La différence c'est que dans Darkstalkers il y avait trois paliers, ici il n'y en a plus que deux : normal et rapide. Vous devrez aussi choisir de jouer en standard ou en autoblocage. Cette dernière possibilité permet de parer automatiquement les attaques adverses si vous-même n'attaquez pas, mais en contrepartie elle empêche d'utiliser les Cancel Combos.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Night Warriors: Darkstalkers' Revenge",
+   "genre": "Fighting",
+   "synopsis": "Night Warriors: Darkstalkers' Revenge is the second game in the Darkstalkers series of gothic horror fighting games. Released in 1995, it is the upgraded version of the original game which introduced several gameplay changes to the game.\r\n\r\nThe game introduced two new playable characters, Donovan Baine and Hsien-Ko, who were out to hunt the other Darkstalkers (hence the Japanese title, Vampire Hunter). The two bosses from the first game, Huitzil and Pyron, were now playable characters as well. The game was first released for arcades and later ported to the Sega Saturn. Character art was done by Ikeno.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "84c7821be790b6796eaf0a5f1b5091c433b85a87a6264364028ba67f703489a0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=44387&media=fanart",
+   "fetched_at": "2026-11-06T15:50:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "16b7cd48e3e24c069085d0699f86c080afd8f7c502f0c41a65d6f701b4bc3777",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=44387&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:50:54+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "18aee6ef9a8ea075c5b0c5ab3bbc03cfaccf3b2fe915f62d1be55ef312362041",
+   "width": 850,
+   "height": 1210,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=44387&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:50:56+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "aa9b07bac1829a07ba84fad7cfa6b121c25657822b009907ae73b1b76a15351a",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=44387&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:50:57+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "f3f0cdfd0bf1543d90254f3e5bad848a8ad3b74d58f369a9b79563f92415b3b7",
+   "width": 850,
+   "height": 1210,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=44387&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:50:59+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4c9882d191b7f58234aa1718e2b3a9959db92ead85b4d3642e083825d1597910",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=7&jeuid=44387&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:51:00+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:50:52+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "gradius-ii",
+ "title": "Gradius II",
+ "source": "screenscraper",
+ "ss_game_id": 44018,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44018,
+  "release_year": 1988,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Vulcan Venture",
+   "genre": "Shoot'em up / Horizontal",
+   "synopsis": "Gradius II: Gofer no Yabō traduit par Gradius II : L'Ambition de Gofer), nommé Vulcan Venture en Europe, est un jeu vidéo de type shoot them up développé et édité par Konami en 1988 sur borne d'arcade. Il s'agit d'une autre suite de Gradius. Le jeu est similaire à son prédécesseur (shoot them up à défilement horizontal), mais il ajoute les innovations apparues dans Salamander, le spin-off de Gradius paru l'année précédente.\r\n\r\nIl s'agit aussi du premier jeu de la série où apparaît la « boss parade », un niveau entièrement constitué de duels contre des boss issus des précédents Gradius ou de Salamander.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Vulcan Venture",
+   "genre": "Shoot'em Up / Horizontal",
+   "synopsis": "The player returns as the role of the pilot of the Vic Viper spaceship to battle the second onslaughts of the Bacterion Empire, under the new leadership of Gofer, the giant head. Gradius II has kept the gameplay from the original game, but infused it with enhancements brought from the spin-off, Salamander (Life Force). This is primarily evident in two of the weapons configurations that are selectable. Another first in the series was the inclusion of the \"boss rush\" (also known as \"boss parade\" or \"boss alley\"), a level designed entirely with only boss confrontations.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "2e26bac24a01bda0d25e05640615b294c350d04943d163c2a46b244a89aee544",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44018&media=fanart",
+   "fetched_at": "2026-11-07T20:22:50+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "40a5740f6c929cdef2136fd715d3d2c5953ad61b0645f0a766adbaf8fabf984a",
+   "width": 400,
+   "height": 150,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44018&media=wheel%28eu%29",
+   "fetched_at": "2026-11-07T20:22:51+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "52ff5e0a186d603bb346f229b78fce8e035890a15dc96b168f9107197ac65833",
+   "width": 850,
+   "height": 1140,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44018&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-07T20:22:53+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ec4465a7adcb636bfa9e4a99a4e804894e3960dbf62af84b5321761c468f3092",
+   "width": 320,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44018&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:22:54+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "d55df6034031ee43f10280b6841e856c55366d0d683707397e16acd1127e7741",
+   "width": 850,
+   "height": 1140,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44018&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:22:56+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "516f8d7a1406240ae83ad3db98b8be47fa20ec12fef215925bdbbf21eb6dd45a",
+    "width": 320,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44018&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:22:57+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-07T20:22:49+00:00",
+ "status": "done"
+}

@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "super-challenge-baseball",
+ "title": "Super Challenge Baseball",
+ "source": "screenscraper",
+ "ss_game_id": 87927,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87927,
+  "release_year": 1982,
+  "publisher": "M Network",
+  "developer": "Mattel Electronics",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Super Challenge Baseball",
+   "genre": "Sport / Baseball",
+   "synopsis": "Le but du jeu est de marquer le plus de points en 9 manches ou plus. La plupart des règles de baseball professionnel s'appliquent : 3 frappes pour un retrait, 4 balles pour une promenade, les 2 premières balles incriminées comptent pour des frappes. Chaque joueur contrôle une équipe de 8 personnes. Une équipe est sur le terrain pendant que l'autre équipe est au bâton",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Super Challenge Baseball",
+   "genre": "Sports / Baseball",
+   "synopsis": "The object of the game is to score the most runs in 9 innings or extra innings to a decision. Most professional baseball rules apply - 3 strikes for an out, 4 balls for a walk, first 2 fouled balls count as strikes. Each player controls an 8-man team. One team fields while the other team is up to bat. Home runs, force-outs, double and triple plays can all be made. Batter up!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e6877a4bfb2a3d112b956b834a0e7e2495b8986f5c97d855f7710b2eeb5bfc47",
+   "width": 400,
+   "height": 38,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87927&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:06:08+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "748bb39f93c95aa6778e11dc779af5c8a2a42550809ce00b16cd9b62bc388f26",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87927&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:10+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ff349ed3bf9787394f83f7930e1b82c0d2f9dad17c2cdab6a99367ae5ae1d3fc",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87927&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:06:12+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "967167709cf13f3c6255af32b7cc2b821696b7d76bf2c492a60da339c202bdea",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87927&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:06:13+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "48fb9bd7b5fd0bb68803ff675c61ff0a1bbbbc77d57962546a05057b3af7c54a",
+    "width": 304,
+    "height": 196,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87927&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:06:14+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:06:07+00:00",
+ "status": "done"
+}

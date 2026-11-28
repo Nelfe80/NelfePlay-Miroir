@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-the-hedgehog-triple-trouble-sonic-tails-2",
+ "title": "Sonic The Hedgehog - Triple Trouble (Sonic & Tails 2)",
+ "source": "screenscraper",
+ "ss_game_id": 12878,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12878,
+  "release_year": 1994,
+  "publisher": "SEGA",
+  "developer": "Aspect",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic the Hedgehog : Triple Trouble",
+   "genre": "Plateforme",
+   "synopsis": "Dans Sonic The Hedgehog : Triple Trouble, titre exclusif à la Game Gear, la célèbre mascotte bleue de Sega doit composer avec trois adversaires en même temps, Knuckles, Eggman et Knack, tous trois à la recherche des Chaos Emeralds. La seule nouveauté par rapport aux autres épisodes Game Gear est qu'il vous reste quelques anneaux après qu'un ennemi vous ait touché.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic the Hedgehog : Triple Trouble",
+   "genre": "Platform",
+   "synopsis": "Dr. Robotnik has stolen all the Chaos Emeralds, yet again, but when the experiment for his new weapon goes wrong, the Emeralds get scattered across the island. While Sonic & Tails are out searching for them, Robotnik finds the yellow emerald and convinces Knuckles the Echidna that Sonic wants to steal all the other Emeralds. While all this is happening, Nack the Weasel seizes his chance to take the emeralds for himself while everyone else is pre-occupied. Now it's a 4-way race to retrieve the emeralds.\n\nThe gameplay is like the other Sonic titles, but this is only available on the Game Gear. The player can choose to play as Sonic or Tails (who can fly), and you're trying to reach the Chaos Emeralds before anyone else. A change from other Sonic games is that when hit, all rings are not lost, only a set amount (30–50 depending on the level) is lost.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "0b7ae81ad9833c98a11c7e9917939470bda799000010002a55aaf4d3fc152599",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12878&media=fanart",
+   "fetched_at": "2026-11-06T16:11:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ca757445265267aefcd423f2648ea5ad667a1d67debbdbf53793840ccc887ab4",
+   "width": 600,
+   "height": 150,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12878&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T16:11:58+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "6a0047243a1c83ce667099552747c73ec9ba43b82d83bbd386466cf87f3badcd",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12878&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:12:00+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "f005b3f75c66de38ba53a27df3c78bfc8830cb8cbcf602f381719afa299dc9ab",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12878&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:12:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "dcab2d3f101cf04a42a5ba447a387845069d5dea8c11dea388b71a857d3cef4e",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12878&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:12:02+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "4760369d1380b131429883ff786098de44c4d33b0000e01b95dcdf4be14ed1ad",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12878&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:12:04+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:11:55+00:00",
+ "status": "done"
+}

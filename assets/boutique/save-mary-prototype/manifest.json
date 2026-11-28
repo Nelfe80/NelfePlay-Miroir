@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "save-mary-prototype",
+ "title": "Save Mary (prototype)",
+ "source": "screenscraper",
+ "ss_game_id": 87855,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87855,
+  "release_year": 1989,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Save Mary!",
+   "genre": "",
+   "synopsis": "Save Mary! est un jeu original et inédit développé pour l'Atari 2600, dont la sortie fut annulée en 1990 lorsque Atari cessa ses activités sur cette console. Conçu par Tod Frye (Pac-Man), son développement fut long et chaotique, notamment à cause de changements fréquents imposés par la direction.\r\nLe but du jeu est simple : sauver Mary, une jeune fille coincée dans un canyon qui se remplit d'eau. À l'aide d'une grue et de blocs aux formes variées, le joueur doit construire une plateforme pour la hisser hors du danger. La difficulté vient des formes irrégulières des blocs, du comportement imprévisible de Mary, et d'obstacles comme un avion pouvant perturber la grue.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Save Mary!",
+   "genre": "",
+   "synopsis": "Save Mary! was one of those 2600 revival titles that should have been released but was ultimately lost when Atari closed its Atari 2600 operations in 1990.  Save Mary! may have been in development longer than any other Atari 2600 game (over two years according to some sources).  One reason for this was Atari management constantly making changes to an already complex game, but another reason for the long development cycle was that programmer Tod Frye (of Pac-Man fame) may only have been working part time for Atari at the time and was also working on another unreleased 2600 game Shooting Arcade.  No matter what the reasons were it's a shame Save Mary! never got released, as it's a fun and highly original game.\r\nThe game title says it all, the goal of the game is to \"Save Mary!\".  Apparently Mary is a rather stupid girl who has somehow got herself stuck in a canyon that's rapidly filling with water (don't you hate it when that happens?)  Using only a crane and several odd shaped blocks you must build a platform for Mary to climb onto and make it high enough so you can hoist her out with the crane.  However your task is made more difficult due to the shape of the blocks (otherwise it wouldn't be much of a game would it?).  Not all the blocks come in nice little squares, each level has its own unique set of blocks which require clever planning to successfully link them together into a platform for Mary.\r\nFurther complicating things is that Mary appears to have started panicking and will run back and forth around the platform.  Remember that Mary is human (despite the gaping hole in her head!), and like most humans she doesn't take kindly to being squished with blocks (or having them swung into her).  Take special care when dropping blocks not to hit Mary or it's game over.  Also be sure to watch out for the low flying airplane that appears on the higher levels (yes I said Airplane).  If the plane hits your crane you will automatically drop the block you're carrying (possibly squishing Mary).\r\nThankfully there are several power-ups to help you accomplish your task.  Power-ups appear on the cliff sides and require that you pick them up and drop them off at the top of the canyon to activate them.  These power-ups do a wide variety of things:\r\n\r\nThe Plug - Stops the water from rising for a few seconds\r\nStop Sign - Makes Mary stop hopping around like an idiot (very handy)\r\nOil Can - Makes your crane move faster\r\nGold Block - Makes Mary invincible to being squished by falling blocks\r\nNumber - Gives you bonus points\r\nMary Figure - Gives you extra life\r\n\r\nSave Mary! tends to get tough fast if you don't learn how to make the most of the power-ups, and can quickly get out of control if you don't have a plan for how to stack the blocks.  Strategy and planning are the keys to winning Save Mary!, but taking too long will result in one waterlogged corpse.  Overall Save Mary! is a Tetris variant with enough variety to keep gamers coming back for more.  Atari had a winner on its hands, as Save Mary! was a game that could have made Atari owners say Wow!  Unfortunately the age of the 2600 was over and brilliant efforts like this ultimately came too late to save the dying system.  On an interesting side note Nolan Bushnell himself is quoted as saying that Save Mary! was one of his favorite upcoming Atari 2600 releases.  One would think that with this kind of endorsement Save Mary! would have seen the light of day.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "b81bce425ae52b4a732b4f04820977a919f4c8c6fc554401257c58b5cb49df5b",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87855&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:23:14+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "2088ca085f0c19a7861dc4f07cb84825bb01a5dc0339e6581457ce6229a7f447",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87855&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:23:16+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b45bacacdf99d565fe9191d244e5dd316acb93acf5909477f970f63c61cbc064",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87855&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:23:17+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "2ca7c0bc025ded79912659d4a016ba60cb65623c1cc869141ff1aa3d1f1a37d1",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87855&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:23:19+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "ecf5f93ce0c529a84a59262907db197aa9c25058caea6a51db147dc249a66500",
+    "width": 320,
+    "height": 201,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87855&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:23:20+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:23:14+00:00",
+ "status": "done"
+}

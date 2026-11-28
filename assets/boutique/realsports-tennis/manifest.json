@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "realsports-tennis",
+ "title": "RealSports Tennis",
+ "source": "screenscraper",
+ "ss_game_id": 87548,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 87548,
+  "release_year": 1983,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Tennis",
+   "genre": "Sport / Tennis",
+   "synopsis": "Inscrivez votre nom en vedette sur le panneau de score du jeu RealSport Tennis!\r\nManiez la balle comme sur un vrai court de tennis; vous pouvez lancer dans les angles, taper un coup fort ou frapper une balle de lob bien haut dans les airs. Vous pouvez jouer à vitesse lente ou rapide contre un adversaire ou contre l'expert ordinateur lui-même.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Tennis",
+   "genre": "Sports / Tennis",
+   "synopsis": "Realsports Tennis is a tennis game for two players or one player against the computer. The game follows standard tennis rules, and allows you to hit forehand or backhand shots to all areas of the court as well as serves and lobs. You can play a game of singles or doubles, and multiple skill levels are included.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "8da04d1304694f1222eeb8d65bf9788ad4ac9d91dcde999df9b45b56118790af",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87548&media=fanart",
+   "fetched_at": "2026-11-06T17:01:20+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d711b5f5ce18002217d13a2ebe63dadb3497e0944bfe2c9c28f6a971a075d861",
+   "width": 400,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87548&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:01:22+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8d21f357845a477d46ef24a0d268ee438e87e55d841139a93fe1626ebf9868e4",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87548&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:01:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "aa44c40db080b4d6526866c507ca4430591f4486310211c6140a7f306c2e8120",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87548&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:01:25+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "faae5a40181d1cedbe7e3780bdeeb576fcd589859729f83104fbe8bcbd06aae2",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87548&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:01:27+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "f7a6d8c811abfc24daf6ba1475fa00e3ff18d8080259441ed94a28cbde73dcde",
+    "width": 304,
+    "height": 198,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=87548&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:01:28+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:01:20+00:00",
+ "status": "done"
+}

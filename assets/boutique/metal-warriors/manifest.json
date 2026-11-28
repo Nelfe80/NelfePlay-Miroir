@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "metal-warriors",
+ "title": "Metal Warriors",
+ "source": "screenscraper",
+ "ss_game_id": 2380,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 2380,
+  "release_year": 1995,
+  "publisher": "Konami",
+  "developer": "LucasArts",
+  "players": "1-2",
+  "system_label": "Super Nintendo"
+ },
+ "text": {
+  "fr": {
+   "name": "Metal Warriors",
+   "genre": "Plateforme",
+   "synopsis": "Metal Warriors est un jeu de plates-formes développé par Lucas Arts et édité par Konami sur Super Nintendo. Alors qu'en 2102 le gouvernement uni de la Terre est attaqué par l'axe de l'ombre, les hommes décident de s'équiper d'armures intelligentes et mécaniques pour défendre la Terre ! Le jeu propose un mode multijoueur.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Metal Warriors",
+   "genre": "Platform",
+   "synopsis": "Get deployed in your own giant mech and battle through nine linear levels against the evil Dark Axis forces. Eject and switch robots, piloting one of the six \"Battledroid\" suits; but watch out because there are no save games and no continue codes.\n\nFor the best of Metal Warriors, grab a friend for some head-to-head combat in the PvP mode. The variety of robots and levels means the matchups stay surprising and interesting.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5046ed8715331f8f7398a785d7055bf59000d7eb81626f5d9c63d405bbf8c8b6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2380&media=fanart",
+   "fetched_at": "2026-11-06T23:57:28+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4d639402246dbfd2dfdece117fb663ac2edfbcbcfdf9c70bc701674114d57b51",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2380&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:57:29+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "74aee25bb3b7bf30b4e3b5e7a01b1bd4b8fa00046bb9cb681922b9bad4aaac5a",
+   "width": 680,
+   "height": 497,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2380&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:57:30+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "492cc8705b2844cd26f2e24cfdf655e2fa152f8ab85eea7dd7df9d15e79348e7",
+   "width": 600,
+   "height": 390,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2380&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:57:32+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0e4b1f78790c25dbe05a91f49c522fc388ef08363dcf233047da287ee9db61ff",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2380&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T23:57:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "bad3f366d937e88c91626a4d1537a4c0a10edc5152be5f2bb0c117d4a03aa433",
+    "width": 256,
+    "height": 224,
+    "region": "us",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=4&jeuid=2380&media=ss%28us%29",
+    "fetched_at": "2026-11-06T23:57:34+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:57:27+00:00",
+ "status": "done"
+}

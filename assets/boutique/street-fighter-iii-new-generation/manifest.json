@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "street-fighter-iii-new-generation",
+ "title": "Street Fighter III: New Generation",
+ "source": "screenscraper",
+ "ss_game_id": 37425,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37425,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System 3"
+ },
+ "text": {
+  "fr": {
+   "name": "Street Fighter III : New Generation",
+   "genre": "Combat",
+   "synopsis": "Street Fighter III: New Generation marque l'arrivée de nombreux changements et le début d'une nouvelle série Street Fighter. Les graphismes ont été entièrement refaits, dans un style moins « cartoon » que dans les jeux de la série Street Fighter Alpha, et la plupart des personnages sont nouveaux. L'animation des personnages est un des éléments les plus réussis du jeu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Street Fighter III : New Generation",
+   "genre": "Fighting",
+   "synopsis": "A New Generation of Street Fighters! Features larger characters sprites than previous Street Fighter games with the smoothest, most detailed 2-D animation ever made at the time of its release, a level of quality that is yet to be matched by any other 2-D game outside of the Street Fighter III series as of 2004; some complain that too many things are animated and each animation contains too many frames, slowing down the pace of the game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a0882af35abb72593e7778121476b7c9e27d27d3cc605f425428395d3cc9c9a5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37425&media=fanart",
+   "fetched_at": "2026-11-06T15:48:58+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "92206f513bd292a8dfca8de543d316bf8429a3536792822d0034dd22bb519790",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37425&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T15:49:00+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "31e2add0401a3bf4119a2196cd424d889453ac9861a835bb60d6db70efb0e113",
+   "width": 974,
+   "height": 1259,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37425&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T15:49:01+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "c1d5fddbb92e8c92214ed0e00b4e2d8944a28565d438f9c03ed1ca4b5ba4542f",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37425&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T15:49:03+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "04ba2c7a1217d73b157452fb3a26f27260bb6b8b24813e9a6a9e0f51120bddda",
+   "width": 837,
+   "height": 1200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37425&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T15:49:04+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "81f5eec4d7a8fbf3c34b505481daa6a5f1f49f83cb88ce2d03ee6de1d80e360f",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=8&jeuid=37425&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T15:49:06+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T15:48:58+00:00",
+ "status": "done"
+}

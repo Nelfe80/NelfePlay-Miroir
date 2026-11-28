@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "dark-chambers",
+ "title": "Dark Chambers",
+ "source": "screenscraper",
+ "ss_game_id": 37713,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37713,
+  "release_year": 1988,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Dark Chambers",
+   "genre": "Action / Aventure",
+   "synopsis": "Dark Chambers est un jeu d'action d'arcade similaire à Gauntlet. Vous êtes un explorateur dans un labyrinthe souterrain ; votre but est de survivre aux 26 niveaux différents et de rassembler autant de trésors cachés que possible. Caché quelque part dans chacun des niveaux se trouve une sortie qui vous mènera au niveau suivant.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Dark Chambers",
+   "genre": "Action / Adventure",
+   "synopsis": "Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "a3cab48b51d8b3ddb3945027775c66456f53fed06a303e32098fc18e3322a57e",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37713&media=fanart",
+   "fetched_at": "2026-11-06T16:52:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "8faca1afbf60959af3aaa49ea409da6a745d2f47c2956559cb8de25ef0041ba0",
+   "width": 400,
+   "height": 88,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37713&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:52:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "9d4f700bbe7f41514c65274249aedb17c5f2b7f52472953d929375dd12b4672c",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37713&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:52:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "28ca9299af673bf9035b1c3c96769127685614482d765f37243b3abfd4b21d59",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37713&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:52:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "7ee17e9d427b43a0de81227ab6403962e937ca31fbf631c073a0db49918391d2",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37713&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:52:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "1c339eadd38efba6114396ad1fc15ff54c70c0daeebb48b1187d53e8532164bf",
+    "width": 320,
+    "height": 170,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37713&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:52:08+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:52:00+00:00",
+ "status": "done"
+}

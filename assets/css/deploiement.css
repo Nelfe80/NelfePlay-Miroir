@@ -1,0 +1,148 @@
+/* Deploiement certifie. S'appuie ENTIEREMENT sur les variables et les composants
+   de app.css (charge en amont) : admin-table, admin-pill, browse-chip, button.
+   Externalise parce que la CSP pose style-src 'self' et bloque tout <style> inline. */
+
+.deploy-page { padding-bottom: 64px; display: flex; flex-direction: column; gap: 22px; }
+
+/* browse-chip a ete dessine pour des liens : sur un <button>, le fond gris du
+   navigateur reste et l'onglet INACTIF paraissait plus allume que l'actif. */
+.deploy-page button.browse-chip {
+    background: none;
+    font: inherit;
+    color: var(--text-soft);
+    cursor: pointer;
+}
+.deploy-page button.browse-chip:hover { color: var(--text); border-color: var(--brand); }
+
+/* L'onglet en cours doit se lire d'un coup d'oeil : pastille pleine, pas seulement
+   une bordure teintee. */
+.deploy-page button.browse-chip.is-on {
+    background: rgba(134, 93, 255, 0.16);
+    border-color: var(--brand);
+    color: var(--brand-bright);
+    font-weight: 700;
+}
+.deploy-page button.browse-chip .browse-count { color: inherit; opacity: .75; }
+
+.deploy-tabs { margin: 0; gap: 8px; }
+.deploy-tabs button.browse-chip { padding: 8px 16px; font-size: 0.92rem; }
+.deploy-screen { display: none; flex-direction: column; gap: 16px; }
+.deploy-screen.is-on { display: flex; }
+
+/* Chiffres : alignes a droite et en chasse fixe, sinon les colonnes ne se comparent pas. */
+.deploy-table .deploy-num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.deploy-table th.deploy-num { text-align: right; }
+.deploy-strong { font-weight: 700; color: var(--text); }
+.deploy-bad { color: var(--danger); }
+.deploy-good { color: var(--success); }
+
+.deploy-mono {
+    font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+    font-size: 0.84rem;
+    color: var(--text-soft);
+    white-space: nowrap;
+}
+
+.deploy-table td strong { font-weight: 700; }
+.deploy-table a { color: inherit; }
+.deploy-table a:hover { color: var(--brand-bright); }
+
+/* Une ligne qui cache des verdicts s'ouvre au clic ; les autres ne bougent pas. */
+.deploy-row.has-detail { cursor: pointer; }
+.deploy-row.has-detail:hover { background: rgba(134, 93, 255, 0.06); }
+.deploy-detail { display: none; }
+.deploy-detail.is-on { display: table-row; }
+.deploy-detail > td { background: var(--surface-soft); }
+
+.deploy-blk {
+    margin: 0 0 10px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--brand);
+}
+
+.deploy-verdicts { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
+.deploy-verdicts li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px; font-size: 0.88rem; }
+
+.deploy-when {
+    font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+    font-size: 0.78rem;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+}
+
+.deploy-code {
+    font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+    font-size: 0.78rem;
+    padding: 2px 7px;
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius-sm);
+    color: var(--danger);
+}
+.deploy-code.deploy-good { color: var(--success); }
+
+.deploy-sorts { align-items: center; gap: 8px; }
+.deploy-sortlabel {
+    font-size: 0.76rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-right: 2px;
+}
+
+.deploy-gap { margin: 0; font-size: 0.86rem; max-width: 78ch; }
+
+@media (max-width: 720px) {
+    .deploy-mono { white-space: normal; }
+}
+
+/* Panneau deplie : ce que la borne a envoye a gauche, les seuls choix restants
+   a droite. Deux colonnes tant que la place le permet. */
+.deploy-split { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 26px; }
+@media (max-width: 900px) { .deploy-split { grid-template-columns: 1fr; gap: 20px; } }
+
+.deploy-facts { margin: 0; display: grid; grid-template-columns: minmax(0, 190px) minmax(0, 1fr); gap: 6px 14px; }
+.deploy-facts dt { color: var(--muted); font-size: 0.84rem; }
+.deploy-facts dd {
+    margin: 0;
+    font-family: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+    font-size: 0.78rem;
+    word-break: break-all;
+    color: var(--text-soft);
+}
+
+.deploy-label {
+    margin: 14px 0 7px;
+    font-size: 0.76rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted);
+}
+.deploy-form .browse-chips { gap: 6px; }
+.deploy-form .browse-chip { cursor: pointer; }
+.deploy-form .browse-chip input { accent-color: var(--brand); margin: 0 2px 0 0; }
+.deploy-commit { margin-top: 18px; align-items: center; }
+.deploy-commit .admin-muted { font-size: 0.82rem; max-width: 46ch; }
+.deploy-verdicts-title { margin-top: 20px; }
+
+/* Le site ne pose que « cursor: not-allowed » sur un bouton desactive : il garde
+   l'air actif, ce qui laisse croire qu'il ne repond pas. On l'eteint franchement. */
+.deploy-page .button:disabled,
+.deploy-page button:disabled { opacity: .42; filter: saturate(.4); }
+
+/* Une empreinte admise par la regle de flotte : ni erreur, ni evidence. */
+.deploy-auto { margin: 10px 0 0; font-size: 0.82rem; border-left: 2px solid var(--brand); padding-left: 10px; }
+
+/* Les listeners homologues, en tete du banc : un wrapper absent d'ici fera
+   refuser toute la flotte, autant que ca se voie sans avoir a le chercher. */
+.deploy-builds { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 0; font-size: 0.88rem; }
+.deploy-builds strong { color: var(--muted); font-weight: 600; }
+
+/* Onglet Reglages NVRAM et BIOS : une calibration par core, sur une ligne qui se replie. */
+.deploy-calib-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; }
+.deploy-calib-upload { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.deploy-calib { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; padding: 4px 0; }
+.deploy-calib + .deploy-calib { border-top: 1px solid var(--line); }
+.deploy-calib-pin { display: inline; margin: 0; }
+.deploy-calib-remark { flex-basis: 100%; font-size: 0.82rem; }

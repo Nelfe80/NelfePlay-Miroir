@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-x4",
+ "title": "Mega Man X4",
+ "source": "screenscraper",
+ "ss_game_id": 19940,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 19940,
+  "release_year": 1997,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Playstation"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man X4",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Quelque temps après la crise de Dopplertown vu dans Mega Man X3, le Laboratoire du Dr. Cain reçoit le mandat de concevoir une force militaire complémentaire aux Chasseurs de Mavericks. Cette force armée, entièrement constituée de Réploïdes, voit le jour sous le nom de « Repliforce ».\r\nNéanmoins, à peine six mois après son entrée en fonction, la Repliforce est jugée inefficace et potentiellement dangereuse. La situation devient explosive lorsqu'un formidable attentat provoque la chute de Sky Lagoon, vaste cité flottante, tuant des centaines, voire des milliers d'humains et de Réploïdes. Accusée d'avoir orchestré la tragédie, la Repliforce riposte aussitôt en déclarant son indépendance, quitte à recourir à la force des armes.\r\nAu quartier général des Chasseurs, l'heure est grave. Afin de prévenir une guerre d'envergure, X et Zero sont envoyés procéder à des frappes stratégiques contre le groupe renégat.\r\nX et Zero sont jouable au choix.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man X4",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "It is the year 21XX, following years after the Doppler rebellion and the revelation of the Maverick Virus, a new global Reploid military force, apty-named Repliforce, was founded to combat the ongoing Maverick attacks and uprisings. However, humans quickly began to fear and distrust Repliforce's military power and their methods of fighting Mavericks proved to be very destructive with little disregard for human life. One day, the floating city Sky Lagoon was under attack by Mavericks and Repliforce arrived on the scene after the city has crash landed on the ground, where one of their leaders, Colonel, was being ordered by the Maverick Hunters X and Zero to lower his weapons for questioning as suspects for the incident. Out of pride and contempt towards human government, Colonel refused to comply, and following the accusations behind the Sky Lagoon incident, the Repliforce General decided stage a coup d'état, seeking to create a new utopia just for Reploids. Repliforce were then labeled as Mavericks by the government, thus the Maverick Hunters must fight against their former allies and stop their coup.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "950670a8a7e590624c02d941979478e9d10c17980c9e0c4905dcad436afbb274",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=57&jeuid=19940&media=fanart",
+   "fetched_at": "2026-11-06T16:05:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "9b259a910c0cc62178f3f015bdb1d499011417af9ab6173bff563ec5396835c9",
+   "width": 600,
+   "height": 200,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=57&jeuid=19940&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:05:02+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "3d7436666a34d312ceb803678cf358d78f087bad5e1b02cb5c865e225c0f3c47",
+   "width": 792,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=57&jeuid=19940&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:05:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "d625dd009ecc810d69ce0606d02859ccb930ab9299ea5d74c1381d81db438faa",
+   "width": 600,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=57&jeuid=19940&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:05:05+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b2b844b5b28528c2c8d4688c801807f72343522800068db826981a1ae7cec572",
+   "width": 640,
+   "height": 480,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=57&jeuid=19940&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T16:05:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.webp",
+    "sha256": "0fd84b006347044fb74879abda485477c7cddfd7ff8773c3ace322a40e051cd7",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=57&jeuid=19940&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:05:08+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:05:00+00:00",
+ "status": "done"
+}

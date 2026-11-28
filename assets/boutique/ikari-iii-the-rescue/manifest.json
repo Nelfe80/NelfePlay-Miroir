@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "ikari-iii-the-rescue",
+ "title": "Ikari III: The Rescue",
+ "source": "screenscraper",
+ "ss_game_id": 41786,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 41786,
+  "release_year": 1989,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Ikari III - The Rescue",
+   "genre": "Tir",
+   "synopsis": "Fans de Rambo, bonjour (amis du bon goût, au revoir )! Vous aimez l'armée? Les mecs viriles à la Rambo qui dégoulinent de sueur un couteau à la main? Alors ce jeu essentiellement basé Arcade est fait pour vous. Egorgez, étripez, l'ennemi ne doit pas survivre dans des millieux divers comme un fleuve, une route, des hangars... Garde à vous!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Ikari III - The Rescue",
+   "genre": "Shooter",
+   "synopsis": "Two shirtless Rambo-type players fight their way behind enemy lines to rescue a kidnapped hostage. Various military types must be killed by fist, knife, foot or gun. The players are occasionally marauded by tanks and",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "3a614f5d320aa7af936f1b6fbe33cab32b18861c0c98a22ef0be42ce1956e166",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=fanart",
+   "fetched_at": "2026-11-07T20:21:49+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d1e3e70d9076cc19d07dec0f30a239a3cd7b3428a24a7208b1c842b1eb6b25e3",
+   "width": 400,
+   "height": 107,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:21:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "8886607c937dd08c4d11ab41bc4a6cf05b9ebe0efb88bea4251673aab9f7f2b2",
+   "width": 850,
+   "height": 1206,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:21:51+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "fb64e439eb5fb0f45cf249ed7d2a8db41301e1f3469b69b5a2f5af076bcb1afb",
+   "width": 461,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-07T20:21:52+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "1b78f389e89a595e6340b482b2505651d0ef875792c1de4248ea6878cdb30b6c",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:21:54+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "eace7bbf5fcda803b09a8190aa1e5f82d9ccec8714e57c0bf2e06418d8d15872",
+   "width": 850,
+   "height": 1206,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T20:21:56+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3794eaac9596e6c526dcfcb5c428e2736d9e02a9cf77a5dc356702d6c20f25e0",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=41786&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:21:57+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-07T20:21:47+00:00",
+ "status": "done"
+}

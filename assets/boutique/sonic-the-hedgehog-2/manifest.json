@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "sonic-the-hedgehog-2",
+ "title": "Sonic The Hedgehog 2",
+ "source": "screenscraper",
+ "ss_game_id": 12853,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 12853,
+  "release_year": 1992,
+  "publisher": "SEGA",
+  "developer": "Aspect",
+  "players": "1",
+  "system_label": "Game Gear"
+ },
+ "text": {
+  "fr": {
+   "name": "Sonic the Hedgehog 2",
+   "genre": "Plateforme",
+   "synopsis": "Sonic the Hedgehog 2 sur Game Gear reprend la recette qui a fait le succès du précédent volet et ajoute la possibilité d'utiliser un deltaplane dans certaines phases de jeu. Collectez les anneaux pour gagner des vies supplémentaires et libérez les animaux condamnés à la robotisation.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Sonic the Hedgehog 2",
+   "genre": "Platform",
+   "synopsis": "Coming back from the vacation Sonic took after foiling the plans of Dr Robotnik, he finds that Tails and all his other animal friends are missing. Sonic finds a letter waiting for him, that reads:\n\n\"Dear Sonic,\n\nRobotnik is back, and he's captured all the animals on the island! He is holding me in a place called the Crystal Egg. In order to free me, you have to find and bring the six Chaos Emeralds.\n\nRobotnik made me write this. He says he's waiting for you, and he's created six really nasty robots in order to 'get rid of you once and for all.' I don't know what he has planned, but Sonic, please be careful!\n\nSincerely, Tails.\"\n\nThat being more that enough motivation for him, Sonic races out to defeat Robotnik again.\n\nThe master system version is totally different than the Sonic 2 for Genesis. Tails obviously doesn't accompany you, like he can in the Genesis release. Sonic can also not do his infamous buzzsaw roll by simply ducking and pressing jump.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "d069cbc1bcdbead88cc82a08094d33bfd64d86eea14069a7ca71a23b0cf18dcf",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12853&media=fanart",
+   "fetched_at": "2026-11-06T16:12:10+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "f9a62f612619d9599ecced3300584d8ed5b7f5462ccc7ed08593a9374dffa211",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12853&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:12:12+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "905d85cb2d03370eb7dc353ea2a143cf5621f0c4f12c1263ca8449c4091f970a",
+   "width": 496,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12853&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:12:13+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "04d142f009e9b35da01b7c2161eb1cf9d7f3d332f908be97a40d167778324da9",
+   "width": 600,
+   "height": 604,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12853&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:12:15+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "2aaa8b673289d560dac357f42f8e1049ef855e679b58e03171e805dddb72d0d4",
+   "width": 160,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12853&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:12:16+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "3db816d087d21eae78099e5bbc3e57ff16c3099968acac3f93c282005f66e3aa",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=21&jeuid=12853&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:12:18+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:12:09+00:00",
+ "status": "done"
+}

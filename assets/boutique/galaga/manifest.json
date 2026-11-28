@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "galaga",
+    "title": "Galaga",
+    "source": "screenscraper",
+    "ss_game_id": 41331,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 41331,
+        "release_year": 1981,
+        "publisher": "Midway",
+        "developer": "Namco",
+        "players": "1-2",
+        "system_label": "Namco Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Galaga",
+            "genre": "Shoot'em up / Vertical",
+            "synopsis": "Galaga est un grand classique de l'arcade signé Namco , et accessoirement la suite de galaxian . \r\nOn dirige un petit vaisseau coincé  en bas de l'écran qui tire un rayon contre une armada d'Alien , l'originalité c'est qu'ici ces vaisseaux viennent d'abord des recoins de l'écran par grappes de 4 ou 5 et se posent ensuite sur une grille ! mais attention même ainsi fixés il peuvent attaquer en sortant du groupe et foncer sur votre vaisseau !\r\n\r\nOn peut notamment laisser capturer un vaisseau dans une toile magnétique adverse (lorsque les espèces d'araignées descendent) pour pouvoir récupérer ce vaisseau peu après et avoir un double tir.\r\nPassé une série de niveaux normaux il y a un bonus stage durant lequel les ennemis apparaissent rapidement sans jamais tirer : il faut vite les dégommer pour faire un massacre parfait et agrandir son score.\r\nNiveau son une mélodie accompagne la victoire des mini-jeux et le démarrage de la partie , les bruitages sont correct.\r\nLe tout s'anime de manière bien fluide avec un fond agréablement animé et la difficulté est bien progressive, faire un double vaisseau demande un peu d'entrainement (surtout pour ne l'abattre lorsqu'il redescend) .",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Galaga",
+            "genre": "Shoot'em Up / Vertical",
+            "synopsis": "Galaga is a single-screen shoot-em-up in which the player controls a 'Fighter' spaceship and must defend the home planet against the on-coming hordes of alien invaders called \"Galagans\". The Fighter can only move left and right along the bottom of the screen. \r\n\r\nGalagans fly onto the screen in a variety of formations before forming troop lines at the top of the screen. Once all troop lines are formed the Galagans separate and start attacking the player's Fighter in ones, twos and threes. The top-line Boss Galaga need to be shot twice before they are destroyed.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "e83166fb16d8a76dbe55bcd93b89b3ee71e26108395eafdeaea78628ee915e32",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=fanart",
+            "fetched_at": "2026-11-25T14:54:29+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "e36df20ba76f1d41d63ae7d47f16d4ca6c883a3a2084c556b3bd5a5ef0bd8e1e",
+            "width": 400,
+            "height": 193,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=wheel%28wor%29",
+            "fetched_at": "2026-11-25T14:54:31+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "4d74bc3332ed16e477cb00fe398bc14dd0cf31f0bc05160fa54a186ccc6420f5",
+            "width": 850,
+            "height": 1103,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=box-2D%28us%29",
+            "fetched_at": "2026-11-25T14:54:32+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "3826432861234e77308f85ec5549b0a16d38f7a7ef4800824a6809fc3de92f32",
+            "width": 450,
+            "height": 900,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-25T14:54:33+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "42c7b54f07fca21cf04c0cf6108cbcdd295a55e719d18aa9a60bd3014aff86cd",
+            "width": 224,
+            "height": 288,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-25T14:54:34+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "23dd7af84fb9556d7efa7a991ed5e40a7d693c6c984b41e6073a964d0961702f",
+            "width": 850,
+            "height": 1103,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=flyer%28wor%29",
+            "fetched_at": "2026-11-25T14:54:36+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "800a03ed8e797ce621d7f2df95d2340c90b01f26b5c4305eab9a55a56b473f55",
+                "width": 224,
+                "height": 288,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=155&jeuid=41331&media=ss%28wor%29",
+                "fetched_at": "2026-11-25T14:54:37+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-25T14:54:28+00:00",
+    "status": "done"
+}

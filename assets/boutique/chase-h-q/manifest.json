@@ -1,0 +1,100 @@
+{
+    "schema": 1,
+    "slug": "chase-h-q",
+    "title": "Chase H.Q.",
+    "source": "screenscraper",
+    "ss_game_id": 40524,
+    "credit": "ScreenScraper.fr",
+    "facts": {
+        "ss_game_id": 40524,
+        "release_year": 1988,
+        "publisher": "Taito",
+        "developer": "Taito",
+        "players": "1",
+        "system_label": "Taito Classics"
+    },
+    "text": {
+        "fr": {
+            "name": "Chase H.Q.",
+            "genre": "Course, Conduite",
+            "synopsis": "\"Chase H.Q.\" est un jeu de course à points de passage dans lequel le joueur joue le rôle d'un policier sous couverture appelé Tony Gibson dans ce jeu inspiré de'Miami Vice' de Taito. Gibson conduit une puissante voiture de police banalisée (ressemblant à une Porsche 911) avec son partenaire, \"Raymond Broady\", et doit poursuivre et arrêter divers criminels. \r\n\r\nLe joueur a entre cinquante-cinq et soixante-dix secondes (en fonction des réglages 'Dip' du jeu) pour rattraper le criminel en fuite, puis la même période de temps à nouveau pour percuter la voiture du criminel jusqu'à ce que celle-ci soit trop endommagée pour avancer. La voiture du criminel s'éloigne constamment, donc si le joueur s'écrase à plusieurs reprises ou roule trop lentement, le criminel s'échappera et le jeu se termine.",
+            "synopsis_lang": "fr"
+        },
+        "en": {
+            "name": "Chase H.Q.",
+            "genre": "Racing, Driving",
+            "synopsis": "\"Chase H.Q.\" is a checkpoint-based racing game in which the player takes on the role on an undercover cop called Tony Gibson in this 'Miami Vice' inspired game from Taito. Gibson drives a powerful unmarked police car (resembling a Porsche 911) along with his partner, 'Raymond Broady' and must chase down and apprehend various criminals.\r\n\r\nThe player has between fifty-five and seventy seconds (depending on the game's 'Dip' settings) to catch up with the fleeing criminal, then the same time period again to repeatedly ram into the criminal's car until it is too damaged to drive. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape and the game ends.",
+            "synopsis_lang": "en"
+        }
+    },
+    "media": {
+        "fanart": {
+            "file": "fanart.jpg",
+            "sha256": "e992855117f0a59e397cfbddde1d141ac0b0cbd6524d552733a3224b59626c1a",
+            "width": 1920,
+            "height": 1080,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=fanart",
+            "fetched_at": "2026-11-27T15:46:59+00:00"
+        },
+        "wheel": {
+            "file": "wheel.png",
+            "sha256": "78c3e42650f10e001b3743c5337a02d081b310e4c54621b47e6be2765fd94207",
+            "width": 600,
+            "height": 200,
+            "region": "eu",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=wheel%28eu%29",
+            "fetched_at": "2026-11-27T15:47:01+00:00"
+        },
+        "box-2d": {
+            "file": "box2d.png",
+            "sha256": "8e38e40ace5261ca1016875e9ea67d58038b9b4b25fd524ab3c30d446b9f7d6f",
+            "width": 496,
+            "height": 680,
+            "region": "us",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=box-2D%28us%29",
+            "fetched_at": "2026-11-27T15:47:02+00:00"
+        },
+        "support-2d": {
+            "file": "support2d.png",
+            "sha256": "38ef061621070384c14e4538ccd8f007bab6bbdbc159671a993b5e641677bb1a",
+            "width": 428,
+            "height": 1000,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=support-2D%28wor%29",
+            "fetched_at": "2026-11-27T15:47:04+00:00"
+        },
+        "sstitle": {
+            "file": "sstitle.png",
+            "sha256": "5d665c8332f119d7f1e55b87551ff385a1acdef2624378eaf02658751123f2f2",
+            "width": 320,
+            "height": 240,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=sstitle%28wor%29",
+            "fetched_at": "2026-11-27T15:47:05+00:00"
+        },
+        "flyer": {
+            "file": "flyer.jpg",
+            "sha256": "1a0b9ca037a8cc9e41e6a5e544ab2f438f286b770c2255ba34bd2386e4dafe7f",
+            "width": 850,
+            "height": 1193,
+            "region": "wor",
+            "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=flyer%28wor%29",
+            "fetched_at": "2026-11-27T15:47:07+00:00"
+        },
+        "ss": [
+            {
+                "file": "ss1.png",
+                "sha256": "815d6e016f152b803e9d67efdde4facc189a0cb9ed65fe2e21d12441c6d578e3",
+                "width": 320,
+                "height": 240,
+                "region": "wor",
+                "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=157&jeuid=40524&media=ss%28wor%29",
+                "fetched_at": "2026-11-27T15:47:08+00:00"
+            }
+        ]
+    },
+    "absent": [],
+    "fetched_at": "2026-11-27T15:46:58+00:00",
+    "status": "done"
+}

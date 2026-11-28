@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "fatal-run-atari7800",
+ "title": "Fatal Run",
+ "source": "screenscraper",
+ "ss_game_id": 38017,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 38017,
+  "release_year": 1990,
+  "publisher": "Atari",
+  "developer": "Sculptured Software",
+  "players": "1",
+  "system_label": "Atari 7800"
+ },
+ "text": {
+  "fr": {
+   "name": "Fatal Run",
+   "genre": "Course, Conduite",
+   "synopsis": "Dans ce jeu de conduite / course post-apocalyptique, vous devez vous rendre dans différentes villes pour livrer des médicaments, en route vers une base de missiles qui abrite une fusée capable de sauver le monde.Tout en conduisant à travers les 32 niveaux, vous rencontrerez d'innombrables ennemis qui veulent vous empêcher d'atteindre votre objectif. Votre voiture possède de nombreuses armes pour vous aider, y compris de la dynamite, des roquettes, des nappes de pétrole, des écrans de fumée et des mitrailleuses. Vous pouvez également mettre à niveau votre véhicule dans les magasins de la ville. La mise à niveau de votre réservoir d'essence permet une plus grande autonomie tandis que la mise à niveau de votre pare-chocs vous protège pendant les collisions. Une fonctionnalité de mot de passe vous permet de continuer là où vous vous étiez arrêté.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Fatal Run",
+   "genre": "Racing, Driving",
+   "synopsis": "In this post-apocalyptic driving/racing game you must travel to various towns delivering medicine, while on your way to a missile base which houses a rocket that can save the world.\n \nWhile driving through the 32 levels, you'll meet countless enemies who want to stop you from achieving your goal. Your car boasts many weapons to help you out, including dynamite, rockets, oil slicks, smoke screens, and machine guns. You can also upgrade your vehicle within the city shops. Upgrading your gas tank provides better mileage while upgrading your bumper protects you during collisions.\nA password feature let's you continue where you left off.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bdcfe74bb733fc5db7d044069ee3491b9f47aaa28db94f40a4974a6815764853",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38017&media=fanart",
+   "fetched_at": "2026-11-06T16:54:07+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4255c3f577937d6660748a7486a6d51613c658ed8fbed701792a99ca8d560c24",
+   "width": 600,
+   "height": 250,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38017&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:54:07+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "eb11d574a93d188e093ef048bf19a636e3e07e0ade36c2b3e5f112d2f89b0821",
+   "width": 498,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38017&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:54:09+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "a5bafa5f98af935c6a45cdfde889d989fbe8537c53b3d194845a39be3f3e330b",
+   "width": 620,
+   "height": 738,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38017&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:54:11+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "934f1d398edd3951c0ab85c047df0a9c695d0f9dc57c71e6d2e31c11042cc042",
+   "width": 320,
+   "height": 223,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38017&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:54:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7da8bfbb40302995ccf4c7889444ca9e692b5be6a975501c5c320049fd4b282b",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=41&jeuid=38017&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:54:13+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:54:05+00:00",
+ "status": "done"
+}

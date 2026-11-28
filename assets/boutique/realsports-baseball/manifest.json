@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "realsports-baseball",
+ "title": "RealSports Baseball",
+ "source": "screenscraper",
+ "ss_game_id": 58704,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 58704,
+  "release_year": 1982,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "RealSports Baseball",
+   "genre": "Sport / Baseball",
+   "synopsis": "Realsports Baseball est un jeu d'action qui peut être joué par un ou deux joueurs contre l'ordinateur. Le jeu vous permet de dévier la balle ou d'essayer un coup de circuit, de voler des buts et d'effectuer plusieurs types de lancers d'une balle rapide ou courbe.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "RealSports Baseball",
+   "genre": "Sports / Baseball",
+   "synopsis": "Baseball is an action game which can be played by two players or one player against the computer. The game allows you to bunt the ball or try for a homerun, steal bases, and throw several types of pitches from a fast ball to a curve ball. Several game variations are included which allow you to select whether the home or visiting team is at bat first, and whether or not a player can swing only at pitches that are a strike, or they can swing at any pitch.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "ba0fe669be436a40ed965bb62b2f7f55db395295e8e10d14337e564e5ad386b7",
+   "width": 400,
+   "height": 38,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58704&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:00:16+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "c583006fb7f9706f0239538fe42dae05bcc35c3f3750f26b9fd627927a562e61",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58704&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:18+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "eae0489fc6a9b7f3c73d1467692dd051d442e5f8289e696f4599459b8fd39bd7",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58704&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:00:20+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "950ac7c185015c0f2e1b00dcbff55801fddceaa40c21ebfed49bcf67a2c1974e",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58704&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:00:21+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fca4145c33e7aaf0dae056ce52ad39263d258e6600c6d69679980d5d2463ab7c",
+    "width": 304,
+    "height": 197,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=58704&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:00:22+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:00:16+00:00",
+ "status": "done"
+}

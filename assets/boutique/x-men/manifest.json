@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "x-men",
+ "title": "X-Men",
+ "source": "screenscraper",
+ "ss_game_id": 44160,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 44160,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-6",
+  "system_label": "Konami Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "X-Men",
+   "genre": "Beat'em All",
+   "synopsis": "Rhaaa, les X-men : toujours un plaisir. Et pourtant, ce n'était pas gagné d'avance : graphismes colorés mais relativement sommaires, animation moyenne car peut variée et partie sonore du même acabit. Les commandes sont basiques : frappe, saut et coup spécial, agrémentés d'une projection et d'un coup pour achever les ennemis au sol (ces coups sont différents selon le personnage choisi, Wolverine, Diablo, Tornade, Colossus, etc mais ne sont pas très impressionants visuellement)....\r\n   Mais, car il y a un mais, le jeu parvient quand même à nous accrocher pour une raison toute simple : le MULTIJOUEUR ! Le jeu a été pensé pour ça. Tout d'abord, il est jouable à 6 simultanément (dans ce cas de figure, la définition de l'écran augmente et est prévu pour un écran élargi type 16/9) mais il propose pour touw les joueurs, non pas un compteur de points mais un compteur d'ennemis vaincus (il est situé tout en haut à gauche sur le screenshot et affiche 0002 pour le joueur 1). Et du coup, c'est forcément la course à celui qui achèvera le plus d'ennemis.\r\n   Bien entendu, joué seul, il perd beaucoup de son attrait, et ne fait pas le poids comparé à des beat them all traditionnels. Mais si vous avez des amis, laissez-vous tenter, vous ne le regretterez pas...",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "X-Men",
+   "genre": "Beat'em Up",
+   "synopsis": "X-Men is a side-scrolling beat-em-up for up to four players. The X-Men's mission is to find and rescue Professor X, who has been captured by evil mutants and is now being held prisoner by Magneto.\r\n\r\nEach X-Man character has an 'Attack', 'Jump' and 'Mutant Power' button. The mutant power attack is a powerful special move unique to each X-Man. While it inflicts a lot of damage on the enemies, the trade-off is that each usage removes 3 bars from the players health meter (a full meter has 10 bars). Each level ends with a face-off against a powerful mutant boss character.\r\n\r\nThe game has six stages, with the final one set on 'Asteroid M', Magneto's base. The defeated mutant bosses from the previous levels each make an appearance (albeit in a less powerful form) before the final encounter with Magneto himself.\r\n\r\nPlayers can chose from 6 X-Men characters, they are:\r\nCyclops \r\nColossus \r\nWolverine \r\nStorm \r\nNightcrawler \r\nDazzler",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "408d891150f472acf503e3b9eefaeebda0f0845eb15f4c92e05ed58f79d289c1",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=fanart",
+   "fetched_at": "2026-11-06T23:16:21+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d3cacd200a693667f70faf7b9aecb031c026cd23a231c29645fb2475eea482d5",
+   "width": 600,
+   "height": 260,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T23:16:23+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "cc417e50d9cdae24ee8b468dbf2824ffd7ae314440b6d3f548c9afe679e5b4ab",
+   "width": 850,
+   "height": 1116,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:16:24+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "2b743caae49d642e4f2eb4cdbb12c9250ae0b8d3012acf21d54dd48d77a2795c",
+   "width": 578,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T23:16:26+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0d7cfd343afd7924cbbdfdda4fe92a551ade7fd6bdac4cad98328357490a1a73",
+   "width": 304,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T23:16:27+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8df413a61b3ccb0b6dba9d8d1957cd7eb4e767180d5144738fb93ccd32c4905f",
+   "width": 850,
+   "height": 1116,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T23:16:29+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "fa5223d999078ba40689b64d30939574fcdc5a75dc96178ca8fea70fea975863",
+    "width": 288,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=158&jeuid=44160&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:16:30+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T23:16:20+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "iron-tank",
+ "title": "Iron Tank",
+ "source": "screenscraper",
+ "ss_game_id": 1610,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1610,
+  "release_year": 1988,
+  "publisher": "SNK",
+  "developer": "SNK",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Iron Tank : The Invasion of Normandy",
+   "genre": "Tir",
+   "synopsis": "Iron Tank sur Nes est un jeu d'action prenant place lors de la Seconde Guerre mondiale. Alors que les alliés préparent le gros des troupes pour l'assaut final sur les côtes de la Normandie, une unité d'élite est envoyée en éclaireur pour détruire la base principale des ennemis. A bord de votre tank, le Iron Tank, il vous faut secourir les otages et détruire les nombreux soldats et autres engins de guerre qui vous bloquent le passage.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Iron Tank : The Invasion of Normandy",
+   "genre": "Shooter",
+   "synopsis": "In 1944 the United Forces are preparing their final assault on the Normandy coast. The mission is to break through the front lines and destroy enemy headquarters. To spearhead the invasion, they have chose Paul from Command Unit 88, also known as Iron Snake. To succeed in his mission, Paul will need all the firepower of the mightiest fighting vehicle, the Iron Tank. Iron Tank is played from an overhead view with a scrolling screen. You need to control the Iron Tank and it's varied weapons and power ups to rescue hostages and defeat enemy forces.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "840537c67fc1ef17ec31b44f7b376da38a7f03898cf60814e951b04b1340d2ec",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1610&media=fanart",
+   "fetched_at": "2026-11-06T23:42:08+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "c9c1948266ebbd0a34b4d045448f70dc31e5ede01afe2c17be97a075f9f835f3",
+   "width": 600,
+   "height": 260,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1610&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T23:42:09+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "47936cf350a5a24c6c029151c846c89097b6ba369e9948afa50c218c4543883b",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1610&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T23:42:11+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "bfa5567dd641449e470fbce2d9983428b259b255e92fb0307bd5c0f4fd1ffacb",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1610&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T23:42:13+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "1a497b55bc639bbe12488e6404d2306f812111b8dee1dd38529f106c01b18123",
+   "width": 256,
+   "height": 240,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1610&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T23:42:14+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9221ab420918f6460e07f8517f5ecc95f42f14d76a96e84cd1833438c3229ca5",
+    "width": 256,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1610&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T23:42:15+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:42:07+00:00",
+ "status": "done"
+}

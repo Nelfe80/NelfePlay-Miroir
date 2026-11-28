@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "rally-2011-led-storm",
+ "title": "Rally 2011 LED Storm",
+ "source": "screenscraper",
+ "ss_game_id": 107246,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 107246,
+  "release_year": 1988,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Led Storm Rally 2011",
+   "genre": "Course, Conduite",
+   "synopsis": "En 2011, la seule manière de voyager rapidement est sur des autoroutes construites très hautes au-dessus du sol. Elles deviennent rapidement populaires auprès des amateurs de sensations fortes, c'est pourquoi vous vous ruez dessus.\r\n\r\nLes routes défilent verticalement, avec quelques virages un peu serrés. Comme dans Spy Hunter, vous avez un mécanisme de saut pour franchir les trous, ou pour écraser les autres maniaques de la route. Vous devez choisir un chemin à des croisements, comme dans Outrun.\r\n\r\nLes routes proposent des bonus comme un bélier pour sortir vos adversaires de la route, ou des boosts d'énergie pour réparer vos dégâts. Si vous sortez de la route, vous devez revenir en dirigeant une grue.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Led Storm Rally 2011",
+   "genre": "Racing, Driving",
+   "synopsis": "By 2011, the only way to travel at top speed is on skyways build high above the ground. These become popular with boy-racers and general speed freaks pretty soon, and that's why you're aiming to hurtle across them in this arcade conversion.\r\n\r\nThe road scrolls vertically, with some moderately sharp bends in a manner similar to Spy Hunter You have a jump device to clear the many jumps, or to land onto and flatten the other maniacs who line the road. You must choose which path to follow at OutRun-style forks in the road.\r\n\r\nThe roads contain bonus tags including bonus points, a battering ram to make contact with other cars more effective, and energy boosts to replenish damage. If you leave the road you must replace your car onto it using a directable winch which appears at the appropriate point.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "800c87dcf35c6b9d0297900ed49e25bfde1c83800bec78f394f5e8c9cdfdef59",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=107246&media=fanart",
+   "fetched_at": "2026-11-07T06:36:18+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "e19e07effd42888822123736c567c1e053725978b7a8abef41958633f7d77d5e",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=107246&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-07T06:36:20+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "1cee726ad1d37ace3f52d9eb4a1509d1da3293498a421f7fb4648456698ca73e",
+   "width": 497,
+   "height": 680,
+   "region": "jp",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=107246&media=box-2D%28jp%29",
+   "fetched_at": "2026-11-07T06:36:21+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "96fd7c543d738291a6299b63df3eecf8fff8f92e739a0cc4ad281f19382aed61",
+   "width": 240,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=107246&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T06:36:23+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a94da9f0de055566c79ce20cb35c4432c2344f4d5fd382669063b78f98d946b8",
+   "width": 850,
+   "height": 1208,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=107246&media=flyer%28wor%29",
+   "fetched_at": "2026-11-07T06:36:24+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a7ea40ae1a24d14e80b6ef51e20797035952ba3b58b86a2d9a25d90859685c7c",
+    "width": 240,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=107246&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T06:36:26+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-07T06:36:17+00:00",
+ "status": "done"
+}

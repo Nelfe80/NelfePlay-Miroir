@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "probotector",
+ "title": "Probotector",
+ "source": "screenscraper",
+ "ss_game_id": 70079,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 70079,
+  "release_year": 1991,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Probotector",
+   "genre": "Tir / Run and Gun",
+   "synopsis": "Probotector (aussi appelé Contra ou Gryzor suivant les supports) est un jeu d'action sur Gameboy. Traversez les différents niveaux en éliminant ennemis et boss tout en évitant de mourir plusieurs fois de suite, sinon l'épuisement de crédits vous fera reprendre tout depuis le début.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Operation C",
+   "genre": "Shooter / Run and Gun",
+   "synopsis": "Red Falcon had devoured a portion of this planet and now the vile Black Viper has come from deep space for seconds. But he hasn't come alone. Viper's transported a battalion of battletron tanks, stealth subs, laser cannons, and annihilating androids. And he's seized a secret naval lab to develop a new breed of supreme alien being. So Scorpion stands alone against biological experiments gone bad like towering tarantulas and venomous vesty flies. His mission: level the lab before Viper transforms earth into an alien nation.\r\n\r\nAlthough he may be a solo commando, Scorpion has an array of devastating weapons at his disposal like a M-90 Shell Shocker, Fire Phazer and Homing Blaster. But it will take more than sheer firepower to survive five new lethal levels of naval ports, forests, caverns and a laboratory filled with genetic mutants. You've got a snowball's chance in Haiti of making it!\r\n\r\nBut that's the way Scorpion likes it!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "bc4ea61eade633301f6530d3f1e6c1b1c51840439226ca126abb62710e9d8989",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70079&media=fanart",
+   "fetched_at": "2026-11-07T20:20:23+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "5310b537b5b0d7faab3189ed183ead4b4ee9561d6327e81ca16a1efffcf0edaf",
+   "width": 400,
+   "height": 157,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70079&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T20:20:24+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "151b898d8888b14abd70f634afa028dda2584bc8ea900a9ef348bc2e18be1050",
+   "width": 700,
+   "height": 700,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70079&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-07T20:20:26+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "17ddf62f3bc4654b2e3fbaa20585730d8b87029473a0cb031b314216351deeee",
+   "width": 600,
+   "height": 678,
+   "region": "de",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70079&media=support-2D%28de%29",
+   "fetched_at": "2026-11-07T20:20:33+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "a2a7d76f18c6fbe002104032fbb0d0b83552a73a2b93d31a80a3556e0572f95e",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70079&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T20:20:33+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "19f4fcb4164fbeeda518aaa0fac39143c711ab4d71a90a2743c6a820e568815d",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=70079&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T20:20:34+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T20:20:22+00:00",
+ "status": "done"
+}

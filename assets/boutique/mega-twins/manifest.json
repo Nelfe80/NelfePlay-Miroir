@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-twins",
+ "title": "Mega Twins",
+ "source": "screenscraper",
+ "ss_game_id": 37371,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37371,
+  "release_year": 1990,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Twins",
+   "genre": "Plateforme / Fighter Scrolling",
+   "synopsis": "Le jeu met en scène deux jumeaux qui tentent de reprendre le contrôle de leur terre, Alurea, après l'attaque inattendue d'un monstre qui détruit tout sur son passage. Les habitants d'Alurea ont vécu en paix pendant un millier d'années et ont oublié comment se battre. Les seuls survivants du pays, les jumeaux fils du roi, doivent relever le défi et redonner à leur royaume sa gloire d'antan. Les deux jumeaux, âgés d'environ 15 ans au moment où le jeu se déroule, s'aventurent à la recherche d'une pierre légendaire connue sous le nom de \"Dragon Blue Eyes\", dont on dit qu'elle est capable de tout remettre en ordre.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Twins",
+   "genre": "Platform / Fighter Scrolling",
+   "synopsis": "The game features two twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory. The two twins, aged around 15 at the time the game takes place, venture forth in search of a legendary stone known as \"Dragon Blue Eyes\", which is rumored to be able to put everything back to rights.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "5961a82fcc57e1166554634760a67755e5b14e503318e322628c36c0b6459a44",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37371&media=fanart",
+   "fetched_at": "2026-11-06T17:19:48+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "59b04d3b160c44d1cb685b25619e04c9b34104d77d3109f8616c0ccdb892e8f3",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37371&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:19:49+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b9e562f055e1fe12ba5dfb1f46656d54f9725afaf20b6d6c9f4dfd63061af66e",
+   "width": 481,
+   "height": 680,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37371&media=box-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:19:51+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ca81836fb4645bb350074219046390a06bbd5b133725549596d28da674200267",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37371&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:19:52+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "16648746fa99ffd4a7ea237c7b326a0eb1be48739c15de02c35d6edeea7825f7",
+   "width": 827,
+   "height": 1169,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37371&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:19:54+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "a31fc09069059b9215ac5e38af0081133f0399e6085297057acd6486876d8f51",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37371&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:19:55+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:19:47+00:00",
+ "status": "done"
+}

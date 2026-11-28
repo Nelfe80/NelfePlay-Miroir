@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "fatal-run",
+ "title": "Fatal Run",
+ "source": "screenscraper",
+ "ss_game_id": 14117,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14117,
+  "release_year": 1990,
+  "publisher": "Atari",
+  "developer": "Sculptured Software",
+  "players": "1",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Fatal Run",
+   "genre": "Course, Conduite",
+   "synopsis": "Fatal Run est un jeu de course paru sur Atari VCS 2600. A bord d'un véhicule ultra-rapide, vous devez délivrer des médicaments dans les différentes villes d'un monde apocalyptique. Sur votre chemin, vous pouvez éliminer vos ennemis à l'aide d'armes variées et améliorer votre véhicule dans les différentes villes que vous traversez.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Fatal Run",
+   "genre": "Racing, Driving",
+   "synopsis": "In this post-apocalyptic driving/racing game you must travel to various towns delivering medicine, while on your way to a missile base which houses a rocket that can save the world.\n \nWhile driving through the 32 levels, you'll meet countless enemies who want to stop you from achieving your goal. Your car boasts many weapons to help you out, including dynamite, rockets, oil slicks, smoke screens, and machine guns. You can also upgrade your vehicle within the city shops. Upgrading your gas tank provides better mileage while upgrading your bumper protects you during collisions.\nA password feature let's you continue where you left off.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "59b65e2aaab7bd19747e5bf21c2813c22a532afa470578de20048160d3fc9725",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14117&media=fanart",
+   "fetched_at": "2026-11-06T16:53:53+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6cb13fb37ea85f4229c0495a39e921c686aa275d95e6fce8a0a2018bf56deabe",
+   "width": 400,
+   "height": 143,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14117&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:53:55+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "696f90e3a975967d86c15fd4e1249213d383c2f17b9282dd45ed2b7c5b7360d5",
+   "width": 498,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14117&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:53:56+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "572d6a5c878f884906f587c41eca9984033abd23d385f76aa984f4eca4387234",
+   "width": 620,
+   "height": 738,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14117&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T16:53:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "55131c45eb1cd7083d99e66624e1fbcd6a29f3342e21cc2c3bba1f342fad80a8",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14117&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:53:59+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "bd254ca94e339fc2d4a40dcbfa8c10b748d7a1ae01d71ea17e398a450f6c54ef",
+    "width": 304,
+    "height": 178,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14117&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:54:01+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:53:52+00:00",
+ "status": "done"
+}

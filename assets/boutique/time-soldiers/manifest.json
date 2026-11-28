@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "time-soldiers",
+ "title": "Time Soldiers",
+ "source": "screenscraper",
+ "ss_game_id": 43622,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 43622,
+  "release_year": 1987,
+  "publisher": "ADK",
+  "developer": "ADK",
+  "players": "1-2",
+  "system_label": "SNK Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Time Soldiers",
+   "genre": "Tir",
+   "synopsis": "Ce jeu culte me rappelle l'age d' or des salles d' arcades...\r\nIl a bien vieilli coté réalisation et etait en outre doté d' un stick pivotable pour diriger la direction du personnage...\r\nL 'ayant récemment testé avec mame , je n' ai pas trouvé de moyen de jouer correctement à cause de cette jouabilité particulière , mais s 'il y a un moyen , je suis prenneur !!!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Time Soldiers",
+   "genre": "Shooter",
+   "synopsis": "Travel throughout various time periods to save your fellow comrades in this vertically scrolling shoot'em up. Collect power-ups to help you defeat a variety of enemies and end-bosses.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4f1bc9c11cc09ee32ecaf656c37fcb9e25c71c3fb8fc2cd69d90c7a36a8831ed",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=fanart",
+   "fetched_at": "2026-11-06T16:02:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "17d404a2d84b9c50d2f318a9cfb2f8caabdd2c10f64751ca8f8667261a992f8d",
+   "width": 400,
+   "height": 72,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:02:46+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "a9123af0ed7829de0c23f6c6934030b79ac8072a2c975e300193c70429993fa0",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:02:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "830a8c445c31830d9306f192f06e4ddd30d7db116a0a9b2f7501ebbc79dc2638",
+   "width": 500,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T16:02:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b4788b9a6aa3409393ddead282edc428afaaeec53a374dcefa2eb580de011ac3",
+   "width": 224,
+   "height": 256,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:02:51+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "a7ed5842f8287ba0008d79ffa2b0142866b812215383864e8f2c27558e35f379",
+   "width": 850,
+   "height": 1128,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T16:02:52+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "cd8e8719768fca03eaa2d278e866411e517f630f4e16369ff3ad1502f8aec0d7",
+    "width": 224,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=154&jeuid=43622&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:02:54+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T16:02:43+00:00",
+ "status": "done"
+}

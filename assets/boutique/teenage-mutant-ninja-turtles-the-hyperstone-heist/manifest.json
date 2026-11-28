@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-the-hyperstone-heist",
+ "title": "Teenage Mutant Ninja Turtles: The Hyperstone Heist",
+ "source": "screenscraper",
+ "ss_game_id": 60,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 60,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles : The Hyperstone Heist",
+   "genre": "Beat'em All",
+   "synopsis": "Teenage Mutant Ninja Turtles : The Hyperstone Heist est un jeu d'action sur Megadrive. Shredder, l'ennemi incontournable des Tortues Ninja, a trouvé le moyen de détruire les bâtiments de la ville, grâce aux pouvoirs de l'HyperStone. Heureusement, Leonardo, Michelangelo, Raphael et Donatello ne l'entendent pas de cette oreille ! Avalez une dernière part de pizza et partez défier le sombre Shredder.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles : The Hyperstone Heist",
+   "genre": "Beat'em Up",
+   "synopsis": "The Turtles' nemesis Shredder has acquired the HyperStone from Dimension X, and is using its powers to shrink down the city buildings. He threatens to take over the world and challenges the Turtles to deny him, and so the turtles head out to beat the guy once more.\n\nA standard Ninja Turtles beat-em-up action game.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f102480b77a47d17515f79f02f92794ae477716e2adca4dd3d3f636096314c4b",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=60&media=fanart",
+   "fetched_at": "2026-11-06T17:28:44+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "845112f4eb7dc08a1eef2d29cd27dfbe71b7687f1c7fe5192f5b48686f99c080",
+   "width": 400,
+   "height": 152,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=60&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:28:45+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "dadab02601b7197c940b1b36f144a96ec7d7662f52589449c856e50d9e29fbb5",
+   "width": 484,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=60&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:28:47+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "304077a6c685b1371ff2c1427a6d076073545f8de9df7c1d30493321762e0671",
+   "width": 600,
+   "height": 407,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=60&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:28:48+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "2a688f106622a9a032cefcaf4f4c3069ac05bb9296ef24bb2a81fd48e81655da",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=60&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:28:49+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "338c298fe3f3729c68457a8a38b24dadd4185e2f14d4f49e4a0dda8fbf994899",
+    "width": 320,
+    "height": 240,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=60&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:28:51+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:28:42+00:00",
+ "status": "done"
+}

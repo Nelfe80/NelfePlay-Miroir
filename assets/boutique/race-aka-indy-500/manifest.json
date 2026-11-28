@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "race-aka-indy-500",
+ "title": "Race (aka Indy 500)",
+ "source": "screenscraper",
+ "ss_game_id": 14080,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14080,
+  "release_year": 1977,
+  "publisher": "Atari",
+  "developer": "Sears",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Indy 500",
+   "genre": "Course, Conduite",
+   "synopsis": "Indy 500 pour Atari VCS 2600 est un jeu de course développé par Atari. Le jeu propose 2 modes : le mode solo ou le mode 2 joueurs. En solo, le but est d'accomplir le plus de tours en 1 minute. En mode 2 joueurs, il faut accomplir 25 tours avant son adversaire. Plusieurs pistes sont disponibles, ainsi que plusieurs options afin de rendre les courses plus intéressantes (piste gelée par exemple).",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Indy 500",
+   "genre": "Racing, Driving",
+   "synopsis": "Indy 500 is a racing game played from a top down point of view. In the one player game, your goal is to complete as many laps as you can in 60 seconds. In the two player game, the first player to complete 25 laps wins! Included are several different race tracks, two difficulty levels, and additional game variations called ice race, tag, and crash 'n score. In ice race, the track is icy causing your car to slide often and making it difficulty to steer.  In tag, one player is \"it\" and needs to tag the other player. For each second you race without being tagged, a point is earned. Lastly, in crash 'n score the goal is to crash into targets which appear on the race track. The first player to crash into the target earns a point, and then a new target will appear elsewhere on the track.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "267509c577dec2ea70bdb57f7cc51a4730c6ee4715335889343b34289e9aaaee",
+   "width": 400,
+   "height": 80,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14080&media=wheel%28wor%29",
+   "fetched_at": "2026-11-07T01:03:55+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "48459cb3f3c45ec9fa4df2fbdf21b7382419bdb4146e32c7d68b3c875414cf47",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14080&media=box-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:57+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "0aeeac211ae1486bffd9a9ef8c4edb83b9ee724147bf1ab937c5303ccabdef83",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14080&media=support-2D%28us%29",
+   "fetched_at": "2026-11-07T01:03:58+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "35294ef7e4ac78c5dc7160c79be188851dd7d4ed6e02e15cada2b830da8d0ccb",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14080&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-07T01:04:00+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "07e251c2633e7877df2541f3ba14111af784798449b34d9dd5fbb7a3ffb79786",
+    "width": 320,
+    "height": 205,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14080&media=ss%28wor%29",
+    "fetched_at": "2026-11-07T01:04:01+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-07T01:03:54+00:00",
+ "status": "done"
+}

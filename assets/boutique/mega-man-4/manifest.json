@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "mega-man-4",
+ "title": "Mega Man 4",
+ "source": "screenscraper",
+ "ss_game_id": 1317,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1317,
+  "release_year": 1992,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Mega Man 4",
+   "genre": "Plateforme / Shooter Scrolling",
+   "synopsis": "Des robots russes en folie!\r\nLa ville avait été paisible pendant toute une année et voici qu'elle est à nouveau la proie d'une terreur robotique!\r\nUn intrigant scientifique, le Dr Cossack vient de débarquer avec huit nouveaux forcenés métalliques plus gros et plus diaboliques que tout ce que le Dr Wily a jamais pu imaginer. Un grand remue-ménage cybernétique se prépare alors que les rues de la cité explosent dans un crépitement de métal en fusion!\r\nArmé du nouveau Mega Buster, Mega Man court, saute, esquive pour se frayer un chemin à travers des labyrinthes de mâchoires métalliques et atteindre la citadelle sibérienne du Dr Cossack pour l'ultime affrontement cataclysmique!",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Mega Man 4",
+   "genre": "Platform / Shooter Scrolling",
+   "synopsis": "In Mega Man 4, Dr. Wily is declared as having been killed by the explosion of Gamma. A year passes and Rock, Roll, and Dr. Light are living in peace. But soon, the peace is broken by a new threat.\n\nA supposed colleague of Dr. Light's, the mysterious Dr. Cossack, has sent out eight of his own Robot Masters to find Mega Man, whom Cossack blames for the kidnapping of his daughter. Mega Man, hoping to clear his name, sets out to find Dr. Cossack, this time armed with a powerful new weapon: the Rock Buster!!\n\nRockman must now battle with Cossack's fiendish Robot Masters and find Cossack's daughter before it's too late!\n\nOriginally for the NES, Mega Man 4 was also released for the PSX in Japan as the fourth installment in the Rockman Complete Works series.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "245112b726a9bc75cae15c89ebd606c3bf8febf854f248cf96d03bdc94cf12e9",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1317&media=fanart",
+   "fetched_at": "2026-11-06T16:06:45+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "6404c933ef36ecceb0657040f260bde55f92d3bf1c32ffcafdbe2a397f85aab2",
+   "width": 600,
+   "height": 100,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1317&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:06:47+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "b01f16fcf0ac600dd1f612bdf65ecc6b4a319c97f668c70c92f7e572af709b8c",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1317&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:06:48+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "ebad8fb42e197f0c5a8ef06e66611ec223eb4b367fb8fdabef45e02a888d6a20",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1317&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:06:50+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "0f7aa8079f434f4f423dfc1a3c4b0e245306cb0ce23c66086644953561cb2e08",
+   "width": 256,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1317&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:06:51+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "8ed57272d8d39b7a1dcbf058d405d028095ba7ab4602d94e2f5275b45ccae1c8",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1317&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:06:53+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:06:45+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "micro-machines-2",
+ "title": "Micro Machines 2: Turbo Tournament",
+ "source": "screenscraper",
+ "ss_game_id": 204,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 204,
+  "release_year": 1994,
+  "publisher": "Codemasters",
+  "developer": "Codemasters",
+  "players": "1-8",
+  "system_label": "Megadrive"
+ },
+ "text": {
+  "fr": {
+   "name": "Micro Machines 2 : Turbo Tournament",
+   "genre": "Course, Conduite",
+   "synopsis": "MicroMachines 2 : Turbo Tournament est un jeu de courses sur Megadrive. La cartouche du jeu met à votre disposition deux ports manettes supplémentaires, ce qui permet à huit joueurs de s'affronter sur le même écran (deux par manette). Le jeu vous met aux volants des fameux bolides miniatures et le but est d'arriver premier en prenant soin de distancer les autres joueurs pour leur faire perdre des points.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Micro Machines 2 : Turbo Tournament",
+   "genre": "Racing, Driving",
+   "synopsis": "The second game of the Micro Machines series. Like in its predecessor, you behind the steering wheel of an extremely small car. You race around on interesting places, like a table, a treehouse and many more. The control of the cars is sometimes quite difficult, especially if you don't know the tracks (the top-down view is not very clear). The CD-ROM version additionally features CD-Audio music and a track editor.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "cfade2e3993da02622491d918360adec587774419cc3e85a5f7aff87f83bf6f5",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=204&media=fanart",
+   "fetched_at": "2026-11-06T23:47:25+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "4438730d51ed30c3e971978e6100ae9d25dc86f29b79a8ee519930590e396748",
+   "width": 600,
+   "height": 300,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=204&media=wheel%28eu%29",
+   "fetched_at": "2026-11-06T23:47:26+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "14267f328aa778cf10fa53e4ff14c5153cc0c5239964e8d1dfe6dc6cb1bd94e5",
+   "width": 484,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=204&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:47:28+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "964e55af9c7d107726c39601c6fb25ab929192bea5938629b8bec688b953bf94",
+   "width": 763,
+   "height": 600,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=204&media=support-2D%28eu%29",
+   "fetched_at": "2026-11-06T23:47:29+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "ac53a2e643208b3719daabd0efeb03d67283ccc53aa8e3e1a0b8ce0266693b3f",
+   "width": 320,
+   "height": 224,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=204&media=sstitle%28eu%29",
+   "fetched_at": "2026-11-06T23:47:30+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "7c6c831fac07d90aaf9e96d5c54b13dff598412e1681d1b59775ce1bc94117eb",
+    "width": 320,
+    "height": 240,
+    "region": "eu",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=1&jeuid=204&media=ss%28eu%29",
+    "fetched_at": "2026-11-06T23:47:32+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T23:47:23+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "missile-command",
+ "title": "Missile Command",
+ "source": "screenscraper",
+ "ss_game_id": 14038,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 14038,
+  "release_year": 1981,
+  "publisher": "Atari",
+  "developer": "Atari",
+  "players": "1-2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Missile Command",
+   "genre": "Tir / Missile Command Like",
+   "synopsis": "Des mystérieux envahisseurs attaquent vos villes ! En tant que commandant d'une base de missiles, il est de votre responsabilité de les défendre. Les ennemis arriveront du ciel pour essayer de détruire les villes en bas de l'écran. Vous devez tirer des missiles éviter les bombardements. Vous disposez d'une quantité limitée de munitions, alors assurez-vous de la précision de vos tirs.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Missile Command",
+   "genre": "Shooter / Missile Command Like",
+   "synopsis": "Aliens from the planet of Krytol are attacking your cities!! As the commander of a missile base, it is your responsibility to defend them. A variety of enemy weapons and planes will be incoming trying to destroy the six cities at the bottom of the screen. You need to fire missiles to destroy the incoming weapons. If anything gets through, one of your cities could be destroyed. When all of the cities are gone, the game is over. On each level you have a limited amount of ammo, so make sure most (if not all) of your shots are accurate or you could run out of ammo and leave your cities at risk! As the levels progress, there are more and more enemy weapons to destroy which come in at an increasingly faster rate.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "ba704ab4c7ac9694a42220ab16556aad14286178f3772f28c61fe46a1e8ef2a0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14038&media=fanart",
+   "fetched_at": "2026-11-06T16:57:01+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "1fe2794b71de54aff94145f2eb3971c8e43a5d887aada6b7e12e61722778cd47",
+   "width": 400,
+   "height": 118,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14038&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T16:57:03+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "91a91918ca0befdf0c315ca7d6d3017f69435ae8da4128c3fcb8f51f86b440d8",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14038&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T16:57:04+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "1575bd1f5db8d809253c5db866804291f50ca172e696a37cd5e84b0c75ee88af",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14038&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T16:57:06+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "f2a8e747a3235b951590986d343c93e11884c5462afe4b95caa7f29e4551e5fa",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14038&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T16:57:07+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "58121304f28e4bdfb6b366cc4800ccea62bc1727506df667bda288a84369f5d0",
+    "width": 320,
+    "height": 256,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=14038&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T16:57:09+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T16:57:01+00:00",
+ "status": "done"
+}

@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-fall-of-the-foot-clan",
+ "title": "Teenage Mutant Ninja Turtles: Fall of the Foot Clan",
+ "source": "screenscraper",
+ "ss_game_id": 3014,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 3014,
+  "release_year": 1990,
+  "publisher": "Konami",
+  "developer": "Ultra Games",
+  "players": "1",
+  "system_label": "Game Boy"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Hero Turtles : Fall of the Foot Clan",
+   "genre": "Plateforme",
+   "synopsis": "Disponible sur Gameboy, Teenage Mutant Ninja Turtles : Fall of the Foot Clan retrace les aventures des mondialement connues Tortues Ninja. A travers 5 niveaux dans lesquels vous devrez résister aux assauts du Clan Foot, vous pourrez choisir la tortue de votre choix pour sauver April O'Neil enlevée par Shredder et Krang.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles : Fall of the Foot Clan",
+   "genre": "Platform",
+   "synopsis": "The Turtles' first Game Boy game is a fairly simple platforming-style game, where Leonardo, Michaelangelo, Raphael, and Donatello must battle against Krang and Shredder and save their friend April O'Neil in the process.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "b43c27ae5117aefdb66f7ace97ea84f990212e123175ef85268978d6626a9f76",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3014&media=fanart",
+   "fetched_at": "2026-11-06T17:29:43+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "d25cefb7f37c4d8acbacef3ea5d629201f78dc13d37e49e1380fe34f11b6b64b",
+   "width": 400,
+   "height": 175,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3014&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:29:44+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "4f8c7411fb5b48bed339dafbe969cc21da4459327ffb40061663ab2bc84b3ad7",
+   "width": 700,
+   "height": 700,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3014&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:29:46+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "506ffac6622b4a3de9a5c7c239ce0867b10e0d6aba9af1f08b028575e6865cf1",
+   "width": 600,
+   "height": 678,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3014&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:29:47+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b0ef5f0c93e452dcd991275dc16a0918a67b9cc9642df166bc978ebb5a8ec0df",
+   "width": 160,
+   "height": 144,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3014&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:29:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "92ea43ad561e0fe237b84b2bc40b1c0f60bc88a8eabf8efa5838728dbc846b12",
+    "width": 160,
+    "height": 144,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=9&jeuid=3014&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:29:50+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:29:42+00:00",
+ "status": "done"
+}

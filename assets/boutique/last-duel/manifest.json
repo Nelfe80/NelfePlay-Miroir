@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "last-duel",
+ "title": "Last Duel",
+ "source": "screenscraper",
+ "ss_game_id": 42109,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 42109,
+  "release_year": 1988,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Classics"
+ },
+ "text": {
+  "fr": {
+   "name": "Last Duel",
+   "genre": "Shoot'em up / Vertical",
+   "synopsis": "Last Duel raconte l'histoire de deux planètes en guerre l'une contre l'autre. Sur la planète Bacula, la tribu Galden a renversé le gouvernement et pris le pouvoir sur le monde entier. Maintenant, ils envahissent la paisible planète Mu et en kidnappant la reine Sheets.\r\nLes habitants de Mu ont décidé d'agir. Ils ont demandé à leurs meilleurs scientifiques de mettre au point une arme capable de vaincre les Galden. Après de longs mois, ils ont pu mettre au point un véhicule d'une immense puissance de feu, capable de sauter dans les airs pour éviter les dangers au sol. En outre, il peut se transformer en un vaisseau aérien dont le but est d'éliminer tout type d'ennemi dans le ciel.\r\nLes joueurs doivent guider leur véhicule à travers six niveaux difficiles tout en détruisant tous les Galden qui se trouvent sur leur chemin. En tirant sur les capsules d'énergie disséminées dans le niveau, le joueur augmente sa puissance de feu.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Last Duel",
+   "genre": "Shoot'em Up / Vertical",
+   "synopsis": "The player alternates between using the car and the spaceship each level. The vehicle has two main attacks, one of which varies depending on the form the vehicle took. In car mode, the vehicle can jump over potholes and enemies. While in ship mode, the vehicle can perform a barrel roll, rendering it temporarily invincible.\r\n\r\nThe player can select power-ups, including a large, slow-firing laser, a double shot, a wide shot, and options that provided side attacks. Boosts were only available in ship mode. Each driving section is timed, and if the player fails to reach the boss in time, they will lose a life. However, once the player encounters the boss, the timer will be removed.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "f0f55fa43ab583048194f84c6da968e454c4e5cc6b88b14acbbc81f336496aab",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42109&media=fanart",
+   "fetched_at": "2026-11-06T17:23:59+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "421878d6daa781f0ebe5fbd1f4a94a568dc83cfa335727ace43463289dc2157e",
+   "width": 550,
+   "height": 198,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42109&media=wheel-hd%28wor%29",
+   "fetched_at": "2026-11-06T17:24:01+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "72c040efb1b847f8020085d7a87b8ed2c3065637d6723dcf1bf08e5d0d5ea9ec",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42109&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:24:03+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "7471c180d1672e8f4e01939574ad2f2b24e5943b1221162d683db349f46c6b8f",
+   "width": 240,
+   "height": 384,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42109&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:24:04+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "8e14f0d2d6e58752a1019e504b83c52ebc4305d9fded96415645c0b2d7dc5998",
+   "width": 850,
+   "height": 1105,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42109&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:24:06+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "84edcb7e406f2d2897a5cd43631cdebb02d9c04b0aab800394d2b1db257264e5",
+    "width": 240,
+    "height": 384,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=151&jeuid=42109&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:24:07+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "support-2d"
+ ],
+ "fetched_at": "2026-11-06T17:23:58+00:00",
+ "status": "done"
+}

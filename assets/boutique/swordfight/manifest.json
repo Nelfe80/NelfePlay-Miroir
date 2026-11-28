@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "slug": "swordfight",
+ "title": "Swordfight",
+ "source": "screenscraper",
+ "ss_game_id": 37865,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37865,
+  "release_year": 1983,
+  "publisher": "M Network",
+  "developer": "Mattel Electronics",
+  "players": "2",
+  "system_label": "Atari 2600"
+ },
+ "text": {
+  "fr": {
+   "name": "Swordfight",
+   "genre": "",
+   "synopsis": "En garde ! Attaquer, feinter, bloquer, frapper !\r\n\r\nIl s'agit d'un combat à l'épée en un contre un pour deux joueurs seulement. Appuyez sur le bouton pour faire des sauts et déplacez le joystick pour balancer l'épée et bloquer. Votre épée est manifestement inspirée d'un sabre laser d'après la façon dont la lame s'étend et les effets sonores.",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Swordfight",
+   "genre": "",
+   "synopsis": "En garde! Attack, feint, block, strike!\n\nThis is a one-on-one sword fight for two players only. Press the button to skip in and out and move the joystick to swing the sword and block. Your sword is obviously based on a lightsaber from the way the blade extends and the sound effects.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "86c05ba02db913180ba3995d7bc368b3d24aaa846bfcdc96bf2ff3a6aded7d8c",
+   "width": 400,
+   "height": 57,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37865&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:06:43+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "12dde9716811cd1829575c4424c27b23c6d731903bc29b6c9f88ed8267856e25",
+   "width": 498,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37865&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:45+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "065f3289e4ae6b97a9a7f5141f4cc7e149324e95e6fc9385774c014b446216af",
+   "width": 620,
+   "height": 738,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37865&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:06:46+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.webp",
+   "sha256": "63621aabf64da266930b14b97aed47f32aca048656eff3a29a54f4c3cd94b766",
+   "width": 640,
+   "height": 480,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37865&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:06:48+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "9ac857758c828cb9c2743c140b7fb2ed5d5d10a5d403ffb7eb66326ed350513a",
+    "width": 640,
+    "height": 480,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=26&jeuid=37865&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:06:49+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "fanart",
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:06:43+00:00",
+ "status": "done"
+}

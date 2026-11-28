@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "slug": "forgotten-worlds",
+ "title": "Forgotten Worlds",
+ "source": "screenscraper",
+ "ss_game_id": 37363,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 37363,
+  "release_year": 1988,
+  "publisher": "Capcom",
+  "developer": "Capcom",
+  "players": "1-2",
+  "system_label": "Capcom Play System"
+ },
+ "text": {
+  "fr": {
+   "name": "Forgotten Worlds",
+   "genre": "Shoot'em Up",
+   "synopsis": "La planète était belle, avec des villes magnifiques et des campagnes resplendissantes. Jusqu'à ce que les aliens attaquent ! Avec le feu, les bombes et le napalm, ils ont dévasté le monde ! Ils ont rendu la planète si abominable qu'elle est devenue un paria dans l'univers - le Monde Oublié. Jusqu'à ce que toi, le Sans Nom, tu apparaisses. Tu es un super guerrier d'une puissance et d'une énergie incroyables. Tu te donnes pour mission de reconquérir le paneton pour ses propriétaires légitimes - les êtres humains !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Forgotten Worlds",
+   "genre": "Shoot'em Up",
+   "synopsis": "The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "58778edb5ad947bff9084b690b9e038139697d654eed5abee83899d782d06dc0",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=fanart",
+   "fetched_at": "2026-11-06T17:18:04+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "39ff1038315c1fbe09fdd625eaa95a1a42faec4eeb635e8bbf7e3097a7b920f5",
+   "width": 600,
+   "height": 300,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=wheel%28wor%29",
+   "fetched_at": "2026-11-06T17:18:05+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "ed511830389f1e211cbbd18ab43c7d684de439117ba24182974f238d97de7047",
+   "width": 497,
+   "height": 680,
+   "region": "eu",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=box-2D%28eu%29",
+   "fetched_at": "2026-11-06T17:18:07+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "b5ec2a820aacb78f657edcc8f9b4be7be2f5d6a61ed2a05b04d3046f1874cda4",
+   "width": 455,
+   "height": 1000,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=support-2D%28wor%29",
+   "fetched_at": "2026-11-06T17:18:09+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "4d2762721a5fb086265b399c647bb611f2c8538d370be39280360b5cd57ab535",
+   "width": 384,
+   "height": 224,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=sstitle%28wor%29",
+   "fetched_at": "2026-11-06T17:18:10+00:00"
+  },
+  "flyer": {
+   "file": "flyer.webp",
+   "sha256": "77ce3f31bfad8c7ddf1372bf55078b866f89daf3480a199918aadb6ff88d0067",
+   "width": 850,
+   "height": 1142,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=flyer%28wor%29",
+   "fetched_at": "2026-11-06T17:18:12+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "70f2cbac9fc83b61277cf29c19d211a43c7b327093e046980a537ed9ca416021",
+    "width": 384,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=6&jeuid=37363&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:18:13+00:00"
+   }
+  ]
+ },
+ "absent": [],
+ "fetched_at": "2026-11-06T17:18:04+00:00",
+ "status": "done"
+}

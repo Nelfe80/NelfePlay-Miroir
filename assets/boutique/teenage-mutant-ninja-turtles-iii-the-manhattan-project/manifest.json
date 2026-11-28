@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "slug": "teenage-mutant-ninja-turtles-iii-the-manhattan-project",
+ "title": "Teenage Mutant Ninja Turtles III: The Manhattan Project",
+ "source": "screenscraper",
+ "ss_game_id": 1347,
+ "credit": "ScreenScraper.fr",
+ "facts": {
+  "ss_game_id": 1347,
+  "release_year": 1992,
+  "publisher": "Konami",
+  "developer": "Konami",
+  "players": "1-2",
+  "system_label": "NES"
+ },
+ "text": {
+  "fr": {
+   "name": "Teenage Mutant Ninja Turtles III : The Manhattan Project",
+   "genre": "Beat'em All",
+   "synopsis": "Le jeu d'action TMNT 3 : The Manhattan Project est la suite du jeu TMNT 2 : The Arcade Game, sorti également sur Nes en 1989. La reporter April O'Neil a une nouvelle fois été enlevée par l'infâme Shredder, mais ce dernier révèle aux Tortues Ninja qu'il a transformé Manhattan en île flottante. A vous de l'arrêter en repoussant les assauts ennemis des 8 niveaux du jeu et de sauver April !",
+   "synopsis_lang": "fr"
+  },
+  "en": {
+   "name": "Teenage Mutant Ninja Turtles III : The Manhattan Project",
+   "genre": "Beat'em Up",
+   "synopsis": "This was the last side-scrolling Teenage Mutant Ninja Turtles game for NES. It followed the highly acclaimed Turtles II over a year later and, unlike its predecessor, doesn't have an Arcade counterpart.\n\nThe third game in the series is basically the same as the second. The story and the stages are different, of course, but it doesn't really matter. Choose your favourite turtle and kill as many Foot Clan soldiers as you can, fight the bosses and reach Shredder in a Double Dragon-styled game.\n\nThe graphics and gameplay were improved. And, if the choice of the turtle depended only on personal taste in the second game (as they were all the same, in different colors), in this third episode they gained individual special moves.",
+   "synopsis_lang": "en"
+  }
+ },
+ "media": {
+  "fanart": {
+   "file": "fanart.webp",
+   "sha256": "4f376cf87b19f395c042ae6b71cf00b75e5ea18e4c21679e7a6395369d8c8db6",
+   "width": 1920,
+   "height": 1080,
+   "region": "wor",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1347&media=fanart",
+   "fetched_at": "2026-11-06T17:26:57+00:00"
+  },
+  "wheel": {
+   "file": "wheel.webp",
+   "sha256": "3428746b5849259e33eb74bbf3a467a1bc971deae8ac309e44e28075fd2a5bf7",
+   "width": 600,
+   "height": 300,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1347&media=wheel%28us%29",
+   "fetched_at": "2026-11-06T17:26:59+00:00"
+  },
+  "box-2d": {
+   "file": "box2d.webp",
+   "sha256": "dbd626a031e4241e6dcfb552f5dfa5e8cbbcc81757ee216d4508a36cf9971c20",
+   "width": 497,
+   "height": 680,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1347&media=box-2D%28us%29",
+   "fetched_at": "2026-11-06T17:27:01+00:00"
+  },
+  "support-2d": {
+   "file": "support2d.webp",
+   "sha256": "159fb00adb6dc775394e06e188844bb8fbd5117df3d1c4fc11a94b57f808c089",
+   "width": 543,
+   "height": 600,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1347&media=support-2D%28us%29",
+   "fetched_at": "2026-11-06T17:27:02+00:00"
+  },
+  "sstitle": {
+   "file": "sstitle.png",
+   "sha256": "b31f1fd6eec012b4ebf530df22f1d7c2e3529c89235fb4a1b3c110a006000b2d",
+   "width": 256,
+   "height": 224,
+   "region": "us",
+   "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1347&media=sstitle%28us%29",
+   "fetched_at": "2026-11-06T17:27:03+00:00"
+  },
+  "ss": [
+   {
+    "file": "ss1.png",
+    "sha256": "5b729a356c698bf7c30ab55ba98e1cd1819674bd7f0ea683cef3180362db3f7d",
+    "width": 256,
+    "height": 224,
+    "region": "wor",
+    "ref": "https://neoclone.screenscraper.fr/api2/mediaJeu.php?systemeid=3&jeuid=1347&media=ss%28wor%29",
+    "fetched_at": "2026-11-06T17:27:05+00:00"
+   }
+  ]
+ },
+ "absent": [
+  "flyer"
+ ],
+ "fetched_at": "2026-11-06T17:26:56+00:00",
+ "status": "done"
+}
